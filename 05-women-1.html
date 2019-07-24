@@ -1,0 +1,288 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Women 1 - Vinaya Class</title>
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="affix"><a href="00-introduction.html">Introduction</a></li><li><a href="01-killing-and-harming.html"><strong aria-hidden="true">1.</strong> Killing and Harming</a></li><li><a href="02-stealing.html"><strong aria-hidden="true">2.</strong> Stealing</a></li><li><a href="03-sexual-conduct.html"><strong aria-hidden="true">3.</strong> Sexual Conduct</a></li><li><a href="04-lustful-conduct.html"><strong aria-hidden="true">4.</strong> Lustful Conduct</a></li><li><a href="05-women-1.html" class="active"><strong aria-hidden="true">5.</strong> Women 1</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">Vinaya Class</h1>
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#women-1" id="women-1">Women 1</a></h1>
+<ul>
+<li><strong>Sg 5,</strong> Conveying romantic messages</li>
+<li><strong>Pc 6,</strong> Lying down with a woman</li>
+<li><strong>Pc 44,</strong> Private secluded place</li>
+<li><strong>Pc 45,</strong> Unsecluded but private place</li>
+<li><strong>Pc 67,</strong> Travelling by arrangement with a woman</li>
+</ul>
+<h2><a class="header" href="#sg-5-conveying-romantic-messages" id="sg-5-conveying-romantic-messages">Sg 5, Conveying romantic messages</a></h2>
+<p>Only two factors: effort and object.</p>
+<p><strong>Effort:</strong> 'Conveying' messages for any romantic purpose from a
+momentary date to a wedding. Not business meetings.</p>
+<p>Three stages:</p>
+<ul>
+<li><em>accepting</em> the request to convey a message</li>
+<li><em>inquiring</em> at the second party</li>
+<li><em>reporting</em> the response</li>
+</ul>
+<p>Dukkata for any single stage, thullacaya for any two, sanghadisesa for
+all three.</p>
+<p>Carrying a letter without knowing the content doesn't fulfill effort.</p>
+<p><strong>Object:</strong> A man and a women who are not married to each other, even if
+dealing with them via other people.</p>
+<p>Reconciling a still married couple is not an offense. Reconciling a
+divorced couple is sanghadisesa.</p>
+<p><strong>Non-offenses:</strong> messages about non-romantic errands, e.g. community
+business, a shrine, a sick person.</p>
+<h2><a class="header" href="#pc-6-lying-down-with-a-woman" id="pc-6-lying-down-with-a-woman">Pc 6, Lying down with a woman</a></h2>
+<p><strong>Object:</strong> Female human being, even a baby, one's relative or not.</p>
+<p><strong>Effort:</strong> in the instant one lies down in the same dwelling when a
+woman is lying down.</p>
+<p>Same dwelling: one &quot;enclosure&quot;. Technically the same walls and roof, but
+one may consider variations (private hospital rooms).</p>
+<p>Intention is not a factor, pacittiya even if the bhikkhu doesn't know
+about the woman.</p>
+<p>Purpose: to avoid situations where people might think that one may have
+commited serious offenses. Other people might see the situation and
+rumors would be damaging.</p>
+<p>Non-offenses for roofed but no walls (pavilion) or walled but not roofed
+(corral), but a good idea to avoid nonetheless.</p>
+<!-- latex
+\clearpage
+-->
+<h2><a class="header" href="#pc-44-private-secluded-place" id="pc-44-private-secluded-place">Pc 44, Private secluded place</a></h2>
+<p>The bhikkhu sits with a woman at a secluded place, private to the eye
+and ear, without another man present, aiming at privacy.</p>
+<p>No offence if the woman entered the room later, and he didn't notice.</p>
+<h2><a class="header" href="#pc-45-unsecluded-but-private-place" id="pc-45-unsecluded-but-private-place">Pc 45, Unsecluded but private place</a></h2>
+<p>The bhikkhu sits with a woman at a private, but not secluded place, such
+as an empty park, without another <em>person</em> present.</p>
+<h2><a class="header" href="#pc-67-travelling-by-arrangement-with-a-woman" id="pc-67-travelling-by-arrangement-with-a-woman">Pc 67, Travelling by arrangement with a woman</a></h2>
+<p>Origin: a woman hears that a monk is going to a village and goes with
+him. Later, the woman's husband heard about it and gave him a beating.</p>
+<p>Purpose: to avoid people assuming the bhikkhu having an affair with the
+woman.</p>
+<p><strong>Object:</strong> Any woman who knows what is lewd.</p>
+<p><strong>Perception</strong> is not a factor.</p>
+<p><strong>Effort:</strong></p>
+<ol>
+<li>having made an arrangement to travel together</li>
+<li>they travel as arranged
+<ul>
+<li>time frame as arranged</li>
+<li>route or place of departure doesn't count</li>
+</ul>
+</li>
+<li>from one village to another (half-yojana, 8km)</li>
+</ol>
+<p><strong>Making an arrangement:</strong> both gives verbal or written assent to the
+arrangement.</p>
+<p>Giving assent in silence is not an offense.</p>
+<ul>
+<li>if the women doesn't respond: <em>dukkata</em></li>
+<li>if the bhikkhu doesn't respond: no offense</li>
+</ul>
+<h3><a class="header" href="#non-offenses" id="non-offenses">Non-offenses</a></h3>
+<ul>
+<li>coincidence: they happen to travel together</li>
+<li>the woman proposes the arrangement, and the bhikkhu doesn't give
+<em>verbal</em> assent</li>
+<li>leaving at a significantly different time than as arranged</li>
+<li>there are dangers</li>
+</ul>
+<h3><a class="header" href="#cases" id="cases">Cases</a></h3>
+<ul>
+<li>public transport</li>
+<li>private transport (Pc 44)</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+                            <a rel="prev" href="04-lustful-conduct.html" class="mobile-nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                                <i class="fa fa-angle-left"></i>
+                            </a>
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+                    <a href="04-lustful-conduct.html" class="nav-chapters previous" title="Previous chapter" aria-label="Previous chapter" aria-keyshortcuts="Left">
+                        <i class="fa fa-angle-left"></i>
+                    </a>
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+
+    </body>
+</html>

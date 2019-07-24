@@ -1,0 +1,671 @@
+<!DOCTYPE HTML>
+<html lang="en" class="sidebar-visible no-js">
+    <head>
+        <!-- Book generated using mdBook -->
+        <meta charset="UTF-8">
+        <title>Vinaya Class</title>
+        
+        <meta name="robots" content="noindex" />
+        
+
+        <meta content="text/html; charset=utf-8" http-equiv="Content-Type">
+        <meta name="description" content="">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="theme-color" content="#ffffff" />
+
+        <link rel="shortcut icon" href="favicon.png">
+        <link rel="stylesheet" href="css/variables.css">
+        <link rel="stylesheet" href="css/general.css">
+        <link rel="stylesheet" href="css/chrome.css">
+        <link rel="stylesheet" href="css/print.css" media="print">
+
+        <!-- Fonts -->
+        <link rel="stylesheet" href="FontAwesome/css/font-awesome.css">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
+        <link href="https://fonts.googleapis.com/css?family=Source+Code+Pro:500" rel="stylesheet" type="text/css">
+
+        <!-- Highlight.js Stylesheets -->
+        <link rel="stylesheet" href="highlight.css">
+        <link rel="stylesheet" href="tomorrow-night.css">
+        <link rel="stylesheet" href="ayu-highlight.css">
+
+        <!-- Custom theme stylesheets -->
+        
+
+        
+    </head>
+    <body class="light">
+        <!-- Provide site root to javascript -->
+        <script type="text/javascript">
+            var path_to_root = "";
+            var default_theme = "light";
+        </script>
+
+        <!-- Work around some values being stored in localStorage wrapped in quotes -->
+        <script type="text/javascript">
+            try {
+                var theme = localStorage.getItem('mdbook-theme');
+                var sidebar = localStorage.getItem('mdbook-sidebar');
+
+                if (theme.startsWith('"') && theme.endsWith('"')) {
+                    localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
+                }
+
+                if (sidebar.startsWith('"') && sidebar.endsWith('"')) {
+                    localStorage.setItem('mdbook-sidebar', sidebar.slice(1, sidebar.length - 1));
+                }
+            } catch (e) { }
+        </script>
+
+        <!-- Set the theme before any content is loaded, prevents flash -->
+        <script type="text/javascript">
+            var theme;
+            try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
+            if (theme === null || theme === undefined) { theme = default_theme; }
+            document.body.className = theme;
+            document.querySelector('html').className = theme + ' js';
+        </script>
+
+        <!-- Hide / unhide sidebar before it is displayed -->
+        <script type="text/javascript">
+            var html = document.querySelector('html');
+            var sidebar = 'hidden';
+            if (document.body.clientWidth >= 1080) {
+                try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
+                sidebar = sidebar || 'visible';
+            }
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
+        </script>
+
+        <nav id="sidebar" class="sidebar" aria-label="Table of contents">
+            <div class="sidebar-scrollbox">
+                <ol class="chapter"><li class="affix"><a href="00-introduction.html">Introduction</a></li><li><a href="01-killing-and-harming.html"><strong aria-hidden="true">1.</strong> Killing and Harming</a></li><li><a href="02-stealing.html"><strong aria-hidden="true">2.</strong> Stealing</a></li><li><a href="03-sexual-conduct.html"><strong aria-hidden="true">3.</strong> Sexual Conduct</a></li><li><a href="04-lustful-conduct.html"><strong aria-hidden="true">4.</strong> Lustful Conduct</a></li><li><a href="05-women-1.html"><strong aria-hidden="true">5.</strong> Women 1</a></li></ol>
+            </div>
+            <div id="sidebar-resize-handle" class="sidebar-resize-handle"></div>
+        </nav>
+
+        <div id="page-wrapper" class="page-wrapper">
+
+            <div class="page">
+                
+                <div id="menu-bar" class="menu-bar">
+                    <div id="menu-bar-sticky-container">
+                        <div class="left-buttons">
+                            <button id="sidebar-toggle" class="icon-button" type="button" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
+                                <i class="fa fa-bars"></i>
+                            </button>
+                            <button id="theme-toggle" class="icon-button" type="button" title="Change theme" aria-label="Change theme" aria-haspopup="true" aria-expanded="false" aria-controls="theme-list">
+                                <i class="fa fa-paint-brush"></i>
+                            </button>
+                            <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                                <li role="none"><button role="menuitem" class="theme" id="light">Light (default)</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="navy">Navy</button></li>
+                                <li role="none"><button role="menuitem" class="theme" id="ayu">Ayu</button></li>
+                            </ul>
+                            
+                            <button id="search-toggle" class="icon-button" type="button" title="Search. (Shortkey: s)" aria-label="Toggle Searchbar" aria-expanded="false" aria-keyshortcuts="S" aria-controls="searchbar">
+                                <i class="fa fa-search"></i>
+                            </button>
+                            
+                        </div>
+
+                        <h1 class="menu-title">Vinaya Class</h1>
+
+                        <div class="right-buttons">
+                            <a href="print.html" title="Print this book" aria-label="Print this book">
+                                <i id="print-button" class="fa fa-print"></i>
+                            </a>
+                            
+                        </div>
+                    </div>
+                </div>
+
+                
+                <div id="search-wrapper" class="hidden">
+                    <form id="searchbar-outer" class="searchbar-outer">
+                        <input type="search" name="search" id="searchbar" name="searchbar" placeholder="Search this book ..." aria-controls="searchresults-outer" aria-describedby="searchresults-header">
+                    </form>
+                    <div id="searchresults-outer" class="searchresults-outer hidden">
+                        <div id="searchresults-header" class="searchresults-header"></div>
+                        <ul id="searchresults">
+                        </ul>
+                    </div>
+                </div>
+                
+
+                <!-- Apply ARIA attributes after the sidebar and the sidebar toggle button are added to the DOM -->
+                <script type="text/javascript">
+                    document.getElementById('sidebar-toggle').setAttribute('aria-expanded', sidebar === 'visible');
+                    document.getElementById('sidebar').setAttribute('aria-hidden', sidebar !== 'visible');
+                    Array.from(document.querySelectorAll('#sidebar a')).forEach(function(link) {
+                        link.setAttribute('tabIndex', sidebar === 'visible' ? 0 : -1);
+                    });
+                </script>
+
+                <div id="content" class="content">
+                    <main>
+                        <h1><a class="header" href="#introduction" id="introduction">Introduction</a></h1>
+<ul>
+<li>Pāṭimokkha: 227 rules, 4 entails automatic expulsion (defeat)</li>
+<li>They contain moral principles, sense restraint, situational
+protocols, etiquette</li>
+<li>No physical punishment but procedures, forfeit, confession</li>
+<li>The Buddha established the rules one at a time</li>
+<li>Dhamma-Vinaya, Teaching and Discipline</li>
+<li>Each rule includes its origin story, amendments and exceptions</li>
+<li>5 factors: object, effort, intention, perception, result</li>
+<li>Blanket exemptions: insane, possessed by spirits, delirious with
+pain, the first offender</li>
+<li>Common non-offences: unknowingly, unthinkingly, unintentionally</li>
+<li>4 Great Standards to judge modern cases</li>
+<li>Min. 4 bhikkhus for Sangha actions and decisons</li>
+<li>Ordination requires min. 5 bhikkhus</li>
+<li>Disrobe at free will but follow the correct procedure</li>
+<li>'Kor wat' house-rules per monastery</li>
+<li>International agreements (Mahathera Samakorn, ECM)</li>
+</ul>
+<!-- latex
+\begin{multicols}{2}
+-->
+<p>The ten reasons for the establishing of the Pāṭimokkha:</p>
+<ol>
+<li>&quot;For the excellence of the Sangha;</li>
+<li>for the wellbeing of the Sangha;</li>
+<li>for the control of ill-controlled bhikkhus;</li>
+<li>for the comfort of wellbehaved bhikkhus;</li>
+<li>for the restraint of the <em>āsavā</em> in this present state;</li>
+<li>for protection against the <em>āsavā</em> in a future state;</li>
+<li>to give confidence to those of little faith;</li>
+<li>to increase the confidence of the faithful;</li>
+<li>to establish the True Dhamma;</li>
+<li>to support the Vinaya.&quot;</li>
+</ol>
+<p>(Vin.III.20; A.V.70)</p>
+<!-- latex
+\columnbreak
+-->
+<p>Four things not to be done, <em>akaraṇīya</em>:</p>
+<ol>
+<li>sexual intercourse: as a man with his head cut off cannot live</li>
+<li>theft: as a withered leaf separated from its stalk cannot become
+green again</li>
+<li>depriving a human being of life: as a flat stone, broken in half,
+cannot be put together again</li>
+<li>claiming false attainments: as a palm tree, cut off at the crown, is
+incapable of further growth</li>
+</ol>
+<p>(Vin.I.96-97)</p>
+<!-- latex
+\end{multicols}
+
+\clearpage
+-->
+<p><img src="./includes/introduction.png" alt="Introduction" /></p>
+<h2><a class="header" href="#the-four-great-standards" id="the-four-great-standards">The Four Great Standards</a></h2>
+<!-- latex
+\begin{multicols}{2}
+-->
+<p>Not already prohibited:<br />
+<strong>if</strong> it conforms with what is prohibited,<br />
+<strong>or</strong> it goes against what is allowable,<br />
+that is <strong>prohibited</strong>.</p>
+<p>Not already prohibited:<br />
+<strong>if</strong> it conforms with what is allowable,<br />
+<strong>or</strong> it goes against what is prohibited,<br />
+that is <strong>allowable</strong>.</p>
+<!-- latex
+\columnbreak
+-->
+<p>Not already allowed:<br />
+<strong>if</strong> it conforms with what is prohibited,<br />
+<strong>or</strong> it goes against what is allowable,<br />
+that is <strong>prohibited</strong>.</p>
+<p>Not already allowed:<br />
+<strong>if</strong> it conforms with what is allowable,<br />
+<strong>or</strong> it goes against what is prohibited,<br />
+that is <strong>allowable</strong>.</p>
+<!-- latex
+\end{multicols}
+-->
+<p>(Mv.VI.40.1)</p>
+<h1><a class="header" href="#killing-and-harming" id="killing-and-harming">Killing and Harming</a></h1>
+<p>Pr 3
+:   Killing a human being</p>
+<p>Pc 61
+:   Killing an animal</p>
+<p>Pc 20
+:   Pouring water containing living beings</p>
+<p>Pc 62
+:   Drinking water containing living beings</p>
+<p>Pc 10
+:   Digging soil</p>
+<p>Pc 11
+:   Damaging living plants or seeds</p>
+<h2><a class="header" href="#pr-3-killing-a-human-being" id="pr-3-killing-a-human-being">Pr 3, Killing a human being</a></h2>
+<p><img src="./includes/pr-3.png" alt="Pr-3" /></p>
+<p><strong>Origin:</strong> bhikkhus develop aversion to the body and kill themselves or
+ask an assassin to kill them.</p>
+<p>Recommending euthanasia can be <strong>parajika</strong> if the instruction is
+followed.</p>
+<h2><a class="header" href="#pc-61-killing-an-animal" id="pc-61-killing-an-animal">Pc 61, Killing an animal</a></h2>
+<p>Giving an order fulfils effort. Result is a factor.</p>
+<p>Doesn't include animals smaller than visible to the naked eye. Doesn't
+include accidents (sweeping).</p>
+<h2><a class="header" href="#pc-20-pouring-water-containing-living-beings" id="pc-20-pouring-water-containing-living-beings">Pc 20, Pouring water containing living beings</a></h2>
+<p>Knowing they will die from pouring it. It can also include knowingly
+adding poisonous substances.</p>
+<p>Giving an order fulfils effort.</p>
+<p>Result is not a factor. Doesn't include accidents.</p>
+<p>Can't water plants if one plans to eat its fruit, but may indicate it
+for others.</p>
+<h2><a class="header" href="#pc-62-drinking-water-containing-living-beings" id="pc-62-drinking-water-containing-living-beings">Pc 62, Drinking water containing living beings</a></h2>
+<p>Knowing they will die from drinking it, even accidentally.</p>
+<p>Using water strainers or robe. Determining a corner of the sanghati as a
+water-filter.</p>
+<p>Result is not a factor.</p>
+<h2><a class="header" href="#pc-10-digging-soil" id="pc-10-digging-soil">Pc 10, Digging soil</a></h2>
+<!-- latex
+\begin{multicols}{2}
+-->
+<p><strong>Origin:</strong> relates to the ancient belief that soil is alive, and loses
+life when dug up.</p>
+<p><strong>Object:</strong> 'genuine' soil.</p>
+<p><em>Not</em> genuine soil:</p>
+<ul>
+<li>pure or mostly rock, stones, gravel, sand</li>
+<li>burnt or already dug up soil</li>
+<li>until rained on for four months</li>
+<li>dust from wind erosion</li>
+</ul>
+<p><strong>Effort:</strong> Digging, burning, making a hole, or giving command to do it.</p>
+<p>Putting tent pegs in the ground is to be confessed.</p>
+<!-- latex
+\columnbreak
+-->
+<p><strong>Non-offenses:</strong></p>
+<ul>
+<li>unknowingly, unthinkingly, unintentionally</li>
+<li>indicating a general need or task</li>
+<li>digging a trapped person or animal out</li>
+</ul>
+<p>Allowance to indicate a need or general task to a lay person by &quot;wording
+it right.&quot;</p>
+<p>The expression <em>kappiya-vohāra</em> (&quot;allowable expression,&quot; or &quot;wording it
+right&quot;) is used where an express command would be an offense, but an
+indication of a desire or intent would not.</p>
+<!-- latex
+\end{multicols}
+-->
+<h2><a class="header" href="#pc-11-damaging-living-plants-or-seeds" id="pc-11-damaging-living-plants-or-seeds">Pc 11, Damaging living plants or seeds</a></h2>
+<!-- latex
+\begin{multicols}{2}
+-->
+<p><strong>Origin:</strong> a bhikkhu cuts down a tree where a deva was living. The rule
+is formed later, when people complained of the bhikkhus mistreating
+one-facultied life.</p>
+<p><strong>Object:</strong> Living plant or seed. Lower plant life (i.e. mold, algae,
+fungi) is not included.</p>
+<p><strong>Effort:</strong> cutting, breaking, cooking, or getting others to do it.</p>
+<p><strong>Fruit with seeds:</strong> allowance to make allowable (kappiyam). Fruit can
+be kappied in one &quot;heap&quot;.</p>
+<p>To 'kappi' fruit is about the feelings of the donor, not killing the
+fruit or transfering kamma.</p>
+<p>Knowingly eating un-kappied seeds is dukkata.</p>
+<p><strong>Non-offenses:</strong></p>
+<ul>
+<li>unknowingly, unthinkingly, unintentionally</li>
+<li>asking a lay person for flowers etc. in general, or indicating a
+general task</li>
+<li>can cut a trapped person or animal out</li>
+<li>counter-fire</li>
+</ul>
+<p><strong>Note:</strong> Pc 10 and Pc 11 prevents bhikkhus from engaging in
+agriculture, which is probably part of the intended results, although
+not their direct origin.</p>
+<!-- latex
+\end{multicols}
+-->
+<h1><a class="header" href="#stealing" id="stealing">Stealing</a></h1>
+<ul>
+<li><strong>Pr 2,</strong> Stealing</li>
+<li><strong>NP 25,</strong> Snatching back robe</li>
+<li><strong>Pc 59,</strong> Using cloth or bowl under shared ownership</li>
+</ul>
+<h2><a class="header" href="#pr-2-stealing" id="pr-2-stealing">Pr 2, Stealing</a></h2>
+<p>See maps <em>Pr 2</em> and <em>Pr 2 -- Effort</em>.</p>
+<h2><a class="header" href="#np-25-snatching-back-robe" id="np-25-snatching-back-robe">NP 25, Snatching back robe</a></h2>
+<p><strong>Object:</strong> a piece of robe-cloth, at least 4x8 fingerbreadth.</p>
+<p><strong>Perception:</strong> one still considers the robe as one's own, otherwise it
+could be <em>parajika</em>.</p>
+<p><strong>Intention:</strong> impelled by anger or displeasure. Taking it on trust is
+not an offense.</p>
+<p><strong>Effort:</strong> snatching back or having someone to snatch it back.</p>
+<p>Dukkata for:</p>
+<ul>
+<li>giving the command</li>
+<li>other than cloth</li>
+<li>snatching from a <em>non-bhikkhu</em></li>
+<li>hinting with anger</li>
+</ul>
+<p><strong>Non-offenses:</strong></p>
+<ul>
+<li>recipient returns the robe on his own accord</li>
+<li>donor takes it back on trust</li>
+<li>hinting without anger</li>
+</ul>
+<h2><a class="header" href="#pc-59-using-cloth-or-bowl-under-shared-ownership" id="pc-59-using-cloth-or-bowl-under-shared-ownership">Pc 59, Using cloth or bowl under shared ownership</a></h2>
+<p><em>Vikappana</em> is an arrangement whereby a bhikkhu places robe or cloth
+under shared ownership so that it may be stored for any length of time.</p>
+<p>If the bhikkhu simply gives the robe back to the stores, he has given up
+ownership of it and another bhikkhu would be free to take it.</p>
+<p><em>Vikkappana</em> allows a bhikkhu to determine a smaller sanghati while
+travelling, but not entirely giving up his regular sanghati.</p>
+<p><strong>Object:</strong> robe-cloth, min. 4x8 fingerbreadths, that one has placed
+under shared ownership.</p>
+<p><strong>Perception</strong> of ownership is not a factor.</p>
+<p><strong>Effort:</strong> using the cloth without the ownership being rescinded.</p>
+<p><strong>Non-offenses:</strong></p>
+<ul>
+<li>rescinded ownership</li>
+<li>using it on trust (shared with friends)</li>
+</ul>
+<!-- latex
+\clearpage
+\thispagestyle{empty}
+\enlargethispage{3\baselineskip}
+\vspace*{-3\baselineskip}
+-->
+<p><img src="./includes/pr-2.png" alt="Pr-2" /></p>
+<p><img src="./includes/pr-2-effort.png" alt="Pr-2-Effort" /></p>
+<h1><a class="header" href="#sexual-conduct" id="sexual-conduct">Sexual Conduct</a></h1>
+<ul>
+<li><strong>Pr 1,</strong> Sexual intercourse</li>
+<li><strong>Sg 1,</strong> Intentional emission of semen</li>
+</ul>
+<h2><a class="header" href="#pr-1-sexual-intercourse" id="pr-1-sexual-intercourse">Pr 1, Sexual intercourse</a></h2>
+<p><img src="./includes/pr-1.png" alt="Pr-1" /></p>
+<ul>
+<li>as a man with his head cut off cannot become one to live again</li>
+<li>as a withered leaf separated from its stem cannot be joined again</li>
+<li>as a flat stone that has been broken in half cannot be put together
+again</li>
+<li>as a palmyra tree cut off at the crown is incapable of further
+growth.</li>
+</ul>
+<h2><a class="header" href="#sg-1-intentional-emission-of-semen" id="sg-1-intentional-emission-of-semen">Sg 1, Intentional emission of semen</a></h2>
+<p><img src="./includes/sg-1.png" alt="Sg-1" /></p>
+<p>A bhikkhu who comitted a sanghadisesa must inform another bhikkhu as
+soon as possible, but at most until the next dawnrise. The Sangha must
+meet and at his request, allow a six-day period of penance (<em>mānatta</em>).
+If he concealed the offence, a probation period (<em>parivāsa</em>) is required
+beforehand.</p>
+<p>He may choose where to observe the penance, but he can only be
+rehabilitated as a bhikkhu in regular standing by a community meeting of
+at least 20 bhikkhus.</p>
+<h1><a class="header" href="#lustful-conduct" id="lustful-conduct">Lustful Conduct</a></h1>
+<ul>
+<li><strong>Sg 2,</strong> Lustful contact with a woman</li>
+<li><strong>Sg 3,</strong> Speaking lewd words to a woman</li>
+<li><strong>Sg 4,</strong> Praising sexual intercourse as gift</li>
+<li><strong>Pc 7,</strong> Teaching more than six sentences</li>
+</ul>
+<h2><a class="header" href="#sg-2-lustful-contact-with-a-woman" id="sg-2-lustful-contact-with-a-woman">Sg 2, Lustful contact with a woman</a></h2>
+<!-- latex
+\begin{multicols}{2}
+-->
+<p>Origin: Ven. Udayin disturbing a bhrahmin's wife while they are visiting
+him.</p>
+<p><strong>Object:</strong> a living woman, &quot;even one born on that day.&quot; Body, hand,
+limbs, a lock of hair, etc.</p>
+<p><strong>Perception:</strong> perceiving her to be a woman.</p>
+<p><strong>Intention:</strong> impelled by lust, any state of passion, desire to enjoy
+the contact. Can be an extended period of desire, or a momentary
+attraction.</p>
+<p>Contact out of filial affection for family members is a dukkata.</p>
+<p><strong>Effort:</strong> physical contact.</p>
+<p>Items she is wearing are direct contact.</p>
+<p>Indirect contact:</p>
+<ul>
+<li>touching a item which she is holding: thullacaya</li>
+<li>touching her with an item one is holding: thullacaya</li>
+<li>item to item: dukkata</li>
+<li>tossing: dukkata</li>
+<li>shaking sth. she is standing on: dukkata</li>
+</ul>
+<p>Passive contact:</p>
+<p>Contact while trying to shake her off is not an offense.</p>
+<p>If the bhikkhu's aim is to partake, the offence is sanghadisesa.</p>
+<h3><a class="header" href="#non-offenses" id="non-offenses">Non-offenses</a></h3>
+<ul>
+<li>unintentionally</li>
+<li>unthinkingly</li>
+<li>unknowingly</li>
+<li>the bhikkhu doesn't give his consent</li>
+<li>no desire for the contact</li>
+<li>has desire, but makes no effort</li>
+</ul>
+<!-- latex
+\end{multicols}
+-->
+<h2><a class="header" href="#sg-3-speaking-lewd-words-to-a-woman" id="sg-3-speaking-lewd-words-to-a-woman">Sg 3, Speaking lewd words to a woman</a></h2>
+<!-- latex
+\begin{multicols}{2}
+-->
+<p>Wanting to enjoy saying something lewd. Directly referencing <em>her</em>
+genitals, anus, or her performing sexual intercourse. Slang, euphemisms,
+non-verbal gestures fulfill effort.</p>
+<p><strong>Object:</strong> Any woman who recognizes lewd comments.</p>
+<p>May not know: too young, too innocent or retarded, or doesn't know the
+language.</p>
+<p><strong>Perception:</strong> The bhikkhu perceives her to be a woman.</p>
+<p><strong>Intention:</strong> Impelled by lust. The minimum lust is wanting to enjoy
+saying something lewd.</p>
+<ul>
+<li>not necessary to have desire to have sex with her</li>
+<li>statements in anger come under Pc 2 instead</li>
+</ul>
+<p><strong>Effort:</strong> Praising, criticizing, asking, etc. referencing her
+genitals, anus, or her performing sexual intercourse.</p>
+<ul>
+<li>direct mention of above</li>
+<li>indirect references, slang, euphemisms, non-verbal gestures fulfill
+effort</li>
+</ul>
+<p>Another person's private parts don't fulfill effort.</p>
+<p><strong>Result:</strong> The woman immediately understands.</p>
+<p>If she only understands later:</p>
+<ul>
+<li><em>thullacaya</em> if it was a direct reference</li>
+<li><em>dukkata</em> if it was indirect</li>
+</ul>
+<h3><a class="header" href="#non-offenses-1" id="non-offenses-1">Non-offenses</a></h3>
+<ul>
+<li>speech aiming at spiritual welfare, if not out of lust</li>
+<li>the bhikkhu doesn't intend to be lewd, but the woman takes it as
+lewd</li>
+</ul>
+<!-- latex
+\end{multicols}
+-->
+<h2><a class="header" href="#sg-4-praising-sexual-intercourse-as-gift" id="sg-4-praising-sexual-intercourse-as-gift">Sg 4, Praising sexual intercourse as gift</a></h2>
+<p>A variation on lewd speech.</p>
+<p>Directly countering the notion that &quot;giving&quot; sex as a spiritual gift
+brings good karmic rewards.</p>
+<p>Intention is fulfilled simply by the desire to enjoy making such remarks
+in the presence of a woman, even if just to test her reactions.</p>
+<h2><a class="header" href="#pc-7-teaching-more-than-six-sentences" id="pc-7-teaching-more-than-six-sentences">Pc 7, Teaching more than six sentences</a></h2>
+<!-- latex
+\begin{multicols}{2}
+-->
+<p>Origin: Ven. Udayin whispers Dhamma sentences in the ears of certain
+women.</p>
+<p>One should ask a man to chaperon when engaging in a conversation or
+interview with women.</p>
+<p>The rule is aimed at preventing a bhikkhu from using his knowledge of
+Dhamma as a way of making himself attractive to a woman.</p>
+<p>Other topics have no penalty, but indulging in 'animal talk' with lay
+people may result in censure, banishment or suspension on grounds of
+'unbecoming assoication with householders' or 'verbal frivolity.'</p>
+<p>Also, observers might misinterpret the situation, best to ask someone to
+chaperon.</p>
+<p>Private conversations in general are treated in Pc 44, Pc 45, Ay 1, Ay
+2.</p>
+<p><strong>Object:</strong> Any woman who recognizes lewd comments.</p>
+<p><strong>Perception</strong> is not a factor.</p>
+<p><strong>Effort:</strong> Teaching more than six sentences of Dhamma without a
+knowledgeable man present.</p>
+<h3><a class="header" href="#non-offenses-2" id="non-offenses-2">Non-offenses</a></h3>
+<ul>
+<li>if the woman changes position</li>
+<li>talk on different occations</li>
+<li>addressing the next woman</li>
+<li>teaching someone else, and the woman just listens in</li>
+<li>teaching in response to questions from the woman</li>
+</ul>
+<!-- latex
+\end{multicols}
+-->
+<h1><a class="header" href="#women-1" id="women-1">Women 1</a></h1>
+<ul>
+<li><strong>Sg 5,</strong> Conveying romantic messages</li>
+<li><strong>Pc 6,</strong> Lying down with a woman</li>
+<li><strong>Pc 44,</strong> Private secluded place</li>
+<li><strong>Pc 45,</strong> Unsecluded but private place</li>
+<li><strong>Pc 67,</strong> Travelling by arrangement with a woman</li>
+</ul>
+<h2><a class="header" href="#sg-5-conveying-romantic-messages" id="sg-5-conveying-romantic-messages">Sg 5, Conveying romantic messages</a></h2>
+<p>Only two factors: effort and object.</p>
+<p><strong>Effort:</strong> 'Conveying' messages for any romantic purpose from a
+momentary date to a wedding. Not business meetings.</p>
+<p>Three stages:</p>
+<ul>
+<li><em>accepting</em> the request to convey a message</li>
+<li><em>inquiring</em> at the second party</li>
+<li><em>reporting</em> the response</li>
+</ul>
+<p>Dukkata for any single stage, thullacaya for any two, sanghadisesa for
+all three.</p>
+<p>Carrying a letter without knowing the content doesn't fulfill effort.</p>
+<p><strong>Object:</strong> A man and a women who are not married to each other, even if
+dealing with them via other people.</p>
+<p>Reconciling a still married couple is not an offense. Reconciling a
+divorced couple is sanghadisesa.</p>
+<p><strong>Non-offenses:</strong> messages about non-romantic errands, e.g. community
+business, a shrine, a sick person.</p>
+<h2><a class="header" href="#pc-6-lying-down-with-a-woman" id="pc-6-lying-down-with-a-woman">Pc 6, Lying down with a woman</a></h2>
+<p><strong>Object:</strong> Female human being, even a baby, one's relative or not.</p>
+<p><strong>Effort:</strong> in the instant one lies down in the same dwelling when a
+woman is lying down.</p>
+<p>Same dwelling: one &quot;enclosure&quot;. Technically the same walls and roof, but
+one may consider variations (private hospital rooms).</p>
+<p>Intention is not a factor, pacittiya even if the bhikkhu doesn't know
+about the woman.</p>
+<p>Purpose: to avoid situations where people might think that one may have
+commited serious offenses. Other people might see the situation and
+rumors would be damaging.</p>
+<p>Non-offenses for roofed but no walls (pavilion) or walled but not roofed
+(corral), but a good idea to avoid nonetheless.</p>
+<!-- latex
+\clearpage
+-->
+<h2><a class="header" href="#pc-44-private-secluded-place" id="pc-44-private-secluded-place">Pc 44, Private secluded place</a></h2>
+<p>The bhikkhu sits with a woman at a secluded place, private to the eye
+and ear, without another man present, aiming at privacy.</p>
+<p>No offence if the woman entered the room later, and he didn't notice.</p>
+<h2><a class="header" href="#pc-45-unsecluded-but-private-place" id="pc-45-unsecluded-but-private-place">Pc 45, Unsecluded but private place</a></h2>
+<p>The bhikkhu sits with a woman at a private, but not secluded place, such
+as an empty park, without another <em>person</em> present.</p>
+<h2><a class="header" href="#pc-67-travelling-by-arrangement-with-a-woman" id="pc-67-travelling-by-arrangement-with-a-woman">Pc 67, Travelling by arrangement with a woman</a></h2>
+<p>Origin: a woman hears that a monk is going to a village and goes with
+him. Later, the woman's husband heard about it and gave him a beating.</p>
+<p>Purpose: to avoid people assuming the bhikkhu having an affair with the
+woman.</p>
+<p><strong>Object:</strong> Any woman who knows what is lewd.</p>
+<p><strong>Perception</strong> is not a factor.</p>
+<p><strong>Effort:</strong></p>
+<ol>
+<li>having made an arrangement to travel together</li>
+<li>they travel as arranged
+<ul>
+<li>time frame as arranged</li>
+<li>route or place of departure doesn't count</li>
+</ul>
+</li>
+<li>from one village to another (half-yojana, 8km)</li>
+</ol>
+<p><strong>Making an arrangement:</strong> both gives verbal or written assent to the
+arrangement.</p>
+<p>Giving assent in silence is not an offense.</p>
+<ul>
+<li>if the women doesn't respond: <em>dukkata</em></li>
+<li>if the bhikkhu doesn't respond: no offense</li>
+</ul>
+<h3><a class="header" href="#non-offenses-3" id="non-offenses-3">Non-offenses</a></h3>
+<ul>
+<li>coincidence: they happen to travel together</li>
+<li>the woman proposes the arrangement, and the bhikkhu doesn't give
+<em>verbal</em> assent</li>
+<li>leaving at a significantly different time than as arranged</li>
+<li>there are dangers</li>
+</ul>
+<h3><a class="header" href="#cases" id="cases">Cases</a></h3>
+<ul>
+<li>public transport</li>
+<li>private transport (Pc 44)</li>
+</ul>
+
+                    </main>
+
+                    <nav class="nav-wrapper" aria-label="Page navigation">
+                        <!-- Mobile navigation buttons -->
+                        
+
+                        
+
+                        <div style="clear: both"></div>
+                    </nav>
+                </div>
+            </div>
+
+            <nav class="nav-wide-wrapper" aria-label="Page navigation">
+                
+
+                
+            </nav>
+
+        </div>
+
+        
+
+        
+
+        
+
+        
+        <script src="elasticlunr.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="mark.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="searcher.js" type="text/javascript" charset="utf-8"></script>
+        
+
+        <script src="clipboard.min.js" type="text/javascript" charset="utf-8"></script>
+        <script src="highlight.js" type="text/javascript" charset="utf-8"></script>
+        <script src="book.js" type="text/javascript" charset="utf-8"></script>
+
+        <!-- Custom JS scripts -->
+        
+
+        
+        
+        <script type="text/javascript">
+        window.addEventListener('load', function() {
+            window.setTimeout(window.print, 100);
+        });
+        </script>
+        
+        
+
+    </body>
+</html>
