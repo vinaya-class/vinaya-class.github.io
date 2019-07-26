@@ -1,0 +1,75 @@
+\ProvidesPackage{chanting-refcard}
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
+\setmainfont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+  Numbers = OldStyle,
+]{Crimson-Roman.otf}
+
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{enumitem}
+\usepackage{tikz}
+
+\usepackage{hyperref}
+
+%\graphicspath{}
+
+\definecolor{textbody}{gray}{0}
+
+\def\BOOK@apt{10}
+\def\BOOK@bpt{12}
+
+\renewcommand{\normalsize}{%
+  \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
+  \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+  \abovedisplayshortskip \z@ \@plus3\p@
+  \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+  \belowdisplayskip \abovedisplayskip
+  \color{textbody}
+  \let\@listi\@listI}
+\normalsize
+
+% === indentations ===
+
+\setlength{\vgap}{1.5em}
+\setlength{\vindent}{\vgap}
+\setlength{\vleftmargin}{2em}
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+% === setup page layout ===
+
+\setstocksize{105mm}{105mm}
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+\setlrmarginsandblock{5mm}{5mm}{*}
+\setulmarginsandblock{5mm + \baselineskip}{5mm + \baselineskip}{*}
+\setheadfoot{\baselineskip}{0pt}
+\setheaderspaces{*}{5pt}{*}
+\checkandfixthelayout
+
+\setlist[itemize]{
+  itemindent=0pt,
+  leftmargin=15pt,
+  rightmargin=0pt,
+  itemsep=3pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+}
+
+\newcommand\cardHeaderRule{\raisebox{0.2\baselineskip}{\rule{20pt}{0.5pt}}}
+
+\makeoddhead{plain}{}{\cardHeaderRule\hspace*{0.5em}\scshape Chanting $\cdot$ Refcard\hspace*{0.5em}\cardHeaderRule}{}
+\makeoddfoot{plain}{}{}{\itshape Vinaya Class}
+
+\pagestyle{plain}
+
+\def\@maketitle{}

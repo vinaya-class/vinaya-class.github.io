@@ -33,7 +33,7 @@ The ten reasons for the establishing of the Pāṭimokkha:
 7.  to give confidence to those of little faith;
 8.  to increase the confidence of the faithful;
 9.  to establish the True Dhamma;
-10. to support the Vinaya.\"
+10. to support the Vinaya."
 
 (Vin.III.20; A.V.70)
 
@@ -51,7 +51,7 @@ Four things not to be done, *akaraṇīya*:
 4.  claiming false attainments: as a palm tree, cut off at the crown, is
     incapable of further growth
 
-(Vin.I.96-97)
+([Vin.I.96-97](https://suttacentral.net/pli-tv-kd1/en/horner-brahmali))
 
 <!-- latex
 \end{multicols}
@@ -59,7 +59,7 @@ Four things not to be done, *akaraṇīya*:
 \clearpage
 -->
 
-![Introduction](./includes/introduction.png)
+![Introduction](./includes/mindmaps/introduction.png)
 
 ## The Four Great Standards
 
@@ -96,3 +96,4 @@ that is **allowable**.
 -->
 
 (Mv.VI.40.1)
+

@@ -63,7 +63,7 @@ under shared ownership.
 \vspace*{-3\baselineskip}
 -->
 
-![Pr-2](./includes/pr-2.png)
+![Pr-2](./includes/mindmaps/pr-2.png)
 
-![Pr-2-Effort](./includes/pr-2-effort.png)
+![Pr-2-Effort](./includes/mindmaps/pr-2-effort.png)
 

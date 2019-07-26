@@ -1,5 +1,9 @@
 # Project output
 book/
+tex/schedule/schedule.pdf
+tex/vinaya-class-notes/vinaya-class-notes.pdf
+tex/chanting-refcard/chanting-refcard.pdf
+tex/vinayakamma-chart/vinayakamma-chart.pdf
 
 # Emacs temp files
 auto/
@@ -26,6 +30,7 @@ tags
 *.toc
 *.lof
 *.fls
+*.out
 *.fdb_latexmk
 
 # General macOS

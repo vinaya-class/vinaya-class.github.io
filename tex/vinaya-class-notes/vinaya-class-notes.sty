@@ -1,0 +1,208 @@
+\ProvidesPackage{vinaya-class-notes}
+
+\usepackage[british]{babel}
+
+\renewcommand\britishhyphenmins{{3}{3}}
+
+\hyphenation{thulla-caya sangha-disesa}
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
+\setmainfont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+]{Crimson-Roman.otf}
+
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\usepackage{hyperxmp}
+\usepackage{hyperref}
+
+%\graphicspath{{./includes/}}
+
+\hypersetup{
+  colorlinks=true,
+  linkcolor=link,
+  citecolor=link,
+  filecolor=link,
+  urlcolor=link,
+  unicode=true,
+}
+
+\RequirePackage[
+  open,
+  openlevel=2
+]{bookmark}
+
+\setlist[itemize]{
+  itemindent=0pt,
+  leftmargin=15pt,
+  rightmargin=0pt,
+  itemsep=3pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+}
+
+% === penalties ===
+
+\midsloppy
+
+% === normalsize ===
+
+\definecolor{textbody}{gray}{0}
+\definecolor{linkred}{HTML}{DC322F}
+% Red is better for printing than blue or dark blue
+\colorlet{link}{linkred}
+
+\def\BOOK@apt{11}
+\def\BOOK@bpt{14}
+
+\renewcommand{\normalsize}{%
+  \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
+  \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+  \abovedisplayshortskip \z@ \@plus3\p@
+  \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+  \belowdisplayskip \abovedisplayskip
+  \color{textbody}
+  \let\@listi\@listI}
+\normalsize
+
+% === indentations ===
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+\setlength{\columnsep}{18pt}
+\setlength{\columnseprule}{0.1pt}
+\flushcolumns
+%\columnseprulecolor
+
+% === setup page layout ===
+
+\stockaiv
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+\setlrmarginsandblock{0.15\paperwidth}{*}{1}
+\setulmarginsandblock{0.1\paperheight}{*}{1}
+\setheadfoot{\baselineskip}{2\baselineskip}
+\setheaderspaces{*}{15pt}{*}
+\checkandfixthelayout
+
+\newenvironment{summary}%
+               {\list{}{\listparindent 0pt%
+                        \itemindent    \listparindent
+                        \rightmargin   \leftmargin
+                        \parsep        \z@ \@plus\p@}%
+                \item[]}%
+               {\endlist}
+
+\newlength\marginDiff
+\newcommand\includemap[1]{%
+  {\centering
+  \setlength\marginDiff{0.98\paperwidth - \linewidth}
+  \hspace*{-0.5\marginDiff}
+  \includegraphics[width=0.98\paperwidth]{#1}
+  \par}
+}
+
+\usepackage[normalem]{ulem}
+
+\newcommand\secunderline[1]{%
+  \begingroup%
+  \renewcommand{\ULdepth}{4pt}%
+  \renewcommand{\ULthickness}{0.5pt}%
+  \uline{#1}%
+  \endgroup%
+}
+
+\newcommand{\sectionFmt}[1]{%
+  \normalfont\memRTLraggedright\scshape
+  \secunderline{#1}%
+}
+
+\setcounter{secnumdepth}{0}
+
+\def\@maketitle{}
+
+\makechapterstyle{vinaya-class}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{\Large\thechapter.\hspace*{10pt}}
+  \renewcommand*{\afterchapternum}{}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \memRTLraggedright
+    \LARGE\scshape\MakeTextLowercase{##1}
+  }
+  \renewcommand*{\afterchaptertitle}{%
+  \vskip\onelineskip \hrule\vskip\onelineskip}}
+
+\makeheadstyles{vinaya-class}{%
+\chapterstyle{vinaya-class}
+  \setbeforesecskip{1\onelineskip
+                    \@plus -0.5\onelineskip \@minus -.5\onelineskip}%
+  \setaftersecskip{1\onelineskip \@plus 0.1\onelineskip}%
+  \setsecheadstyle{\sectionFmt}%
+  \setbeforesubsecskip{-1.0\onelineskip
+                       \@plus -0.25\onelineskip \@minus -0.25\onelineskip}%
+  \setaftersubsecskip{1.0\onelineskip \@plus 0.1\onelineskip}%
+  \setsubsecheadstyle{\sethangfrom{\noindent ####1}\normalfont\itshape\memRTLraggedright}%
+  \setbeforesubsubsecskip{1.0\onelineskip
+                          \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
+  \setaftersubsubsecskip{-1em}%
+  \setsubsubsecheadstyle{\normalfont\normalsize\scshape\MakeTextLowercase}%
+  \setbeforeparaskip{1.0\onelineskip
+                     \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
+  \setafterparaskip{-1em}%
+  \setparaheadstyle{\normalfont\normalsize\itshape\addperiod}%
+  \setsubparaindent{\parindent}%
+  \setbeforesubparaskip{1.0\onelineskip
+                        \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
+  \setaftersubparaskip{-1em}%
+  \setsubparaheadstyle{\normalfont\normalsize\itshape\addperiod}}
+
+%% Based on bringhurst from memoir.
+\headstyles{vinaya-class}
+
+% Leave the footer empty to allow \enlargethispage{} when necessary
+
+\makepagestyle{chapterpage}
+\makeevenhead{chapterpage}{}{}{}
+\makeevenfoot{chapterpage}{}{}{}
+\makeoddhead{chapterpage}{}{}{}
+\makeoddfoot{chapterpage}{}{}{}
+
+\makepagestyle{toprule}
+\makeevenhead{toprule}{\thepage}{}{\scshape{\MakeLowercase{\rightmark}}}
+\makeevenfoot{toprule}{}{}{}
+\makeoddhead{toprule}{\scshape{\MakeLowercase{\rightmark}}}{}{\thepage}
+\makeoddfoot{toprule}{}{}{}
+
+\makeheadrule{toprule}{\textwidth}{\normalrulethickness}
+
+\makepsmarks{toprule}{%
+  \nouppercaseheads
+  \createmark{chapter}{right}{shownumber}{}{. \space}
+}
+
+\makepagestyle{floatpage}
+\makeevenhead{floatpage}{}{}{}
+\makeevenfoot{floatpage}{}{}{}
+\makeoddhead{floatpage}{}{}{}
+\makeoddfoot{floatpage}{}{}{}
+
+\mergepagefloatstyle{normalpage}{toprule}{floatpage}
+
+\aliaspagestyle{chapter}{chapterpage}
+
+\pagestyle{normalpage}
+
+\usepackage[final,babel=true]{microtype}

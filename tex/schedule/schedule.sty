@@ -1,0 +1,182 @@
+\ProvidesPackage{schedule}
+
+\newif\ifshowpresentedby
+
+\usepackage{pgfopts}
+
+\pgfkeys{
+  /BOOK/.is family, /BOOK,
+  defaults/.style = {
+    showpresentedby = false,
+  },
+  showpresentedby/.is if = showpresentedby,
+}
+
+\pgfkeys{/BOOK, defaults}
+\ProcessPgfOptions{/BOOK}
+
+\usepackage[british]{babel}
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
+
+\setmainfont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+]{Crimson-Roman.otf}
+
+\newfontfamily\crimsonOldStyleFont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+  Numbers = OldStyle,
+]{Crimson-Roman.otf}
+
+\newfontfamily\fontawesomeFont{FontAwesome.otf}
+
+\usepackage{xcolor}
+\usepackage{graphicx}
+\usepackage{calc}
+\usepackage{enumitem}
+\usepackage{multicol}
+
+\usepackage{hyperxmp}
+\usepackage{hyperref}
+
+%\graphicspath{}
+
+\setlist[itemize]{
+  itemindent=0pt,
+  leftmargin=15pt,
+  rightmargin=0pt,
+  itemsep=3pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+}
+
+\setlist[description]{
+  itemindent=0pt,
+  leftmargin=30pt,
+  rightmargin=0pt,
+  itemsep=3pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+}
+
+% === penalties ===
+
+\midsloppy
+
+% === normalsize ===
+
+\definecolor{textbody}{gray}{0}
+\definecolor{chapterbox}{gray}{0.85}
+
+\def\BOOK@apt{10}
+\def\BOOK@bpt{13}
+
+\renewcommand{\normalsize}{%
+  \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
+  \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+  \abovedisplayshortskip \z@ \@plus3\p@
+  \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+  \belowdisplayskip \abovedisplayskip
+  \color{textbody}
+  \let\@listi\@listI}
+\normalsize
+
+% === indentations ===
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+\setlength{\columnsep}{18pt}
+\setlength{\columnseprule}{0.1pt}
+\flushcolumns
+%\columnseprulecolor
+
+% === setup page layout ===
+
+\stockaiv
+\settrimmedsize{\stockheight}{\stockwidth}{*}
+\settrims{0pt}{0pt}
+\setlrmarginsandblock{15mm}{*}{1}
+\setulmarginsandblock{15mm}{*}{1}
+\setheadfoot{\baselineskip}{2\baselineskip}
+\setheaderspaces{*}{15pt}{*}
+\checkandfixthelayout
+
+\setcounter{secnumdepth}{0}
+
+\def\@maketitle{}
+
+\ifshowpresentedby
+\setsechook{%
+  \hfill
+  \begin{minipage}{3cm}%
+    \small\scshape
+    {\fontawesomeFont \symbol{"F192}}%
+    \hspace*{0.5em}%
+    Presented by:
+  \end{minipage}%
+  \vspace*{-\onelineskip}%
+}
+\fi
+
+\makechapterstyle{class-schedule}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \vskip 0.5\onelineskip
+    \colorbox{chapterbox}{%
+      \parbox{\linewidth}{%
+        \memRTLraggedright
+        {\crimsonOldStyleFont\LARGE\scshape\MakeTextLowercase{##1}}%
+        \hspace*{1em}%
+        \begin{minipage}{3cm}%
+          \small\scshape
+          {\fontawesomeFont \symbol{"F073}}%
+          \hspace*{0.5em}%
+          Date:
+        \end{minipage}% 
+    }}%
+  }
+  \renewcommand*{\afterchaptertitle}{}%
+}
+
+\chapterstyle{class-schedule}
+
+\setsecheadstyle{\large\normalfont\memRTLraggedright\scshape}%
+
+%\setbeforesecskip{0.5\onelineskip}%
+\setbeforesecskip{0pt}%
+\setaftersecskip{0.5\onelineskip}%
+
+\setsubsecheadstyle{\normalfont\memRTLraggedright\bfseries
+  {\upshape\fontawesomeFont \symbol{"F138}}\hspace*{0.5em}}%
+
+\setbeforesubsecskip{0.5\onelineskip}%
+\setaftersubsecskip{0.2\onelineskip}%
+
+\artopttrue
+
+\makepagestyle{normalpage}
+  \makeevenhead{normalpage}{}{Vinaya Class Schedule}{}
+  \makeevenfoot{normalpage}{}{}{}
+  \makeoddhead{normalpage}{}{Vinaya Class Schedule}{}
+  \makeoddfoot{normalpage}{}{}{}
+
+\aliaspagestyle{title}{normalpage}
+\aliaspagestyle{chapter}{normalpage}
+\pagestyle{normalpage}
+
+\usepackage[final,babel=true]{microtype}

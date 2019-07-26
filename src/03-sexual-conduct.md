@@ -5,7 +5,7 @@
 
 ## Pr 1, Sexual intercourse
 
-![Pr-1](./includes/pr-1.png)
+![Pr-1](./includes/mindmaps/pr-1.png)
 
 -   as a man with his head cut off cannot become one to live again
 -   as a withered leaf separated from its stem cannot be joined again
@@ -16,7 +16,7 @@
 
 ## Sg 1, Intentional emission of semen
 
-![Sg-1](./includes/sg-1.png)
+![Sg-1](./includes/mindmaps/sg-1.png)
 
 A bhikkhu who comitted a sanghadisesa must inform another bhikkhu as
 soon as possible, but at most until the next dawnrise. The Sangha must

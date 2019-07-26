@@ -1,0 +1,184 @@
+\ProvidesPackage{vinayakamma-chart}
+
+\usepackage{xcolor}
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
+
+\setmainfont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+  Numbers = OldStyle,
+]{Crimson-Roman.otf}
+
+%\setmainfont{Ubuntu}
+%\setmainfont{Fira Sans}
+
+%% SOLARIZED HEX     16/8 TERMCOL  XTERM/HEX   L*A*B      RGB         HSB
+%% --------- ------- ---- -------  ----------- ---------- ----------- -----------
+%% base03    #002b36  8/4 brblack  234 #1c1c1c 15 -12 -12   0  43  54 193 100  21
+%% base02    #073642  0/4 black    235 #262626 20 -12 -12   7  54  66 192  90  26
+%% base01    #586e75 10/7 brgreen  240 #585858 45 -07 -07  88 110 117 194  25  46
+%% base00    #657b83 11/7 bryellow 241 #626262 50 -07 -07 101 123 131 195  23  51
+%% base0     #839496 12/6 brblue   244 #808080 60 -06 -03 131 148 150 186  13  59
+%% base1     #93a1a1 14/4 brcyan   245 #8a8a8a 65 -05 -02 147 161 161 180   9  63
+%% base2     #eee8d5  7/7 white    254 #e4e4e4 92 -00  10 238 232 213  44  11  93
+%% base3     #fdf6e3 15/7 brwhite  230 #ffffd7 97  00  10 253 246 227  44  10  99
+%% yellow    #b58900  3/3 yellow   136 #af8700 60  10  65 181 137   0  45 100  71
+%% orange    #cb4b16  9/3 brred    166 #d75f00 50  50  55 203  75  22  18  89  80
+%% red       #dc322f  1/1 red      160 #d70000 50  65  45 220  50  47   1  79  86
+%% magenta   #d33682  5/5 magenta  125 #af005f 50  65 -05 211  54 130 331  74  83
+%% violet    #6c71c4 13/5 brmagenta 61 #5f5faf 50  15 -45 108 113 196 237  45  77
+%% blue      #268bd2  4/4 blue      33 #0087ff 55 -10 -45  38 139 210 205  82  82
+%% cyan      #2aa198  6/6 cyan      37 #00afaf 60 -35 -05  42 161 152 175  74  63
+%% green     #859900  2/2 green     64 #5f8700 60 -20  65 133 153   0  68 100  60
+
+\definecolor{base03}{HTML}{002B36}
+\definecolor{base02}{HTML}{073642}
+\definecolor{base01}{HTML}{586E75}
+\definecolor{base00}{HTML}{657B83}
+\definecolor{base0}{HTML}{839496}
+\definecolor{base1}{HTML}{93A1A1}
+\definecolor{base2}{HTML}{EEE8D5}
+\definecolor{base3}{HTML}{FDF6E3}
+\definecolor{yellow}{HTML}{B58900}
+\definecolor{orange}{HTML}{CB4B16}
+\definecolor{red}{HTML}{DC322F}
+\definecolor{magenta}{HTML}{D33682}
+\definecolor{violet}{HTML}{6C71C4}
+\definecolor{blue}{HTML}{268BD2}
+\definecolor{cyan}{HTML}{2AA198}
+\definecolor{green}{HTML}{859900}
+
+\colorlet{background}{base3}
+\colorlet{primary-content}{base00}
+\colorlet{bg-highlight}{base2}
+\colorlet{secondary-content}{base1}
+%\colorlet{list-content}{base0}
+\colorlet{list-content}{primary-content}
+\colorlet{list-bullets}{orange}
+\colorlet{lvl1-color}{primary-content}
+\colorlet{lvl2-color}{primary-content}
+\colorlet{lvl3-color}{yellow}
+\colorlet{lvl4-color}{green}
+
+\usepackage{tikz}
+\usetikzlibrary{positioning}
+\usetikzlibrary{shapes.geometric}
+
+\usepackage{ifthen}
+\usepackage{multicol}
+\usepackage{enumitem}
+
+\usepackage{hyperref}
+\hypersetup{
+  colorlinks=true,
+  %linkcolor=textbody,
+  %citecolor=textbody,
+  %filecolor=textbody,
+  %urlcolor=textbody
+  unicode=true,
+}
+
+\tikzstyle{vinayakamma chart page}=[
+  remember picture, overlay,
+  color=primary-content,
+  background decor/.style={ minimum width=\paperwidth, minimum height=\paperheight, line width=5pt, fill=background, draw=lvl1-color, },
+  lvl1/.style={ color=background, fill=primary-content, rounded corners=6pt, node distance=5mm, font={\Large} },
+  lvl2/.style={ node distance=5mm, fill=bg-highlight, rounded corners=6pt, draw=lvl2-color },
+  lvl3/.style={ fill=bg-highlight, rounded corners=6pt, draw=lvl3-color },
+  lvl4/.style={ lvl3, fill=background, draw=lvl4-color },
+  list/.style={ anchor=north west },
+  lvl1-line/.style={ line width=2pt, draw=lvl1-color },
+  lvl2-line/.style={ line width=2pt, draw=lvl1-color },
+  lvl3-line/.style={ line width=2pt, draw=lvl1-color },
+  lvl4-line/.style={ line width=2pt, draw=lvl1-color },
+  node distance=2mm,
+]
+
+\newlist{listItemize}{itemize}{2}
+\newlist{seeItemize}{itemize}{1}
+
+\setlist[listItemize]{
+  itemindent=0pt,
+  leftmargin=10pt,% needed for nesting
+  rightmargin=0pt,
+  itemsep=3pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+  label={\color{list-bullets}$\triangleright$},
+}
+
+\setlist[seeItemize]{
+  itemindent=0pt,
+  leftmargin=10pt,
+  rightmargin=0pt,
+  itemsep=3pt,
+  topsep=0pt,
+  parsep=0pt,
+  partopsep=0pt,
+  label={\color{list-bullets}$\rightarrow$},
+}
+
+% #1: width of minipage
+\newenvironment{itemlist}[1]{%
+  \begin{minipage}{#1}%
+    \color{list-content}
+    \begin{listItemize}%
+      \raggedright
+}{%
+    \end{listItemize}%
+  \end{minipage}%
+}
+
+% #1: width of minipage
+\newenvironment{itemlistTwoCol}[1]{%
+  \begin{minipage}{#1}%
+    \begin{multicols}{2}
+      \color{list-content}
+      \begin{listItemize}%
+}{%
+      \end{listItemize}%
+    \end{multicols}
+  \end{minipage}%
+}
+
+\newcommand{\seelist}[1]{%
+  \begin{minipage}{4cm}%
+    \color{list-content}%
+    \begin{seeItemize}
+      \item \textit{#1}
+    \end{seeItemize}%
+  \end{minipage}%
+}
+
+% #1: widthcommand
+% #2: text A
+% #3: text B
+\newlength\tmpA
+\newlength\tmpB
+\newcommand\setToLonger[3]{%
+  \settowidth{\tmpA}{#2}%
+  \settowidth{\tmpB}{#3}%
+  \ifthenelse{\lengthtest{\tmpA > \tmpB}}{%
+    \setlength{#1}{\tmpA}%
+  }{%
+    \setlength{#1}{\tmpB}%
+  }%
+}
+
+% #1: title
+% #2: subtitle
+\newlength\labelWidth
+\newcommand{\tsFmt}[2]{%
+  \setToLonger{\labelWidth}{#1}{#2}%
+  \parbox{\labelWidth}{%
+    \centering
+    #1\\
+    \textit{#2}
+  }%
+}
+

@@ -1,0 +1,273 @@
+% vim: foldmethod=indent foldlevel=1
+\documentclass[10pt,a4paper,landscape]{article}
+
+\usepackage{vinayakamma-chart}
+
+\begin{document}
+
+\thispagestyle{empty}\mbox{}
+
+\begin{tikzpicture}[vinayakamma chart page]
+  \node[background decor] at (current page.center) {};
+  \node [
+    right=0pt of current page.north west,
+    anchor=north west,
+    color=background,
+    fill=primary-content,
+    inner sep=10pt,
+  ] {%
+    \begin{minipage}{\paperwidth}
+      \raggedright
+      {\Large Vinayakamma}
+      \hfill
+      \parbox{6cm}{%
+        \raggedleft
+        %Color scheme: \href{http://ethanschoonover.com/solarized}{Solarized}
+      }
+    \end{minipage}%
+  };
+
+  \node (sanghakamma) [ below right=20mm and 10mm of current page.north, lvl1, anchor=north ] {\tsFmt{Saṅghakamma}{community}};
+    \node (apattadhi) [ right=55mm of sanghakamma, lvl2 ] {\tsFmt{Āpattādhikaraṇa}{settlement of offence}};
+      \node [ below=of apattadhi.south west, list ] {%
+        \begin{itemlist}{6cm}
+          \item Paṭiññātakaraṇa (acknowledgement)
+          \item Tiṇavatthāraka (covering by grass) % TODO k3
+        \end{itemlist}
+      };
+
+    \node (vivadadhi) [ below=20mm of apattadhi.south west, lvl2, anchor=north west ] {\tsFmt{Vivādādhikaraṇa}{settlement of contentions}};
+      \node [ below=of vivadadhi.south west, list ] {%
+        \begin{itemlist}{6cm}
+          \item Simple discussion in a Saṅgha meeting
+          \item By arbitration
+          \item By discussion in a committee (ubbāhikā) % TODO k3
+          \item By majority vote (yeghuyasika) % TODO k3
+        \end{itemlist}
+      };
+
+    \node (anuvadadhi) [ below right=60mm and 10mm of sanghakamma, lvl2 ] {\tsFmt{Anuvādādhikaraṇa}{settlement of accusations}};
+      \node (minor-matters) [ below=35mm of vivadadhi.south west, lvl3, anchor=north west ] {Minor matters};
+        \node [ below=of minor-matters.south west, list ] {%
+          \begin{itemlist}{6cm}
+            \item By senior monk
+            \item By group of senior monks
+          \end{itemlist}
+        };
+      \node (serious-matters) [ below=15mm of minor-matters, lvl3 ] {Serious matters};
+        \node [ below=of serious-matters.south west, list ] {%
+          \begin{itemlist}{6cm}
+            \item Sativinaya (memory) % TODO k4
+            \item Amūḷhavinaya (insanity) % TODO k4
+            \item Paṭiññātakaraṇa (acknowledgement)
+            \item Tassapāpiyasikā (habitual depravity) % TODO k4
+            \item Tiṇavatthāraka (covering by grass) % TODO k3
+          \end{itemlist}
+        };
+
+    \node (kiccadhi) [ left=30mm of sanghakamma, lvl2 ] {\tsFmt{Kiccādhikaraṇa}{settlement of the agenda}};
+      \node (upasampada) [ below left=10mm and 25mm of kiccadhi.south, lvl3, anchor=north ] {\tsFmt{Upasampadā}{full admission}};
+      \node (apalokana) [ right=20mm of upasampada, lvl3, ] {\tsFmt{Apalokana}{announcement}};
+        \node [below=of apalokana.south west, list, anchor=north west] {%
+          \begin{itemlist}{5cm}
+            \item Agreeing to make someone leave āvāsa % TODO k1\\ Is it k1?
+            \item Agreeing to distribute food and robes to visitors % TODO k1
+            \item Permission to shave the head of applicant (bhandhukamma) % TODO k1
+            \item Dismissing and restoring novices (nissāraṇā and osāraṇa) % TODO k1
+            \item Agreeing not to allow bhikkhus to be greeted by bhikkhunīs % TODO k1\\ Yes or Not? big map: N, Gav: N, sheets: Y
+            \item Brahmadaṇḍa (great punishment) % TODO k1
+          \end{itemlist}
+        };
+      \node (niggaha) [ right=30mm of apalokana, lvl3 ] {\tsFmt{Niggaha}{proclamation}};
+        \node [below=of niggaha.south west, list, anchor=north west] {%
+          \begin{itemlist}{4.5cm}
+            \item Tajjanīya (censure) % TODO k4
+            \item Nissaya (guidance) % TODO k4
+            \item Pabbājanīya (banishment) % TODO k4
+            \item Paṭisāraṇīya (reconciliation) % TODO k4
+            \item Ukkhepanīya (suspension) % TODO k4
+            \item Overturning the bowl % TODO k4
+          \end{itemlist}
+        };
+      \node (sima) [ below=of upasampada.south west, lvl3, anchor=north west ] {\tsFmt{Sīmā}{boundary}};% TODO: k3
+      \node (k-observances) [ below=of sima.south west, lvl3, anchor=north west ] {Observances};
+        \node [below=of k-observances.south west, list, anchor=north west] {%
+          \begin{itemlist}{6cm}
+            \item Uposatha (observance) % TODO k2
+            \begin{itemlist}{4cm}
+              \item Suspension % TODO k2
+            \end{itemlist}
+            \item Pavāraṇā (invitation) % TODO k2
+            \begin{itemlist}{4cm}
+              \item Suspension % TODO k2
+            \end{itemlist}
+            \item Kaṭhina % TODO k3
+          \end{itemlist}
+        };
+      \node (misc) [ below left=15mm and 50mm of kiccadhi, lvl3 ] {Miscellaneous};
+        \node (misc-see) [ below=of misc, list, anchor=north west ] {\seelist{page 2}};
+        \node (sg) [ below=of misc-see.south west, lvl4, anchor=north west ] {Saṅghādisesa};
+        \node (np) [ below=of sg.south west, lvl4, anchor=north west ] {Nissaggiya Pācittiya};
+        \node (pacittiya) [ below=of np.south west, lvl4, anchor=north west ] {Pācittiya};
+        \node (officers) [ below=of pacittiya.south west, lvl4, anchor=north west ] {%
+          \parbox{3cm}{Appointing officers\\ of the Saṅgha}};% TODO k3
+        \node (exhorter) [ below=of officers.south west, lvl4, anchor=north west ] {%
+          \parbox{3.5cm}{Appointing an exhorter\\ of bhikkhunīs}};
+        \node (use) [ below=of exhorter.south west, lvl4, anchor=north west ] {Giving permission to use};% TODO k3
+        \node (bestowing) [ below=of use.south west, lvl4, anchor=north west ] {%
+          \parbox{4.5cm}{Bestowing cloth and requisites\\ of a dead monk on his nurses}};% TODO k3
+
+        \node (misc-a) [ below left=-2mm and 2mm of misc.south] {};
+        \draw[ lvl3-line, ] (misc-a) |- (sg);
+        \draw[ lvl3-line, ] (misc-a) |- (np);
+        \draw[ lvl3-line, ] (misc-a) |- (pacittiya);
+        \draw[ lvl3-line, ] (misc-a) |- (officers);
+        \draw[ lvl3-line, ] (misc-a) |- (exhorter);
+        \draw[ lvl3-line, ] (misc-a) |- (use);
+        \draw[ lvl3-line, ] (misc-a) |- (bestowing);
+
+
+  \draw [ lvl1-line, ] (sanghakamma) to[out=0,in=180] (vivadadhi);
+  \draw [ lvl1-line, ] (sanghakamma) to[out=0,in=90] (anuvadadhi);
+    \draw [ lvl2-line ] (anuvadadhi) -- (minor-matters);
+    \draw [ lvl2-line ] (anuvadadhi) to[out=-90,in=180] (serious-matters);
+  \draw [ lvl1-line, ] (sanghakamma) -- (apattadhi);
+  \draw [ lvl1-line, ] (sanghakamma) -- (kiccadhi);
+    \draw [ lvl2-line ] (kiccadhi) to[out=180,in=90] (misc);
+    \draw [ lvl2-line ] (kiccadhi.south) .. controls +(down:5mm) and +(up:9mm) .. (upasampada.north);
+    \draw [ lvl2-line ] (kiccadhi.south) .. controls +(down:3mm) and +(up:9mm) .. (apalokana.north);
+    \draw [ lvl2-line ] (kiccadhi.south) .. controls +(down:6mm) and +(up:9mm) .. (niggaha.north);
+
+  \node (puggalakamma) [ above right=75mm and 95mm of current page.south west, lvl1 ] {\tsFmt{Puggalakamma}{individual}};
+    \node (robes) [ below left=10mm and 25mm of puggalakamma, lvl2 ] {Robes};
+      \node (adhitthana) [ below left=of robes, lvl3 ] {\tsFmt{Adhiṭṭhāna}{determining}};
+        \node (ticivara) [ below=10mm of adhitthana, lvl4 ] {\tsFmt{Ticīvara}{three robes}};
+          \node [ below=of ticivara.south west, list ] {%
+            \begin{itemlist}{6cm}
+              \item Antaravāsaka
+              \item Uttarāsaṅga
+              \item Saṅghāṭi
+            \end{itemlist}
+          };
+        \node (patta) [ left=of ticivara, lvl4, ] {\tsFmt{Patta}{bowl}};
+        \node (other-cloth) [ right=of ticivara, lvl4 ] {Other cloth};
+          \node [ right=of other-cloth.south west, list ] {\seelist{page 2}};
+      \node (bindu) [ below right=of robes, lvl3 ] {\tsFmt{Bindu}{marking}};
+    \node (observances) [ right=20mm of robes, lvl2 ] {Observances};
+      \node [below=of observances.south west, list] {%
+        \begin{itemlist}{6cm}
+            \item Uposatha (observance)
+            \item Pavāraṇā (invitation)
+            \item Vassa (rains)
+        \end{itemlist}
+      };
+    \node (duties) [ right=20mm of observances, lvl2 ] {Duties to be done};
+      \node (duties-see) [ below=of duties, list, anchor=north west ] {\seelist{page 2}};
+      \node (kiccavatta) [ below=of duties-see.south west, lvl3, anchor=north west ] {Kiccavatta};
+      \node (cariyavatta) [ below=of kiccavatta.south west, lvl3, anchor=north west ] {Cariyavatta};
+      \node (vidhavatta) [ below=of cariyavatta.south west, lvl3, anchor=north west ] {Vidhavatta};
+      \node (misc) [ below=of vidhavatta.south west, lvl3, anchor=north west ] {Misc.};
+
+    \draw [ lvl1-line, ] (puggalakamma) -- (robes);
+    \draw [ lvl2-line, ] (robes) -- (adhitthana);
+    \draw [ lvl2-line, ] (robes) -- (bindu);
+      \draw [ lvl3-line, ] (adhitthana) -- (patta);
+      \draw [ lvl3-line, ] (adhitthana) -- (ticivara);
+      \draw [ lvl3-line, ] (adhitthana) -- (other-cloth);
+  \draw [ lvl1-line, ] (puggalakamma) -- (observances);
+  \draw [ lvl1-line, ] (puggalakamma) -- (duties);
+    \node (duties-a) [ below left=-2mm and 2mm of duties.south] {};
+    \draw[ lvl2-line, ] (duties-a) |- (kiccavatta);
+    \draw[ lvl2-line, ] (duties-a) |- (cariyavatta);
+    \draw[ lvl2-line, ] (duties-a) |- (vidhavatta);
+    \draw[ lvl2-line, ] (duties-a) |- (misc);
+
+  \node (ganakamma) [ below=50mm of anuvadadhi.south east, lvl1, anchor=north east ] {\tsFmt{Gaṅakamma}{group}};
+    \node (two) [ below=36mm of serious-matters.south west, lvl2, anchor=north west ] {Two and Three Bhikkhus};
+      \node (two-observances) [ below=of two.south west, list, anchor=north west ] {%
+        \begin{itemlist}{6cm}
+          \item Observances
+          \begin{itemlist}{6cm}
+            \item Uposatha (observance)
+            \item Pavāraṇā (invitation)
+          \end{itemlist}
+          \item Confession of offences
+          \item Vikappa (sharing)
+          \item Nissaya (dependence)
+          \item Asking for forgiveness
+        \end{itemlist}
+      };
+
+  \draw[ lvl1-line, ] (ganakamma) -- (two);
+
+\end{tikzpicture}
+
+\clearpage
+\thispagestyle{empty}\mbox{}
+
+\begin{tikzpicture}[vinayakamma chart page]
+  \node[background decor] at (current page.center) {};
+
+  \node (other-cloth) [ below right=10mm and 1cm of current page.north west, lvl4 ] {Other cloth};
+    \node [ below=of other-cloth.south west, list ] {%
+      \begin{itemlist}{6cm}
+        \item Nisīdana (sitting cloth)
+        \item Paccattharaṇa (bed sheet)
+        \item Something spread out under or over a carpet (to protect).
+        \item Parikkāracola (small requisite)
+        \item Small, necessary requisites
+        \item Mukhapuñchana (hankerchief)
+        \item Face or mouth wiping cloth
+        \item Pāvāra (cloak, mantle)
+        \item Kojava (fleecy counterpane coverlet)
+        \item Vassikasāṭikā (rains bathing cloth)
+        \item Kaṇḍupaṭicchādi (itch cloth)
+      \end{itemlist}
+    };
+
+  \node (kiccavatta) [ below right=10mm and 7cm of current page.north west, lvl3 ] {Kiccavatta};
+    \node [below=of kiccavatta.south west, list] {%
+      \begin{itemlist}{6cm}
+        \item Saddhivihārika, Antevāsika (pupil)
+        \item Upajjhāya (preceptor)
+        \item Ācariya (teacher)
+        \item Āgantuka (visitor)
+        \item Āvāsika (resident)
+        \item To a visitor
+        \item Gamika (leaving)
+        \item Staying
+      \end{itemlist}
+    };
+
+  \node (cariyavatta) [ below right=10mm and 13cm of current page.north west, lvl3 ] {Cariyavatta};
+    \node [below=of cariyavatta.south west, list] {%
+      \begin{itemlist}{6cm}
+        \item Araññika (forest dwelling)
+        \item Piṇḍacārika (alms-round)
+        \item Bhattagga (eating hall, refectory)
+        \item Anumodanā (blessing)
+        \item Senāsana (dwelling)
+        \item Vaccakuṭi (toilet)
+        \item Jantāghara (sauna)
+        \item Taking care of kuṭī
+        \item Looking after ill bhikkhus
+        \item Being easy to look after
+      \end{itemlist}
+    };
+
+  \node (misc) [ below right=10mm and 19cm of current page.north west, lvl3 ] {Misc.};
+    \node [below=of misc.south west, list] {%
+      \begin{itemlist}{6cm}
+        \item Piṇḍapata
+        \item Entering a monastery
+        \item Staying in a monastery
+        \item Looking after sick monks
+        \item Looking after visiting monks
+        \item Looking after kuṭī
+        \item Looking after vacca kuṭī
+      \end{itemlist}
+    };
+
+\end{tikzpicture}
+
+\end{document}

@@ -1,26 +1,15 @@
 # Killing and Harming
 
-Pr 3
-:   Killing a human being
-
-Pc 61
-:   Killing an animal
-
-Pc 20
-:   Pouring water containing living beings
-
-Pc 62
-:   Drinking water containing living beings
-
-Pc 10
-:   Digging soil
-
-Pc 11
-:   Damaging living plants or seeds
+- **Pr 3,** Killing a human being
+- **Pc 61,** Killing an animal
+- **Pc 20,** Pouring water containing living beings
+- **Pc 62,** Drinking water containing living beings
+- **Pc 10,** Digging soil
+- **Pc 11,** Damaging living plants or seeds
 
 ## Pr 3, Killing a human being
 
-![Pr-3](./includes/pr-3.png)
+![Pr-3](./includes/mindmaps/pr-3.png)
 
 **Origin:** bhikkhus develop aversion to the body and kill themselves or
 ask an assassin to kill them.
