@@ -4,8 +4,8 @@ TEX_DOCS_DIR=../../src/includes/docs
 
 all: vinaya-class-notes-pdf chanting-refcard-pdf schedule-pdf vinayakamma-chart-pdf
 
-build-html:
-	mdbook build
+dist:
+	./helpers/dist.sh
 
 chapters-to-tex:
 	./helpers/chapters_to_tex.sh

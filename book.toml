@@ -4,4 +4,6 @@ language = "en"
 multilingual = false
 src = "src"
 title = "Vinaya Class"
+
+[output.html]
 google-analytics = "UA-3557338-14"
