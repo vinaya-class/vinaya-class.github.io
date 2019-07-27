@@ -60,7 +60,7 @@ a shoe and she asks, "Is that comfortable?"
 ## Women 1
 
 <!-- latex
-\enlargethispage{2\baselineskip}
+\enlargethispage{3\baselineskip}
 -->
 
 A monk is travelling by train, sitting in a compartment alone. At one of

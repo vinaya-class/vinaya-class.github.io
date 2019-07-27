@@ -14,10 +14,11 @@ if [ $(which notify-send) != "" ]; then
 fi
 
 if [ $has_notify -eq 1 ]; then
+    name=$(basename "$SRC_TEX")
     if [ $STATUS -eq 0 ]; then
-        notify-send "OK"
+        notify-send "OK: $name"
     else
-        notify-send --urgency=critical "FAILURE"
+        notify-send --urgency=critical "FAILURE: $name"
     fi
 fi
 

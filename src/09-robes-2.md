@@ -52,6 +52,10 @@ wears on the body.
 
 ## Pc 89-92, Proper robe sizes
 
+<!-- latex
+\enlargethispage{\baselineskip}
+-->
+
 *Pc 89*, sitting cloth: 2 x 1.5 span + 1 span border
 
 *Pc 90*, skin-eruption cloth: 4 x 2 span

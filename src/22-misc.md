@@ -68,6 +68,10 @@ weapons are.
 A bhikkhu died from being unable to catch his breath while being
 tickled.
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 53, Playing in water
 
 <!-- latex

@@ -9,10 +9,6 @@
 
 ## Pc 1, Intentional lie
 
-<!-- latex
-\begin{multicols}{2}
--->
-
 Origin: Ven. Hatthaka defeats philosophical opponents by means of lying.
 
 **Intention:** to misrepresent the truth
@@ -21,10 +17,6 @@ Origin: Ven. Hatthaka defeats philosophical opponents by means of lying.
 
 Result is not a factor. It doesn't matter if the listener believes it or
 not.
-
-<!-- latex
-\columnbreak
--->
 
 *Telling a conscious lie* means: the words, the utterance, the speech,
 the talk, the language, the intimation, the (un-ariyan) statements of
@@ -36,29 +28,13 @@ during Patimokka recitation).
 *Dukkata* for broken promises, where one is making the promise with pure
 intentions but later breaking it.
 
-<!-- latex
-\end{multicols}
--->
-
 ### Non-offenses
-
-<!-- latex
-\begin{multicols}{2}
--->
 
 -   unintentionally,
 -   speaking in haste (unconsidered)
 -   slip of the tongue (stupidity or carelessness)
 
-<!-- latex
-\end{multicols}
--->
-
 ### Jokes
-
-<!-- latex
-\begin{multicols}{2}
--->
 
 Humorous, witty remarks which are true statements are not criticized
 even by the Buddha. There are cases of his humour in the suttas.
@@ -80,6 +56,10 @@ A novice asks a bhikkhu:
 -   Have you seen my preceptor?
 -   Your preceptor's probably gone, yoked to a firewood cart.
 
+<!-- latex
+\clearpage
+-->
+
 A novice, on hearing the yapping of hyenas:
 
 -   What's making that noise?
@@ -91,12 +71,6 @@ be exaggeration or sarcasm.
 
 Note the Buddha's instruction to Rahula: "Train yourself, 'I will not
 utter a deliberate lie, even for a laugh.'"
-
-<!-- latex
-\end{multicols}
-\clearpage
-\begin{multicols}{2}
--->
 
 Intention is fulfilled when the speaker wants the listener to believe a
 false statement, even if for a second, even while planning to reveal
@@ -116,6 +90,3 @@ the person is looking for it, he ironically responds "I stole it." The
 Buddha says the bhikkhu committed no offence, as it was only a manner of
 speaking, not an acknowledgement of theft.
 
-<!-- latex
-\end{multicols}{2}
--->

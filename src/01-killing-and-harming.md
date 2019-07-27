@@ -106,6 +106,10 @@ fungi) is not included.
 **Fruit with seeds:** allowance to make allowable (kappiyam). Fruit can
 be kappied in one "heap".
 
+<!-- latex
+\columnbreak
+-->
+
 To 'kappi' fruit is about the feelings of the donor, not killing the
 fruit or transfering kamma.
 
@@ -119,10 +123,13 @@ Knowingly eating un-kappied seeds is dukkata.
 -   can cut a trapped person or animal out
 -   counter-fire
 
+<!-- latex
+\end{multicols}
+
+\enlargethispage{2\baselineskip}
+-->
+
 **Note:** Pc 10 and Pc 11 prevents bhikkhus from engaging in
 agriculture, which is probably part of the intended results, although
 not their direct origin.
 
-<!-- latex
-\end{multicols}
--->

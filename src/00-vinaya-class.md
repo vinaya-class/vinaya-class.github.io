@@ -2,7 +2,7 @@
 
 Read here or download as PDF below for printing.
 
-<https://vinaya-class.github.io/>
+<https://vinaya-class.github.io>
 
 - [schedule.pdf](./includes/docs/schedule.pdf)
 - [vinaya-class-notes.pdf](./includes/docs/vinaya-class-notes.pdf)

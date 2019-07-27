@@ -117,6 +117,10 @@ another bhikkhu present.
 Perception is not a factor. Better ask to make sure one is welcome to
 stay.
 
+<!-- latex
+\columnbreak
+-->
+
 **Non-offenses:**
 
 -   both the man and woman have left the private area
@@ -131,20 +135,12 @@ stay.
 
 ## Pc 83, Entering a king's sleeping chamber unannounced
 
-<!-- latex
-\begin{multicols}{2}
--->
-
 Entering the sleeping chamber without announcement one might suprise the
 couple in an intimate situation.
 
 The situation is relevant when one is on familiar terms with any person
 of influence. Annoying him, being in a suspicous situation, or meeting
 enticing circumstances can be dangerous for the bhikkhu.
-
-<!-- latex
-\end{multicols}
--->
 
 ## As 1-7, Summary of settling conflicts
 
