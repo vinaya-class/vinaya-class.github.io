@@ -1,0 +1,9 @@
+
+div.center {
+    text-align: center;
+}
+
+div.center img {
+    margin-left: auto;
+    margin-right: auto;
+}

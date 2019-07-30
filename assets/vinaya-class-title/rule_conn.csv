@@ -1,0 +1,97 @@
+from,to,section
+Pr 3,Pc 61,Killing and harming
+Pr 3,Pc 62,Killing and harming
+Pr 3,Pc 20,Killing and harming
+Pr 3,Pc 10,Killing and harming
+Pr 3,Pc 11,Killing and harming
+Pr 2,NP 25,Stealing
+Pr 2,Pc 59,Stealing
+Pr 1,Sg 1,Sexual conduct
+Sg 2,Sg 3,Lustful conduct
+Sg 2,Sg 4,Lustful conduct
+Sg 2,Pc 7,Lustful conduct
+Sg 5,Pc 6,Women
+Sg 5,Pc 44,Women
+Sg 5,Pc 45,Women
+Sg 5,Pc 67,Women
+Sg 5,Ay 1,Women
+Sg 5,Ay 2,Women
+Sg 5,NP 4,Women
+Sg 5,NP 5,Women
+Sg 5,NP 17,Women
+Sg 5,Pc 21-30,Women
+Sg 5,Pd 1,Women
+Sg 5,Pd 2,Women
+Pc 1,Sg 8,False speech
+Pc 1,Sg 9,False speech
+Pc 1,Pc 76,False speech
+Pc 1,NP 30,False speech
+Pc 1,Pc 82,False speech
+NP 1,NP 2,Robes
+NP 1,NP 3,Robes
+NP 1,NP 6,Robes
+NP 1,NP 7,Robes
+NP 1,NP 8,Robes
+NP 1,NP 9,Robes
+NP 1,NP 24,Robes
+NP 1,NP 28,Robes
+NP 1,NP 29,Robes
+NP 1,Pc 58,Robes
+NP 1,Pc 89-92,Robes
+NP 1,NP 16,Robes
+NP 1,NP 26,Robes
+NP 1,NP 27,Robes
+NP 1,NP 11-15,Robes
+Pr 4,Pc 8,Attainments
+Pc 31,Pc 37,Food
+Pc 31,Pc 38,Food
+Pc 31,Pc 40,Food
+Pc 31,Pc 51,Food
+Pc 31,Pd 4,Food
+Pc 31,NP 23,Food
+Pc 31,Pc 39,Food
+Pc 31,Pc 47,Food
+Pc 31,Pc 41,Food
+Pc 31,Pd 3,Food
+Pc 31,Pc 32,Food
+Pc 31,Pc 33,Food
+Pc 31,Pc 34,Food
+Pc 31,Pc 35,Food
+Pc 31,Pc 36,Food
+NP 10,NP 18,Money
+NP 10,NP 19,Money
+NP 10,NP 20,Money
+Sg 10,Sg 11,Arguments
+Sg 10,Sg 12,Arguments
+Sg 10,Sg 13,Arguments
+Sg 10,Pc 9,Arguments
+Sg 10,Pc 12,Arguments
+Sg 10,Pc 13,Arguments
+Sg 10,Pc 54,Arguments
+Sg 10,Pc 64,Arguments
+Sg 10,Pc 65,Arguments
+Sg 10,Pc 68,Arguments
+Sg 10,Pc 69,Arguments
+Sg 10,Pc 70,Arguments
+Sg 10,Pc 74,Arguments
+Sg 10,Pc 75,Arguments
+Sg 10,Pc 77,Arguments
+Sg 10,Pc 78,Arguments
+Sg 10,Pc 63,Arguments
+Sg 10,Pc 79,Arguments
+Sg 10,Pc 80,Arguments
+Sg 10,Pc 81,Arguments
+Sg 6,Sg 7,Dwellings
+Sg 6,Pc 14,Dwellings
+Sg 6,Pc 15,Dwellings
+Sg 6,Pc 16,Dwellings
+Sg 6,Pc 17,Dwellings
+Sg 6,Pc 18,Dwellings
+Sg 6,Pc 19,Dwellings
+Sg 6,Pc 87,Dwellings
+Sg 6,Pc 88,Dwellings
+Pc 71,Pc 72,Excuses
+Pc 71,Pc 73,Excuses
+NP 21,NP 22,Bowls
+NP 21,Pc 60,Bowls
+NP 21,Pc 86,Bowls

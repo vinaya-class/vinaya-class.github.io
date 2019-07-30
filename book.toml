@@ -7,3 +7,4 @@ title = "Vinaya Class"
 
 [output.html]
 google-analytics = "UA-3557338-14"
+additional-css = ["theme/custom.css"]

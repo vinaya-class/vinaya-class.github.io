@@ -1,8 +1,13 @@
-# Vinaya Class
 
-Read here or download as PDF below for printing.
+<div class="center">
+
+![Vinaya Class](./includes/figures/vinaya-class-title.png)
 
 <https://vinaya-class.github.io>
+
+</div>
+
+Read here or download as PDF below for printing.
 
 - [schedule.pdf](./includes/docs/schedule.pdf)
 - [vinaya-class-notes.pdf](./includes/docs/vinaya-class-notes.pdf)
