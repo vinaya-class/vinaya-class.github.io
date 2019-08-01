@@ -27,7 +27,7 @@ This is a work-in-progress. The aim is to include:
 The text can be kept simple enough to not prescribe opinions, and leave the
 actual explanation for the teacher to do.
 
-Extended note text are also a possible idea if desired.
+Extended notes are also a possible idea if desired.
 
 ## Contributions
 
@@ -67,7 +67,7 @@ can print sheets without waiting for me to make the online update.
 
 - [Typora](https://typora.io)
 
-In /Typora/, use `File > Open Folder`, and select the `src` in the extracted
+In *Typora*, use `File > Open Folder`, and select the `src` in the extracted
 folder.
 
 You should see the list of pages as Markdown files to edit.
