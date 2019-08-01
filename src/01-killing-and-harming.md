@@ -125,7 +125,7 @@ Knowingly eating un-kappied seeds is dukkata.
 
 <!-- latex
 \end{multicols}
-
+\par
 \enlargethispage{2\baselineskip}
 -->
 

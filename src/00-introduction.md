@@ -55,7 +55,7 @@ Four things not to be done, *akaraṇīya*:
 
 <!-- latex
 \end{multicols}
-
+\par
 \clearpage
 -->
 

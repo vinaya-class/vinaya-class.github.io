@@ -29,7 +29,7 @@ used by oneself or any other bhikkhu.
 
 <!-- latex
 \end{multicols}
-
+\par
 \enlargethispage{2\baselineskip}
 -->
 
