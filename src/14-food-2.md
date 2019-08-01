@@ -36,6 +36,8 @@ used by oneself or any other bhikkhu.
 **Mixing:** The mixture takes on the shortest lifetime of the
 ingredients. (Mv. VI.40.3.)
 
+<!-- noexport_begin -->
+
 <table>
   <tbody>
     <tr class="odd">
@@ -100,6 +102,26 @@ ingredients. (Mv. VI.40.3.)
     </tr>
   </tbody>
 </table>
+
+<!-- noexport_end -->
+
+<!-- latex
+\begin{center}
+\begin{tabular}{llllllll}
+a. & 1d juice & rec. that morning & + & food & rec. that morning & \(\rightarrow\) & that morning\\
+\hline
+b. & 7d tonic & rec. that morning & + & food & rec. that morning & \(\rightarrow\) & that morning\\
+\hline
+c. & lifetime medicine & rec. that morning & + & food & rec. that morning & \(\rightarrow\) & that morning\\
+\hline
+d. & 7d tonic & rec. sometime & + & juice & rec. that day & \(\rightarrow\) & until dawn\\
+\hline
+e. & lifetime medicine & rec. sometime & + & juice & rec. that day & \(\rightarrow\) & until dawn\\
+\hline
+f. & lifetime medicine & rec. sometime & + & 7d tonic & rec. sometime & \(\rightarrow\) & 7 days\\
+\end{tabular}
+\end{center}
+-->
 
 <!-- latex
 \clearpage
