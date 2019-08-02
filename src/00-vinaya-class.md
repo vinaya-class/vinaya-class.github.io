@@ -33,7 +33,7 @@ Read here or download as PDF below for printing.
 
 [chanting-refcard-4on1.pdf](./includes/docs/chanting-refcard-4on1.pdf)
 
-[![Chanting Refcard](./includes/docs/chanting-refcard-thumb.png)](./includes/docs/chanting-refcard.pdf)
+[![Chanting Refcard](./includes/docs/chanting-refcard-4on1-thumb.png)](./includes/docs/chanting-refcard-4on1.pdf)
 
 ## Vinayakamma
 
