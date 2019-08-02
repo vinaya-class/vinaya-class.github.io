@@ -11,6 +11,7 @@ vinaya-class-notes-pdf:
 
 chanting-refcard-pdf:
 	./scripts/compile_tex.sh ./tex/chanting-refcard/chanting-refcard.tex
+	./scripts/compile_tex.sh ./tex/chanting-refcard/chanting-refcard-4on1.tex
 
 schedule-pdf:
 	./scripts/compile_tex.sh ./tex/schedule/schedule.tex

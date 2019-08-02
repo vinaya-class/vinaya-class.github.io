@@ -12,6 +12,7 @@ Read here or download as PDF below for printing.
 - [schedule.pdf](./includes/docs/schedule.pdf)
 - [vinaya-class-notes.pdf](./includes/docs/vinaya-class-notes.pdf)
 - [chanting-refcard.pdf](./includes/docs/chanting-refcard.pdf)
+- [chanting-refcard-4on1.pdf](./includes/docs/chanting-refcard-4on1.pdf)
 - [vinayakamma-chart.pdf](./includes/docs/vinayakamma-chart.pdf)
 
 ## Schedule
@@ -29,6 +30,8 @@ Read here or download as PDF below for printing.
 ## Chanting Refcard
 
 [chanting-refcard.pdf](./includes/docs/chanting-refcard.pdf)
+
+[chanting-refcard-4on1.pdf](./includes/docs/chanting-refcard-4on1.pdf)
 
 [![Chanting Refcard](./includes/docs/chanting-refcard-thumb.png)](./includes/docs/chanting-refcard.pdf)
 

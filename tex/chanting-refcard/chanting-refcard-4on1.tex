@@ -1,0 +1,35 @@
+\documentclass[a4paper,10pt]{article}
+
+\usepackage{calc}
+\usepackage{graphicx}
+
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  hmargin=0pt,
+  vmargin=0pt,
+  noheadfoot,
+}
+
+\setlength{\fboxsep}{0pt}
+\setlength{\fboxrule}{0.5pt}
+
+\newcommand\onepage{%
+  \framebox{%
+    \parbox{0.5\linewidth - 2\fboxrule}{%
+      \includegraphics[width=\linewidth]{./chanting-refcard.pdf}%
+    }%
+  }%
+}
+
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{0pt}
+
+\begin{document}
+
+\onepage\hskip -\fboxrule
+\onepage\newline\vskip -2.4pt
+\onepage\hskip -\fboxrule
+\onepage
+
+\end{document}
