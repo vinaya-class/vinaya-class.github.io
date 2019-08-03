@@ -26,6 +26,12 @@ A monk discovers a tick on his arm. What should he do?
 
 A monk hits an anagarika. What should the anagarika do?
 
+A monk is attacked on the street. He pushes the attacker away and runs. The
+attacker falls on the pavement and cracks his head.
+
+A monk is attacked on the street. He is enraged and starts punching the attacker
+until he goes limp and stops moving.
+
 ## Stealing
 
 A monk sneaks into the kitchen and eats an apple. Did he steal it?
@@ -72,3 +78,21 @@ A monk is travelling by bus to visit a friend. He arrives at the bus
 station, and the girlfriend of his friend is there with a car to pick
 him up. She asks the monk to call his friend and tell him she will be
 back at their apartment shortly.
+
+## Robes 1
+
+A monk is travelling by plane. He packs his sanghati in the hold luggage. After
+landing, his hold luggage is missing. He registers the missing luggage with the
+airport services, but has to leave without it.
+
+## Food 2
+
+What is the lifetime of the following items?
+
+- Fruit juice in tetra-pack
+- Unsweetened soya milk
+- Coca-Cola
+- Cheese with red pepper spicing
+- Cheese with onion pieces
+- Coffee-mate powder
+
