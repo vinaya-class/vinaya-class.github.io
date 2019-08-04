@@ -1,0 +1,105 @@
+\documentclass[tikz, margin=5pt]{standalone}
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
+\setmainfont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+  Numbers = OldStyle,
+]{Crimson-Roman.otf}
+
+\usepackage{pgfgantt}
+
+% https://tex.stackexchange.com/questions/85406/gantt-chart-with-title-list-in-minutes-and-hours
+\tikzset{
+  vgrid on/.style={draw,black!25},
+  vgrid off/.style={draw=none},
+}
+\makeatletter
+\newcommand*{\setLines}[2][\myVgrid]{%
+  \def#1{\@gobble}%
+  \foreach \@mark in {1,...,#2}{%
+    \pgfmathparse{int(mod(\@mark,10))}%
+    \ifnum\pgfmathresult=0
+      \xdef#1{#1,vgrid on/.try}%
+    \else
+      \xdef#1{#1,vgrid off/.try}%
+    \fi
+  }
+}
+\makeatother
+
+\definecolor{eventbarblue}{RGB}{0,153,255}
+\definecolor{eventbaryellow}{RGB}{234,187,0}
+\newganttchartelement{eventbar}{
+  eventbar/.style={
+    shape=rectangle,
+    inner sep=0pt,
+    draw=eventbarblue!50!black,
+    very thick,
+    top color=white,
+    bottom color=eventbarblue!50
+  },
+  eventbar incomplete/.style={
+    /pgfgantt/eventbar,
+    draw=eventbaryellow,
+    bottom color=eventbaryellow!50
+  },
+  inline=true,
+  eventbar inline label node/.append style={ yshift=-1pt },
+  eventbar label font=\itshape\fontsize{9}{9}\selectfont,
+  eventbar left shift=-.1,
+  eventbar right shift=.1
+}
+
+\setlength{\parskip}{0pt}
+\setlength{\parindent}{0pt}
+
+\begin{document}%
+
+% One day is 10 slots
+\setLines{230}%
+\begin{ganttchart}[
+  vgrid/.expand once=\myVgrid,
+  title/.style={draw=none, fill=none},
+  include title in canvas=false,
+  x unit=3pt,
+  y unit title=15pt,
+  y unit chart=22pt,
+  vrule/.style={black!40},
+  left/.style={
+    eventbar inline label anchor=west,
+    eventbar inline label node/.append style={ left=3pt, yshift=6pt },
+  },
+  right/.style={
+    eventbar inline label anchor=east,
+    eventbar inline label node/.append style={ right=0pt, yshift=6pt },
+  },
+  ]{1}{230}
+
+  \gantttitlelist{1,...,23}{10}\\
+
+  \gantteventbar[right, name=offence]{Sg offence}{3}{3}\\
+  \ganttlinkedeventbar[right, name=informing]{Informing}{8}{8}\\
+  \ganttlinkedeventbar[right, name=meeting]{Sangha of 4+1 meeting}{26}{26}\\
+  \gantteventbar[right]{Dawn}{10}{10}
+  \gantteventbar[name=penance]{Penance for 6 days}{42}{102}\\
+  \ganttlinkedeventbar[left]{Waiting for rehabilitation}{107}{123}\\
+  \ganttlinkedeventbar[left]{Sangha of 20+1 meeting and rehabilitation}{128}{128}\\
+
+  \gantteventbar[name=concealing]{Concealing for N days}{8}{43}\\
+  \ganttlinkedeventbar[right]{Informing}{48}{48}\\
+  \ganttlinkedeventbar[right]{Sangha of 4+1 meeting}{66}{66}\\
+  \ganttlinkedeventbar{Probation for N days}{82}{122}\\
+  \ganttlinkedeventbar{Penance for 6 days}{142}{202}\\
+  \ganttlinkedeventbar[left]{Waiting for rehabilitation}{207}{223}\\
+  \ganttlinkedeventbar[left]{Sangha of 20+1 meeting and rehabilitation}{228}{228}
+
+  \ganttlink{meeting}{penance}
+  \ganttlink{offence}{concealing}
+
+\end{ganttchart}
+
+\end{document}

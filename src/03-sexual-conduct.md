@@ -7,18 +7,24 @@
 
 ![Pr-1](./includes/mindmaps/pr-1.png)
 
--   as a man with his head cut off cannot become one to live again
--   as a withered leaf separated from its stem cannot be joined again
--   as a flat stone that has been broken in half cannot be put together
-    again
--   as a palmyra tree cut off at the crown is incapable of further
-    growth.
+- as a man with his head cut off cannot become one to live again
+- as a withered leaf separated from its stem cannot be joined again
+- as a flat stone that has been broken in half cannot be put together again
+- as a palmyra tree cut off at the crown is incapable of further growth.
 
 ## Sg 1, Intentional emission of semen
 
 ![Sg-1](./includes/mindmaps/sg-1.png)
 
+- "with the same hand you use to eat the gifts of the faithful"
+- trust and good will of the supporters, social contract
+
 ### Probation and Penance
+
+Overview of the procedure after a Sanghadisesa offence, comparing the case of
+immediately informing and concealing:
+
+![Sanghadisesa procedure](./includes/figures/sanghadisesa-procedure.png)
 
 One doesn't have to wait until one is certain about the offence, speaking to
 another bhikkhu about a doubtful situation will at least clear one's conscience
@@ -40,6 +46,10 @@ stay at that particular monaster after having received rehabilitation.
 
 If he commits another sanghadisesa before rehabilitation, he must inform a
 bhikkhu and ask a Sangha of at least four to 'send him back to the beginning.'
+
+There is allowance to interrupt and set aside the penance or probation for a
+period of time, for example when many visiting monks are expected to arrive at
+the monastery for an event.
 
 Characteristic duties during penance:
 
