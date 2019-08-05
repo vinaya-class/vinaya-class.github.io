@@ -12,6 +12,12 @@
 
 ## NP 1, Keeping robe cloth for more than 10 days
 
+Origin: the Buddha sees monks carrying heaps of robes tied on their heads, backs
+and hips. He sits outside in February when snow was falling to determine how
+many robes are reasonable (set of three). The group of six starts to keep
+several sets in different monasteries, so the Buddha sets a limit on keeping the
+excess, and allows further cloth to be placed under shared ownership.
+
 Encouraging modesty to avoid hoarding requisites.
 
 **Object:** a piece of cloth which *could* be used for making part of a
@@ -37,6 +43,10 @@ October. During that time one may receive and keep robe-cloth for more
 than ten days.
 
 ## NP 2, Separated from robe
+
+Origin: bhikkhus go travelling on a tour. They leave their sanghatis behind at
+the monastery, where the bhikkhus are burdened with having to keep sunning them
+to stop them from getting mouldy.
 
 **Object:** either one of the bhikkhu's *currently determined* three
 main robes, the *antaravāsaka* (sabong, lower robe), *uttarāsaṅga*

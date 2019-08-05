@@ -24,6 +24,11 @@ Giving an order fulfils effort. Result is a factor.
 Doesn't include animals smaller than visible to the naked eye. Doesn't
 include accidents (sweeping).
 
+Origin: Ven. Udayin is killing crows by shooting them with arrows, cutting their
+heads off and putting them in a row on a stake. The Buddha scolds him, "How can
+you, foolish man, intentionally deprive a living thing of life? ..." ([Vibh. Pc
+61](https://suttacentral.net/pli-tv-bu-vb-pc61/en/horner))
+
 ## Pc 20, Pouring water containing living beings
 
 Knowing they will die from pouring it. It can also include knowingly

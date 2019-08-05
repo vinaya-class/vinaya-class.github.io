@@ -14,7 +14,7 @@
 - [Attainments](08-attainments.md)
 - [Robes 2](09-robes-2.md)
 - [Misc](10-misc.md)
-- [Food 1 (stub)](11-food-1.md)
+- [Food 1](11-food-1.md)
 - [Money (stub)](12-money.md)
 - [Women 2 (stub)](13-women-2.md)
 - [Food 2](14-food-2.md)
@@ -30,6 +30,8 @@
 - [Robes 3 (stub)](24-robes-3.md)
 - [Arguments 3 (stub)](25-arguments-3.md)
 - [Misc](26-misc.md)
+
+[Profiles](99-profiles.md)
 
 [Questions](99-questions.md)
 

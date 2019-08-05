@@ -7,6 +7,9 @@
 
 Extreme of lying. Pc 1 - lying
 
+Origin: During a period of drought and famine, certain bhikkhus gain food for
+themselves by claiming spiritual attainments.
+
 **Object:** superior human state
 
 -   absorption, jhana

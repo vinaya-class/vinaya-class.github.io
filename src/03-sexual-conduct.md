@@ -7,10 +7,11 @@
 
 ![Pr-1](./includes/mindmaps/pr-1.png)
 
-- as a man with his head cut off cannot become one to live again
-- as a withered leaf separated from its stem cannot be joined again
-- as a flat stone that has been broken in half cannot be put together again
-- as a palmyra tree cut off at the crown is incapable of further growth.
+- "... For *that* action you would only suffer death, for *this* action you will suffer in hell.
+- As a man with his head cut off cannot become one to live again.
+- As a withered leaf separated from its stem cannot be joined again.
+- As a flat stone that has been broken in half cannot be put together again.
+- As a palmyra tree cut off at the crown is incapable of further growth."
 
 ## Sg 1, Intentional emission of semen
 
@@ -66,8 +67,11 @@ The duties during probation are the same as during penance, except:
 
 ### Sensual thoughts
 
-Sensual thoughts are not designated an offence, but they grow quickly and lead
-to one's downfall.
+Sensual thoughts are not designated a penalty, but they grow quickly and lead to
+one's downfall.
+
+> The thought occurred to the deva living in the sala tree ... "It's pleasant,
+> the touch of this maluva creeper's soft, tender, downy tendril." (MN 45)
 
 When reconizing that one has been caught up in a sensual fantasy, immediately
 visualizing *asubha* of the body can break up the lustful mental state.
@@ -76,11 +80,9 @@ Repeatedly training to notice the signs of *asubha* changes the unconscious
 habits of the dreaming mind as well.
 
 > Monks, if a sensual thought, a thought of ill-will, or a thought of harming
-> arises in a monk while walking (standing, sitting, lying down), and he
+> arises in a monk while walking, standing, sitting or lying down, and he
 > tolerates it, does not abandon it, dispel it, terminate it, and obliterate it,
 > then that monk is said to be devoid of ardour and wise fear of consequences;
-> he is constantly and continuously lazy and lacking in energy while walking
-> (standing, sitting, lying down).
->
-> *AN 4.11*
+> he is constantly and continuously lazy and lacking in energy while walking,
+> standing, sitting or lying down. (AN 4.11)
 

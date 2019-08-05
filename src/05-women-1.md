@@ -6,7 +6,14 @@
 -   **Pc 45,** Unsecluded but private place
 -   **Pc 67,** Travelling by arrangement with a woman
 
+![Women](./includes/mindmaps/women.png)
+
 ## Sg 5, Conveying romantic messages
+
+Origin: Ven. Udayin acts as a matchmaker between several families, some of whom
+didn't even know each other before. For some matches they praise him, for other
+matches they curse him. In one particular case they treat the girl like a slave,
+who repeatedly sends unhappy messages back to her family. ([Vib. Ss. 5](https://suttacentral.net/pli-tv-bu-vb-ss5/en/brahmali))
 
 Only two factors: effort and object.
 
@@ -35,6 +42,10 @@ business, a shrine, a sick person.
 
 ## Pc 6, Lying down with a woman
 
+Origin: Ven. Anuruddha stays at the house of a wealthy woman for a night. She
+approaches him, but he remains unmoved, and she leaves. There was no offence,
+but the rule is established to avoid similar situations.
+
 **Object:** Female human being, even a baby, one's relative or not.
 
 **Effort:** in the instant one lies down in the same dwelling when a
@@ -58,6 +69,12 @@ Non-offenses for roofed but no walls (pavilion) or walled but not roofed
 -->
 
 ## Pc 44, Private secluded place
+
+Origin: Ven. Upananda sat down with the wife of a friend on a private and
+concealed seat. Later, the husband complained and criticized him. The Buddha
+rebuked Ven. Upananda, "Foolish man, how can you sit in private on a concealed
+seat with a woman? This will not give rise to confidence in those without it..."
+([Vibh. Pc. 44](https://suttacentral.net/pli-tv-bu-vb-pc44/en/brahmali))
 
 The bhikkhu sits with a woman at a secluded place, private to the eye
 and ear, without another man present, aiming at privacy.
