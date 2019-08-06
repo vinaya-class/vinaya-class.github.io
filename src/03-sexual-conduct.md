@@ -13,6 +13,10 @@
 - As a flat stone that has been broken in half cannot be put together again.
 - As a palmyra tree cut off at the crown is incapable of further growth."
 
+<!-- latex
+\clearpage
+-->
+
 ## Sg 1, Intentional emission of semen
 
 ![Sg-1](./includes/mindmaps/sg-1.png)
@@ -20,12 +24,26 @@
 - "with the same hand you use to eat the gifts of the faithful"
 - trust and good will of the supporters, social contract
 
+Result is fulfiled when the semen enters the urinary tract, since at that point
+the process is irreversible, even when semen was not emitted, being blocked in
+some way.
+
 ### Probation and Penance
 
-Overview of the procedure after a Sanghadisesa offence, comparing the case of
-immediately informing and concealing:
-
+<!-- noexport_begin -->
 ![Sanghadisesa procedure](./includes/figures/sanghadisesa-procedure.png)
+<!-- noexport_end -->
+
+<!-- latex
+\enlargethispage*{4\baselineskip}
+\par
+\includemap[0.9\paperwidth]{../../src/includes/figures/sanghadisesa-procedure.png}
+\par
+\clearpage
+-->
+
+*(Figure: Overview of the procedure after a Sanghadisesa offence, comparing the
+case of immediately informing and concealing.)*
 
 One doesn't have to wait until one is certain about the offence, speaking to
 another bhikkhu about a doubtful situation will at least clear one's conscience

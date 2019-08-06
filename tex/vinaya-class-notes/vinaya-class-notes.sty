@@ -104,11 +104,11 @@
                {\endlist}
 
 \newlength\marginDiff
-\newcommand\includemap[1]{%
+\newcommand\includemap[2][0.98\paperwidth]{%
   {\centering
-  \setlength\marginDiff{0.98\paperwidth - \linewidth}
+  \setlength\marginDiff{#1 - \linewidth}
   \hspace*{-0.5\marginDiff}
-  \includegraphics[width=0.98\paperwidth]{#1}
+  \includegraphics[width=#1]{#2}
   \par}
 }
 

@@ -10,7 +10,15 @@
 
 ![Robes](./includes/mindmaps/robes.png)
 
+<!-- latex
+\vspace*{-2\baselineskip}
+-->
+
 ## NP 1, Keeping robe cloth for more than 10 days
+
+<!-- latex
+\enlargethispage{2\baselineskip}
+-->
 
 Origin: the Buddha sees monks carrying heaps of robes tied on their heads, backs
 and hips. He sits outside in February when snow was falling to determine how
@@ -88,6 +96,10 @@ There is no offence for accepting cloth when the donors are offering it
 for a different reason.
 
 ## NP 8, Request to improve robe
+
+<!-- latex
+\enlargethispage{2\baselineskip}
+-->
 
 An unrelated householder wishes to purchase robes for the bhikkhu, and
 he suggests purchasing a more expensive one.

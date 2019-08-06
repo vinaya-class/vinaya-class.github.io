@@ -9,6 +9,10 @@
 
 ![Food](./includes/mindmaps/food.png)
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 31, Public alms centre
 
 One may eat one meal at a public alms centre, not two or more days in a row.
@@ -62,17 +66,26 @@ disconnected from reality.
 next dawn.
 
 Relinquishing it to a novice or lay people, who may store and offer it later is
-allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata**.
+allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
 
 **Perception** about the food having been stored-up is not a factor.
 
 ### Non-offences
+
+<!-- latex
+\vspace*{-0.5\baselineskip}
+\enlargethispage*{2\baselineskip}
+-->
 
 - the act of storing it is not an offence, a bhikkhu may carry a lay person's
   food while travelling
 - no offence for telling an unordained person to store it
 - a designated food-store is allowed
 - no offence for setting food aside and consuming it withing the right period
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 40, Unoffered food
 
@@ -133,6 +146,10 @@ juice.
 - eating food which was cooked using alcohol
 - medicine containing a negligible amount of alcohol: the taste, color, and
   smell of the alcohol are not perceptible
+
+<!-- latex
+\clearpage
+-->
 
 ## Pd 4, In a forest dwelling
 

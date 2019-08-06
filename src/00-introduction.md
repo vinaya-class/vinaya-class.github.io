@@ -12,7 +12,8 @@
     pain, the first offender
 -   Common non-offences: unknowingly, unthinkingly, unintentionally
 -   4 Great Standards to judge modern cases
--   Min. 4 bhikkhus for Sangha actions and decisons
+-   Min. 4 bhikkhus for Sangha actions, decisons and Patimokkha
+-   Min. 5 bhikkhus for ordination and Kathina
 -   Ordination requires min. 5 bhikkhus
 -   Disrobe at free will but follow the correct procedure
 -   'Kor wat' house-rules per monastery

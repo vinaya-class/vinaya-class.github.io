@@ -135,11 +135,14 @@ to dawn, hence one may use a 7 day tonic *until the 7th dawn*.
 Confusion arises from "7 days" meaning either "for 7 days" (interval) or
 "on the 7th day" (ordinal).
 
+<!-- noexport_begin -->
+![7 days](./includes/figures/7-days.png)
+<!-- noexport_end -->
+
 <!-- latex
 \vspace*{\baselineskip}
+\includegraphics[width=\linewidth]{../../src/includes/figures/7-days.png}
 -->
-
-![7 days](./includes/figures/7-days.png)
 
 ### Breakfast tray
 
