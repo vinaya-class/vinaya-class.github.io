@@ -81,9 +81,62 @@ back at their apartment shortly.
 
 ## Robes 1
 
+A monk discovers that the seams of his cotton jacket under the arm-pit where the
+cloth was joined, have come apart. What should he do?
+
+Supporters wish to offer robe-cloth to the Community. They bring a sample, which
+is a white nylon material. Is there an offence in asking them to offer a better
+material?
+
+A monk receives a nice leather-belt from a friend. Is it allowable?
+
+A monk embroiders the sign of the Eye of Horus on his meditation blanket. Is it
+allowable?
+
+A monk takes some cloth from the stores to his kuti to make a sitting cloth. He
+forgets about it for a few weeks. Is there an offence?
+
+A monk is visiting home. His old friends invite him to the skate park. He puts
+on a pair of jeans and a black T-shirt to go and see if he can still do an
+ollie. Is there an offence?
+
+A monk is chosen by the community to receive the Kathina-robe. What are the
+eight Kathina duties? What is procedure when receiving the Kathina robe? What
+are the Kathina privileges?
+
 A monk is travelling by plane. He packs his sanghati in the hold luggage. After
 landing, his hold luggage is missing. He registers the missing luggage with the
-airport services, but has to leave without it.
+airport services, but has to leave without it. The airport delivers his luggage
+in a few days. What are his duties?
+
+## Attainments
+
+A monk says he can walk on water, but can't show it now because he would lose
+the ability. Is there an offence? Is he still a monk?
+
+A monk says he has a lot of metta but is still working on upekkha. Is there an
+offence?
+
+A lay supporter invites the monks for a meal: "May the venerable arahants come
+to my house tomorrow for a meal offering." Next day, a few of the monks go to
+his house to receive the offering. Is there an offence?
+
+A monk is seriously ill and a group of monks visit him. He says that he is not
+afraid of death. Is there an offence?
+
+## Robes 2
+
+A monk takes a tea-towel from the kitchen to his kuti. Should he bindu and
+determine it?
+
+A monk takes bits of left-over cloth from the sewing room and makes a
+belt-pouch. Should he bindu and determine it?
+
+## Food 1
+
+What is miso and why is it life-time?
+
+Is rice- or almod milk allowable in the afternoon?
 
 ## Food 2
 

@@ -6,6 +6,7 @@
 -   No physical punishment but procedures, forfeit, confession
 -   The Buddha established the rules one at a time
 -   Dhamma-Vinaya, Teaching and Discipline
+-   Self-motivated: the Vinaya can't stop evil, it aims to guide virtue
 -   Each rule includes its origin story, amendments and exceptions
 -   5 factors: object, effort, intention, perception, result
 -   Blanket exemptions: insane, possessed by spirits, delirious with

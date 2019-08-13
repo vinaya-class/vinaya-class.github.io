@@ -1,7 +1,7 @@
 <map version="freeplane 1.7.0">
 <!--To view this file, download free mind mapping software Freeplane from http://freeplane.sourceforge.net -->
 <node TEXT="Robes" LOCALIZED_STYLE_REF="AutomaticLayout.level.root" FOLDED="false" ID="ID_1447487346" CREATED="1563609031161" MODIFIED="1564058913456"><hook NAME="MapStyle">
-    <properties show_icon_for_attributes="true" fit_to_viewport="false;" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
+    <properties fit_to_viewport="false;" show_icon_for_attributes="true" show_note_icons="true" edgeColorConfiguration="#808080ff,#ff0000ff,#0000ffff,#00ff00ff,#ff00ffff,#00ffffff,#7c0000ff,#00007cff,#007c00ff,#7c007cff,#007c7cff,#7c7c00ff"/>
 
 <map_styles>
 <stylenode LOCALIZED_TEXT="styles.root_node" STYLE="oval" UNIFORM_SHAPE="true" VGAP_QUANTITY="24.0 pt">
@@ -85,7 +85,7 @@
 </map_styles>
 </hook>
 <hook NAME="accessories/plugins/AutomaticLayout.properties" VALUE="HEADINGS"/>
-<hook NAME="AutomaticEdgeColor" COUNTER="30" RULE="ON_BRANCH_CREATION"/>
+<hook NAME="AutomaticEdgeColor" COUNTER="31" RULE="ON_BRANCH_CREATION"/>
 <node TEXT="Receiving support and&#xa;maintaining requisites" POSITION="right" ID="ID_24188826" CREATED="1564907471672" MODIFIED="1564907782027">
 <edge COLOR="#00007c"/>
 <node TEXT="Robes are example cases for&#xa;being supported with a costly requisite" ID="ID_1484397320" CREATED="1563610146581" MODIFIED="1564907674434"/>
@@ -109,7 +109,7 @@
 <node TEXT="Determination" POSITION="left" ID="ID_427811584" CREATED="1563609217827" MODIFIED="1564906397698">
 <edge COLOR="#0000ff"/>
 <node TEXT="received cloth must be determined&#xa;for its purpose within 10 days" ID="ID_513206830" CREATED="1563609114647" MODIFIED="1564907735083"/>
-<node TEXT="robe cloth is at least 4x8 in" ID="ID_1306559938" CREATED="1563611045632" MODIFIED="1563611057856"/>
+<node TEXT="robe cloth is at least 10x20 cm (4x8 inch)" ID="ID_1306559938" CREATED="1563611045632" MODIFIED="1565675113204"/>
 <node ID="ID_714761047" CREATED="1563609327415" MODIFIED="1564906768161"><richcontent TYPE="NODE">
 
 <html>
@@ -125,7 +125,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node ID="ID_1003557107" CREATED="1563609261640" MODIFIED="1564906636235"><richcontent TYPE="NODE">
@@ -143,7 +142,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 </node>
 <node TEXT="the cloth loses its determination&#xa;when it develops a hole" ID="ID_1038447627" CREATED="1563611543757" MODIFIED="1563611559673"/>
@@ -151,6 +149,8 @@
 <node TEXT="Separated" POSITION="left" ID="ID_6028792" CREATED="1563609515008" MODIFIED="1564906394052">
 <edge COLOR="#00ff00"/>
 <node TEXT="the three main robes have to be with&#xa;the bhikkhu within &apos;the same area&apos; at dawn" ID="ID_1107229487" CREATED="1563609543206" MODIFIED="1564907749608"/>
+<node TEXT="eka-kula: one family, one person&#xa;being in charge, clear boundary" ID="ID_21354139" CREATED="1565675539878" MODIFIED="1565675567415"/>
+<node TEXT="Thai kutis: hatthapasa around the kuti&#xa;when alone, hatthapasa around the bhikkhu&#xa;when somebody else is present" ID="ID_1996533252" CREATED="1565675132655" MODIFIED="1565675197277"/>
 </node>
 <node POSITION="left" ID="ID_1183342425" CREATED="1563610810825" MODIFIED="1564906419221"><richcontent TYPE="NODE">
 
@@ -167,7 +167,6 @@
     </p>
   </body>
 </html>
-
 </richcontent>
 <edge COLOR="#0000ff"/>
 <node TEXT="if giving it to the stores,&#xa;another bhikkhu might take it" ID="ID_466578719" CREATED="1563610881622" MODIFIED="1563610910625"/>
@@ -176,6 +175,12 @@
 <node TEXT="Pavarana:&#xa;invitation to ask" POSITION="left" ID="ID_1163261219" CREATED="1564909094956" MODIFIED="1564909145562">
 <edge COLOR="#007c00"/>
 <node TEXT="four months, unless&#xa;renewed or permanent" ID="ID_743801522" CREATED="1564909149824" MODIFIED="1564909210641"/>
+</node>
+<node TEXT="Formal&#xa;meetings" POSITION="left" ID="ID_1954638501" CREATED="1565675259497" MODIFIED="1565675269333">
+<edge COLOR="#7c007c"/>
+<node TEXT="uposatha, kathina, ordination,&#xa;other sanghakamma" ID="ID_566677598" CREATED="1565675370141" MODIFIED="1565675395495"/>
+<node TEXT="ECM: bhikkhus should wear their&#xa;three main robes on meetings" ID="ID_1985078436" CREATED="1565675270651" MODIFIED="1565675672505"/>
+<node TEXT="but a sanghakamma is&#xa;still valid if they don&apos;t" ID="ID_1472325927" CREATED="1565675300246" MODIFIED="1565675356746"/>
 </node>
 </node>
 </map>

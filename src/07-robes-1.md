@@ -28,14 +28,18 @@ excess, and allows further cloth to be placed under shared ownership.
 
 Encouraging modesty to avoid hoarding requisites.
 
-**Object:** a piece of cloth which *could* be used for making part of a
-robe, at least 4 x 8 inches.
-
-It has to be a suitable material for *bhikkhus*. Leather is unsuitable.
-Black, blue, crimson are not suitable colours for a robe.
+**Object:** a piece of cloth which *could* be used for making part of a robe, at
+least 10 x 20 cm (4 x 8 in). It has to be a suitable material for *bhikkhus*.
+Leather is unsuitable. Black, blue, crimson are not suitable colours for a robe.
 
 **Effort:** keeping it for more than ten days without determining it for
 use.
+
+*Making a robe:* they can use cloth from the stores to make a robe for the
+community, and later request it during a formal meeting such as *uposatha*.
+
+Or, they may determine the plain cloth before the sewing project and
+re-determine the finished item later.
 
 **Perception** is not a factor, mis-counting the days is not an excuse.
 
@@ -70,13 +74,30 @@ area' than where one's robes are located.
 room, building, or the monastery grounds, depending on the local
 *kor-wat*.
 
-Exception during the robe-season, if one is eligible for *kathina*
+*Eka-kula*: 'one family', or one roof, where one person is in charge, with a
+clear boundary.
+
+*Thai kutis*: when the bhikkhu is alone, the area is his kuti and hatthapasa
+around it. When somebody else is present, hattapasa from his body.
+
+Exception during the robe-season, if one is eligible for *kathina**
 privileges, and unless one has relinquished those privileges.
+
+**Formal meetings:**
+
+By ECM custom, bhikkhus should be present with their three main robes on formal
+meetings (e.g. uposatha, kathina, ordination).
+
+Nonetheless, *sanghakamma* would be still valid without bhikkhus having their
+three robes.
 
 ## NP 3, Out of season robe cloth
 
-Extra robe-cloth may be kept for up to 30 days, when it is not enough
-for a robe, and one is expecting to receive more cloth later.
+One may receive robes at any time, but keep it undetermined for only 10 days
+outside the robe-season.
+
+This rule allows extra robe-cloth to be kept for up to 30 days, when it is not
+enough for a robe, and one is expecting to receive more cloth later.
 
 ## NP 6, Asking for robe cloth
 

@@ -53,13 +53,27 @@ wears on the body.
 ## Pc 89-92, Proper robe sizes
 
 <!-- latex
-\enlargethispage{\baselineskip}
+\enlargethispage{2\baselineskip}
+-->
+
+One *sugata span*: uncertain value, but taken as 25 cm in the BMC.
+
+<!-- latex
+\begin{multicols}{2}
 -->
 
 *Pc 89*, sitting cloth: 2 x 1.5 span + 1 span border
 
 *Pc 90*, skin-eruption cloth: 4 x 2 span
 
+<!-- latex
+\columnbreak
+-->
+
 *Pc 91*, rains-bathing cloth: 6 x 2.5 span
 
 *Pc 92*, robe: 9 x 6 span
+
+<!-- latex
+\end{multicols}
+-->
