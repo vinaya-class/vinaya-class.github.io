@@ -30,9 +30,9 @@ some way.
 
 ### Probation and Penance
 
-<!-- noexport_begin -->
+<!-- noexport_latex_begin -->
 ![Sanghadisesa procedure](./includes/figures/sanghadisesa-procedure.png)
-<!-- noexport_end -->
+<!-- noexport_latex_end -->
 
 <!-- latex
 \enlargethispage*{4\baselineskip}

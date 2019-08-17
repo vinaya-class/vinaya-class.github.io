@@ -67,8 +67,13 @@ main robes, the *antaravāsaka* (sabong, lower robe), *uttarāsaṅga*
 This rule doesn't apply to other cloth requisites, such as a work-sabong
 or an old jiwon used as a bedsheet.
 
-**Effort:** at dawnrise (civil twilight), being outside of 'the same
-area' than where one's robes are located.
+**Effort:** at dawnrise, being outside of 'the same area' than where one's robes
+are located.
+
+*Dawnrise* may be determined by stretching one's hand out and seeing the lines
+on one's palm, or by seeing the green colour of the leaves. This approximately
+corresponds to the time of *nautical twilight*, the Sun being 12 to 6 degrees
+under the horizon.
 
 '*The same area*' may be within *hatthapasa* (arm's reach), in the same
 room, building, or the monastery grounds, depending on the local
@@ -90,6 +95,10 @@ meetings (e.g. uposatha, kathina, ordination).
 
 Nonetheless, *sanghakamma* would be still valid without bhikkhus having their
 three robes.
+
+<!-- latex
+\clearpage
+-->
 
 ## NP 3, Out of season robe cloth
 

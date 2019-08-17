@@ -4,11 +4,11 @@
 - **NP 25,** Snatching back robe
 - **Pc 59,** Using cloth or bowl under shared ownership
 
-<!-- noexport_begin -->
+<!-- noexport_latex_begin -->
 ![Pr-2](./includes/mindmaps/pr-2.png)
 
 ![Pr-2-Effort](./includes/mindmaps/pr-2-effort.png)
-<!-- noexport_end -->
+<!-- noexport_latex_end -->
 
 <!-- latex
 \enlargethispage*{4\baselineskip}

@@ -36,7 +36,7 @@ used by oneself or any other bhikkhu.
 **Mixing:** The mixture takes on the shortest lifetime of the
 ingredients. (Mv. VI.40.3.)
 
-<!-- noexport_begin -->
+<!-- noexport_latex_begin -->
 
 <table>
   <tbody>
@@ -103,7 +103,7 @@ ingredients. (Mv. VI.40.3.)
   </tbody>
 </table>
 
-<!-- noexport_end -->
+<!-- noexport_latex_end -->
 
 <!-- latex
 \begin{center}
@@ -135,9 +135,9 @@ to dawn, hence one may use a 7 day tonic *until the 7th dawn*.
 Confusion arises from "7 days" meaning either "for 7 days" (interval) or
 "on the 7th day" (ordinal).
 
-<!-- noexport_begin -->
+<!-- noexport_latex_begin -->
 ![7 days](./includes/figures/7-days.png)
-<!-- noexport_end -->
+<!-- noexport_latex_end -->
 
 <!-- latex
 \vspace*{\baselineskip}
