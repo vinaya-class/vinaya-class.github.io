@@ -95,6 +95,12 @@ before lighting a fire.
 
 Lighting a fire in the sauna is not an offence.
 
+There is no offence for lighting a for a purpose other than warming oneself,
+such as boiling water or burning dead leaves or firing a bowl.
+
+On living soil there can be Pc 10, on living plants there can be Pc 11. Using a
+tin can to light the fire in can avoid this.
+
 <!-- latex
 \end{multicols}
 -->

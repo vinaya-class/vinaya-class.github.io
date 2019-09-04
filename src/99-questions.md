@@ -144,8 +144,13 @@ What is the lifetime of the following items?
 
 - Fruit juice in tetra-pack
 - Unsweetened soya milk
+- Margarine (from veg. oil)
+- Butter (dairy)
+- Fried onions
 - Coca-Cola
 - Cheese with red pepper spicing
 - Cheese with onion pieces
 - Coffee-mate powder
+- Carrot juice
+- Jelly
 
