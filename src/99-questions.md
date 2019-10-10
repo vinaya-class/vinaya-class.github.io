@@ -138,6 +138,10 @@ What is miso and why is it life-time?
 
 Is rice- or almod milk allowable in the afternoon?
 
+A bhikkhu opens a box of fruit-juice and drinks some of it, leaving the
+half-full box on the table. The next day, another bhikkhu sees the box of juice
+and drinks the remaining part. Are there offences, for either bhikkhu?
+
 ## Food 2
 
 What is the lifetime of the following items?
@@ -152,5 +156,6 @@ What is the lifetime of the following items?
 - Cheese with onion pieces
 - Coffee-mate powder
 - Carrot juice
+- Chewing-gum
 - Jelly
 
