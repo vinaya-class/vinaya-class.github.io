@@ -3,7 +3,7 @@
 \newif\ifshowpresentedby
 \newif\ifshowsession
 \newif\ifshowsessiondate
-\newif\ifshowpartdate
+\newif\ifshowsectiondate
 
 \usepackage{pgfopts}
 
@@ -13,12 +13,12 @@
     showsession = true,
     showpresentedby = false,
     showsessiondate = false,
-    showpartdate = true,
+    showsectiondate = false,
   },
   showsession/.is if = showsession,
   showpresentedby/.is if = showpresentedby,
   showsessiondate/.is if = showsessiondate,
-  showpartdate/.is if = showpartdate,
+  showsectiondate/.is if = showsectiondate,
 }
 
 \pgfkeys{/BOOK, defaults}
@@ -189,32 +189,47 @@
 
 \setsecheadstyle{\sectionFmt}
 
+\newif\ifcenteringsection
+\centeringsectionfalse
+
+\newif\ifnumberedtopics
+\numberedtopicsfalse
+\newcounter{topic}
+
+\newcommand\sectionDate{%
+  {\fontawesomeFont \symbol{"F073}}%
+  \hspace*{0.5em}%
+  \raisebox{-2pt}{\rule{5em}{0.4pt}}%
+}
+
 \newcommand\sectionFmt[1]{{%
-  \barlowFont\large%
-  \memRTLraggedright%
-  \parbox{5em}{#1}%
-  \hfill
-  \ifshowpartdate
-    {\fontawesomeFont \symbol{"F073}}%
-    \hspace*{0.5em}%
-    \raisebox{-2pt}{\rule{5em}{0.4pt}}%
+  \barlowFont\fontsize{10}{13}\bfseries\selectfont%
+  \ifcenteringsection
+    \centering
+  \else
+    \memRTLraggedright
   \fi
-  \hspace*{2em}%
+  \parbox{15em}{%
+    \ifcenteringsection
+      \centering
+    \fi
+    {\upshape\fontawesomeFont \symbol{"F138}}\hspace*{0.5em}%
+    \ifnumberedtopics
+      \addtocounter{topic}{1}%
+      \thetopic.\hspace{0.5em}%
+    \fi
+    #1%
+  }%
+  \ifshowsectiondate
+    \hfill
+    \sectionDate
+    \hspace*{2em}%
+  \fi
 }}
 
-%\setbeforesecskip{0.5\onelineskip}%
-\setbeforesecskip{0pt}%
-\setaftersecskip{0.5\onelineskip}%
-
-\setsubsecheadstyle{\subsectionFmt}%
-
-\newcommand\subsectionFmt[1]{{%
-  \barlowFont\memRTLraggedright\bfseries
-  {\upshape\fontawesomeFont \symbol{"F138}}\hspace*{0.5em} #1%
-}}
-
-\setbeforesubsecskip{0.5\onelineskip}%
-\setaftersubsecskip{0.2\onelineskip}%
+%\setbeforesecskip{5pt plus0pt minus5pt}%
+\setbeforesecskip{0.5\onelineskip}%
+\setaftersecskip{0.2\onelineskip}%
 
 \artopttrue
 

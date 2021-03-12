@@ -5,7 +5,7 @@
 -   **Sg 9,** Distorting evidence
 -   **Pc 76,** Unfounded sanghadisesa accusation
 -   **NP 30,** Diverting an offering for oneself
--   **Pc 82,** Diverting an offering for oneself
+-   **Pc 82,** Diverting an offering for a lay person
 
 ## Pc 1, Intentional lie
 
@@ -70,6 +70,10 @@ a statement.
 -   speaking in haste (unconsidered)
 -   slip of the tongue (stupidity or carelessness)
 
+<!-- latex
+\clearpage
+-->
+
 ### Jokes
 
 Humorous, witty remarks which are true statements are not criticized
@@ -91,10 +95,6 @@ A novice asks a bhikkhu:
 
 -   Have you seen my preceptor?
 -   Your preceptor's probably gone, yoked to a firewood cart.
-
-<!-- latex
-\clearpage
--->
 
 A novice, on hearing the yapping of hyenas:
 

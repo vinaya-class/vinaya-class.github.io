@@ -1,10 +1,14 @@
 # Food 2
 
 -   **NP 23,** Over-kept tonics
--   **Pc 39,** Requesting finer staple foods
--   **Pc 47,** Exceeding an invitation
+-   **Pc 31,** Public alms centre
+-   **Pc 32,** Four bhikkhus specifically invited
+-   **Pc 33,** Meal before invitation
+-   **Pc 34,** More than three bowlfuls
+-   **Pc 35,** More food after turning down what was offered
+-   **Pc 36,** Tricking to break Pc 35
 -   **Pc 41,** Handing food to members of other religions
--   **Pd 3,** Protected families
+-   **Pc 47,** Exceeding an invitation
 
 ## NP 23, Over-kept tonics
 
@@ -29,8 +33,10 @@ used by oneself or any other bhikkhu.
 
 <!-- latex
 \end{multicols}
-\par
-\enlargethispage{2\baselineskip}
+-->
+
+<!-- latex
+\clearpage
 -->
 
 **Mixing:** The mixture takes on the shortest lifetime of the
@@ -123,10 +129,6 @@ f. & lifetime medicine & rec. sometime & + & 7d tonic & rec. sometime & \(\right
 \end{center}
 -->
 
-<!-- latex
-\clearpage
--->
-
 ### 7 days
 
 *Sattāha paramaṃ*, "up to seven days". The Vinaya counts days from dawn
@@ -169,38 +171,35 @@ Pc 38 (eating stored food).
 \clearpage
 -->
 
-## Pc 39, Requesting finer staple foods
+## Pc 31, Public alms centre
 
-Finer staple foods: ghee, fresh butter, oil, honey, sugar, fish, meat,
-milk, curds.
+One may eat one meal at a public alms centre, not two or more days in a row.
 
-Object, effort, result.
+Origin: the group of six feel tired of almsround and keep going to the same
+public kitchen.
 
-Sk 37 covers non-fine staples: "Not being ill, I will not eat rice or
-bean curry that I have requested for my own sake: a training to be
-observed."
+Soup kitchens, homeless shelters, etc. Any place where all comers are offered
+food free of charge.
 
-Hence, dukkata for requesting and consuming other staple foods, except
-when one is ill.
+### Non-offences
 
-### Non-offenses
+- one is invited by the owners
+- being ill (not being able to leave)
+- the food is intended for bhikkhus
+- the centre limits the amount of food one may take (thus being able to censure
+  a greedy person)
 
-*Not ill:* one is able to fare comfortably without these foods.
+## Pc 32
+## Pc 33
+## Pc 34
+## Pc 35
+## Pc 36
+## Pc 41, Handing food to members of other religions
 
-<!-- latex
-\begin{multicols}{2}
--->
+One places oneself in the position of the followers of other religions.
 
--   being ill
--   was requested for the sake of an ill bhikkhu, and is now left over
--   from relatives
--   from those who gave invitation to ask
--   for the sake of another
--   from one's own resources
-
-<!-- latex
-\end{multicols}
--->
+It is not an offense to prepare food in a tray and placing it so that
+they can help themselves.
 
 ## Pc 47, Exceeding an invitation
 
@@ -226,32 +225,3 @@ permanent invitation.
 "The time period for which we were invited has passed, but we have need
 of medicine."
 
-## Pc 41, Handing food to members of other religions
-
-One places oneself in the position of the followers of other religions.
-
-It is not an offense to prepare food in a tray and placing it so that
-they can help themselves.
-
-## Pd 3, Protected families
-
-The purpose is to avoid damaging the faith of those supporters who might
-suffer financially if they give too much.
-
-### Non-offenses
-
-<!-- latex
-\begin{multicols}{2}
--->
-
--   being ill
--   invited
--   juice, tonics, medicines
--   the almsfood is supplied by others
--   the family members take turns
--   eating the leftovers of another bhikkhu
--   the family offers outside their residence
-
-<!-- latex
-\end{multicols}
--->

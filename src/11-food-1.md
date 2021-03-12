@@ -1,10 +1,11 @@
 # Food 1
 
--   **Pc 31,** Public alms centre
 -   **Pc 37,** Eating at the wrong time
 -   **Pc 38,** Stored food
+-   **Pc 39,** Requesting finer staple foods
 -   **Pc 40,** Unoffered food
 -   **Pc 51,** Intoxicants
+-   **Pd 3,** Protected families
 -   **Pd 4,** In a forest dwelling
 
 ![Food](./includes/mindmaps/food.png)
@@ -12,24 +13,6 @@
 <!-- latex
 \clearpage
 -->
-
-## Pc 31, Public alms centre
-
-One may eat one meal at a public alms centre, not two or more days in a row.
-
-Origin: the group of six feel tired of almsround and keep going to the same
-public kitchen.
-
-Soup kitchens, homeless shelters, etc. Any place where all comers are offered
-food free of charge.
-
-### Non-offences
-
-- one is invited by the owners
-- being ill (not being able to leave)
-- the food is intended for bhikkhus
-- the centre limits the amount of food one may take (thus being able to censure
-  a greedy person)
 
 ## Pc 37, Eating at the wrong time
 
@@ -85,6 +68,39 @@ allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
 
 <!-- latex
 \clearpage
+-->
+
+## Pc 39, Requesting finer staple foods
+
+Finer staple foods: ghee, fresh butter, oil, honey, sugar, fish, meat,
+milk, curds.
+
+Object, effort, result.
+
+Sk 37 covers non-fine staples: "Not being ill, I will not eat rice or
+bean curry that I have requested for my own sake: a training to be
+observed."
+
+Hence, dukkata for requesting and consuming other staple foods, except
+when one is ill.
+
+### Non-offenses
+
+*Not ill:* one is able to fare comfortably without these foods.
+
+<!-- latex
+\begin{multicols}{2}
+-->
+
+-   being ill
+-   was requested for the sake of an ill bhikkhu, and is now left over
+-   from relatives
+-   from those who gave invitation to ask
+-   for the sake of another
+-   from one's own resources
+
+<!-- latex
+\end{multicols}
 -->
 
 ## Pc 40, Unoffered food
@@ -147,10 +163,28 @@ juice.
 - medicine containing a negligible amount of alcohol: the taste, color, and
   smell of the alcohol are not perceptible
 
+## Pd 3, Protected families
+
+The purpose is to avoid damaging the faith of those supporters who might
+suffer financially if they give too much.
+
+### Non-offenses
+
 <!-- latex
-\clearpage
+\begin{multicols}{2}
 -->
 
+-   being ill
+-   invited
+-   juice, tonics, medicines
+-   the almsfood is supplied by others
+-   the family members take turns
+-   eating the leftovers of another bhikkhu
+-   the family offers outside their residence
+
+<!-- latex
+\end{multicols}
+-->
 ## Pd 4, In a forest dwelling
 
 When a bhikkhu is living in a dwelling in a remote and dangerous area, the
