@@ -1,15 +1,24 @@
 \ProvidesPackage{schedule}
 
 \newif\ifshowpresentedby
+\newif\ifshowsession
+\newif\ifshowsessiondate
+\newif\ifshowpartdate
 
 \usepackage{pgfopts}
 
 \pgfkeys{
   /BOOK/.is family, /BOOK,
   defaults/.style = {
+    showsession = true,
     showpresentedby = false,
+    showsessiondate = false,
+    showpartdate = true,
   },
+  showsession/.is if = showsession,
   showpresentedby/.is if = showpresentedby,
+  showsessiondate/.is if = showsessiondate,
+  showpartdate/.is if = showpartdate,
 }
 
 \pgfkeys{/BOOK, defaults}
@@ -37,11 +46,19 @@
 
 \newfontfamily\fontawesomeFont{FontAwesome.otf}
 
+\newfontfamily\barlowFont[
+  ItalicFont = Barlow-Italic.ttf,
+  BoldFont = Barlow-Bold.ttf,
+]{Barlow-Regular.ttf}
+
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{calc}
 \usepackage{enumitem}
 \usepackage{multicol}
+
+\usepackage{tikz}
+\usetikzlibrary{shapes.geometric}
 
 \usepackage{hyperxmp}
 \usepackage{hyperref}
@@ -128,6 +145,7 @@
 }
 \fi
 
+\ifshowsession
 \makechapterstyle{class-schedule}{%
   \chapterstyle{default}
   \renewcommand*{\chapterheadstart}{}
@@ -141,28 +159,59 @@
       \parbox{\linewidth}{%
         \memRTLraggedright
         {\crimsonOldStyleFont\LARGE\scshape\MakeTextLowercase{##1}}%
-        \hspace*{1em}%
-        \begin{minipage}{3cm}%
-          \small\scshape
-          {\fontawesomeFont \symbol{"F073}}%
-          \hspace*{0.5em}%
-          Date:
-        \end{minipage}% 
+        \ifshowsessiondate
+          \hspace*{2em}%
+          \begin{minipage}{3cm}%
+            \barlowFont\normalsize
+            {\fontawesomeFont \symbol{"F073}}%
+            \hspace*{0.5em}%
+            Date:
+          \end{minipage}% 
+        \fi
     }}%
   }
   \renewcommand*{\afterchaptertitle}{}%
 }
+\else
+\makechapterstyle{class-schedule}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{}
+  \renewcommand*{\printchaptertitle}[1]{}
+  \renewcommand*{\afterchaptertitle}{}%
+}
+\fi
 
 \chapterstyle{class-schedule}
 
-\setsecheadstyle{\large\normalfont\memRTLraggedright\scshape}%
+\setsecheadstyle{\sectionFmt}
+
+\newcommand\sectionFmt[1]{{%
+  \barlowFont\large%
+  \memRTLraggedright%
+  \parbox{5em}{#1}%
+  \hfill
+  \ifshowpartdate
+    {\fontawesomeFont \symbol{"F073}}%
+    \hspace*{0.5em}%
+    \raisebox{-2pt}{\rule{5em}{0.4pt}}%
+  \fi
+  \hspace*{2em}%
+}}
 
 %\setbeforesecskip{0.5\onelineskip}%
 \setbeforesecskip{0pt}%
 \setaftersecskip{0.5\onelineskip}%
 
-\setsubsecheadstyle{\normalfont\memRTLraggedright\bfseries
-  {\upshape\fontawesomeFont \symbol{"F138}}\hspace*{0.5em}}%
+\setsubsecheadstyle{\subsectionFmt}%
+
+\newcommand\subsectionFmt[1]{{%
+  \barlowFont\memRTLraggedright\bfseries
+  {\upshape\fontawesomeFont \symbol{"F138}}\hspace*{0.5em} #1%
+}}
 
 \setbeforesubsecskip{0.5\onelineskip}%
 \setaftersubsecskip{0.2\onelineskip}%
@@ -178,5 +227,25 @@
 \aliaspagestyle{title}{normalpage}
 \aliaspagestyle{chapter}{normalpage}
 \pagestyle{normalpage}
+
+\newcommand\numberbullet[1]{%
+  \raisebox{-2.5pt}{\tikz{\node[
+    circle, fill=black, line width=0pt, minimum width=0.5em, inner sep=2pt]
+    {\barlowFont\bfseries\fontsize{8}{8}\selectfont\color{white} #1};
+  }}%
+}
+
+\newcommand\lozenge{%
+  \raisebox{-2.5pt}{\tikz{\node[
+      diamond, minimum height=8pt, minimum width=4pt, fill=black, line width=0pt, inner sep=0pt,
+    ]{};
+  }}%
+}
+
+\newcommand\orig{%
+  \raisebox{3.5pt}{%
+    \barlowFont\bfseries\fontsize{8}{8}\selectfont\color{black}\textasteriskcentered
+  }%
+}
 
 \usepackage[final,babel=true]{microtype}

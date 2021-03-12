@@ -1,0 +1,87 @@
+\documentclass[10pt]{article}
+
+\usepackage{geometry}
+\geometry{
+  a5paper,
+  landscape,
+  nohead,
+  nofoot,
+  vmargin = 0pt,
+  hmargin = 0pt,
+}
+
+\usepackage{multicol}
+\usepackage{array}
+\usepackage{tabularx}
+\usepackage{booktabs}
+\usepackage{colortbl}
+\usepackage{xcolor}
+
+% https://tex.stackexchange.com/questions/33758/professional-looking-tables-with-alternating-row-colors/33761#33761
+
+\colorlet{tableheadcolor}{gray!35}
+\newcommand{\headcol}{\rowcolor{tableheadcolor}}
+\colorlet{tablerowcolor}{gray!20}
+\newcommand{\Arowcol}{\rowcolor{white}}
+\newcommand{\Browcol}{\rowcolor{tablerowcolor}}
+
+\newcommand{\topline}{\arrayrulecolor{tableheadcolor}\specialrule{7mm}{\abovetopsep}{0pt}%
+            \arrayrulecolor{black}}
+\newcommand{\midline}{\arrayrulecolor{tableheadcolor}\specialrule{\aboverulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}\specialrule{\lightrulewidth}{0pt}{0pt}%
+            \arrayrulecolor{white}\specialrule{\belowrulesep}{0pt}{0pt}%
+            \arrayrulecolor{black}}
+\newcommand{\bottomline}{\arrayrulecolor{white}\specialrule{5mm}{0pt}{0pt}%
+            \arrayrulecolor{black}}%
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
+
+\setmainfont[
+  ItalicFont = Barlow-Italic.ttf,
+  BoldFont = Barlow-Bold.ttf,
+]{Barlow-Regular.ttf}
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+\newcommand\td[1]{\parbox{\linewidth}{\fontsize{9}{9}\selectfont #1}}
+
+\pagestyle{empty}
+
+\begin{document}
+
+\pagecolor{tableheadcolor}
+
+\renewcommand\arraystretch{1.40}
+
+\begin{tabularx}{60em}{p{6em} p{0.45em} p{15em} p{10em} p{9em} p{13em}}
+  \topline
+  \headcol \hspace*{4mm} Date & \multicolumn{2}{l}{Class / Part} & Presenting Rules & Origin Stories & Quiz Questions \\
+  \midline
+  \Arowcol & \td{1.}  & \td{/ Introduction}                       & & & \\
+  \Browcol & \td{2.}  & \td{/ 1. Killing and harming}             & & & \\
+  \Arowcol &          & \td{/ 2. Stealing}                        & & & \\
+  \Browcol & \td{3.}  & \td{/ 3. Sexual conduct, Lustful conduct} & & & \\
+  \Arowcol &          & \td{/ 4. Women 1}                         & & & \\
+  \Browcol & \td{4.}  & \td{/ 5. Attainments, False Speech}       & & & \\
+  \Arowcol &          & \td{/ 6. Robes 1}                         & & & \\
+  \Browcol & \td{5.}  & \td{/ 7. Kiccavatta}                      & & & \\
+  \Arowcol &          & \td{/ 8. Misc}                            & & & \\
+  \Browcol & \td{6.}  & \td{/ 9. Food 1}                          & & & \\
+  \Arowcol &          & \td{/ 10. Food 2}                         & & & \\
+  \Browcol & \td{7.}  & \td{/ 11. Money}                          & & & \\
+  \Arowcol &          & \td{/ 12. Arguments 1}                    & & & \\
+  \Browcol & \td{8.}  & \td{/ 13. Arguments 2}                    & & & \\
+  \Arowcol &          & \td{/ 14. Arguments 3}                    & & & \\
+  \Browcol & \td{9.}  & \td{/ 15. Dwellings}                      & & & \\
+  \Arowcol &          & \td{/ 16. Bowls, Women 2}                 & & & \\
+  \Browcol & \td{10.} & \td{/ 17. Misc}                           & & & \\
+  \Arowcol &          & \td{/ 18. Sekhiyas 1, Excuses}            & & & \\
+  \Browcol & \td{11.} & \td{/ 19. Sekhiyas 2, Robes 2}            & & & \\
+  \Arowcol &          & \td{/ 20. Misc}                           & & & \\
+  \Browcol &          & \td{/ Closing}                            & & & \\
+  \bottomline
+\end{tabularx}
+
+\end{document}

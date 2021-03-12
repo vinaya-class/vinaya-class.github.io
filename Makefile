@@ -1,4 +1,4 @@
-all: chapters-to-tex vinaya-class-notes-pdf chanting-refcard-pdf schedule-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf robe-keeping-pdf
+all: chapters-to-tex vinaya-class-notes-pdf chanting-refcard-pdf schedule-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf
 
 dist:
 	./scripts/dist.sh
@@ -18,6 +18,9 @@ chanting-refcard-pdf:
 
 schedule-pdf:
 	./scripts/compile_tex.sh ./tex/schedule/schedule.tex
+
+sign-up-sheet-pdf:
+	./scripts/compile_tex.sh ./tex/schedule/sign-up-sheet.tex
 
 vinayakamma-chart-pdf:
 	./scripts/compile_tex.sh ./tex/vinayakamma-chart/vinayakamma-chart.tex
