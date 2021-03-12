@@ -159,3 +159,7 @@ What is the lifetime of the following items?
 - Chewing-gum
 - Jelly
 
+A monk on tudong receives some cheese on alms-round, which he keeps for later.
+The next day on alms-round, he receives some bread. He makes a sandwich, using
+the cheese from the day before and eats it. Is there an offence?
+

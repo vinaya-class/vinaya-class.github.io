@@ -9,6 +9,15 @@
 -   **Pc 66,** Travelling by arrangement with thieves
 -   **Pc 84,** Picking up a valuable
 
+
+## Note
+
+- Pc 2 and 3 are 'conflict, bad speech, argument'
+- Pc 46, 85 are 'relationship with supporters'
+- Pc 56, 57 are 'wastefulness, carelessness with resources'
+- Pc 66 is 'travel'
+- Pc 84 is 'not a monk's business'
+
 ## Pc 2, Insult
 
 <!-- latex
@@ -25,7 +34,17 @@ are *dukkata*.
 Critical or joking remarks on the ten topics, when not meant as an
 insult, are *dubbhasita*.
 
+Dubbhasita could be translated as *bad joke* or *malicios speech*.
+
 Indirect- or insinuating remarks, if meant as an insult, are *dukkata*.
+
+Overheard or implied insults are just as painful and damaging.
+
+Telling it to someone else is *dukkata*. Drinking-buddy relationship.
+
+<!-- latex
+% Note the other person will know this is how you treat others behind their back.
+-->
 
 **Non-offenses:** aiming at Dhamma, aiming at the person's benefit.
 
@@ -36,11 +55,14 @@ Indirect- or insinuating remarks, if meant as an insult, are *dukkata*.
 ## Pc 3, Telling a bhikkhu about an insult
 
 One hears remarks about a bhikkhu in the ten topics, and one repeats it
-to another.
+to another. Called 'bad-mouthing'.
 
 Hoping to cause a rift, loss of respect, etc.
 
 False tale-bearing is Pc 1.
+
+Not an offence: informing the abbot about a difficult situation, hoping for a
+good outcome, not for causing a rift.
 
 ## Pc 46, Visiting families without informing
 
@@ -52,6 +74,13 @@ Right times: the robe season, or when one is making a robe.
 
 The principle of Pc 46 and Pc 85 is to stop bhikkhus spending their time
 in inappropriate ways at lay people's homes.
+
+Civara-dana and civara-kara samayo is the same time, robe-season (?).
+
+Keeping people informed about what are you doing.
+
+'Your family' are the people who feel they can refuse your request and tell you
+to go away.
 
 ## Pc 85, Entering a village without informing
 
@@ -71,7 +100,14 @@ Treating the response with disrespect is Pc 54.
 "Vikāle gāmappa-vesanaṃ āpucchāmi."\
 "Vou à cidade na hora errada."\
 "A városba megyek a rossz időben."\
+"Je vais au ville pendant la mauvais periode."\
 "I am going into the village at the wrong time."
+
+Applies during the whole year, but during the Vassa it also breaks the
+determination.
+
+Example: you go to town for some purpose, have an accident, and wake up in the
+hospital next morning. Vassa is broken.
 
 <!-- latex
 \end{multicols}
@@ -101,6 +137,15 @@ such as boiling water or burning dead leaves or firing a bowl.
 On living soil there can be Pc 10, on living plants there can be Pc 11. Using a
 tin can to light the fire in can avoid this.
 
+Can also light a fire where the ground is burnt already, such as a burning area.
+
+Put down rocks, put the tin can on the rocks.
+
+
+Note: disadvantes of a bonfire.
+
+Running the heater needlessly: wastefulness.
+
 <!-- latex
 \end{multicols}
 -->
@@ -112,6 +157,13 @@ hot springs. They saw the king, but kept bathing until nightfall. When
 the king finished, the city gates were already locked.
 
 The original formulation was later relaxed.
+
+Taking a long shower while others are waiting, or showering like a lobster:
+carelessness, wastefulness.
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 66, Travelling by arrangement with thieves
 
@@ -140,4 +192,12 @@ One may wait at the item until the owner appears.
 safe keeping. This includes money.
 
 One should take note of the features of the item, and confirm the true
-owner.
+owner carefully.
+
+Finding keys or valueables outside: maybe take it out of cover and put it in a
+place where it can be found when the owner comes looking.
+
+Leaving cars or valueables in the monastery when travelling: get the permission
+to use from the owner in writing. Get the owner to sign a paper to give away
+after six months.
+

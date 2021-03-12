@@ -5,7 +5,7 @@
 -   **Sg 9,** Distorting evidence
 -   **Pc 76,** Unfounded sanghadisesa accusation
 -   **NP 30,** Diverting an offering for oneself
--   **Pc 82,** Diverting an offering for oneself
+-   **Pc 82,** Diverting an offering for a lay person
 
 ## Pc 1, Intentional lie
 
@@ -28,11 +28,51 @@ during Patimokka recitation).
 *Dukkata* for broken promises, where one is making the promise with pure
 intentions but later breaking it.
 
+*White lies:* motivation is irrelevant.
+
+*Remaining silent:*
+
+During the patimokkha recitation: pacittiya.
+
+Silence is a gesture, and fulfils effort as a factor.
+
+Everyday context: sensitive information, or can't be bothered to respond.
+
+Example: "We can discuss it tomorrow" -- (a) just to make him
+happy but not intending to meet (b) failing to remember or something comes up
+blocking the meeting.
+
+One has to know *I am going to lie*, and *I am lying*.
+
+Note: irony doesn't intend to deceive, but satire does.
+
+Cruel- or malign jokes: don't let humour comprimise your highest values.
+
+Example: "It was 100!" -- intending to impress, but he doesn't know.
+
+Checking one's statements before making them, different levels of confidence in
+a statement.
+
+<!-- latex
+% Note: Matses language with truth markers. Nuevo San Juan, Peru, the Matses
+% people. Different verb forms depending on how you know the information you are
+% imparting, and when you last knew it to be true.
+%
+% http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
+%
+% A grammar of Matses
+% https://scholarship.rice.edu/handle/1911/18526
+-->
+
 ### Non-offenses
 
 -   unintentionally,
 -   speaking in haste (unconsidered)
 -   slip of the tongue (stupidity or carelessness)
+
+<!-- latex
+\clearpage
+-->
 
 ### Jokes
 
@@ -55,10 +95,6 @@ A novice asks a bhikkhu:
 
 -   Have you seen my preceptor?
 -   Your preceptor's probably gone, yoked to a firewood cart.
-
-<!-- latex
-\clearpage
--->
 
 A novice, on hearing the yapping of hyenas:
 
@@ -89,4 +125,21 @@ Example at Pr 2: a bhikkhu puts away sb's item for safe-keeping. When
 the person is looking for it, he ironically responds "I stole it." The
 Buddha says the bhikkhu committed no offence, as it was only a manner of
 speaking, not an acknowledgement of theft.
+
+## Sg 8, Unfounded parajika accusation
+
+It matters whether the person is present or not.
+
+Insult, slander, lieing.
+
+Spreading stories.
+
+Saying something which may be false, but you believe it to be true.
+
+"Not sure if this is true..." -- enjoying gossip.
+
+## Sg 9, Distorting evidence
+
+Finding a statement which will be misinterpreted, but one can maintain it to be
+true.
 

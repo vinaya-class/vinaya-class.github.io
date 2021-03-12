@@ -1,4 +1,4 @@
-# Robes 3
+# Robes 2
 
 -   **NP 16,** Carrying Wool
 -   **NP 26,** Thread
