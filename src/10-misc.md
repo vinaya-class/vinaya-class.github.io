@@ -40,8 +40,11 @@ Indirect- or insinuating remarks, if meant as an insult, are *dukkata*.
 
 Overheard or implied insults are just as painful and damaging.
 
-Telling it to someone else is *dukkata*. Drinking-buddy-relationship. Note the
-other person will know this is how you treat others behind their back.
+Telling it to someone else is *dukkata*. Drinking-buddy relationship.
+
+<!-- latex
+% Note the other person will know this is how you treat others behind their back.
+-->
 
 **Non-offenses:** aiming at Dhamma, aiming at the person's benefit.
 

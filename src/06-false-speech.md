@@ -49,14 +49,19 @@ Cruel- or malign jokes: don't let humour comprimise your highest values.
 
 Example: "It was 100!" -- intending to impress, but he doesn't know.
 
-Note: language with truth markers. Nuevo San Juan, Peru, the Matses people.
-Different verb forms depending on how you know the information you are
-imparting, and when you last knew it to be true.
+Checking one's statements before making them, different levels of confidence in
+a statement.
 
-http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
-
-thesis
-https://scholarship.rice.edu/handle/1911/18526
+<!-- latex
+% Note: Matses language with truth markers. Nuevo San Juan, Peru, the Matses
+% people. Different verb forms depending on how you know the information you are
+% imparting, and when you last knew it to be true.
+%
+% http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
+%
+% A grammar of Matses
+% https://scholarship.rice.edu/handle/1911/18526
+-->
 
 ### Non-offenses
 
