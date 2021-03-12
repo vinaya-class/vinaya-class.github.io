@@ -10,6 +10,7 @@
 Read here or download as PDF below for printing.
 
 - [schedule.pdf](./includes/docs/schedule.pdf)
+- [sign-up-sheet.pdf](./includes/docs/sign-up-sheet.pdf)
 - [vinaya-class-notes.pdf](./includes/docs/vinaya-class-notes.pdf)
 - [chanting-refcard.pdf](./includes/docs/chanting-refcard.pdf)
 - [chanting-refcard-4on1.pdf](./includes/docs/chanting-refcard-4on1.pdf)
@@ -20,6 +21,12 @@ Read here or download as PDF below for printing.
 [schedule.pdf](./includes/docs/schedule.pdf)
 
 [![Schedule](./includes/docs/schedule-thumb.png)](./includes/docs/schedule.pdf)
+
+## Sign-up Sheet
+
+[sign-up-sheet.pdf](./includes/docs/sign-up-sheet.pdf)
+
+[![Sign-up Sheet](./includes/docs/sign-up-sheet-thumb.png)](./includes/docs/sign-up-sheet.pdf)
 
 ## Notes
 
