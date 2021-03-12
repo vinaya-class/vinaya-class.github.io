@@ -38,8 +38,9 @@ Silence is a gesture, and fulfils effort as a factor.
 
 Everyday context: sensitive information, or can't be bothered to respond.
 
-Example: "I will come to every morning puja" -- (a) just to make him happy but
-not intending to come (b) failing to wake up or deciding later to sleep in.
+Example: "We can discuss it tomorrow" -- (a) just to make him
+happy but not intending to meet (b) failing to remember or something comes up
+blocking the meeting.
 
 One has to know *I am going to lie*, and *I am lying*.
 
