@@ -7,7 +7,7 @@
 
 </div>
 
-Read here or download as PDF below for printing.
+Read here or download as PDF below for printing:
 
 - [schedule.pdf](./includes/docs/schedule.pdf)
 - [sign-up-sheet.pdf](./includes/docs/sign-up-sheet.pdf)
