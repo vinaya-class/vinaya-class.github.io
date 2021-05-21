@@ -8,6 +8,7 @@ tex/chanting-refcard/chanting-refcard-4on1.pdf
 tex/vinayakamma-chart/vinayakamma-chart.pdf
 tex/sanghadisesa-procedure/sanghadisesa-procedure.pdf
 tex/robe-keeping/robe-keeping.pdf
+tex/quiz-questions/*.pdf
 
 # Emacs temp files
 auto/
@@ -36,6 +37,9 @@ tags
 *.fls
 *.out
 *.fdb_latexmk
+*.qsl
+*.sol
+*.cut
 
 # General macOS
 .DS_Store

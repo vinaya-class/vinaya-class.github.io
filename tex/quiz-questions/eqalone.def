@@ -1,0 +1,43 @@
+%%
+%% This is file `eqalone.def',
+%% generated with the docstrip utility.
+%%
+%% The original source files were:
+%%
+%% eqexam.dtx  (with options: `copyright,standalone')
+%% 
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% eqexam.sty package,                                  %%
+%% Copyright (C) 2005--2021  D. P. Story                %%
+%%   dpstory@uakron.edu                                 %%
+%%                                                      %%
+%% This program can redistributed and/or modified under %%
+%% the terms of the LaTeX Project Public License        %%
+%% Distributed from CTAN archives in directory          %%
+%% macros/latex/base/lppl.txt; either version 1.2 of    %%
+%% the License, or (at your option) any later version.  %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\ProvidesFile{eqalone.def}
+ [2012/25/01 v3.0t Minimal code used by eqexam (dps)]
+\@ifundefined{eq@tmpbox}{\newsavebox{\eq@tmpbox}}{}% defined in eforms
+\@ifundefined{eq@tmpdima}{\newdimen\eq@tmpdima}{}  % defined in eforms
+\def\RadioFieldSize{11bp}
+\newdimen\eqcenterWidget
+\def\centerWidget
+#1{%
+    \eqcenterWidget=#1
+    \eqcenterWidget=.5\eqcenterWidget
+    \advance\eqcenterWidget by-4bp
+}
+\def\eqe@BboxRect#1#2{\hbox{\ckbox@Color\vbox{\hrule width #1
+  \hbox to#1{\vrule height#2\hfill\vrule height#2}\vfill\hrule}}}
+\def\useRectForMC{\let\Bbox\eqe@BboxRect}
+\def\selectedMC{\useRectForMC}
+\def\Rect#1{\textcolor{\@linkcolor}{#1}}
+\def\eqe@striphbox\mbox#1{#1}
+\newcommand{\ReturnTo}[2]{\eq@fititin{\eqe@striphbox#2}}
+\newcommand{\proofingsymbol}[1]{%
+    \def\@proofingsymbol{\textcolor{\@proofingsymbolColor}{#1}}}
+\endinput
+%%
+%% End of file `eqalone.def'.
