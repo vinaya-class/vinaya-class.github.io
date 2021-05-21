@@ -10,7 +10,7 @@
 
 [Wheel 263](https://what-buddha-said.net/library/ati_website/html/lib/authors/hecker/wheel263.html)
 
-## Ven. Udayin
+## Ven. Udāyin
 
 [DPPN, Udāyī](https://what-buddha-said.net/library/DPPN/u/udaayii.htm)
 

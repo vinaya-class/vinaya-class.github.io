@@ -12,13 +12,17 @@
 
 ## NP 23, Over-kept tonics
 
-![NP 23 Tonics](./includes/mindmaps/np-23-tonics.png)
+![NP 23 Tonics](./includes/mindmaps/np-23-tonics.png**
 
 <!-- latex
 \begin{multicols}{2}
 -->
 
 **Object:** any of the five tonics.
+
+"There are these five tonics -- ghee, butter, oil, honey, and syrup -- that are
+generally regarded as tonics, serve the purpose of nourishment, but are not
+considered as substantial food." ([Kd 6](https://suttacentral.net/pli-tv-kd6/en/brahmali))
 
 **Effort:** one keeps the tonic past the 7th dawnrise after receiving it.
 
@@ -38,6 +42,11 @@ used by oneself or any other bhikkhu.
 <!-- latex
 \clearpage
 -->
+
+**Origin:** Ven. Pilindavaccha receives an abundance of tonics, and shares with
+his monks. They begin to "fill up basins and waterpots and setting these aside,
+they filled their water filters and bags and hung these in the windows. The
+tonics were dripping all over and the dwellings became infested with rats." ([NP 23](https://suttacentral.net/pli-tv-bu-vb-np23/en/brahmali))
 
 **Mixing:** The mixture takes on the shortest lifetime of the
 ingredients. (Mv. VI.40.3.)

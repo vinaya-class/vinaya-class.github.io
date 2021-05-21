@@ -143,3 +143,9 @@ Saying something which may be false, but you believe it to be true.
 Finding a statement which will be misinterpreted, but one can maintain it to be
 true.
 
+## Pc 76, Unfounded sanghadisesa accusation
+
+## NP 30, Diverting an offering for oneself
+
+## Pc 82, Diverting an offering for a lay person
+

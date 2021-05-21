@@ -162,13 +162,22 @@ juice.
 - eating food which was cooked using alcohol
 - medicine containing a negligible amount of alcohol: the taste, color, and
   smell of the alcohol are not perceptible
+  
+### Notes
+
+Kombucha (aka tea fungus) is a mixed culture of yeast and bacteria. The yeast
+consumes the sugar and produces alcohols which the bacteria turns into acetic
+and other acids. See also: SCOBY (symbiotic culture of bacteria and yeast).
+
+Effective microorganisms (EM) are blends of common anaerobic microorganisms in a
+carbohydrate-rich liquid.
 
 ## Pd 3, Protected families
 
 The purpose is to avoid damaging the faith of those supporters who might
 suffer financially if they give too much.
 
-### Non-offenses
+### Non-offences
 
 <!-- latex
 \begin{multicols}{2}
