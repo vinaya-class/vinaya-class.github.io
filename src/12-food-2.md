@@ -12,7 +12,7 @@
 
 ## NP 23, Over-kept tonics
 
-![NP 23 Tonics](./includes/mindmaps/np-23-tonics.png**
+![NP 23 Tonics](./includes/mindmaps/np-23-tonics.png)
 
 <!-- latex
 \begin{multicols}{2}
@@ -198,11 +198,74 @@ food free of charge.
 - the centre limits the amount of food one may take (thus being able to censure
   a greedy person)
 
-## Pc 32
-## Pc 33
-## Pc 34
-## Pc 35
-## Pc 36
+## Pc 32, Four bhikkhus specifically invited
+
+Origin: Devadatta was telling householders which bhikkhu to give alms to, in
+order to form his own faction within the Sangha.
+
+A 'group meal' here means four or more bhikkhus, specifically named in the
+invitation, out of the entire community.
+
+There is no offence if the invitation is for 'x number of bhikkhus', leaving the
+selection to the community.
+
+## Pc 33, Meal before invitation
+
+Origin: some bhikkhus are concerned about the food at a meal invitation, and go
+alms-round nonetheless. There is plenty of food at the invitation, but they
+can't eat any more.
+
+See [Snp 4.16](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.16.than.html), on how to train oneself:
+"He should conquer these four thoughts of lament: 'What will I eat, or where
+will I eat. How badly I slept. Tonight where will I sleep?'"
+
+No offence is the donors are informed, e.g. that the bhikkhus will eat breakfast before the midday meal.
+It is nonetheless bad manners to eat so much at breakfast to not be able to eat at the meal.
+
+If the donors are not informed, very light food is still allowed, such as drinking thin rice porridge.
+
+## Pc 34, More than three bowlfuls
+
+Origin: some bhikkhus don't know moderation in accepting cakes as provisions from faithful supporters.
+
+After accepting the provisions, the bhikkhu should inform the other to not accept more at that place.
+It is a *dukkaṭa* offence to not do so.
+
+The term 'provisions' here refers to food prepared for *someone else* going on a journey.
+Hence there is no offence if the food was prepared *for the bhikkhu*, although restraint should be exercised.
+
+## Pc 35, More food after turning down what was offered
+
+Origin: some bhikkhus selectively accept some alms-food from one donor, then go
+to another donor to have something else they like. The first donor could have offered
+all the food they needed, and feels hurt that they went somewhere else for more.
+
+If the bhikkhus already accepted all that the donor wanted to give,
+it is not an offence to seek more alms if they would need more food.
+
+The donor may offer more food, and they may accept or refuse certain items while
+still eating.
+
+If they have finished eating, and they had refused more food while eating,
+they can't accept more food items which are not leftovers.
+
+If they have finished eating, but they **had not** refused more food while eating,
+they may accept more food items.
+
+### Non-offences
+
+- accepting for the sake of another
+- accepting the leftovers of another
+
+## Pc 36, Tricking to break Pc 35
+
+Origin: one bhikkhu, having been criticized for his bad behaviour, contrives a
+situation for the other bhikkhu to break Pc 35.
+
+**Intention** has to be wishing to find fault and blame the other bhikkhu.
+
+No offence for giving him leftover food to eat.
+
 ## Pc 41, Handing food to members of other religions
 
 One places oneself in the position of the followers of other religions.

@@ -75,10 +75,18 @@ or an old jiwon used as a bedsheet.
 **Effort:** at dawnrise, being outside of 'the same area' than where one's robes
 are located.
 
-*Dawnrise* may be determined by stretching one's hand out and seeing the lines
-on one's palm, or by seeing the green colour of the leaves. This approximately
-corresponds to the time of *nautical twilight*, the Sun being 12 to 6 degrees
-under the horizon.
+*Days and Dawns:*
+
+The Vinaya definition for *one day* is the period of time between two
+dawnrises.
+
+If one extends a hand and is able to see the lines in the palm (assuming
+the sky is clear), the dawnrise *has already passed*.
+
+One may also use a clock and the time of *nautical twilight*. While the
+Sun is between 12 and 6 degrees below the horizon, dawnrise *has not yet
+passed*. Once the Sun is less than 6 degrees below the horizon, dawnrise
+*has passed*.
 
 '*The same area*' may be within *hatthapasa* (arm's reach), in the same
 room, building, or the monastery grounds, depending on the local

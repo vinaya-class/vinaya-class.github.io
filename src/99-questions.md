@@ -216,6 +216,8 @@ What should he do?
 
 ## 11. Food 1
 
+What is staple and non-staple?
+
 What is miso and why is it life-time?
 
 Is rice- or almod milk allowable in the afternoon?
@@ -241,9 +243,33 @@ What is the lifetime of the following items?
 - Chewing-gum
 - Jelly
 
+mealtime, asking anagarika to offer more spices and snacks
+
 A monk on tudong receives some cheese on alms-round, which he keeps for later.
 The next day on alms-round, he receives some bread. He makes a sandwich, using
 the cheese from the day before and eats it. Is there an offence?
+
+A bhikkhu receives a bottle of olive oil, and determines to use it externally.
+After a few weeks, he pours some in a cup, determines that as seven-day tonic,
+and drinks it.
+
+A bhikkhu receives lemons, chili peppers and salt. He makes a habit of mixing a
+few spoonfuls in the evening and eating it.
+
+What if he adds sunflower seeds as well?
+
+BMC 2, Fruit medicine:
+
+Here the Canon lists vilaṅga (Embelia ribes), long pepper (Erycibe paniculata),
+black pepper, yellow myrobalan (Terminalia chebula or citrina), beleric myrobalan
+(Terminalia balerica), embric myrobalan (Phyllantus embelica) (these last three form
+the triphala mixture still used in modern Ayurveda), goṭha-fruit, or any other fruits
+that are medicines and do not serve as staple or non-staple food.
+
+During the months of daylight saving time, a bhikkhu wants an after-meal snack.
+While eating his meal, he puts an apple in his yarm to eat before 1pm.
+
+A bhikkhu receives cookies on alms-round. At the meal, he
 
 ## 13. Money
 ## 14. Arguments 1

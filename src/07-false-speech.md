@@ -136,7 +136,7 @@ Spreading stories.
 
 Saying something which may be false, but you believe it to be true.
 
-"Not sure if this is true..." -- enjoying gossip.
+"Not sure if this is true...** -- enjoying gossip.
 
 ## Sg 9, Distorting evidence
 
@@ -145,7 +145,37 @@ true.
 
 ## Pc 76, Unfounded sanghadisesa accusation
 
+To fulfil **Effort**, The accusation has to be made either in his presence, or getting someone to accuse him in his presence.
+
+Unfounded accusations about his bad conduct or wrong views is a *dukkaṭa*.
+
+Follow 'face-to-face verdict' (*sammukhāvinayo dātabbo*) when settling the
+matter. The community should hear out both parties, not make decisions about
+them without them being present.
+
+See [AN 9.11](https://suttacentral.net/an9.11/en/sujato) where a monk accuses
+Ven. Sāriputta of hitting him and walking away. The Buddha convenes the
+community to hear them out.
+
 ## NP 30, Diverting an offering for oneself
 
+Origin: a donor is preparing to give robes to the community. Bhikkhus from
+the group-of-six convince the donors to give the robes to them instead.
+
+**Perception** is a factor, one must know that the item is already allocated.
+There is no offence if one didn't know.
+
 ## Pc 82, Diverting an offering for a lay person
+
+In this case, a bhikkhu might hear that somebody wishes to give an item to A,
+but he convinces them to give it to B instead. This case can be extended even to
+common animals. It is inappropriate behaviour for a bhikkhu, supported by freely
+given gifts, to interfere with the freedom of donors in giving freely without
+expectations.
+
+There is no offence if the bhikkhu was asked for advice. One may answer, "Give
+wherever your gift would be used, or would be well-cared for, or would last
+long, or wherever your mind feels inspired."
+
+No offence if the bhikkhu doesn't know that the item was already allocated.
 
