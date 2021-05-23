@@ -24,10 +24,10 @@
 - [Bowls (stub)](18-bowls.md)
 - [Women 2 (stub)](19-women-2.md)
 - [Misc](20-misc.md)
-- [Sekhiyas 1 (stub)](21-sekhiyas-1.md)
+- [Sekhiyas 1](21-sekhiyas-1.md)
 - [Excuses](22-excuses.md)
 - [Misc](23-misc.md)
-- [Sekhiyas 2 (stub)](24-sekhiyas-2.md)
+- [Sekhiyas 2](24-sekhiyas-2.md)
 - [Robes 2](25-robes-2.md)
 
 [Closing](99-closing.md)
