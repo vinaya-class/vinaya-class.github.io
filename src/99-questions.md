@@ -16,17 +16,9 @@ The loved family dog of a lay supporter is very ill, and treatment will
 be expensive. He asks a monk whether they should ask the vet to
 euthanise the dog, or apply for treatment.
 
-Seeing a person suffering, you ask the doctors to get it over quickly.
-
-Or, you ask the doctors to anaesthetize him to relieve his pain. The person never wakes up.
-
 A bhikkhu has worms in the gut and decide to take medicine.
 
 A woman asks a bhikkhu if she should get an abortion. What should the bhikkhu say?
-
-A bhikkhu washes his bedding and accidently kills some fleas or bed bugs.
-
-A bhikkhu discovers a tick on his arm. What should he do?
 
 A bhikkhu hits an anagarika. What should the anagarika do?
 
@@ -85,47 +77,9 @@ Is there an offence?
 
 ## 4. Lustful Conduct
 
-A monk curses with lewd words in front of a woman.
-
-A married couple wants to ask a monk how to live together peacefully.
-
-A bhikkhu meets a female visitor for a cup of tea, the two of them alone.
-She later complains about the bhikkhu's vulgar jokes to other visitors.
-What is the proper protocol to follow?
-
-A monk is carrying a table with a woman and he playfully pushes it into her.
-
-A monk receives treatment on his tooth from a female dentist.
-
-A monk is trying on shoes in a shop. A female assistant helps to put on
-a shoe and she asks, "Is that comfortable?"
-
 ## 5. Women 1
 
-A monk is travelling by train, sitting in a compartment alone. At one of
-the stops a woman enters and takes a seat in the compartment.
-
-A monk stays at his parents' house for a night.
-
-A monk is travelling by bus to visit a friend. He arrives at the bus
-station, and the girlfriend of his friend is there with a car to pick
-him up. She asks the monk to call his friend and tell him she will be
-back at their apartment shortly.
-
 ## 6. Attainments
-
-A monk says he can walk on water, but can't show it now because he would lose
-the ability. Is there an offence? Is he still a monk?
-
-A monk says he has a lot of metta but is still working on upekkha. Is there an
-offence?
-
-A lay supporter invites the monks for a meal: "May the venerable arahants come
-to my house tomorrow for a meal offering." Next day, a few of the monks go to
-his house to receive the offering. Is there an offence?
-
-A monk is seriously ill and a group of monks visit him. He says that he is not
-afraid of death. Is there an offence?
 
 ## 7. False Speech
 

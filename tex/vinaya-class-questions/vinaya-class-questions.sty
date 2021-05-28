@@ -1,10 +1,15 @@
-\ProvidesPackage{vinaya-class-notes}
+\ProvidesPackage{vinaya-class-questions}
+
+\title{Vinaya Class Questions}
+\subject{Vinaya Class}
+\date{\the\year}
+\author{Gambhiro Bhikkhu}
 
 \usepackage[british]{babel}
 
 \renewcommand\britishhyphenmins{{3}{3}}
 
-\hyphenation{thulla-caya sangha-disesa}
+\hyphenation{thulla-caya sangha-disesa sangha-kamma}
 
 \usepackage{fontspec}
 \defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
@@ -24,7 +29,10 @@
 \usepackage{hyperxmp}
 \usepackage{hyperref}
 
-%\graphicspath{{./includes/}}
+\definecolor{textbody}{gray}{0}
+\definecolor{linkred}{HTML}{DC322F}
+% Red is better for printing than blue or dark blue
+\colorlet{link}{linkred}
 
 \hypersetup{
   colorlinks=true,
@@ -40,14 +48,15 @@
   openlevel=2
 ]{bookmark}
 
-\setlist[itemize]{
-  itemindent=0pt,
-  leftmargin=15pt,
-  rightmargin=0pt,
-  itemsep=3pt,
-  topsep=0pt,
-  parsep=0pt,
-  partopsep=0pt,
+\hypersetup{
+  pdftitle={\thetitle},
+  pdfauthor={\theauthor},
+  pdfcopyright={Copyright (C) \the\year, \theauthor},
+  pdfsubject={buddhism, vinaya},
+  pdfkeywords={buddhism, vinaya},
+  pdflicenseurl={https://creativecommons.org/licenses/by-nc-nd/4.0/},
+  pdfcontacturl={https://vinaya-class.github.io/},
+  pdflang={en},
 }
 
 % === penalties ===
@@ -56,13 +65,8 @@
 
 % === normalsize ===
 
-\definecolor{textbody}{gray}{0}
-\definecolor{linkred}{HTML}{DC322F}
-% Red is better for printing than blue or dark blue
-\colorlet{link}{linkred}
-
 \def\BOOK@apt{11}
-\def\BOOK@bpt{14}
+\def\BOOK@bpt{15}
 
 \renewcommand{\normalsize}{%
   \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
@@ -82,68 +86,58 @@
 \setlength{\columnsep}{18pt}
 \setlength{\columnseprule}{0.1pt}
 \flushcolumns
-%\columnseprulecolor
+% \columnseprulecolor
 
 % === setup page layout ===
 
 \stockaiv
 \settrimmedsize{\stockheight}{\stockwidth}{*}
 \settrims{0pt}{0pt}
-\setlrmarginsandblock{0.15\paperwidth}{*}{1}
-\setulmarginsandblock{0.1\paperheight}{*}{1}
+\setlrmarginsandblock{20mm}{*}{1}
+\setulmarginsandblock{20mm}{*}{1}
 \setheadfoot{\baselineskip}{2\baselineskip}
 \setheaderspaces{*}{15pt}{*}
 \checkandfixthelayout
 
-\newenvironment{summary}%
-               {\list{}{\listparindent 0pt%
-                        \itemindent    \listparindent
-                        \rightmargin   \leftmargin
-                        \parsep        \z@ \@plus\p@}%
-                \item[]}%
-               {\endlist}
+\newcommand*{\problemDivide}{\rule{\linewidth}{0.4pt}}
 
-\newlength\marginDiff
-\newcommand\includemap[2][0.98\paperwidth]{%
-  {\centering
-  \setlength\marginDiff{#1 - \linewidth}
-  \hspace*{-0.5\marginDiff}
-  \includegraphics[width=#1]{#2}
-  \par}
-}
+\setsecnumdepth{part}
 
-\usepackage[normalem]{ulem}
-
-\newcommand\secunderline[1]{%
-  \begingroup%
-  \renewcommand{\ULdepth}{4pt}%
-  \renewcommand{\ULthickness}{0.5pt}%
-  \uline{#1}%
-  \endgroup%
-}
-
-\newcommand{\sectionFmt}[1]{%
-  \normalfont\memRTLraggedright\scshape
-  \secunderline{#1}%
-}
-
-\setcounter{secnumdepth}{0}
-
-\def\@maketitle{}
+\newcommand*{\theChapterTitle}{}% FIXME This shouldn't be necessary.
 
 \makechapterstyle{vinaya-class}{%
   \chapterstyle{default}
   \renewcommand*{\chapterheadstart}{}
   \renewcommand*{\printchaptername}{}
   \renewcommand*{\chapternamenum}{}
-  \renewcommand*{\printchapternum}{\Large\thechapter.\hspace*{10pt}}
+  %\renewcommand*{\printchapternum}{\Large\thechapter.\hspace*{10pt}}
+  \renewcommand*{\printchapternum}{}
   \renewcommand*{\afterchapternum}{}
   \renewcommand*{\printchaptertitle}[1]{%
-    \memRTLraggedright
-    \LARGE\scshape\MakeTextLowercase{##1}
+    \memRTLraggedright%
+    {\LARGE\scshape\MakeTextLowercase{##1}}%
+    \hfill%
+    {\normalsize Kiṃ nāmo si:\hspace*{4cm}}%
   }
   \renewcommand*{\afterchaptertitle}{%
-  \vskip\onelineskip \hrule\vskip\onelineskip}}
+    \vskip\onelineskip \hrule\vskip\onelineskip}
+}
+
+\makechapterstyle{vinaya-class-frontmatter}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  % \renewcommand*{\printchapternum}{\Large\thechapter.\hspace*{10pt}}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{}
+  \renewcommand*{\printchaptertitle}[1]{%
+    \memRTLraggedright%
+    {\LARGE\scshape\MakeTextLowercase{##1}}%
+  }
+  \renewcommand*{\afterchaptertitle}{%
+    \vskip\onelineskip \hrule\vskip\onelineskip}
+}
 
 \makeheadstyles{vinaya-class}{%
 \chapterstyle{vinaya-class}
@@ -172,6 +166,9 @@
 %% Based on bringhurst from memoir.
 \headstyles{vinaya-class}
 
+\addtodef{\frontmatter}{}{\chapterstyle{vinaya-class-frontmatter}}
+\addtodef{\mainmatter}{}{\chapterstyle{vinaya-class}}
+
 % Leave the footer empty to allow \enlargethispage{} when necessary
 
 \makepagestyle{chapterpage}
@@ -181,26 +178,14 @@
 \makeoddfoot{chapterpage}{}{}{}
 
 \makepagestyle{toprule}
-\makeevenhead{toprule}{\thepage}{}{\scshape{\MakeLowercase{\rightmark}}}
+\makeevenhead{toprule}{\theChapterTitle}{}{\thepage}
 \makeevenfoot{toprule}{}{}{}
-\makeoddhead{toprule}{\scshape{\MakeLowercase{\rightmark}}}{}{\thepage}
+\makeoddhead{toprule}{\thepage}{}{\theChapterTitle}
 \makeoddfoot{toprule}{}{}{}
 
 \makeheadrule{toprule}{\textwidth}{\normalrulethickness}
 
-\makepsmarks{toprule}{%
-  \nouppercaseheads
-  \createmark{chapter}{right}{shownumber}{}{. \space}
-}
-
-\makepagestyle{floatpage}
-\makeevenhead{floatpage}{}{}{}
-\makeevenfoot{floatpage}{}{}{}
-\makeoddhead{floatpage}{}{}{}
-\makeoddfoot{floatpage}{}{}{}
-
-\mergepagefloatstyle{normalpage}{toprule}{floatpage}
-
+\aliaspagestyle{normalpage}{toprule}
 \aliaspagestyle{chapter}{chapterpage}
 
 \pagestyle{normalpage}

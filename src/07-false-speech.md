@@ -136,7 +136,7 @@ Spreading stories.
 
 Saying something which may be false, but you believe it to be true.
 
-"Not sure if this is true...** -- enjoying gossip.
+"Not sure if this is true..." -- enjoying gossip.
 
 ## Sg 9, Distorting evidence
 
