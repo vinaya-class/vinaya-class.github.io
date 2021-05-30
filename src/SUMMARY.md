@@ -22,7 +22,7 @@
 - [Arguments 3 (stub)](16-arguments-3.md)
 - [Dwellings (stub)](17-dwellings.md)
 - [Bowls (stub)](18-bowls.md)
-- [Women 2 (stub)](19-women-2.md)
+- [Women 2](19-women-2.md)
 - [Misc](20-misc.md)
 - [Sekhiyas 1](21-sekhiyas-1.md)
 - [Excuses](22-excuses.md)
