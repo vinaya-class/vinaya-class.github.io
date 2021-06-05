@@ -17,7 +17,7 @@
 - [Food 1](11-food-1.md)
 - [Food 2](12-food-2.md)
 - [Money](13-money.md)
-- [Arguments 1 (stub)](14-arguments-1.md)
+- [Arguments 1](14-arguments-1.md)
 - [Arguments 2 (stub)](15-arguments-2.md)
 - [Arguments 3 (stub)](16-arguments-3.md)
 - [Dwellings (stub)](17-dwellings.md)
