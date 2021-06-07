@@ -108,6 +108,11 @@ The official should conduct his duties without bias.
 **Perception** is not a factor, e.g. as to the whether he was authorized
 properly or not, whether he is biased or not.
 
+If one criticises a community official as being unfair, but it turns out that he
+was fair (following established procedure), and it was the *complainer* who was
+acting out of disappointment (didn't get what he wanted), the offence is
+incurred.
+
 One's **Intention** is to make him lose face, status, or feel embarrassed.
 
 **Effort** is criticizing or complaining to another bhikkhu with this intention.
@@ -122,8 +127,74 @@ out of bias -- desire, aversion, delusion or fear.
 Such as favouritism when assigning the best dwellings to bhikkhus he likes, or
 regular confusion when communicating with lay supporters who bring food offerings.
 
-If one criticises a community official as being unfair, but it turns out that he
-was fair (following established procedure), and it was the *complainer* who was
-acting out of disappointment (didn't get what he wanted), the offence is
-incurred.
+## Notes: Bad Arguments
+
+- *An Illustrated Book of Bad Arguments* (https://bookofbadarguments.com/)
+- *Logical Fallacy Lookup* (https://www.aristotl.io/)
+
+The following responses in an argument are logical fallacies.
+
+Return the discussion to the original issue at hand, supported by direct observations if possible.
+
+**Personal Attack**, *ad hominem*
+
+'You are only one Vassa and you think you know better? Who do you think you are?'
+
+Attacking the person bringing up an issue, avoiding the issue being discussed. A type of Red Herring argument.
+
+**Appeal to Hypocrisy**, *tu quoque*, 'whataboutism'
+
+'What about when you did X? Given that, your opinion can't be worth much.'
+
+Avoiding the issue by directing attention to the faults of the accuser.
+
+**Two Wrongs Make a Right**
+
+'That man has already injured these animals, the damage is done, so we should kill them quickly.'
+
+Pointing to another's guilt to justify one's wrong action.
+
+**Redefinition**
+
+'But if we define it as X, it is not wrong any more.'
+
+Avoiding the issue by debating the definition of terms instead.
+
+**Not Invented Here**
+
+'I have done it several times like this. It's better than following messed up ideas from the X sect.'
+
+Preferring the idea which originates from oneself, or from one's own group, instead of discussing the action and its merits.
+
+The opposite bias is 'Appeal to Authority', where preference is placed apart from oneself, such as an influential authority, or their group.
+
+**Appeal to Authority**
+
+'Jesus emphasised love and compassion, not finicky rules.'
+
+Avoiding discussing one's directly observed actions by defending oneself with a source of authority (which may be irrelevant).
+
+**Appeal to Nature**, loaded language
+
+'It is an unnatural product, so good monks shouldn't use it.'
+
+Supporting a conclusion using loaded terms which are ambiguous in their values. (Poisons are also natural, while footwear is unnatural.)
+
+**Cherry Picking**, one-sided assessment
+
+'An Xbox is not specifically in the Vinaya but it's a huge discount so it's okay to get one.'
+
+Ignoring or downplaying evidence which undermines one's opinion.
+
+**Texas Sharpshooter**, jumping to conclusions
+
+'I know many people who disrobed, and several of them used a soft mattress to sleep.'
+
+Grasping at particular cases which support the conclusion one wants, even though the results could be due to chance.
+
+**Slippery Slope**
+
+'Today it's just coffee, but you know how drug addictions start!'
+
+Exaggarating the results of trivial causes.
 
