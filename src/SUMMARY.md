@@ -20,7 +20,7 @@
 - [Arguments 1](14-arguments-1.md)
 - [Arguments 2](15-arguments-2.md)
 - [Arguments 3](16-arguments-3.md)
-- [Dwellings (stub)](17-dwellings.md)
+- [Dwellings](17-dwellings.md)
 - [Bowls](18-bowls.md)
 - [Women 2](19-women-2.md)
 - [Misc](20-misc.md)

@@ -97,8 +97,8 @@ Nonetheless, it is better to give one's consent before leaving the meeting.
 
 ## Pc 81, Complaining about favouritism
 
-No bhikkhu may take individual ownership of *garubhaṇḍa* articles (land,
-dwelling, furniture, expensive tools, etc.)
+The community is not allowed to transfer the ownership of *garubhaṇḍa* articles
+(land, dwelling, furniture, expensive tools, etc.) to individual bhikkhus.
 
 Light or inexpensive (*lahubhaṇḍa*) articles may be given to an individual with
 the proper procedure.
