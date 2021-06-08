@@ -22,7 +22,7 @@ sake of clarifying the training.
 Deliberately listening in while others are in argument, only for the sake of using what they
 say against them, even if only for making them feel embarrassed.
 
-Reading a bhikkhu's private documents or emails also fulfils **Effort**.
+Reading a bhikkhu's private documents (papers, files, emails) also fulfils **Effort**.
 
 When one has business to do where some others are debating an issue, one should
 cough or otherwise signal being present.
