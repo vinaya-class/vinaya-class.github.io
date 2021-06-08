@@ -50,9 +50,11 @@ Toward bhikkhu senior to oneself: Receive their bowl, robe, bags, and attend on 
 
 Toward juniors: Give appropriate information for settling in and find out what they need. 
 
-Offer refreshments.
+Offer refreshments. Inform senior monk and guest monk.
 
-Inform senior monk and guest monk.
+<!-- latex
+\clearpage
+-->
 
 ## Kc 3. Gāmika vaṭṭa
 

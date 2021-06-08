@@ -55,6 +55,10 @@ I will not eat ...
 
 ... a training to be observed.
 
+<!-- latex
+\clearpage
+-->
+
 ## Sk 57-72, Teaching Dhamma
 
 I will not teach Dhamma to a person ...

@@ -55,20 +55,11 @@ allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
 
 ### Non-offences
 
-<!-- latex
-\vspace*{-0.5\baselineskip}
-\enlargethispage*{2\baselineskip}
--->
-
 - the act of storing it is not an offence, a bhikkhu may carry a lay person's
   food while travelling
 - no offence for telling an unordained person to store it
 - a designated food-store is allowed
 - no offence for setting food aside and consuming it withing the right period
-
-<!-- latex
-\clearpage
--->
 
 ## Pc 39, Requesting finer staple foods
 
@@ -83,6 +74,10 @@ observed."
 
 Hence, dukkata for requesting and consuming other staple foods, except
 when one is ill.
+
+<!-- latex
+\clearpage
+-->
 
 ### Non-offenses
 

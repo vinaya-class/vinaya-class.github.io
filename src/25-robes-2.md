@@ -48,6 +48,10 @@ Related to *NP 8*, making stipulations about what kind of robe to receive.
 - getting the weavers make the cloth less expensive
 - by means of one's own resources (e.g. the bhikkhu hired the weavers)
 
+<!-- latex
+\clearpage
+-->
+
 ## NP 11-15, Summary of santhatas
 
 A *santhata* is a blanket or rug made of felt material. It is made by strewing

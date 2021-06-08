@@ -47,6 +47,10 @@ private to the eye and ear but now *not* concealed.
 
 A *woman* here means one who can recognize lewd remarks.
 
+<!-- latex
+\clearpage
+-->
+
 ## Bhikkhunīs
 
 **NP 4:** Having an unrelated bhikkhunī wash, dye, or beat a used robe.

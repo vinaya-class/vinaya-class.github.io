@@ -109,10 +109,6 @@ meetings (e.g. uposatha, kathina, ordination).
 Nonetheless, *sanghakamma* would be still valid without bhikkhus having their
 three robes.
 
-<!-- latex
-\clearpage
--->
-
 ## NP 3, Out of season robe cloth
 
 One may receive robes at any time, but keep it undetermined for only 10 days
@@ -139,10 +135,6 @@ There is no offence for accepting cloth when the donors are offering it
 for a different reason.
 
 ## NP 8, Request to improve robe
-
-<!-- latex
-\enlargethispage{2\baselineskip}
--->
 
 An unrelated householder wishes to purchase robes for the bhikkhu, and
 he suggests purchasing a more expensive one.
@@ -202,29 +194,13 @@ wears on the body.
 
 ## Pc 89-92, Proper robe sizes
 
-<!-- latex
-\enlargethispage{2\baselineskip}
--->
-
 One *sugata span*: uncertain value, but taken as 25 cm in the BMC.
-
-<!-- latex
-\begin{multicols}{2}
--->
 
 *Pc 89*, sitting cloth: 2 x 1.5 span + 1 span border
 
 *Pc 90*, skin-eruption cloth: 4 x 2 span
 
-<!-- latex
-\columnbreak
--->
-
 *Pc 91*, rains-bathing cloth: 6 x 2.5 span
 
 *Pc 92*, robe: 9 x 6 span
-
-<!-- latex
-\end{multicols}
--->
 

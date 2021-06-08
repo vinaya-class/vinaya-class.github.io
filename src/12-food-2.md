@@ -176,10 +176,6 @@ the allowables from the previous day with the food received today.
 Putting the salt, honey or butter (rec. yesterday) on the bread would be
 Pc 38 (eating stored food).
 
-<!-- latex
-\clearpage
--->
-
 ## Pc 31, Public alms centre
 
 One may eat one meal at a public alms centre, not two or more days in a row.

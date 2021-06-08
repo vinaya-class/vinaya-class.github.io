@@ -53,10 +53,18 @@ his project is, and if people offer the materials, he may accept it.
 
 It is not an offence to build a hut for another's use.
 
+<!-- latex
+\enlargethispage*{2\baselineskip}
+-->
+
 ## Sg 7, Large hut without approval
 
 Same terms as in *Sg 6*, but the bhikkhu in this case has a dedicated sponsor
 who provides the building materials.
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 14, Leaving bed or bench
 

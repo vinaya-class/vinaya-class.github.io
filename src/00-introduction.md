@@ -160,25 +160,29 @@ principles for discipline cannot last long...
 - 75 Sekhiya: etiquette to be trained in
 - 8 Adhikaraṇa-samatha: means of settling issues
 
+<!-- latex
+\clearpage
+-->
+
 ## Reference books
 
-**Vinaya Mukha, Somdet Phra Mahā Samaṇa Chao, 1916**
+**Vinaya Mukha, Somdet Phra Mahā Samaṇa Chao, 1916 (1st Ed)**
 
 A guide to the Vinaya written in Thai, first English edition published in 1969.
 It is still used as the official textbook on Vinaya for the examinations run by
 the Thai Council of Elders, and taken as authoritative through much of Thailand.
 
-**The Book of Discipline, I.B. Horner, 1938**
+**The Book of Discipline, I.B. Horner, 1938 (1st Ed)**
 
 - Vol. 1-3: Suttavibhaṅga -- Pāṭimokkha rules and origin stories
 - Vol. 4: Mahāvagga -- rules of conduct and etiquette
 - Vol. 5: Cullavagga -- elaboration of etiquette and duties
 - Vol. 6: Parivāra -- summaries and analysis of rules
 
-**The Buddhist Monastic Code, Ṭhānissaro Bhikkhu, 1994**
+**The Buddhist Monastic Code, Ṭhānissaro Bhikkhu, 1994 (1st Ed)**
 
 - Vol. 1: The Pāṭimokkha Rules
 - Vol. 2: The Khandhaka Rules
 
-**The Concise Buddhist Monastic Code, Bhikkhu Anon, 2015**
+**The Concise Buddhist Monastic Code, Bhikkhu Anon, 2015 (1st Ed)**
 

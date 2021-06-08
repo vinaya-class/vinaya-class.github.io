@@ -48,10 +48,18 @@ A bhikkhu wants to do something he knows to be declared improper for him:
 'Obstructions' include the five *ānantarika-kamma*, persisting in extreme wrong
 views and intentional transgression of training rules.
 
+<!-- latex
+\enlargethispage*{\baselineskip}
+-->
+
 The other bhikkhus should reprimand him. If he relinquishes his view, there is
 no penalty.
 
 A bhikkhu who doesn't respond after being formally rebuked, should be suspended.
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 69, Suspended bhikkhu
 

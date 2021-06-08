@@ -108,6 +108,10 @@ The official should conduct his duties without bias.
 **Perception** is not a factor, e.g. as to the whether he was authorized
 properly or not, whether he is biased or not.
 
+<!-- latex
+\clearpage
+-->
+
 If one criticises a community official as being unfair, but it turns out that he
 was fair (following established procedure), and it was the *complainer* who was
 acting out of disappointment (didn't get what he wanted), the offence is
@@ -129,12 +133,12 @@ regular confusion when communicating with lay supporters who bring food offering
 
 ## Notes: Bad Arguments
 
-- *An Illustrated Book of Bad Arguments* (https://bookofbadarguments.com/)
-- *Logical Fallacy Lookup* (https://www.aristotl.io/)
+- *An Illustrated Book of Bad Arguments* (<https://bookofbadarguments.com/>)
+- *Logical Fallacy Lookup* (<https://www.aristotl.io/>)
 
-The following responses in an argument are logical fallacies.
+The following responses in an argument are logical fallacies, which distract and redirect the discussion from the original topic.
 
-Return the discussion to the original issue at hand, supported by direct observations if possible.
+A useful corrective measure is to re-state the issue at hand, supported by direct observations.
 
 **Personal Attack**, *ad hominem*
 
@@ -168,6 +172,10 @@ Preferring the idea which originates from oneself, or from one's own group, inst
 
 The opposite bias is 'Appeal to Authority', where preference is placed apart from oneself, such as an influential authority, or their group.
 
+<!-- latex
+\clearpage
+-->
+
 **Appeal to Authority**
 
 'Jesus emphasised love and compassion, not finicky rules.'
@@ -188,7 +196,8 @@ Ignoring or downplaying evidence which undermines one's opinion.
 
 **Texas Sharpshooter**, jumping to conclusions
 
-'I know many people who disrobed, and several of them used a soft mattress to sleep.'
+'Eating breakfast before the meal is not proper practice. I know many people who
+disrobed, and several of them used to eat breakfast.'
 
 Grasping at particular cases which support the conclusion one wants, even though the results could be due to chance.
 
@@ -197,4 +206,5 @@ Grasping at particular cases which support the conclusion one wants, even though
 'Today it's just coffee, but you know how drug addictions start!'
 
 Exaggarating the results of trivial causes.
+
 
