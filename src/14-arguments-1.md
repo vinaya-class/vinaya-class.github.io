@@ -134,6 +134,7 @@ regular confusion when communicating with lay supporters who bring food offering
 ## Notes: Bad Arguments
 
 - *An Illustrated Book of Bad Arguments* (<https://bookofbadarguments.com/>)
+- *List of Logical Fallacies with Examples* (<https://www.logicalfallacies.org/>)
 - *Logical Fallacy Lookup* (<https://www.aristotl.io/>)
 
 The following responses in an argument are logical fallacies, which distract and redirect the discussion from the original topic.

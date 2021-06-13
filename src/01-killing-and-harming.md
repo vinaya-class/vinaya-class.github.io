@@ -193,4 +193,70 @@ Knowingly eating un-kappied seeds is dukkata.
 agriculture, which is probably part of the intended results, although
 not their direct origin.
 
+## Notes: War and Peace
+
+- [The Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem), "Should you kill one person to save five?"
+
+- [Getting the Message](https://www.buddhistinquiry.org/article/getting-the-message/), Thanissaro Bhikkhu (2006) ([archive.org](https://web.archive.org/web/20201113023105/https://www.buddhistinquiry.org/article/getting-the-message/))
+
+> "Killing is never skillful. Stealing, lying, and everything else in the first
+> list are never skillful. When asked if there was anything whose killing he
+> approved of, the Buddha answered that there was only one thing: anger. In no
+> recorded instance did he approve of killing any living being at all. When one
+> of his monks went to an executioner and told the man to kill his victims
+> compassionately, with one blow, rather than torturing them, the Buddha
+> expelled the monk from the Sangha on the grounds that even the recommendation
+> to kill compassionately is still a recommendation to kill—something he would
+> never condone."
+
+- [War and Peace](https://www.inquiringmind.com/article/3002_5_bhodi-war-and-peace-a-buddhist-perspective/), Bhikkhu Bodhi (2014) ([archive.org](https://web.archive.org/web/20151122005139/http://www.inquiringmind.com/Articles/WarAndPeace.html))
+
+> The UN Charter sees physical force as a last resort but condones its use when
+> allowing the transgressor to proceed unchecked would have more disastrous
+> consequences.
+> 
+> The moral tensions we encounter in real life should caution us against
+> interpreting Buddhist ethical prescriptions as unqualified absolutes. And yet
+> the texts of early Buddhism themselves never recognize circumstances that might
+> soften the universality of a basic precept or moral value. To resolve the
+> dissonance between the moral idealism of the texts and the pragmatic demands of
+> everyday life, I would posit two frameworks for shaping moral decisions. I will
+> call one the *liberative* framework, the other the *pragmatic karmic* framework.
+
+- [Response to 'War and Peace'](https://web.archive.org/web/20151123015056/http://www.inquiringmind.com/Articles/BhikkhuLetters.html), letters from Ajahn Thanissaro (2015)
+
+> The arguments are also misleading in that they casually dismiss the precept
+> against killing because it is a moral absolute, as if all absolutes were naïve.
+> Then they claim that there are circumstances in which the government’s need to
+> protect its citizenry trumps the precept against killing. In other words, the
+> need to protect a nation becomes the moral absolute, and yet there is no
+> explanation as to where it gains its absolute authority, or why it’s more moral
+> than not killing.
+> 
+> The arguments are further misleading in portraying their stance as “pragmatic,”
+> implying that the Buddha’s approach is impractical. Actually, the Buddha’s
+> absolutist approach is the only one that works when passions are aroused. A
+> conditional or negotiable precept against killing is easily swept aside when
+> people are overcome by anger or fear. Only a conscience that regards as a moral
+> absolute the principle of no intentional killing—ever, at all—has a chance in
+> holding the line against the passions.
+> 
+> Finally, the arguments are misleading in suggesting that their more “pragmatic”
+> approach is ideal for people who want to approach liberation gradually.
+> Actually, it’s a recipe for turning one’s back on liberation and marching off in
+> the opposite direction. Ask any soldier suffering from the long-term effects of
+> becoming a trained killer, and he or she will tell you that it’s no way to
+> develop wholesome qualities of mind.
+
+- [The Reality of War](https://www.dalailama.com/messages/world-peace/the-reality-of-war), The Dalai Lama (2009) ([archive.org](https://web.archive.org/web/20210526055246/https://www.dalailama.com/messages/world-peace/the-reality-of-war))
+
+Violence even 'for the good cause' has an unpredictable outcome, and lasting
+peace has to rely on trust. He avoids making a clear statement about killing
+human beings.
+
+- [Autonomous drones attacked troops in Libya without human control](https://www.rt.com/news/525111-libya-killer-drone-attack/) (2021 May)
+
+> A UN report found that autonomous drones armed with explosive devices may have
+> “hunted down” fleeing rebel fighters in Libya last year. If true, the report
+> chronicles the world’s first true robot-on-human attack.
 
