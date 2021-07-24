@@ -1,4 +1,4 @@
-# Kiccavatta
+# Kiccavaṭṭa
 
 - **Kc 1.** Āgantuka vaṭṭa (duties if one is a visitor)
 - **Kc 2.** Āvāsika vaṭṭa (duties of residents towards a visitor)

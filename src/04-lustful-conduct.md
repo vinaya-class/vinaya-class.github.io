@@ -137,8 +137,11 @@ people may result in censure, banishment or suspension on grounds of
 Also, observers might misinterpret the situation, best to ask someone to
 chaperon.
 
-Private conversations in general are treated in Pc 44, Pc 45, Ay 1, Ay
-2.
+Private conversations in general are treated in Pc 44, Pc 45, Ay 1, Ay 2.
+
+<!-- latex
+\columnbreak
+-->
 
 **Object:** Any woman who recognizes lewd comments.
 
@@ -150,7 +153,7 @@ knowledgeable man present.
 ### Non-offenses
 
 -   if the woman changes position
--   talk on different occations
+-   talk on different occasions
 -   addressing the next woman
 -   teaching someone else, and the woman just listens in
 -   teaching in response to questions from the woman

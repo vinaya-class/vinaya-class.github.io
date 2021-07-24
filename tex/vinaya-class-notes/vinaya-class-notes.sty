@@ -15,6 +15,8 @@
   BoldItalicFont = Crimson-BoldItalic.otf,
 ]{Crimson-Roman.otf}
 
+\newfontfamily\spectralScFont{SpectralSC-Medium.otf}
+
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{calc}
@@ -123,7 +125,8 @@
 }
 
 \newcommand{\sectionFmt}[1]{%
-  \normalfont\memRTLraggedright\scshape
+  \spectralScFont\selectfont%
+  \memRTLraggedright%
   \secunderline{#1}%
 }
 
@@ -136,11 +139,11 @@
   \renewcommand*{\chapterheadstart}{}
   \renewcommand*{\printchaptername}{}
   \renewcommand*{\chapternamenum}{}
-  \renewcommand*{\printchapternum}{\Large\thechapter.\hspace*{10pt}}
+  \renewcommand*{\printchapternum}{\spectralScFont\LARGE\selectfont\thechapter.\hspace*{10pt}}
   \renewcommand*{\afterchapternum}{}
   \renewcommand*{\printchaptertitle}[1]{%
     \memRTLraggedright
-    \LARGE\scshape\MakeTextLowercase{##1}
+    \spectralScFont\LARGE\selectfont\MakeTextLowercase{##1}
   }
   \renewcommand*{\afterchaptertitle}{%
   \vskip\onelineskip \hrule\vskip\onelineskip}}
@@ -181,9 +184,9 @@
 \makeoddfoot{chapterpage}{}{}{}
 
 \makepagestyle{toprule}
-\makeevenhead{toprule}{\thepage}{}{\scshape{\MakeLowercase{\rightmark}}}
+\makeevenhead{toprule}{\thepage}{}{{\spectralScFont\selectfont\MakeLowercase{\rightmark}}}
 \makeevenfoot{toprule}{}{}{}
-\makeoddhead{toprule}{\scshape{\MakeLowercase{\rightmark}}}{}{\thepage}
+\makeoddhead{toprule}{{\spectralScFont\selectfont\MakeLowercase{\rightmark}}}{}{{\spectralScFont\selectfont\thepage}}
 \makeoddfoot{toprule}{}{}{}
 
 \makeheadrule{toprule}{\textwidth}{\normalrulethickness}

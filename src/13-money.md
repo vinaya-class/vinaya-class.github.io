@@ -44,6 +44,50 @@ In the case of invitations, follow the four-month period protocol in Pc 47.
 
 There is no exemption for relatives or people who have invited the bhikkhu to ask.
 
+**Object:** A fund left with a steward to buy robe cloth, or any fund for any
+type of requisite (including construction or book printing).
+
+**Steward:** a layperson or entity responsible for handling funds or
+transactions on behalf of a bhikkhu or group of bhikkhus.
+
+Three types of stewards:
+
+<!-- latex
+\enlargethispage*{\baselineskip}
+-->
+
+- Indicated by the bhikkhu
+  - The bhikkhu points the person out
+  - The donor gives funds to the steward and tells the bhikkhu
+- Indicated by the donor or messenger
+  - The donor or messenger chooses the steward and tells the bhikkhu
+- Indicated by neither
+  - Someone overhears the conversation and volunteers to act as steward
+  - The donor gives funds to the steward, but doesn't tell the bhikkhu
+  
+<!-- latex
+\clearpage
+-->
+
+### Protocol for accepting funds
+
+Allowable: 
+
+If you are asked who the steward is and you point out a layperson and say, "That
+person is the steward".
+
+Unallowable: 
+
+- Accepting money (see NP 18). You should tell the donor that bhikkhus don't
+  accept money.
+- If a donor asks you who your steward is and you say, "Give it to him" or "He
+  will keep it" (see NP 18).
+- If a donor asks you who your steward is and you say, "He will buy it" or "He
+  will get it in exchange" (see NP 20).
+- If the donor asks, "Who should I give this to?" and you point someone out. A
+  wise policy instead is to broach the topic of stewards so that the donor asks
+  a question to which you may give an allowable answer.
+  
 ## NP 18, Gold, silver and money
 
 A bhikkhu is forbidden to accept gifts of money, getting others to accept them,
@@ -74,9 +118,13 @@ A currency is:
 
 Not a currency:
 
-- a check made out to a specific person
-- a store's voucher
+- a money order or check made out to a specific person
+- credit- and debit cards
+- a store's voucher, gift card, or discount points
 - food stamps
+- promissory notes
+
+Credit cards are not a currency, but are not allowable to use (see NP 20).
 
 There is no offence for a bhikkhu, in the monastery, to pick up gold or money
 and put it away for safe keeping.
@@ -86,7 +134,10 @@ and put it away for safe keeping.
 This covers the case when a bhikkhu would instruct someone else to arrange the
 trade, without himself accepting the money.
 
-There is no allowance for 'wording thing right' (*kappiya-vohāra*).
+There is no allowance for 'wording things right' (*kappiya-vohāra*).
+
+A bhikkhu may not instruct a steward to sell something or invest money for
+profit.
 
 ## NP 20, Trade
 
@@ -95,5 +146,15 @@ Exchange of items with lay people or members of other sects.
 *Origin:* Ven. Upananda exchanges a nicely made robe for a cloak with a
 wanderer, who later regrets the trade and wants it back.
 
-There is no offence for exchanging allowable items between bhikkhus or novices.
+Credit cards or checks don't count as currency, but any trade arranged with them
+would come under this rule.
 
+### Non-offences
+
+- asking for the price
+- informing the steward or seller (e.g. "I have this. I need X") and letting the
+  steward or seller arrange the exchange
+- if the other person is a bhikkhus or novice
+- saying, "Give X for Y" when engaging in trade with your parents
+- telling the steward, "Don't take it" when you think the steward is getting a
+  bad deal

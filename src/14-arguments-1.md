@@ -131,11 +131,23 @@ out of bias -- desire, aversion, delusion or fear.
 Such as favouritism when assigning the best dwellings to bhikkhus he likes, or
 regular confusion when communicating with lay supporters who bring food offerings.
 
+<!-- latex
+\bigskip
+-->
+
 ## Notes: Bad Arguments
+
+<!-- latex
+\bigskip
+-->
 
 - *An Illustrated Book of Bad Arguments* (<https://bookofbadarguments.com/>)
 - *List of Logical Fallacies with Examples* (<https://www.logicalfallacies.org/>)
 - *Logical Fallacy Lookup* (<https://www.aristotl.io/>)
+
+<!-- latex
+\bigskip
+-->
 
 The following responses in an argument are logical fallacies, which distract and redirect the discussion from the original topic.
 
@@ -166,6 +178,10 @@ Pointing to another's guilt to justify one's wrong action.
 Avoiding the issue by debating the definition of terms instead.
 
 **Not Invented Here**
+
+<!-- latex
+\enlargethispage*{2\baselineskip}
+-->
 
 'I have done it several times like this. It's better than following messed up ideas from the X sect.'
 

@@ -81,9 +81,9 @@ Result is not a factor. Doesn't include accidents.
 Can't water plants if one plans to eat its fruit, but may indicate it
 for others.
 
-Kutis may use small gutters as water moats around the stilts to keep out ants.
-One has to treat the water with household chemicals, otherwise mosquitoes will
-breed in the water.
+Kutis may use water moats around the stilts to keep out ants.
+One may treat the water with household chemicals to prevent larvae (e.g.
+mosquitoes) getting established in the water.
 
 ## Pc 62, Drinking water containing living beings
 

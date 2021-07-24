@@ -88,7 +88,8 @@ transaction being carried out against him.
 In order for the transaction relating to a bhikkhu be valid, has to be either
 present or given his consent.
 
-**Effort:** he goes beyond *hatthapāsa* of the bhikkhus in the meeting.
+**Effort:** he goes beyond *hatthapāsa* of the bhikkhus in the meeting without
+first giving his consent.
 
 There is no offence if one leaves the meeting for a different purpose, such as
 being ill, can't wait to use the toilet, or thinking 'I'll be right back.'

@@ -20,6 +20,8 @@
   BoldItalicFont = Crimson-BoldItalic.otf,
 ]{Crimson-Roman.otf}
 
+\newfontfamily\spectralScFont{SpectralSC-Medium.otf}
+
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{calc}
@@ -110,12 +112,11 @@
   \renewcommand*{\chapterheadstart}{}
   \renewcommand*{\printchaptername}{}
   \renewcommand*{\chapternamenum}{}
-  %\renewcommand*{\printchapternum}{\Large\thechapter.\hspace*{10pt}}
   \renewcommand*{\printchapternum}{}
   \renewcommand*{\afterchapternum}{}
   \renewcommand*{\printchaptertitle}[1]{%
     \memRTLraggedright%
-    {\LARGE\scshape\MakeTextLowercase{##1}}%
+    {\spectralScFont\LARGE\selectfont\MakeTextLowercase{##1}}%
     \hfill%
     {\normalsize Kiṃ nāmo si:\hspace*{4cm}}%
   }
@@ -128,15 +129,20 @@
   \renewcommand*{\chapterheadstart}{}
   \renewcommand*{\printchaptername}{}
   \renewcommand*{\chapternamenum}{}
-  % \renewcommand*{\printchapternum}{\Large\thechapter.\hspace*{10pt}}
   \renewcommand*{\printchapternum}{}
   \renewcommand*{\afterchapternum}{}
   \renewcommand*{\printchaptertitle}[1]{%
     \memRTLraggedright%
-    {\LARGE\scshape\MakeTextLowercase{##1}}%
+    {\spectralScFont\LARGE\selectfont\MakeTextLowercase{##1}}%
   }
   \renewcommand*{\afterchaptertitle}{%
     \vskip\onelineskip \hrule\vskip\onelineskip}
+}
+
+\newcommand\sectionFmt[1]{%
+  \spectralScFont\fontsize{12}{15}\selectfont%
+  \memRTLraggedright%
+  \textbf{#1}%
 }
 
 \makeheadstyles{vinaya-class}{%
@@ -178,9 +184,9 @@
 \makeoddfoot{chapterpage}{}{}{}
 
 \makepagestyle{toprule}
-\makeevenhead{toprule}{\theChapterTitle}{}{\thepage}
+\makeevenhead{toprule}{{\spectralScFont\selectfont\theChapterTitle}}{}{{\spectralScFont\selectfont\thepage}}
 \makeevenfoot{toprule}{}{}{}
-\makeoddhead{toprule}{\thepage}{}{\theChapterTitle}
+\makeoddhead{toprule}{{\spectralScFont\selectfont\thepage}}{}{{\spectralScFont\selectfont\theChapterTitle}}
 \makeoddfoot{toprule}{}{}{}
 
 \makeheadrule{toprule}{\textwidth}{\normalrulethickness}

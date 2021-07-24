@@ -74,7 +74,7 @@ Right times: the robe season, or when one is making a robe.
 The principle of Pc 46 and Pc 85 is to stop bhikkhus spending their time
 in inappropriate ways at lay people's homes.
 
-Civara-dana and civara-kara samayo is the same time, robe-season (?).
+*Civara-dana samayo* and *civara-kara samayo* are the same time, robe-season.
 
 Keeping people informed about what are you doing.
 
