@@ -57,6 +57,10 @@ Four things not to be done, *akaraṇīya*:
 
 ([Vin.I.96-97](https://suttacentral.net/pli-tv-kd1/en/horner-brahmali))
 
+A person committing parajika is said to be 'incurable', all other offenses are
+'curable'. The person has asked to train, has not given it up, and still commits
+the extreme offenses against the training.
+
 <!-- latex
 \end{multicols}
 \par
@@ -64,6 +68,12 @@ Four things not to be done, *akaraṇīya*:
 -->
 
 ![Introduction](./includes/mindmaps/introduction.png)
+
+*NOTE:* Five years of *nissaya* (dependence on a teacher) after ordination is
+integral to the training.
+
+In the monasteries of the Thai tradition, the upajjhāya should fill out and give
+a *baisuddhi* document to the bhikkhus he has ordained.
 
 ### The Four Great Standards
 
@@ -142,6 +152,21 @@ training in heightened mind, the training in heightened discernment...."
 
 (AN 3.88)
 
+"There are these two bright qualities that safeguard the world. Which two?
+Conscience & concern for the results of unskillful actions (*hiri-ottappa*)."
+
+([Iti 2.15](https://www.accesstoinsight.org/tipitaka/kn/iti/iti.2.028-049.than.html#iti-042))
+
+“What then is the reason why the spiritual life established by Buddha
+Kakusandha, Buddha Konāgamana, and Buddha Kassapa lasted long?”
+
+"[...] they laid down training rules and recited a monastic code. [...] It’s just
+like flowers tied with a string to a wooden plank: they are not scattered about,
+whirled about, or destroyed by the wind. Why is that? Because they are held
+together by a string."
+
+([PTS Vin. 3.1–3.40](https://suttacentral.net/pli-tv-bu-vb-pj1/en/brahmali))
+
 If there is some obstacle to [the practice of the training rules], due to time
 and place, the rules should be upheld indirectly and not given up entirely, for
 otherwise there will be no principles (for discipline). A community without
@@ -160,9 +185,22 @@ principles for discipline cannot last long...
 - 75 Sekhiya: etiquette to be trained in
 - 8 Adhikaraṇa-samatha: means of settling issues
 
-<!-- latex
-\clearpage
--->
+## Hierarchy of Views
+
+Conflicting Dhamma and Vinaya commentaries and local practices can be sorted out by following the hierarchy of views.
+
+1. The word of the Buddha ('I heard this from the Blessed One')
+2. The views of the arahant disciples at the 1st and 2nd Council (the Sutta Vibhanga)
+3. Commentaries and Sub-commentaries
+4. Instructions of one's teacher and local training standards (*kor-wat*)
+5. One's personal opinions
+
+One canonical example is when bhikkhus commend the standardized formulation of
+the suttas by the 1st Council, but say that they will nonetheless continue
+teaching it the way they heard it from the Blessed One.
+
+**Discussion:** Where does the Four Great Standards and the decisions of the
+European Elders Council, or the Mahathera Samakorn in Thailand fit in?
 
 ## Reference books
 
