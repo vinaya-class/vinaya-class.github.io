@@ -70,7 +70,7 @@ While the shared ownership is in effect, none of the bhikkhus may use the item.
 If the bhikkhu simply gives the robe back to the stores, he has given up
 ownership of it and another bhikkhu would be free to take it.
 
-*Vikkappana* allows a bhikkhu to determine a smaller sanghati while
+*Vikappana* allows a bhikkhu to determine a smaller sanghati while
 travelling, but not entirely giving up his regular sanghati.
 
 **Object:** robe-cloth, min. 4x8 fingerbreadths, that one has placed

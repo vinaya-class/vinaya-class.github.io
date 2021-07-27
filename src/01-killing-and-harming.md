@@ -3,7 +3,7 @@
 - **Pr 3,** Killing a human being
 - **Pc 61,** Killing an animal
 - **Pc 20,** Pouring water containing living beings
-- **Pc 62,** Drinking water containing living beings
+- **Pc 62,** Using water containing living beings
 - **Pc 10,** Digging soil
 - **Pc 11,** Damaging living plants or seeds
 
@@ -21,9 +21,18 @@ A human being is regarded as such from the time when the 'being to be born' is
 established in the womb. This is an uncertain time, sometime after conception
 during embryo development. The embryo can't develop otherwise.
 
-<!-- latex
-\clearpage
--->
+There is a distinction between recommending an action something which *causes
+death in each case* (abortion or active contraception) and something which
+*causes death in some of the cases* (a treatment which can go wrong). There is
+**no offence** in the second case, e.g. some people are known to die in car
+accidents, but it doesn't mean that a bhikkhu can't ask a person to drive.
+
+Turning off life-support equipment: if the ill person stated their position on
+it beforehand, the doctors may be simply following his instruction.
+
+Giving permission to the doctor to turn off the equipment is still not parajika
+(not cutting off life, it ends on its own), although one might live with a
+doubtful heart afterward.
 
 > "If consciousness were not to descend into the mother's womb, would
 > name-and-form take shape in the womb?"
@@ -85,13 +94,13 @@ Kutis may use water moats around the stilts to keep out ants.
 One may treat the water with household chemicals to prevent larvae (e.g.
 mosquitoes) getting established in the water.
 
-## Pc 62, Drinking water containing living beings
+## Pc 62, Using water containing living beings
 
 <!-- latex
 \enlargethispage{\baselineskip}
 -->
 
-Knowing they will die from drinking it, even accidentally.
+Knowing they will die from using or drinking it, even accidentally.
 
 Using water strainers or robe. Determining a corner of the sanghati as a
 water-filter.
