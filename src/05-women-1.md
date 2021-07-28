@@ -104,7 +104,7 @@ seat with a woman? This will not give rise to confidence in those without it..."
 The bhikkhu sits with a woman at a secluded place, private to the eye and ear,
 without another man present, aiming at privacy. Secluded enough for parajika.
 
-**Effort:** sitting or lying down on the same seat.
+**Effort:** sitting or lying down at the same place, even if not the same seat.
 
 ### Non-offences
 

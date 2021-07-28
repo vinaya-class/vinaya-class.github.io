@@ -61,7 +61,7 @@ have to occur back-to-back.
 
 After completing *mānatta* he can only be rehabilitated as a bhikkhu in regular
 standing by a community meeting of at least 20 bhikkhus. He is not required to
-stay at that particular monaster after having received rehabilitation.
+stay at that particular monastery after having received rehabilitation.
 
 If he commits another sanghadisesa before rehabilitation, he must inform a
 bhikkhu and ask a Sangha of at least four to 'send him back to the beginning.'
