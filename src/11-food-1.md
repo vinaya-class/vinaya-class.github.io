@@ -21,6 +21,17 @@ Eating staple or non-staple food, from mid-day until dawnrise.
 Mid-day, or nood, is when the Sun is at zenith. This may be a few minutes ahead
 or behind of 12:00. It may be around 13:00 during daylight-savings time.
 
+Staple, non-staple, medicine etc. van vary according to the context of different rules.
+
+Staple food (*bhojaniya*): cooked grains, bread, pasta, vegetables, fish, meat, etc.
+
+Non-staple food (*khādaniya*): side dishes, roots, tubers, fruits, nuts, seeds,
+juice drinks, tonics, medicines, cakes, drinking conjey, etc.
+
+Medicines: 'any edible that is used as a medicine but does not fit under
+categories of staple or non-staple food, juice drinks or the five tonics' (BMC
+definition).
+
 'Eating' is defined as 'entering the mouth'.
 
 Swallowing food disloged from between the teeth, or chewing and swallowing
@@ -61,6 +72,10 @@ allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
 - a designated food-store is allowed
 - no offence for setting food aside and consuming it withing the right period
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 39, Requesting finer staple foods
 
 Finer staple foods: ghee, fresh butter, oil, honey, sugar, fish, meat,
@@ -74,10 +89,6 @@ observed."
 
 Hence, dukkata for requesting and consuming other staple foods, except
 when one is ill.
-
-<!-- latex
-\clearpage
--->
 
 ### Non-offenses
 
@@ -97,6 +108,9 @@ when one is ill.
 <!-- latex
 \end{multicols}
 -->
+
+*Meṇḍaka Allowance* permits asking a lay person to prepare and store provisions
+before setting off on a journey through a wilderness area together.
 
 ## Pc 40, Unoffered food
 
@@ -129,6 +143,10 @@ rescinded.
 
 - make and take an antidote in the case of emergency
 - a non-human being may offer the food
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 51, Intoxicants
 
@@ -166,6 +184,10 @@ and other acids. See also: SCOBY (symbiotic culture of bacteria and yeast).
 
 Effective microorganisms (EM) are blends of common anaerobic microorganisms in a
 carbohydrate-rich liquid.
+
+<!-- latex
+\clearpage
+-->
 
 ## Pd 3, Protected families
 

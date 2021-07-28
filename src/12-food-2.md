@@ -193,6 +193,8 @@ food free of charge.
 - the food is intended for bhikkhus
 - the centre limits the amount of food one may take (thus being able to censure
   a greedy person)
+- eating at an alms centre belonging to one owner one day, at another centre
+  belonging to another owner the next day
 
 ## Pc 32, Four bhikkhus specifically invited
 
@@ -223,6 +225,10 @@ If the donors are not informed, very light food is still allowed, such as drinki
 ## Pc 34, More than three bowlfuls
 
 Origin: some bhikkhus don't know moderation in accepting cakes as provisions from faithful supporters.
+
+<!-- latex
+\enlargethispage{\baselineskip}
+-->
 
 After accepting the provisions, the bhikkhu should inform the other to not accept more at that place.
 It is a *dukkaṭa* offence to not do so.

@@ -5,6 +5,20 @@
 \date{\the\year}
 \author{Gambhiro Bhikkhu}
 
+\newif\ifnosolutions
+\nosolutionsfalse
+
+\RequirePackage{pgfopts}
+
+\pgfkeys{
+  /VINAYA/.cd,
+  nosolutions/.code=\nosolutionstrue,
+}
+
+\DeclareOption*{}
+\ProcessPgfOptions{/VINAYA}
+\ProcessOptions\relax
+
 \usepackage[british]{babel}
 
 \renewcommand\britishhyphenmins{{3}{3}}
@@ -27,6 +41,7 @@
 \usepackage{calc}
 \usepackage{enumitem}
 \usepackage{multicol}
+\usepackage{comment}
 
 \usepackage{hyperxmp}
 \usepackage{hyperref}
@@ -201,4 +216,10 @@
 \setlength{\cftbeforechapterskip}{8pt}
 
 \usepackage[final,babel=true]{microtype}
+
+\ifnosolutions
+\excludecomment{solution}
+\else
+\specialcomment{solution}{\emph{Solution:}\space}{}
+\fi
 
