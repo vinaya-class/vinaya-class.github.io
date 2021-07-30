@@ -106,7 +106,7 @@ Lay supporters may address a teacher with exaggerated faith: "May the venerable
 arahant explain to me...".
 
 Suporters may suggest states: "We would like to invite four sotapanna monks to
-start a temple in our town.**
+start a temple in our town."
 
 There is no offense in coming, sitting, etc., as long as the intention is just to
 accept the invitation and not to imply a claim.

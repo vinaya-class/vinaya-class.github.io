@@ -98,8 +98,9 @@ clear boundary.
 *Thai kutis*: when the bhikkhu is alone, the area is his kuti and hatthapasa
 around it. When somebody else is present, hattapasa from his body.
 
-Exception during the robe-season, if one is eligible for *kathina**
-privileges, and unless one has relinquished those privileges.
+Exception during the robe-season, if one is eligible for extending the *kathina*
+privileges, and unless one has relinquished those privileges. (The 1st month
+always applies, one may relinquish the additional 3 months.)
 
 **Formal meetings:**
 

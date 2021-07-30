@@ -32,7 +32,8 @@ intentions but later breaking it.
 
 *Remaining silent:*
 
-During the patimokkha recitation: pacittiya.
+During *sanghakamma* when agreement is signalled by silence, if one remains
+silent as a deception: pacittiya.
 
 Silence is a gesture, and fulfils effort as a factor.
 
@@ -44,11 +45,12 @@ blocking the meeting.
 
 One has to know *I am going to lie*, and *I am lying*.
 
-Note: irony doesn't intend to deceive, but satire does.
+Note: irony doesn't intend to deceive, but satire does. Consider an April Fool's
+joke, which fully intends to deceive.
 
 Cruel- or malign jokes: don't let humour comprimise your highest values.
 
-Example: "It was 100!" -- intending to impress, but he doesn't know.
+Example: "It's over 9000!" -- intending to impress, but he doesn't know.
 
 Checking one's statements before making them, different levels of confidence in
 a statement.
@@ -130,18 +132,24 @@ speaking, not an acknowledgement of theft.
 
 It matters whether the person is present or not.
 
+**Intention:** wanting to remove him from the community. Even when it is 'for
+the purity of the Sangha', it is driven by aversion.
+
 Insult, slander, lieing.
 
-Spreading stories.
+Spreading stories. Saying something which may be false, but you believe it to be true.
 
-Saying something which may be false, but you believe it to be true.
+"Not sure if this is true..." -- engaging in gossip, idle chatter, or false tale
+bearing (Pc 1) are not accusations, the person is not present.
 
-"Not sure if this is true..." -- enjoying gossip.
+Reporting 
 
 ## Sg 9, Distorting evidence
 
 Finding a statement which will be misinterpreted, but one can maintain it to be
 true.
+
+E.g. quoting out of context is creating a false pretext.
 
 ## Pc 76, Unfounded sanghadisesa accusation
 
@@ -164,6 +172,9 @@ the group-of-six convince the donors to give the robes to them instead.
 
 **Perception** is a factor, one must know that the item is already allocated.
 There is no offence if one didn't know.
+
+After forfeiting the item, the bhikkhu will receive it back. The community may
+decide if the item is unsuitable for a bhikkhu to use.
 
 ## Pc 82, Diverting an offering for a lay person
 
