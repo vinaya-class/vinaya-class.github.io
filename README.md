@@ -9,7 +9,7 @@ These notes function as support material for discussing the Vinaya, the Buddhist
 Monastic Code.
 
 There is more than one way to do this, and variations are welcome. Online notes
-are flexible and can accomodate choices on which variation to print for a class.
+are flexible and can accommodate choices on which variation to print for a class.
 
 You don't have to know `git` or `Github` to contribute, see the notes below.
 
@@ -20,7 +20,7 @@ This is a work-in-progress. The aim is to include:
 - overview of key points (i.e. the mindmaps)
 - key details to talk about in depth
 - which concept has to be introduced at what rule
-- useful situations to analyze
+- useful situations to analyse
 - questions for students to answer
 - methods of teaching (ideas for ways to run the classes)
 

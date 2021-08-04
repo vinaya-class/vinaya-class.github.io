@@ -18,8 +18,11 @@
 
 Eating staple or non-staple food, from mid-day until dawnrise.
 
-Mid-day, or nood, is when the Sun is at zenith. This may be a few minutes ahead
+Mid-day, or noon, is when the Sun is at zenith. This may be a few minutes ahead
 or behind of 12:00. It may be around 13:00 during daylight-savings time.
+
+Categories of edibles: (1) Staple, (2) non-staple, (3) juice drinks, (4) the
+five tonics, (5) life-time medicines and (6) water.
 
 Staple, non-staple, medicine etc. van vary according to the context of different rules.
 
@@ -32,10 +35,19 @@ Medicines: 'any edible that is used as a medicine but does not fit under
 categories of staple or non-staple food, juice drinks or the five tonics' (BMC
 definition).
 
+Tonics: ghee, fresh butter (or cheese), oil, honey, sugar.
+
+Unallowable meats: human, elephant, horse, dog, lion, tiger, leopard, bear,
+hyena, snake. *Thullcaya* for human, *dukkata* for others.
+
+Eggs, blood, etc. are included under 'meat'. Consuming uncooked (raw) meat is *dukkata*.
+
 'Eating' is defined as 'entering the mouth'.
 
 Swallowing food disloged from between the teeth, or chewing and swallowing
 unchewed food passed up from the stomach is not an offence.
+
+Cooking is not allowed, but heating up is not an offence.
 
 Being ill is not an exception, since the 7 day tonics are allowed for that
 reason.
@@ -70,7 +82,7 @@ allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
   food while travelling
 - no offence for telling an unordained person to store it
 - a designated food-store is allowed
-- no offence for setting food aside and consuming it withing the right period
+- no offence for setting food aside and consuming it within the right period
 
 <!-- latex
 \clearpage
@@ -78,7 +90,7 @@ allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
 
 ## Pc 39, Requesting finer staple foods
 
-Finer staple foods: ghee, fresh butter, oil, honey, sugar, fish, meat,
+Finer staple foods: ghee, fresh butter (or cheese), oil, honey, sugar, fish, meat,
 milk, curds.
 
 Object, effort, result.
@@ -128,6 +140,10 @@ One may drink water, or use tooth-cleaning sticks without it being offered.
 - receiving with the hand,
 - with something in contact with the body,
 - or the item being dropped and caught.
+
+The food item becomes 'not offered' when the bhikkhu relinquishes ownership or
+control. 'Unoffered' after touching or being moved is a practice for clear
+boundaries for the bhikkhus and lay people.
 
 **Effort:**
 

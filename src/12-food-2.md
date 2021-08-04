@@ -242,17 +242,25 @@ Origin: some bhikkhus selectively accept some alms-food from one donor, then go
 to another donor to have something else they like. The first donor could have offered
 all the food they needed, and feels hurt that they went somewhere else for more.
 
-If the bhikkhus already accepted all that the donor wanted to give,
-it is not an offence to seek more alms if they would need more food.
+If the bhikkhu already accepted all that the donor wanted to give,
+it is not an offence to seek more alms if he would need more food.
 
-The donor may offer more food, and they may accept or refuse certain items while
-still eating.
+The donor may offer more food, and the bhikkhu may accept or refuse certain
+items, until he has finished eating (removes his hands from the bowl and pushes
+it away, getting up from his seat).
 
-If they have finished eating, and they had refused more food while eating,
-they can't accept more food items which are not leftovers.
+If he refused an item from one donor, he may not accept another item from
+another donor.
 
-If they have finished eating, but they **had not** refused more food while eating,
-they may accept more food items.
+If he has finished eating, and he had refused more food earlier,
+he can't accept more food items which are not leftovers.
+
+If he has finished eating, but he **had not** refused more food earlier,
+he may accept more food items.
+
+If another donor arrives with more food, and the bhikkhu had refused some food
+earlier, he should ask permission from the earlier donor before receiving more
+food, to avoid offending them.
 
 ### Non-offences
 
