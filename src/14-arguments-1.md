@@ -14,7 +14,7 @@ A schismatic group forms when bhikkhus, who would previously observe the
 *Pāṭimokkha* recitation and conduct community meetings together when living in
 the same territory, conduct them separately.
 
-*Origin:* The Kosambī dispute (*Mv.X*) and Devadatta's schism (Cv.VII).
+*Origin:* The Kosambī dispute (_Mv.X_) and Devadatta's schism (_Cv.VII_).
 
 When a bhikkhu is agitating for a schism, it is the duty of the other bhikkhus
 to reprimand him. If they don't, they incur a *dukkaṭa*. If he is not
@@ -30,12 +30,17 @@ He only incurs the *saṅghādisesa* after the last announcement.
 
 The same protocol of reprimand, admonishment and rebuke applies to *Sg 11, 12, 13*.
 
-*Note:* discuss the procedure and valid reasons for declaring a bhikkhu *persona non grata*.
+*Note:* discuss the procedure and valid reasons for declaring a bhikkhu *persona
+non grata* (a person who is not welcome). One might call the police and refer to
+laws of breaching one's peace, invading property or trespassing.
 
 ## Sg 11, Supporting a schismatic group
 
 Dealing with bhikkhus who begin to support one who is agitating for a schism,
 before their group grows to four.
+
+A _Sangha_ can not carry out a transaction against another _Sangha_ (group of
+four bhikkhus).
 
 ## Sg 12, Not accepting admonishment
 

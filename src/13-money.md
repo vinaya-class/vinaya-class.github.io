@@ -7,9 +7,16 @@
 
 ## NP 10, Fund with steward
 
+"For anyone for whom gold and silver are allowable, the five strings
+of sensuality are also allowable. [...] That you can unequivocally
+recognize as not the quality of a contemplative, not the quality of
+one of the Sakyan sons." ([SN 42.10](https://www.dhammatalks.org/suttas/SN/SN42_10.html))
+
 The purpose of the rule is to free bhikkhus from the complex responsibilities of
 buying and selling, while facilitating the means and protocols for their support
 with money.
+
+Origin: Mendaka offers funds for the Sangha.
 
 A bhikkhu is not allowed to accept other funds either, such as jewels,
 commodities, land, livestock, etc.
@@ -39,6 +46,12 @@ decision via *apalokana-kamma*.
 Funds set up for *garubhaṇḍa* (lodgings, furniture, etc.) may not be diverted for
 *lahubhaṇḍa*, but NP 20 allows the community to arrange *garubhaṇḍa* to be sold
 and purchase *lahubhaṇḍa*.
+
+Examples: paying for electricity from the 'cat's fund' (_lahubh._ to _lahubh._),
+selling land to buy another (_garubh._ to _garubh._).
+
+Restricted funds may only be used for the designated purpose (Trust law).
+Example: donation form selection options.
 
 In the case of invitations, follow the four-month period protocol in Pc 47.
 
@@ -98,6 +111,11 @@ or consent to it being placed next to him.
 *Intention* is not a mitigating factor. The bhikkhu may not accept the money for
 someone else's sake.
 
+NP offence: the money is forfeit, can not be used for the benefit of bhikkhus.
+
+*Discussion:* unaware of receiving money (wrapped in a bolt of cloth, hidden
+with food offerings).
+
 When informing lay supporters who wish to make a donation, the proper language
 should be used, i.e. not giving them instruction what to do with their money.
 
@@ -106,7 +124,8 @@ support the monastery in general), it is not an offence to allow them to place
 the money next to the bhikkhu.
 
 If someone drops money into a bhikkhu's bowl against his protest, he may ask
-someone to remove it without an offence.
+someone to remove it without an offence. The offence is incurred when he start
+walking away with it.
 
 The term 'gold or silver' includes the materials, and whatever is used as currency.
 
@@ -126,6 +145,20 @@ Not a currency:
 
 Credit cards are not a currency, but are not allowable to use (see NP 20).
 
+_Inheritance:_ The executor holds the money before distributing it to the
+beneficiaries. The bhikkhu may advise the executor to put the money into a
+certain Trust.
+
+A bhikkhu may own property, land, houses, etc. but not the money to manage it.
+
+A Trust may be setup to hold only property, but not money.
+
+_Store credit:_ a lay person may leave money at a store, and arrange that they
+serve a bhikkhu using that credit when he asks (Amazon voucher, restaurant,
+pastry shop).
+
+### Non-offences
+
 There is no offence for a bhikkhu, in the monastery, to pick up gold or money
 and put it away for safe keeping.
 
@@ -136,8 +169,9 @@ trade, without himself accepting the money.
 
 There is no allowance for 'wording things right' (*kappiya-vohāra*).
 
-A bhikkhu may not instruct a steward to sell something or invest money for
-profit.
+A bhikkhu may advise a steward to sell some items and purchase others, but **may
+not** instruct them to sell something or invest money for profit.
+A bhikkhu may give instruction to order things for the monastery.
 
 ## NP 20, Trade
 
@@ -154,7 +188,7 @@ would come under this rule.
 - asking for the price
 - informing the steward or seller (e.g. "I have this. I need X") and letting the
   steward or seller arrange the exchange
-- if the other person is a bhikkhus or novice
+- if the other person is a bhikkhu or novice
 - saying, "Give X for Y" when engaging in trade with your parents
 - telling the steward, "Don't take it" when you think the steward is getting a
   bad deal
