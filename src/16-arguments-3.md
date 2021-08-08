@@ -1,26 +1,28 @@
 # Arguments 3
 
--   **Pc 77,** Provoking anxiety about a broken rule
+-   **Pc 77,** Provoking anxiety
 -   **Pc 78,** Eavesdropping in an argument
 -   **Pc 63,** Reopen a closed issue
 -   **Pc 79,** Complaining about a community decision
 -   **Pc 80,** Leaving a community meeting
 -   **Pc 81,** Complaining about favouritism
 
-## Pc 77, Provoking anxiety about a broken rule
+## Pc 77, Provoking anxiety
 
-Telling a bhikkhu that he might have broken a rule, thinking, 'This way, even
-for just a moment, he will have no peace.'
+Telling a bhikkhu that he might have broken a rule, or otherwise deliberately
+provoking his anxiety, thinking, 'This way, even for just a moment, he will have
+no peace.'
 
 *Result* is a factor, the bhikkhu has to experience anxiety even for a moment.
 
 There is no offence in discussing offences out of genuine concern, or for the
 sake of clarifying the training.
 
-## Pc 78, Eavesdropping in an argument
+## Pc 78, Eavesdropping
 
-Deliberately listening in while others are in argument, only for the sake of using what they
-say against them, even if only for making them feel embarrassed.
+Deliberately listening in while others are in argument or other discussion, only
+for the sake of using what they say against them, even if only for making them
+feel embarrassed.
 
 Reading a bhikkhu's private documents (papers, files, emails) also fulfils **Effort**.
 
@@ -55,7 +57,7 @@ at a monastery, expressed by asking for dependence (*nissaya*) and other protoco
 ## Pc 79, Complaining about a community decision
 
 *Origin:* Some group-of-six bhikkhus don't want to go to a meeting and send
-their consent (*chanda*). The bhikkus use the opportunity to make a decision
+their consent (*chanda*). The bhikkhus use the opportunity to make a decision
 against them. The group-of-six bhikkhus complain that they wouldn't have
 consented to *that*.
 
@@ -72,7 +74,7 @@ prevent small factions making independent decisions.
 "All the bhikkhus of common affiliation within the territory are either present
 at the meeting (sitting within *hatthapāsa*) or have given their consent by
 proxy, and no one -- in the course of the transaction -- makes a valid protest
-against its being carried out (Mv.IX.3.5-6)."
+against its being carried out." (Mv.IX.3.5-6)
 
 ### Non-offences
 

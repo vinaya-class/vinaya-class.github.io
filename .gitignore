@@ -12,6 +12,7 @@ tex/robe-keeping/robe-keeping.pdf
 
 # Emacs temp files
 auto/
+.auctex-auto/
 *~
 \#*\#
 *.elc

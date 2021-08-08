@@ -13,13 +13,15 @@
 
 Different offences for showing disrespect:
 
-When the admonition is related to a specific rule in the Vinaya, the offence is *pācittiya*.
+When the admonition is related to a specific rule in the Vinaya (i.e. any rule laid down by the Buddha), the offence is *pācittiya*.
 
-When the admonition relates to general behaviour of being self-effacing, scrupolous, etc., the offence is *dukkaṭa*.
+When the admonition relates to general behaviour of being self-effacing, scrupulous, etc., the offence is *dukkaṭa*.
 
 The validity of the admonition is not a factor.
 
 Disrespect can be expressed to the rule, to the person, by word or by gesture.
+It doesn't matter to whom this is expressed, doesn't have to be face-to-face
+with the admonisher.
 
 There is no offence in politely discussing that one was taught differently somewhere else.
 
@@ -33,10 +35,20 @@ possibly out wishing to save him from the consequences or embarrassment.
 There is no offence in not informing the community, if one's motivation is not
 to hide the offence, but for example waiting to inform the abbot first.
 
+_Offences committed together:_ when two or more bhikkhus have committed the same
+offence on the same occasion, they should confess it to another bhikkhu, to
+avoid motivations of concealing the offence.
+
+The same offence, committed at different occasions, may be confessed together,
+but it is common to confess it separately in any case.
+
 ## Pc 65, Ordaining someone less than 20 years old
 
 A person's age here is counted from the time he had become a fetus in her
-mother's womb (add six months to the date of birth).
+mother's womb (subtracting six months to the date of birth: 19.5 years old
+legally, 20 years old since conception).
+
+Having been ordained younger, invalidates the ordination.
 
 ## Pc 68, Not relinquishing an evil view
 
@@ -63,16 +75,19 @@ A bhikkhu who doesn't respond after being formally rebuked, should be suspended.
 
 ## Pc 69, Suspended bhikkhu
 
-Other bhikkhus should not commune, affiliate or lie down in the same dwelling
-with a suspended bhikkhu.
+Other bhikkhus should not commune, affiliate (e.g. participate in _pāṭimokkha_)
+or lie down in the same dwelling with a suspended bhikkhu.
 
 There is no offence if one knows the bhikkhu has already given up his wrong
 view, but has not yet been formally restored.
 
 ## Pc 70, Expelled novice
 
-A novice who persists in holding onto such wrong views should be expelled. A
-novice may be also expelled when he breaks his precepts habitually and is not
+A novice who persists in holding onto such wrong views should be expelled. This
+can mean being told to leave and disrobe, or told to leave and possibly live at
+another monastery as a novice there.
+
+A novice may be also expelled when he breaks his precepts habitually and is not
 intending to correct his behaviour.
 
 Afterwards, the bhikkhus should not befriend him, receive his services, commune
