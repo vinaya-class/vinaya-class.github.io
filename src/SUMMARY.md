@@ -30,6 +30,8 @@
 - [Sekhiyas 2](24-sekhiyas-2.md)
 - [Robes 2](25-robes-2.md)
 
+[Questions](99-questions.md)
+
 [Closing](99-closing.md)
 
 [Profiles](99-profiles.md)

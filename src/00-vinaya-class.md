@@ -12,6 +12,8 @@ Read here or download as PDF below for printing:
 - [schedule.pdf](./includes/docs/schedule.pdf)
 - [sign-up-sheet.pdf](./includes/docs/sign-up-sheet.pdf)
 - [vinaya-class-notes.pdf](./includes/docs/vinaya-class-notes.pdf)
+- [vinaya-class-questions.pdf](./includes/docs/vinaya-class-questions.pdf)
+- [vinaya-class-questions-answerkey.pdf](./includes/docs/vinaya-class-questions-answerkey.pdf)
 - [chanting-refcard.pdf](./includes/docs/chanting-refcard.pdf)
 - [chanting-refcard-4on1.pdf](./includes/docs/chanting-refcard-4on1.pdf)
 - [vinayakamma-chart.pdf](./includes/docs/vinayakamma-chart.pdf)
@@ -33,6 +35,12 @@ Read here or download as PDF below for printing:
 [vinaya-class-notes.pdf](./includes/docs/vinaya-class-notes.pdf)
 
 [![Vinaya Class Notes](./includes/docs/vinaya-class-notes-thumb.png)](./includes/docs/vinaya-class-notes.pdf)
+
+## Questions
+
+[vinaya-class-questions.pdf](./includes/docs/vinaya-class-questions.pdf)
+
+[vinaya-class-questions-answerkey.pdf](./includes/docs/vinaya-class-questions-answerkey.pdf)
 
 ## Chanting Refcard
 
