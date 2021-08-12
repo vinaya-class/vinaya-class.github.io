@@ -2,7 +2,7 @@
 
 -   **Pc 48,** Watching battle
 -   **Pc 49,** Staying with army
--   **Pc 50,** Going to and army practice or review
+-   **Pc 50,** Going to an army practice or review
 -   **Pc 52,** Tickling
 -   **Pc 53,** Playing in water
 -   **Pc 55,** Attempting to frighten
@@ -18,7 +18,10 @@ non-military citizens. Actual battle was not total warfare, and practice
 manuveurs were outside the city.
 
 Modern examples would include watching a public demonstration or a live
-bradcast.
+broadcast.
+
+Recordings or movie scenes don't apply here, since those events are not
+currently happening, but one should be aware of how this appears to others.
 
 **Object:** an army on active duty. This is not only battle.
 
@@ -30,6 +33,9 @@ reason is not an offense.
 <!-- latex
 \columnbreak
 -->
+
+Related: _dukkaṭa_ for holding a weapon, _dukkaṭa_ for teaching somebody holding
+a weapon.
 
 **Non-offenses:**
 
@@ -52,7 +58,7 @@ consecutive nights with the army.
 
 The nights are counted as dawns.
 
-## Pc 50, Going to and army practice or review
+## Pc 50, Going to an army practice or review
 
 While one is staying with an army, going to a battlefield (war games
 included), roll call, the troops in battle formation or review.
@@ -83,9 +89,15 @@ tickled.
 **Object:** the water is at least ankle deep.
 
 *Dukkatas:* Paddling in a boat, sailing a sailboat or steering a
-motorboat.
+motorboat, if done for amusement.
+
+Certain monasteries go alms-round with boats, in which case they have a suitable
+business. One may also travel on a river with a boat or canoe, as long as there
+is a suitable reason.
 
 **Intention:** for fun, for a laugh.
+
+Bath-tubs may be used, sometimes prescribed for easing back-pain.
 
 Swimming for fitness is not mentioned, but there were monks known to
 "keep their bodies in strong shape". Ven. Dabba Mallaputta assigns them

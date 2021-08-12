@@ -9,6 +9,8 @@
 
 **Object:** A suitable alms-bowl.
 
+Five factors of an allowable bowl: proper material, size, fully paid for, fired, not damaged beyond repair.
+
 Allowed materials: clay, iron. Stainless steel by extension.
 
 Forbidden materials: wood, gold, silver, pearl, beryl, crystal, bronze, glass, tin, lead, copper. Aluminium by extension.
@@ -31,7 +33,7 @@ There is no offence if the bowl is lost, destroyed or stolen before the 10 days 
 offer without moderation, and the potter no longer has time for his business
 work.
 
-A bowl should be repair as long as possible.
+A bowl should be repaired as long as possible.
 
 The offence is *dukkaṭa* when asking, a *nissaggiya pācittiya* when receiving it.
 
@@ -82,8 +84,13 @@ allowed of reed, bamboo, wood, lac (resin), fruit shells, copper, conch-shell.
 Receiving and using the improper item when it was requested by oneself (e.g.
 given as a surprise gift) is a *dukkaṭa* offence.
 
-The intention of the rule was to stop the fashionable fad, but the materials are
-not banned for any type of items.
+The intention of the rule was (a) to stop the fashionable fad, and (b) to not be
+burdensome for lay people who offered their help.
 
-A number of other items are allowed to be made of bone, ivory or horn.
+The materials themselves are not banned, a number of other items are allowed to
+be made of bone, ivory or horn.
+
+A bhikkhu should be aware of the civil law regarding the materials, such as a
+ban on ivory trade, or the border regulations on horn (and plant) materials in
+New Zealand.
 

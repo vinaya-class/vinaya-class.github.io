@@ -17,7 +17,7 @@
 with requests about building materials for their own huts, and the people begin
 to avoid them.
 
-Dwellings are *garubhaṇḍa* articles. They may belong to either the community or
+Dwellings are *garubhaṇḍa* articles. In general, they may belong to either the community or
 to an individual bhikkhu. When given to the community, the ownership of the
 dwelling may *not* be transferred to a bhikkhu.
 
@@ -29,7 +29,11 @@ proper handling of building projects.
 **A hut:** Here, a more permanent structure (such as one with plastered walls
 and roof). This rule doesn't apply to makeshift huts with grass roofs.
 
-Assuming the *sugata span* to be 25cm, the maximum size of the hut is about 3m x 1.75m.
+Assuming the *sugata span* to be 25cm, the maximum size of the hut is about 3m
+long on the outside of the wall, and 1.75m wide on the inside of wall. This
+relates to the living area, not including an outside porch for example. The
+description leaves the thickness of the wall unspecified, but _Pc 19_ limits the
+layers of plastering to three.
 
 If a bhikkhu is planning to build such a hut by procuring the materials for it,
 he must (1) choose a site and arrange it to be cleared (not breaking *Pc 10* and
@@ -77,7 +81,12 @@ droppings on them.
 The purpose of the rule is to train the bhikkhus' sense of responsibility for
 community items.
 
-*Departing* is defined as going farther than ~18 meters from them.
+*Departing* is defined as going farther than ~18 meters from them, described as
+one _leḍḍupāta_, 'a stone's throw'.
+
+Leaving tools outside are a _dukkaṭa_ as a derived offense.
+
+The rule doesn't apply to outdoors furniture such as weather-proof benches.
 
 ### Non-offences
 

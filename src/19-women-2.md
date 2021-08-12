@@ -43,7 +43,7 @@ action was an offence. Otherwise the case has to be left unsettled.
 ## Ay 2, sitting out of earshot with a woman
 
 *Origin:* Lady Visākhā sees the Ven. Udāyin sitting again with that girl,
-private to the eye and ear but now *not* concealed.
+private to the eye and ear but this time *not* concealed.
 
 A *woman* here means one who can recognize lewd remarks.
 
@@ -85,3 +85,7 @@ giving anything in exchange.
 **Pd 2:** Letting a bhikkhunī standing where the bhikkhus are eating, as though
 giving instructions on which bhikkhu should receive what.
 
+_NOTE:_ A bhikkhu and a sīladhārā should not give personal gifts to one another,
+or use a messenger to send the gift, even if it is in exchange. The bhikkhu
+community as a whole may decide to offer items to a sīladhārā, or the sīladhārā
+community as a whole may decide to offer items to a bhikkhu.

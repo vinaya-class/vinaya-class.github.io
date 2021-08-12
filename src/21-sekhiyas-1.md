@@ -23,6 +23,9 @@ I will go and sit ...
 
 ... in inhabited areas: a training to be observed.
 
+_Note:_ Consider the proper use of socks, shoes, boots, wellingtons, sunglasses,
+mobile phones, ear phones in public spaces.
+
 ## Sk 73-75, Toilet etiquette
 
 Not being ill, I will not ...
@@ -32,4 +35,12 @@ Not being ill, I will not ...
 - **(75)** defecate, urinate, or spit in water
 
 ... a training to be observed.
+
+_Note:_ Leaving toilets in a clean state, in the monastery and in public, or on flights.
+
+Observe proper hiking etiquette when defecating in the wilderness. The faeces
+should be covered to prevent flies spreading it on their feet, toilet paper
+should not be left lying around.
+
+
 
