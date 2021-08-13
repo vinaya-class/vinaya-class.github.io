@@ -1,4 +1,4 @@
-# Misc
+# Misc 1
 
 -   **Pc 2,** Insult
 -   **Pc 3,** Telling a bhikkhu about an insult

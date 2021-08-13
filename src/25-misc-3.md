@@ -1,4 +1,4 @@
-# Misc
+# Misc 3
 
 -   **Pc 4,** Teaching by rote
 -   **Pc 5,** Lying down with unordained male
