@@ -57,18 +57,10 @@ his project is, and if people offer the materials, he may accept it.
 
 It is not an offence to build a hut for another's use.
 
-<!-- latex
-\enlargethispage*{2\baselineskip}
--->
-
 ## Sg 7, Large hut without approval
 
 Same terms as in *Sg 6*, but the bhikkhu in this case has a dedicated sponsor
 who provides the building materials.
-
-<!-- latex
-\clearpage
--->
 
 ## Pc 14, Leaving bed or bench
 
@@ -121,6 +113,10 @@ place, or on the way to the entrance.
 There is no offence in intruding for a compelling reason, such as suffering from
 the cold or heat, being sick, or begin in danger. One should leave after the
 reason to intrude has passed.
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 17, Causing a bhikkhu to be evicted
 

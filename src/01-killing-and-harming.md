@@ -21,6 +21,10 @@ A human being is regarded as such from the time when the 'being to be born' is
 established in the womb. This is an uncertain time, sometime after conception
 during embryo development. The embryo can't develop otherwise.
 
+<!-- latex
+\enlargethispage*{\baselineskip}
+-->
+
 There is a distinction between recommending an action something which *causes
 death in each case* (abortion or active contraception) and something which
 *causes death in some of the cases* (a treatment which can go wrong). There is
@@ -35,21 +39,13 @@ Giving permission to the doctor to turn off the equipment is still not parajika
 doubtful heart afterward.
 
 > "If consciousness were not to descend into the mother's womb, would
-> name-and-form take shape in the womb?"
-> 
-> "No, lord."
+> name-and-form take shape in the womb?" "No, lord."
 > 
 > "If, after descending into the womb, consciousness were to depart, would
-> name-and-form be produced for this world?"
-> 
-> "No, lord."
+> name-and-form be produced for this world?" "No, lord."
 > 
 > "If the consciousness of the young boy or girl were to be cut off, would
-> name-and-form ripen, grow, and reach maturity?"
-> 
-> "No, lord."
->
-> ([DN 15](https://www.accesstoinsight.org/tipitaka/dn/dn.15.0.than.html))
+> name-and-form ripen, grow, and reach maturity?" "No, lord." ([DN 15](https://www.accesstoinsight.org/tipitaka/dn/dn.15.0.than.html))
 
 ## Pc 61, Killing an animal
 

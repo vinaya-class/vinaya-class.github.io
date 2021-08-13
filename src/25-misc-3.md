@@ -58,6 +58,10 @@ come in many forms. Ideas used in various situations:
 -   having a single common entrance
 -   part of the same enclosure
 
+<!-- latex
+\columnbreak
+-->
+
 Sometimes it may be the same building, other times the apartment, other
 times the room.
 
@@ -71,13 +75,10 @@ those nights are still consecutive.
 
 <!-- latex
 \end{multicols}
+\clearpage
 -->
 
 ## Pc 42, Sending a bhikkhu away
-
-<!-- latex
-\begin{multicols}{2}
--->
 
 Being together (on almsround or other business), sending the other
 bhikkhu away with the intention to misbehave when being alone.
@@ -95,10 +96,6 @@ indirect remarks
 **Result:** he leaves one's range of hearing and sight.
 
 **Non-offenses:** dismissing him for a different reason.
-
-<!-- latex
-\end{multicols}
--->
 
 ## Pc 43, Intruding on an aroused couple
 
@@ -142,6 +139,10 @@ The situation is relevant when one is on familiar terms with any person
 of influence. Annoying him, being in a suspicous situation, or meeting
 enticing circumstances can be dangerous for the bhikkhu.
 
+<!-- latex
+\clearpage
+-->
+
 ## As 1-7, Summary of settling conflicts
 
 Adhikaraṇa-samatha, 'the settling of issues'. Procedures for settling:
@@ -162,10 +163,6 @@ did not commit the offense.
 
 Verdict of innocence, based on that the accused was out of his mind when
 he committed the offense and so is absolved of any resposibility for it.
-
-<!-- latex
-\clearpage
--->
 
 ### 4. Acting in accordance with what is admitted.
 

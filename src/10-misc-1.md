@@ -178,10 +178,6 @@ The original formulation was later relaxed.
 Taking a long shower while others are waiting, or showering like a lobster:
 carelessness, wastefulness.
 
-<!-- latex
-\clearpage
--->
-
 ## Pc 66, Travelling by arrangement with thieves
 
 One has to know that they have committed or planning to commit a theft,

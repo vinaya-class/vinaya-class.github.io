@@ -52,6 +52,10 @@ Asking from
 - a new bowl with one's own resources
 - asking for the sake of another from relatives or through invitation
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 60, Hiding another's requisites
 
 **Object:** bowl, robe, sitting cloth, needle box, or belt.

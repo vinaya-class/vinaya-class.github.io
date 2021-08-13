@@ -50,7 +50,7 @@ joke, which fully intends to deceive.
 
 Cruel- or malign jokes: don't let humour comprimise your highest values.
 
-Example: "It's over 9000!" -- intending to impress, but he doesn't know.
+Example: "It was over 9000!" -- intending to impress, but he doesn't know.
 
 Checking one's statements before making them, different levels of confidence in
 a statement.
@@ -135,14 +135,14 @@ It matters whether the person is present or not.
 **Intention:** wanting to remove him from the community. Even when it is 'for
 the purity of the Sangha', it is driven by aversion.
 
-Insult, slander, lieing.
+Insult, slander, lying.
 
 Spreading stories. Saying something which may be false, but you believe it to be true.
 
 "Not sure if this is true..." -- engaging in gossip, idle chatter, or false tale
 bearing (Pc 1) are not accusations, the person is not present.
 
-Reporting 
+Discuss reporting on offences.
 
 ## Sg 9, Distorting evidence
 

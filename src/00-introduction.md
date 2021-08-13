@@ -78,6 +78,7 @@ a *baisuddhi* document to the bhikkhus he has ordained.
 ### The Four Great Standards
 
 <!-- latex
+\enlargethispage*{\baselineskip}
 \begin{multicols}{2}
 -->
 
@@ -173,6 +174,10 @@ otherwise there will be no principles (for discipline). A community without
 principles for discipline cannot last long...
 
 (Entrance to the Vinaya, I.230)
+
+<!-- latex
+\clearpage
+-->
 
 ## Overview of the rules
 

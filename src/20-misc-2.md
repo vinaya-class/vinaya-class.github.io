@@ -69,14 +69,14 @@ Example: one visits the army for seeing a dying person. Later, in an
 informal situation the soldiers are showing the monk how cool their
 weapons are.
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 52, Tickling
 
 A bhikkhu died from being unable to catch his breath while being
 tickled.
-
-<!-- latex
-\clearpage
--->
 
 ## Pc 53, Playing in water
 

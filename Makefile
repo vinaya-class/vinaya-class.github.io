@@ -12,6 +12,12 @@ chapters-to-docx:
 vinaya-class-notes-pdf:
 	./scripts/compile_tex.sh ./tex/vinaya-class-notes/vinaya-class-notes.tex
 
+vinaya-class-questions-pdf:
+	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions.tex
+
+vinaya-class-questions-answerkey-pdf:
+	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-answerkey.tex
+
 chanting-refcard-pdf:
 	./scripts/compile_tex.sh ./tex/chanting-refcard/chanting-refcard.tex
 	./scripts/compile_tex.sh ./tex/chanting-refcard/chanting-refcard-4on1.tex

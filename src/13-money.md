@@ -60,14 +60,14 @@ There is no exemption for relatives or people who have invited the bhikkhu to as
 **Object:** A fund left with a steward to buy robe cloth, or any fund for any
 type of requisite (including construction or book printing).
 
+<!-- latex
+\enlargethispage*{\baselineskip}
+-->
+
 **Steward:** a layperson or entity responsible for handling funds or
 transactions on behalf of a bhikkhu or group of bhikkhus.
 
 Three types of stewards:
-
-<!-- latex
-\enlargethispage*{\baselineskip}
--->
 
 - Indicated by the bhikkhu
   - The bhikkhu points the person out
@@ -78,10 +78,6 @@ Three types of stewards:
   - Someone overhears the conversation and volunteers to act as steward
   - The donor gives funds to the steward, but doesn't tell the bhikkhu
   
-<!-- latex
-\clearpage
--->
-
 ### Protocol for accepting funds
 
 Allowable: 
@@ -129,11 +125,19 @@ walking away with it.
 
 The term 'gold or silver' includes the materials, and whatever is used as currency.
 
+<!-- latex
+\enlargethispage*{\baselineskip}
+-->
+
 A currency is:
 
 - used for the purpose of general exchange
 - have a standardized value
 - presentable by any bearer
+
+<!-- latex
+\clearpage
+-->
 
 Not a currency:
 
@@ -182,6 +186,10 @@ wanderer, who later regrets the trade and wants it back.
 
 Credit cards or checks don't count as currency, but any trade arranged with them
 would come under this rule.
+
+<!-- latex
+\enlargethispage*{\baselineskip}
+-->
 
 ### Non-offences
 

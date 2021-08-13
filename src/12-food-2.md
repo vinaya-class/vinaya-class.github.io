@@ -283,6 +283,10 @@ One places oneself in the position of the followers of other religions.
 It is not an offense to prepare food in a tray and placing it so that
 they can help themselves.
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 47, Exceeding an invitation
 
 When an invitation is made that one may ask for certain requisites, one

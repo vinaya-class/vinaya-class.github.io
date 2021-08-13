@@ -76,6 +76,10 @@ allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
 
 **Perception** about the food having been stored-up is not a factor.
 
+<!-- latex
+\clearpage
+-->
+
 ### Non-offences
 
 - the act of storing it is not an offence, a bhikkhu may carry a lay person's
@@ -83,10 +87,6 @@ allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
 - no offence for telling an unordained person to store it
 - a designated food-store is allowed
 - no offence for setting food aside and consuming it within the right period
-
-<!-- latex
-\clearpage
--->
 
 ## Pc 39, Requesting finer staple foods
 
@@ -150,6 +150,10 @@ boundaries for the bhikkhus and lay people.
 - dukkata for taking the unoffered item
 - pacittiya for every mouthful
 
+<!-- latex
+\clearpage
+-->
+
 **Perception** of the item being offered or not is not a factor.
 
 The allowance to pick up fallen fruit in times of scarcity and famine was later
@@ -159,10 +163,6 @@ rescinded.
 
 - make and take an antidote in the case of emergency
 - a non-human being may offer the food
-
-<!-- latex
-\clearpage
--->
 
 ## Pc 51, Intoxicants
 
