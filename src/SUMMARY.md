@@ -34,7 +34,7 @@
 
 [Closing](99-closing.md)
 
-[Profiles](99-profiles.md)
+<!-- [Profiles](99-profiles.md) -->
 
 <!-- [Questions](99-questions.md) -->
 
