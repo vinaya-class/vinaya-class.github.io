@@ -23,7 +23,7 @@
 
 See the maps *Pr 2* and *Pr 2 -- Effort*.
 
-The ECM made a decision that items in the stores belong to all bhikkhus of the
+The ECM made a decision that items in the stores from ECM monasteries belong to all bhikkhus of the
 ECM monasteries, therefore a bhikkhu can't steal what is already theirs by
 agreement.
 
@@ -35,7 +35,7 @@ Smuggling is parajika (undeclared taxable items at customs).
 Breaking a promise is dukkata (not following software or website TOS (Terms of
 Service) or EULA (End User License Agreement)).
 
-## NP 25, Snatching back robe
+## NP 25, Snatching back robe-cloth
 
 **Object:** a piece of robe-cloth, at least 4x8 fingerbreadth.
 
