@@ -1,4 +1,4 @@
-all: chapters-to-tex vinaya-class-notes-pdf chanting-refcard-pdf schedule-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf
+all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf
 
 dist:
 	./scripts/dist.sh
@@ -12,11 +12,17 @@ chapters-to-docx:
 vinaya-class-notes-pdf:
 	./scripts/compile_tex.sh ./tex/vinaya-class-notes/vinaya-class-notes.tex
 
-vinaya-class-questions-pdf:
-	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions.tex
+vinaya-class-questions-A-pdf:
+	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-A.tex
 
-vinaya-class-questions-answerkey-pdf:
-	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-answerkey.tex
+vinaya-class-questions-B-pdf:
+	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-B.tex
+
+vinaya-class-questions-A-answerkey-pdf:
+	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-A-answerkey.tex
+
+vinaya-class-questions-B-answerkey-pdf:
+	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-B-answerkey.tex
 
 chanting-refcard-pdf:
 	./scripts/compile_tex.sh ./tex/chanting-refcard/chanting-refcard.tex

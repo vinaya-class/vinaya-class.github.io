@@ -1,7 +1,7 @@
 LATEX=latexmk
 LATEX_OPTS=-pdflua
 
-all: vinaya-class-questions.pdf vinaya-class-questions-answerkey.pdf
+all: vinaya-class-questions-A.pdf vinaya-class-questions-B.pdf vinaya-class-questions-A-answerkey.pdf vinaya-class-questions-B-answerkey.pdf
 
 %.pdf: %.tex
 	$(LATEX) $(LATEX_OPTS) $<

@@ -11,41 +11,27 @@
 
 ![Pr-3](./includes/mindmaps/pr-3.png)
 
-**Origin:** bhikkhus develop aversion to the body and kill themselves or
-ask an assassin to kill them.
+**Origin:** bhikkhus develop aversion to the body and kill themselves or ask an assassin to kill them.
 
-Recommending death or euthanasia can be **parajika** if the instruction is
-followed. Hinting fulfils effort, such as "death would be better for you".
+Recommending death or euthanasia can be **pārājika** if the instruction is followed. Hinting fulfils effort, such as "death would be better for you".
 
-A human being is regarded as such from the time when the 'being to be born' is
-established in the womb. This is an uncertain time, sometime after conception
-during embryo development. The embryo can't develop otherwise.
+A human being is regarded as such from the time when the "being to be born" is established in the womb. This is an uncertain time, sometime after conception during embryo development. The embryo can't develop otherwise.
 
 <!-- latex
 \enlargethispage*{\baselineskip}
 -->
 
-There is a distinction between recommending an action something which *causes
-death in each case* (abortion or active contraception) and something which
-*causes death in some of the cases* (a treatment which can go wrong). There is
-**no offence** in the second case, e.g. some people are known to die in car
-accidents, but it doesn't mean that a bhikkhu can't ask a person to drive.
+There is a distinction between recommending an action something which *causes death in each case* (abortion or active contraception) and something which *causes death in some of the cases* (a treatment which can go wrong). There is **no offence** in the second case, e.g. some people are known to die in car accidents, but it doesn't mean that a bhikkhu can't ask a person to drive.
 
-Turning off life-support equipment: if the ill person stated their position on
-it beforehand, the doctors may be simply following his instruction.
+Turning off life-support equipment: if the ill person stated their position on it beforehand, the doctors may be simply following his instruction.
 
-Giving permission to the doctor to turn off the equipment is still not parajika
-(not cutting off life, it ends on its own), although one might live with a
-doubtful heart afterward.
+Giving permission to the doctor to turn off the equipment is still not pārājika (not cutting off life, it ends on its own), although one might live with a doubtful heart afterward.
 
-> "If consciousness were not to descend into the mother's womb, would
-> name-and-form take shape in the womb?" "No, lord."
+> "If consciousness were not to descend into the mother's womb, would name-and-form take shape in the womb?" "No, lord."
 > 
-> "If, after descending into the womb, consciousness were to depart, would
-> name-and-form be produced for this world?" "No, lord."
+> "If, after descending into the womb, consciousness were to depart, would name-and-form be produced for this world?" "No, lord."
 > 
-> "If the consciousness of the young boy or girl were to be cut off, would
-> name-and-form ripen, grow, and reach maturity?" "No, lord." ([DN 15](https://www.accesstoinsight.org/tipitaka/dn/dn.15.0.than.html))
+> "If the consciousness of the young boy or girl were to be cut off, would name-and-form ripen, grow, and reach maturity?" "No, lord." ([DN 15](https://www.accesstoinsight.org/tipitaka/dn/dn.15.0.than.html))
 
 ## Pc 61, Killing an animal
 
@@ -53,42 +39,29 @@ Giving an order fulfils effort.
 
 **Result** is a factor.
 
-Doesn't include animals smaller than visible to the naked eye. Doesn't
-include accidents (sweeping). No room for 'phrasing it right'.
+Doesn't include animals smaller than visible to the naked eye. Doesn't include accidents (sweeping). No room for "phrasing it right".
 
-Origin: Ven. Udayin is killing crows by shooting them with arrows, cutting their
-heads off and putting them in a row on a stake. The Buddha scolds him, "How can
-you, foolish man, intentionally deprive a living thing of life? ..." ([Vibh. Pc
-61](https://suttacentral.net/pli-tv-bu-vb-pc61/en/horner))
+Origin: Ven. Udāyin is killing crows by shooting them with arrows, cutting their heads off and putting them in a row on a stake. The Buddha scolds him, "How can you, foolish man, intentionally deprive a living thing of life? ..." ([Vibh. Pc 61](https://suttacentral.net/pli-tv-bu-vb-pc61/en/horner))
 
-Mercy killing by the owner, or euthanasia practices by vets fulfil effort.
-Having a pet means responsibility.
+Mercy killing by the owner, or euthanasia practices by vets fulfil effort. Having a pet means responsibility.
 
-Acting in doubt, going ahead anyway is dukkata. Such as when the bhikkhu thinks
-that cleaning an item may or may not kill living beings. Trying carefully not to
-kill insects while cleaning is not an offence.
+Acting in doubt, going ahead anyway is dukkaṭa. Such as when the bhikkhu thinks that cleaning an item may or may not kill living beings. Trying carefully not to kill insects while cleaning is not an offence.
 
-**Perception** is a factor. Stepping on a twig with the intention to crush a
-snake is dukkata.
+**Perception** is a factor. Stepping on a twig with the intention to crush a snake is dukkaṭa.
 
 ## Pc 20, Pouring water containing living beings
 
-Knowing they will die from pouring it. It can also include knowingly
-adding poisonous substances.
+Knowing they will die from pouring it. It can also include knowingly adding poisonous substances.
 
-If the water doesn't contain living beings, but the bhikkhu thinks it does,
-pouring or using it is dukkata.
+If the water doesn't contain living beings, but the bhikkhu thinks it does, pouring or using it is dukkaṭa.
 
 Giving an order fulfils effort.
 
 Result is not a factor. Doesn't include accidents.
 
-Can't water plants if one plans to eat its fruit, but may indicate it
-for others.
+Can't water plants if one plans to eat its fruit, but may indicate it for others.
 
-Kutis may use water moats around the stilts to keep out ants.
-One may treat the water with household chemicals to prevent larvae (e.g.
-mosquitoes) getting established in the water.
+Kutis may use water moats around the stilts to keep out ants. One may treat the water with household chemicals to prevent larvae (e.g. mosquitoes) getting established in the water.
 
 ## Pc 62, Using water containing living beings
 
@@ -98,8 +71,7 @@ mosquitoes) getting established in the water.
 
 Knowing they will die from using or drinking it, even accidentally.
 
-Using water strainers or robe. Determining a corner of the sanghati as a
-water-filter.
+Using water strainers or robe. Determining a corner of the saṅghāṭi as a water-filter.
 
 Result is not a factor.
 
@@ -113,8 +85,7 @@ Result is not a factor.
 \begin{multicols}{2}
 -->
 
-**Origin:** relates to the ancient belief that soil is alive, and loses
-life when dug up.
+**Origin:** relates to the ancient belief that soil is alive, and loses life when dug up.
 
 **Object:** 'genuine' soil.
 
@@ -124,8 +95,7 @@ life when dug up.
 - pure or mostly rock, stones, gravel, sand are never 'genuine' soil
 - burnt or already dup up soil is not 'genuine' until rained on for four months
 
-If someone digs up the soil, a bhikkhu may shovel it into a wheelbarrow without
-offence.
+If someone digs up the soil, a bhikkhu may shovel it into a wheelbarrow without offence.
 
 **Effort:** Digging, burning, making a hole, or giving command to do it.
 
@@ -142,12 +112,9 @@ Putting tent pegs in the ground is to be confessed.
 - asking for clay or or soil
 - digging a trapped person or animal out
 
-Allowance to indicate a need or general task to a lay person by "wording it
-right (*kappiya-vohāra*, "allowable expression," or "wording it right").
+Allowance to indicate a need or general task to a lay person by 'wording it right' (*kappiya-vohāra*, allowable expression, or 'wording it right').
 
-A specific command would be an offense ('dig a hole here'), but an indication
-('dig a hole') of a desire or intent would not ('it would be good to have a hole
-for this post').
+A specific command would be an offense ("dig a hole here"), but an indication ("dig a hole") of a desire or intent would not ("it would be good to have a hole for this post").
 
 <!-- latex
 \end{multicols}
@@ -159,26 +126,21 @@ for this post').
 \begin{multicols}{2}
 -->
 
-**Origin:** a bhikkhu cuts down a tree where a deva was living. The rule
-is formed later, when people complained of the bhikkhus mistreating
-one-facultied life.
+**Origin:** a bhikkhu cuts down a tree where a deva was living. The rule is formed later, when people complained of the bhikkhus mistreating one-facultied life.
 
-**Object:** Living plant or seed. Lower plant life (i.e. mold, algae,
-fungi) is not included.
+**Object:** Living plant or seed. Lower plant life (i.e. mold, algae, fungi) is not included.
 
 **Effort:** cutting, breaking, cooking, or getting others to do it.
 
-**Fruit with seeds:** allowance to make allowable (kappiyam). Fruit can
-be kappied in one "heap".
+**Fruit with seeds:** allowance to make allowable (kappiyam). Fruit can be kappied in one 'heap'.
 
 <!-- latex
 \columnbreak
 -->
 
-To 'kappi' fruit is about the feelings of the donor, not killing the
-fruit or transfering kamma.
+To 'kappi' fruit is about the feelings of the donor, not killing the fruit or transfering kamma.
 
-Knowingly eating un-kappied seeds is dukkata.
+Knowingly eating un-kappied seeds is dukkaṭa.
 
 **Non-offenses:**
 
@@ -194,9 +156,7 @@ Knowingly eating un-kappied seeds is dukkata.
 \enlargethispage{2\baselineskip}
 -->
 
-**Note:** Pc 10 and Pc 11 prevents bhikkhus from engaging in
-agriculture, which is probably part of the intended results, although
-not their direct origin.
+**Note:** Pc 10 and Pc 11 prevents bhikkhus from engaging in agriculture, which is probably part of the intended results, although not their direct origin.
 
 ## Notes: War and Peace
 
@@ -204,7 +164,7 @@ not their direct origin.
 
 - [Getting the Message](https://www.buddhistinquiry.org/article/getting-the-message/), Thanissaro Bhikkhu (2006) ([archive.org](https://web.archive.org/web/20201113023105/https://www.buddhistinquiry.org/article/getting-the-message/))
 
-> "Killing is never skillful. Stealing, lying, and everything else in the first
+> Killing is never skillful. Stealing, lying, and everything else in the first
 > list are never skillful. When asked if there was anything whose killing he
 > approved of, the Buddha answered that there was only one thing: anger. In no
 > recorded instance did he approve of killing any living being at all. When one
@@ -212,7 +172,7 @@ not their direct origin.
 > compassionately, with one blow, rather than torturing them, the Buddha
 > expelled the monk from the Sangha on the grounds that even the recommendation
 > to kill compassionately is still a recommendation to kill—something he would
-> never condone."
+> never condone.
 
 - [War and Peace](https://www.inquiringmind.com/article/3002_5_bhodi-war-and-peace-a-buddhist-perspective/), Bhikkhu Bodhi (2014) ([archive.org](https://web.archive.org/web/20151122005139/http://www.inquiringmind.com/Articles/WarAndPeace.html))
 
