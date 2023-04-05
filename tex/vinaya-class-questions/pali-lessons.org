@@ -58,7 +58,7 @@ The verb 'to be' (is / are) is often implied and dropped from the sentence.
 
 *Negation:* /a-/ prefix for nouns, /na/ particle for verbs.
 
-*Questions* are formed by interrogatives: /Kiṃ nāmo si?/ (What is your name?)
+*Questions* are formed by interrogatives: /Kiṁ nāmo si?/ (What is your name?)
 
 *An adjective* agrees with the noun it qualifies in gender, number and case. Generally, the order is adjective + noun.
 
@@ -69,12 +69,12 @@ The verb 'to be' (is / are) is often implied and dropped from the sentence.
 | Case            | Singular                                           | Plural           | Meaning (sg.)                    |
 |-----------------+----------------------------------------------------+------------------+----------------------------------|
 | 1. Nominative   | nar\textbf{o}                                      | nar\textbf{ā}    | the man does sth (object)        |
-| 2. Accusative   | nar\textbf{aṃ}                                     | nar\textbf{e}    | sth happens to the man (subject) |
+| 2. Accusative   | nar\textbf{aṁ}                                     | nar\textbf{e}    | sth happens to the man (subject) |
 | 3. Instrumental | nar\textbf{ena}                                    | nar\textbf{ehi}  | by, with, through the man        |
-| 4. Dative       | nar\textbf{āya}, nar\textbf{assa}                  | nar\textbf{ānaṃ} | to the man, for the man          |
+| 4. Dative       | nar\textbf{āya}, nar\textbf{assa}                  | nar\textbf{ānaṁ} | to the man, for the man          |
 | 5. Ablative     | nar\textbf{ā}, nar\textbf{amhā}, nar\textbf{asmā}  | nar\textbf{ehi}  | from the man                     |
-| 6. Genitive     | nar\textbf{assa}                                   | nar\textbf{ānaṃ} | of the man, the man's            |
-| 7. Locative     | nar\textbf{e}, nar\textbf{amhi}, nar\textbf{asmiṃ} | nar\textbf{esu}  | in, on, at the man               |
+| 6. Genitive     | nar\textbf{assa}                                   | nar\textbf{ānaṁ} | of the man, the man's            |
+| 7. Locative     | nar\textbf{e}, nar\textbf{amhi}, nar\textbf{asmiṁ} | nar\textbf{esu}  | in, on, at the man               |
 | 8. Vocative     | nar\textbf{a}, nar\textbf{ā}                       | nar\textbf{ā}    | Hey, man!                        |
 
 This the most common declension, worth memorizing by heart. 87% of all masculine
@@ -94,7 +94,7 @@ addition to adjectives and participles with the same declensions.
 
 *(a)* '*What* is he eating?' Indicates the *object* of a sentence.
 
-Parikkhāraṃ paṭisevāmi.
+Parikkhāraṁ paṭisevāmi.
 I use the requisite.
 
 The dog eats the cat.
@@ -273,11 +273,11 @@ atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; .
 
 sakunassa saddo chant
 
-Atthi bhikkhave ajātaṃ...
+Atthi bhikkhave ajātaṁ...
 
 -----
 
-Paṭisaṅkhā yoniso piṇḍapātaṃ paṭisevāmi...
+Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevāmi...
 
 * Lesson 2
 ** Review Exercises
@@ -289,9 +289,9 @@ Fill in the missing declensions.
 | nara (/masc./)                |                       |                                     |
 | \null                         |                       |                                     |
 | \fillin{3cm}{naro}            | \fillin{3cm}{narā}    | /nom./, the man (obj.)              |
-| \fillin{3cm}{naraṃ}           | \fillin{3cm}{nare}    | /acc./, the man (subj.)             |
+| \fillin{3cm}{naraṁ}           | \fillin{3cm}{nare}    | /acc./, the man (subj.)             |
 | \fillin{3cm}{narena}          | \fillin{3cm}{narehi}  | /instr./, by, with, through the man |
-| \fillin{3cm}{narāya, narassa} | \fillin{3cm}{narānaṃ} | /dat./, to the man, for the man     |
+| \fillin{3cm}{narāya, narassa} | \fillin{3cm}{narānaṁ} | /dat./, to the man, for the man     |
 | \null                         |                       |                                     |
 | kāya (/masc./)                |                       |                                     |
 | \null                         |                       |                                     |
@@ -319,13 +319,13 @@ Idhupāli, bhikkhū anāpattiṁ āpattīti dīpenti, āpattiṁ anāpattīti d�
 
 -----
 
-Mettā-sahagatena cetasā ekaṃ disaṃ...
+Mettā-sahagatena cetasā ekaṁ disaṁ...
 
 -----
 
 True and False Refuges
 
-Bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca
+Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca
 
 -----
 

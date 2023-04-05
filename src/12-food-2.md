@@ -140,7 +140,7 @@ f. & lifetime medicine & rec. sometime & + & 7d tonic & rec. sometime & \(\right
 
 ### 7 days
 
-*Sattāha paramaṃ*, "up to seven days". The Vinaya counts days from dawn
+*Sattāha paramaṁ*, "up to seven days". The Vinaya counts days from dawn
 to dawn, hence one may use a 7 day tonic *until the 7th dawn*.
 
 Confusion arises from "7 days" meaning either "for 7 days" (interval) or
