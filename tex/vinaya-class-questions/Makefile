@@ -1,7 +1,15 @@
 LATEX=latexmk
 LATEX_OPTS=-pdflua
 
-all: vinaya-class-questions-A.pdf vinaya-class-questions-B.pdf vinaya-class-questions-A-answerkey.pdf vinaya-class-questions-B-answerkey.pdf
+all: vinaya-class-questions-A.pdf vinaya-class-questions-B.pdf vinaya-class-questions-A-answerkey.pdf vinaya-class-questions-B-answerkey.pdf pali-lessons.pdf
+
+pali-lessons: export-pali-lessons pali-lessons.pdf
+
+pali-lessons-preview:
+	./pali-lessons-preview.sh
+
+export-pali-lessons:
+	emacs --batch -L -l 'pali-lessons.org' -l 'export-init.el' --eval '(progn (setq org-export-with-toc nil)(org-latex-export-to-latex))'
 
 %.pdf: %.tex
 	$(LATEX) $(LATEX_OPTS) $<

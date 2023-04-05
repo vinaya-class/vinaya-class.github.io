@@ -1,0 +1,534 @@
+#+LATEX_CLASS: memoir
+#+LATEX_HEADER: \newif\ifanswerkey
+#+LATEX_HEADER: \answerkeytrue
+#+LATEX_HEADER: \ifanswerkey
+#+LATEX_HEADER:   \usepackage[forpaper, answerkey]{eqexam}
+#+LATEX_HEADER:   \usepackage{vinaya-class-questions}
+#+LATEX_HEADER: \else
+#+LATEX_HEADER:   \usepackage[forpaper, nosolutions]{eqexam}
+#+LATEX_HEADER:   \usepackage[nosolutions]{vinaya-class-questions}
+#+LATEX_HEADER: \fi
+#+OPTIONS: toc:nil tasks:nil ':t H:4 author:nil
+#+TITLE: Pali Lessons
+
+* Notes                                                            :noexport:
+
+BPC continue
+
+yo pana bhikkhu bhikkhuniyā ...
+
+* Lesson 1
+** Language Notes
+
+The *gender of a noun* is either masculine, feminine or neuter.
+
+Its *number* is either singular or plural.
+
+Its *declension* have eight cases, which indicate the subject, object, location, etc.
+
+Nouns ending in /-a/ are either masculine or neuter. Nouns ending in /-ā/ are feminine.
+
+*Word order* in the simplest case is Subject-Object-Verb, but since the case indicates the role of a noun, word order is often altered for emphasis.
+
+| Sūdo /(nom.sg.)/ bhattaṁ /(acc.)/ pacati /(3rd.sg.)/. | Dārakā /(nom.sg.)/ bhojanīyaṁ /(acc.)/ bhuñjanti /(3rd.pl.)/. |
+| The chef cooks the rice.                              | The boys eat the food.                                        |
+
+The *subject* and *verb* must agree in number: /Sakuṇā ākāse uḍḍenti/ (Birds fly in the sky).
+
+| Sakuṇ\textbf{ā}                        | masc.nom.\textbf{pl.} | Birds      |
+| ākāse / ākāsamhi / ākāsasmiṁ          | masc.loc.sg.          | in the sky |
+| uḍḍe\textbf{nti} / uḍḍaya\textbf{nti}. | pr.3.\textbf{pl.}     | they fly.  |
+
+The verb 'to be' (is / are) is often implied and dropped from the sentence.
+
+#+latex: \begin{multicols}{2}
+
+*Plural / singular* for nominative cases:
+
+| masc.sg. | -o        | devo     |
+| masc.pl. | -ā        | devā     |
+|----------+-----------+----------|
+| nt.sg.   | -aṁ       | rūpaṁ    |
+| nt.pl.   | -ā, -āni  | rūpāni   |
+|----------+-----------+----------|
+| fem.sg.  | -ā        | vedanā   |
+| fem.pl.  | -ā, -āyo, | vedanāyo |
+
+#+latex: \columnbreak
+
+*Negation:* /a-/ prefix for nouns, /na/ particle for verbs.
+
+*Questions* are formed by interrogatives: /Kiṃ nāmo si?/ (What is your name?)
+
+*An adjective* agrees with the noun it qualifies in gender, number and case. Generally, the order is adjective + noun.
+
+#+latex: \end{multicols}
+
+** Declension: Masculine Nouns Ending in -a
+
+| Case            | Singular                                           | Plural           | Meaning (sg.)                    |
+|-----------------+----------------------------------------------------+------------------+----------------------------------|
+| 1. Nominative   | nar\textbf{o}                                      | nar\textbf{ā}    | the man does sth (object)        |
+| 2. Accusative   | nar\textbf{aṃ}                                     | nar\textbf{e}    | sth happens to the man (subject) |
+| 3. Instrumental | nar\textbf{ena}                                    | nar\textbf{ehi}  | by, with, through the man        |
+| 4. Dative       | nar\textbf{āya}, nar\textbf{assa}                  | nar\textbf{ānaṃ} | to the man, for the man          |
+| 5. Ablative     | nar\textbf{ā}, nar\textbf{amhā}, nar\textbf{asmā}  | nar\textbf{ehi}  | from the man                     |
+| 6. Genitive     | nar\textbf{assa}                                   | nar\textbf{ānaṃ} | of the man, the man's            |
+| 7. Locative     | nar\textbf{e}, nar\textbf{amhi}, nar\textbf{asmiṃ} | nar\textbf{esu}  | in, on, at the man               |
+| 8. Vocative     | nar\textbf{a}, nar\textbf{ā}                       | nar\textbf{ā}    | Hey, man!                        |
+
+This the most common declension, worth memorizing by heart. 87% of all masculine
+nouns are ending in *-a*, \mbox{97\% of} all neuter nouns are ending in *-aṁ*, in
+addition to adjectives and participles with the same declensions.
+
+#+latex: \clearpage
+
+*** Case 1. Nominative: naro -- the man (subject)
+
+'*Who* is doing it?' Indicates the *subject* of a sentence.
+
+| Naro nisīdati.  | Itthi tiṭṭhati.      |
+| *The man* sits. | *The woman* stands. |
+
+*** Case 2. Accusative: naraṁ -- the man (object)
+
+*(a)* '*What* is he eating?' Indicates the *object* of a sentence.
+
+Parikkhāraṃ paṭisevāmi.
+I use the requisite.
+
+The dog eats the cat.
+
+The lion eats the dog.
+
+The bird eats the seed.
+
+The man holds the cup.
+
+The woman eats the rice.
+
+*(b)* '*Where* is he going to?' Indicates where the subject is *going to* or *going along*.
+
+/Gāmaṁ/: to the village.
+
+A.k.a. "the accusative of motion".
+
+He goes to the village.
+
+He walks along the road.
+
+*** Case 3. Instrumental: narena -- by, with, through the man
+
+*** Case 4. Dative: narāya / narassa -- to the man, for the man
+
+** Simple Present (-ati, -eti)
+** Should (-tabba)
+** Optative or Potential Verbs (Might -eyya)
+** Idha / Puna / Yo Pana
+** Ca / Va
+** Atthi / Natthi / Hoti / Hotu
+** Exercises
+
+#+latex: \renewcommand{\arraystretch}{2}
+
+| The elder walks.                                 | \fillin{8cm}{Thero carati.}                                 |
+| The lion eats the disciple.                      | \fillin{8cm}{Sīho sāvakaṁ khādati.}                         |
+| The disciple eats the lion.                      | \fillin{8cm}{Sāvako sīhaṁ khādati.}                         |
+| The layman goes to the village.                  | \fillin{8cm}{Upāsako gāmaṁ gacchati.}                       |
+| The elder walks along the road.                  | \fillin{8cm}{Thero maggaṁ carati.}                          |
+| The elder goes to the village with the disciple. | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}                |
+| The elder goes to the village by air.            | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                 |
+| The disciple is being eaten by the lion.         | \fillin{8cm}{Sāvako sīhena khajjati.}                       |
+| The elder gives the bowl the the layman.         | \fillin{8cm}{Thero upāsakassa pattaṁ deti.}                 |
+| The elder gives the robe to the disciple.        | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}                 |
+| Homage to him, the Blessed One.                  | \fillin{8cm}{Namo tassa bhagavato.}                         |
+| The layman walks from the residence.             | \fillin{8cm}{Upāsako gacchati āvāsamhā / āvāsā / āvāsasmā.} |
+| The elder's disciple goes to the village.        | \fillin{8cm}{Therassa sāvako gāmaṁ gacchati.}               |
+| The disciple gives to the elder.                 | \fillin{8cm}{Sāvako therassa deti.}                         |
+| The lion walks in the village.                   | \fillin{8cm}{Sīho gāme / gāmasmiṁ carati.}                  |
+| Come here, disciple!                             | \fillin{8cm}{Ehi sāvaka!}                                   |
+
+#+latex: \normalArrayStrech
+
+** Vocabulary
+
+khajjati
+- pr, pass of khādati
+
+paharam dadeyya
+goes to the forest
+
+odana
+
+
+| gacchati | pr. goes  |
+| khādati  | pr. eats  |
+| carati   | pr. walks |
+| deti     | pr. gives |
+
+iti
+idha
+bhikkhu
+samudaya
+
+odana
+- masc./nt. rice; boiled rice; food; lit. wet stuff; boiled in water
+
+rūpa
+vedanā
+atthaṅgamo
+
+anissita
+- pp. (+abl) detached (from); disengaged (from); separated (from); independent (of)
+
+viharati
+ca
+va
+loka
+
+khādati
+- to eat
+
+thālaka
+- masc. small bowl; cup; vessel
+
+upādiyati
+- pr. (+acc) grasps; holds (onto)
+
+sa-
+vīta-
+rāga
+dosa
+moha
+pajānāti
+dīgha
+rassa
+añchati
+
+to drink
+man
+woman
+
+bhamakāra: masc. turner; lathe operator [bhama + kāra]
+
+** Quotes
+*** Pāṭimokkha rules
+
+uid:pli-tv-bu-vb-pc9/pli/ms
+
+“Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya, aññatra bhikkhusammutiyā, pācittiyan”ti.
+
+uid:pli-tv-bu-vb-pc74/pli/ms
+
+“Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṁ dadeyya, pācittiyan”ti.
+
+*** DN 22
+
+kim sanghassa pubbakiccam
+parisuddhim ayasamato arocetha
+
+manussassa kāyo
+
+saṅgho uposathaṁ kareyya VIN PAT NID
+
+āvāse saṅgho viharati AN 4.180
+
+cattāro satipaṭṭhānā satta bojjh'aṅge paripūrenti MN 118
+
+nikkāmino gotamassa sāsanamhi SNP 13
+
+satthā devānaṁ ca manussānaṁ ca buddho SN 11.3
+
+sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ DHP 187
+
+vitakkānaṁ ca vicārānaṁ ca vūpasamā DN 22.18
+
+
+bhikkhu bhikkhum sg. anuddamseyya
+
+bone chewed by dogs
+
+Anissito ca viharati, na ca kiñci loke upādiyati.
+
+-----
+
+Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā
+añchanto ‘dīghaṁ añchāmī’ti pajānāti, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti
+pajānāti;
+
+-----
+
+Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti.
+Vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti. Sadosaṁ vā cittaṁ ‘sadosaṁ
+cittan’ti pajānāti. Vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānāti. Samohaṁ
+vā cittaṁ ‘samohaṁ cittan’ti pajānāti. Vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti
+pajānāti.
+
+-----
+
+Idha, bhikkhave, bhikkhu: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa
+atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; ...
+
+*** Chanting
+
+sakunassa saddo chant
+
+Atthi bhikkhave ajātaṃ...
+
+-----
+
+Paṭisaṅkhā yoniso piṇḍapātaṃ paṭisevāmi...
+
+* Lesson 2
+** Review Exercises
+
+Fill in the missing declensions.
+
+| Singular                      | Plural                | Meaning (sg.)                       |
+| \null                         |                       |                                     |
+| nara (/masc./)                |                       |                                     |
+| \null                         |                       |                                     |
+| \fillin{3cm}{naro}            | \fillin{3cm}{narā}    | /nom./, the man (obj.)              |
+| \fillin{3cm}{naraṃ}           | \fillin{3cm}{nare}    | /acc./, the man (subj.)             |
+| \fillin{3cm}{narena}          | \fillin{3cm}{narehi}  | /instr./, by, with, through the man |
+| \fillin{3cm}{narāya, narassa} | \fillin{3cm}{narānaṃ} | /dat./, to the man, for the man     |
+| \null                         |                       |                                     |
+| kāya (/masc./)                |                       |                                     |
+| \null                         |                       |                                     |
+| \fillin{3cm}{kāyo}            | \fillin{3cm}{kāyā}    | /nom./, the body (obj.)             |
+| \fillin{3cm}{kāyaṁ}           | \fillin{3cm}{kāye}    | /acc./, the body (subj.)            |
+| \fillin{3cm}{kāyena}          | \fillin{3cm}{kāyehi}  | /instr./, with the body             |
+| \fillin{3cm}{kāyassa}         | \fillin{3cm}{kāyānaṁ} | /dat./, for the body                |
+
+** Personal Pronouns
+** Adjectives
+** Declension: Masculine Nouns Ending in -a (part 2)
+*** Case 5. Ablative: narā / naramhā / narasmā -- from the man
+*** Case 6. Genitive: narassa -- of the man, the man's
+*** Case 7. Locative: nare / naramhi / narasmiṁ -- in, on, at the man
+*** Case 8. Vocative: nara / narā -- Hey, man!
+** Exercises
+** Vocabulary
+** Quotes
+*** Pāṭimokkha rules
+*** Quotes
+
+uid:an10.43/en/sujato Ten Roots of Arguments
+
+Idhupāli, bhikkhū anāpattiṁ āpattīti dīpenti, āpattiṁ anāpattīti dīpenti, lahukaṁ āpattiṁ garukāpattīti dīpenti, garukaṁ āpattiṁ lahukāpattīti dīpenti, duṭṭhullaṁ āpattiṁ aduṭṭhullāpattīti dīpenti
+
+-----
+
+Mettā-sahagatena cetasā ekaṃ disaṃ...
+
+-----
+
+True and False Refuges
+
+Bahuṃ ve saraṇaṃ yanti pabbatāni vanāni ca
+
+-----
+
+Sabbe saṅkhārā aniccā’ti yadā paññāya passati
+Atha nibbindati dukkhe esa maggo visuddhiyā
+
+-----
+
+DN 22:
+- Feeling: sāmisā / nirāmisā
+- Making effort: anuppannānaṁ pāpakānaṁ...
+
+-----
+
+* Lesson 3
+** Gerund (gahetvā)
+
+p.51, Gair
+
+** Optative (Might be)
+
+Examples: p.34 A New Course, Gair
+
+When you know this really by yourself...
+
+If merit led to sorrow, I would not speak thus.
+
+Then you should abide
+
+** Adverbs
+*** Derivative: Ablative form -to
+
+Duroselle, p89
+
+pārato, from the further shore;
+orato, from the near shore.
+(ⅲ) From adjectives: sabbato, everywhere.
+
+p40, Gair
+
+dukkhato - away from sorrow
+padīpato - away from the lamp
+
+uid:mil3.5.5/pli/ms
+
+“Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so, mahārāja, padīpo padīpamhā saṅkanto”ti?
+
+** Conjugations
+** Exercises
+** Vocabulary
+** Quotes
+*** Pāṭimokkha Rules
+
+uid:an7.23/pli/ms
+
+Yāvakīvañca, bhikkhave, bhikkhū abhiṇhaṁ sannipātā bhavissanti sannipātabahulā; vuddhiyeva, bhikkhave, bhikkhūnaṁ pāṭikaṅkhā, no parihāni.
+
+uid:an8.2/pli/ms
+
+ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī
+
+*** Snp 4.1: Sense Pleasure
+
+Kāmaṁ kāmayamānassa,
+tassa ce taṁ samijjhati;
+Addhā pītimano hoti,
+laddhā macco yadicchati.
+
+Tassa ce kāmayānassa,
+chandajātassa jantuno;
+Te kāmā parihāyanti,
+sallaviddhova ruppati.
+
+Yo kāme parivajjeti,
+sappasseva padā siro;
+Somaṁ visattikaṁ loke,
+sato samativattati.
+
+Yo kāme parivajjeti,
+sappasseva padā siro;
+Somaṁ visattikaṁ loke
+sato samativattati.
+
+*** Snp 4.6: Aging
+
+Maraṇenapi taṁ pahīyati,
+Yaṁ puriso mamidanti maññati;
+Etampi viditvā paṇḍito,
+Na mamattāya nametha māmako.
+
+* Lesson 4
+** Passive
+
+p.31 Johansson
+
+Accayanti ahorattā...
+
+uid:thag2.13/pli/ms
+
+-----
+
+Katamsu ...
+Vīriyena dukkhamacceti,
+
+** Exercises
+** Vocabulary
+** Quotes
+*** Pāṭimokkha Rules
+
+Nidāna, uid:pli-tv-bu-pm/pli/ms
+
+Kiṁ saṅghassa pubbakiccaṁ?
+
+Yo pana bhikkhu yāvatatiyaṁ anusāviyamāne saramāno santiṁ āpattiṁ nāvikareyya, sampajānamusāvādassa hoti. Sampajānamusāvādo kho panāyasmanto antarāyiko dhammo vutto bhagavatā, tasmā saramānena bhikkhunā āpannena visuddhāpekkhena santī āpatti āvikātabbā, āvikatā hissa phāsu hoti.
+
+Uddiṭṭhaṁ kho āyasmanto nidānaṁ. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṁ dhārayāmīti.
+
+Nidānaṁ niṭṭhitaṁ.
+
+*** Quotes
+
+ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī
+
+p.51 Johannson
+
+Snp 3.12
+
+“All the suffering that originates
+“Yaṁ kiñci dukkhaṁ sambhoti,
+is caused by consciousness.
+Sabbaṁ viññāṇapaccayā;
+With the cessation of consciousness,
+Viññāṇassa nirodhena,
+there is no origination of suffering.
+Natthi dukkhassa sambhavo.
+
+Snp 4.11
+
+“So where does contact in the world spring from?
+“Phasso nu lokasmi kutonidāno,
+And possessions, too, where do they come from?
+Pariggahā cāpi kutopahūtā;
+When what is absent is there no possessiveness?
+Kismiṁ asante na mamattamatthi,
+When what disappears do contacts not strike?”
+Kismiṁ vibhūte na phusanti phassā”.
+
+“Name and form cause contact;
+“Nāmañca rūpañca paṭicca phasso,
+possessions spring from wishing;
+Icchānidānāni pariggahāni;
+when wishing is absent there is no possessiveness;
+Icchāyasantyā na mamattamatthi,
+when form disappears, contacts don’t strike.”
+Rūpe vibhūte na phusanti phassā”.
+
+“Form disappears for one proceeding how?
+“Kathaṁ sametassa vibhoti rūpaṁ,
+And how do happiness and suffering disappear?
+Sukhaṁ dukhañcāpi kathaṁ vibhoti;
+Tell me how they disappear;
+Etaṁ me pabrūhi yathā vibhoti,
+I think we ought to know these things.”
+Taṁ jāniyāmāti me mano ahu”.
+
+“Without normal perception or distorted perception;
+“Na saññasaññī na visaññasaññī,
+not lacking perception, nor perceiving what has disappeared.
+Nopi asaññī na vibhūtasaññī;
+Form disappears for one proceeding thus;
+Evaṁ sametassa vibhoti rūpaṁ,
+for concepts of identity due to proliferation spring from perception.”
+Saññānidānā hi papañcasaṅkhā”.
+
+* Lesson 5
+** Exercises
+** Vocabulary
+** Quotes
+*** Pāṭimokkha Rules
+*** Quotes
+
+Who is capable of growing in Dhamma-Vinaya (AN 5.10)
+A reverential and deferential bhikkhu, with five qualities
+1. has faith (saddha)
+2. moral shame (hiri)
+3. moral dread (ottappa)
+4. energetic (āraddhavīriyo)
+5. wisdom (pañña)
+
+Longer list at AN 10.68: growing day and night, like the waxing moon
+
+#+begin_src
+- Whoever has faith, conscience, prudence, energy, and wisdom;
+- who wants to listen, memorizes the teachings, examines their meaning, and practices accordingly, and is diligent when it comes to skillful qualities
+- can expect growth, not decline, in skillful qualities, whether by day or by night. It’s like the moon in the waxing fortnight.
+#+end_src
+
+uid:an4.199/en/sujato
+
+When there is the concept ‘I am because of this’, there are the concepts ‘I am such because of this’, ‘I am thus because of this’,
+
+Imināsmīti, bhikkhave, sati iminā itthasmīti hoti, iminā evaṁsmīti hoti, iminā aññathāsmīti hoti, iminā asasmīti hoti, iminā satasmīti hoti...
+
+uid:an3.33/en/bodhi
+
+“Tasmātiha, sāriputta, evaṁ sikkhitabbaṁ: ‘imasmiñca saviññāṇake kāye ahaṅkāramamaṅkāramānānusayā na bhavissanti, bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na bhavissanti, yañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharato ahaṅkāramamaṅkāramānānusayā na honti tañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharissāmā’ti. Evañhi kho, sāriputta, sikkhitabbaṁ.

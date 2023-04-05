@@ -3,7 +3,7 @@
 \title{Vinaya Class Questions}
 \subject{Vinaya Class}
 \date{\the\year}
-\author{Gambhiro Bhikkhu}
+\author{The Bhikkhu Saṅgha}
 
 \newif\ifnosolutions
 \nosolutionsfalse
@@ -34,7 +34,7 @@
   BoldItalicFont = Crimson-BoldItalic.otf,
 ]{Crimson-Roman.otf}
 
-\newfontfamily\spectralScFont{SpectralSC-Medium.otf}
+\newfontfamily\spectralScFont[Numbers=Lining]{SpectralSC-Medium.otf}
 
 \usepackage{xcolor}
 \usepackage{graphicx}
@@ -42,6 +42,7 @@
 \usepackage{enumitem}
 \usepackage{multicol}
 \usepackage{comment}
+\usepackage[normalem]{ulem}
 
 \usepackage{hyperxmp}
 \usepackage{hyperref}
@@ -160,6 +161,12 @@
   \textbf{#1}%
 }
 
+\newcommand\subSectionFmt[1]{%
+  \normalfont
+  \memRTLraggedright
+  \uline{\bfseries\itshape #1}%
+}
+
 \makeheadstyles{vinaya-class}{%
 \chapterstyle{vinaya-class}
   \setbeforesecskip{1\onelineskip
@@ -169,7 +176,7 @@
   \setbeforesubsecskip{-1.0\onelineskip
                        \@plus -0.25\onelineskip \@minus -0.25\onelineskip}%
   \setaftersubsecskip{1.0\onelineskip \@plus 0.1\onelineskip}%
-  \setsubsecheadstyle{\sethangfrom{\noindent ####1}\normalfont\itshape\memRTLraggedright}%
+  \setsubsecheadstyle{\subSectionFmt}%
   \setbeforesubsubsecskip{1.0\onelineskip
                           \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
   \setaftersubsubsecskip{-1em}%
@@ -223,3 +230,5 @@
 \specialcomment{solution}{\emph{Solution:}\space}{}
 \fi
 
+\newcommand{\normalArrayStrech}{\renewcommand{\arraystretch}{1.2}}
+\normalArrayStrech

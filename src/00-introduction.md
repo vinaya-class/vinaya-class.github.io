@@ -26,7 +26,7 @@
 \begin{multicols}{2}
 -->
 
-The ten reasons for the establishing of the Pāṭimokkha:
+The ten reasons for the establishing of the Pāṭimokkha, *dasa atthavase*:
 
 1.  "For the excellence of the Sangha;
 2.  for the wellbeing of the Sangha;
@@ -39,7 +39,7 @@ The ten reasons for the establishing of the Pāṭimokkha:
 9.  to establish the True Dhamma;
 10. to support the Vinaya."
 
-(Vin.III.20; A.V.70)
+(Vin.III.20; [AN 10.31](https://suttacentral.net/an10.31/en/bodhi))
 
 <!-- latex
 \columnbreak
@@ -110,7 +110,7 @@ that is **allowable**.
 \end{multicols}
 -->
 
-(Mv.VI.40.1)
+(Mv.VI.40.1, DN 16, *cattāro mahāpadese*)
 
 <!-- latex
 \clearpage
