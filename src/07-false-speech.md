@@ -82,7 +82,7 @@ A novice asks: 'Have you seen my preceptor?' A bhikkhu responds: 'Your preceptor
 
 A novice, on hearing the yapping of hyenas asks: 'What's making that noise?' A bhikkhu responds: 'That's the noise of those who are lifting the stuck-in-the-mud wheel of the carriage your mother's going in.'
 
-The Commentary assigns offence for these and other examples which could be exaggeration or sarcasm.
+The Commentary assigns offense for these and other examples which could be exaggeration or sarcasm.
 
 Note the Buddha's instruction to Rahula: 'Train yourself, "I will not utter a deliberate lie, even for a laugh."'
 
@@ -94,7 +94,7 @@ Satire and boastful exaggeration are *pācittiya*.
 
 Irony, sarcasm, playful exaggeration can sometimes fulfill intention, sometimes not. Such remarks are often made as a manner of speaking without the intention to deceive.
 
-Example of irony in Pr 2: a bhikkhu puts away somebody's item for safe-keeping. When the person is looking for it, he ironically responds 'I stole it.' The Buddha says the bhikkhu committed no offence, as it was only a manner of speaking, not an acknowledgement of theft.
+Example of irony in Pr 2: a bhikkhu puts away somebody's item for safe-keeping. When the person is looking for it, he ironically responds 'I stole it.' The Buddha says the bhikkhu committed no offense, as it was only a manner of speaking, not an acknowledgement of theft.
 
 ## Sg 8, Unfounded pārājika accusation
 
@@ -108,7 +108,7 @@ Spreading stories. Saying something which may be false, but you believe it to be
 
 'Not sure if this is true...' -- engaging in gossip, idle chatter, or false tale bearing (Pc 1) are not accusations, because the person is not present.
 
-Discuss reporting on offences.
+Discuss reporting on offenses.
 
 ## Sg 9, Distorting evidence
 
@@ -128,7 +128,7 @@ See [AN 9.11](https://suttacentral.net/an9.11/en/sujato) where a monk accuses Ve
 
 Origin: a donor is preparing to give robes to the community. Bhikkhus from the group-of-six convince the donors to give the robes to them instead.
 
-**Perception** is a factor, one must know that the item is already allocated. There is no offence if one didn't know.
+**Perception** is a factor, one must know that the item is already allocated. There is no offense if one didn't know.
 
 After forfeiting the item, the bhikkhu will receive it back. The community may decide if the item is unsuitable for a bhikkhu to use.
 
@@ -136,7 +136,7 @@ After forfeiting the item, the bhikkhu will receive it back. The community may d
 
 In this case, a bhikkhu might hear that somebody wishes to give an item to A, but he convinces them to give it to B instead. This case can be extended even to common animals. It is inappropriate behaviour for a bhikkhu, supported by freely given gifts, to interfere with the freedom of donors in giving freely without expectations.
 
-There is no offence if the bhikkhu was asked for advice. One may answer, 'Give wherever your gift would be used, or would be well-cared for, or would last long, or wherever your mind feels inspired.'
+There is no offense if the bhikkhu was asked for advice. One may answer, 'Give wherever your gift would be used, or would be well-cared for, or would last long, or wherever your mind feels inspired.'
 
-No offence if the bhikkhu doesn't know that the item was already allocated.
+No offense if the bhikkhu doesn't know that the item was already allocated.
 

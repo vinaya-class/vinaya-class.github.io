@@ -1,7 +1,7 @@
 # Arguments 2
 
 -   **Pc 54,** Disrespectful after admonition
--   **Pc 64,** Concealing another's serious offence
+-   **Pc 64,** Concealing another's serious offense
 -   **Pc 65,** Ordaining someone less than 20 years old
 -   **Pc 68,** Not relinquishing an evil view
 -   **Pc 69,** Suspended bhikkhu
@@ -11,11 +11,11 @@
 
 ## Pc 54, Disrespectful after admonition
 
-Different offences for showing disrespect:
+Different offenses for showing disrespect:
 
-When the admonition is related to a specific rule in the Vinaya (i.e. any rule laid down by the Buddha), the offence is *pācittiya*.
+When the admonition is related to a specific rule in the Vinaya (i.e. any rule laid down by the Buddha), the offense is *pācittiya*.
 
-When the admonition relates to general behaviour of being self-effacing, scrupulous, etc., the offence is *dukkaṭa*.
+When the admonition relates to general behaviour of being self-effacing, scrupulous, etc., the offense is *dukkaṭa*.
 
 The validity of the admonition is not a factor.
 
@@ -23,23 +23,23 @@ Disrespect can be expressed to the rule, to the person, by word or by gesture.
 It doesn't matter to whom this is expressed, doesn't have to be face-to-face
 with the admonisher.
 
-There is no offence in politely discussing that one was taught differently somewhere else.
+There is no offense in politely discussing that one was taught differently somewhere else.
 
 A ploy to avoid being criticized is *Pc 71*.
 
-## Pc 64, Concealing another's serious offence
+## Pc 64, Concealing another's serious offense
 
-A bhikkhu doesn't inform the community about another bhikkhu's serious offence,
+A bhikkhu doesn't inform the community about another bhikkhu's serious offense,
 possibly out wishing to save him from the consequences or embarrassment.
 
-There is no offence in not informing the community, if one's motivation is not
-to hide the offence, but for example waiting to inform the abbot first.
+There is no offense in not informing the community, if one's motivation is not
+to hide the offense, but for example waiting to inform the abbot first.
 
-_Offences committed together:_ when two or more bhikkhus have committed the same
-offence on the same occasion, they should confess it to another bhikkhu, to
-avoid motivations of concealing the offence.
+_Offenses committed together:_ when two or more bhikkhus have committed the same
+offense on the same occasion, they should confess it to another bhikkhu, to
+avoid motivations of concealing the offense.
 
-The same offence, committed at different occasions, may be confessed together,
+The same offense, committed at different occasions, may be confessed together,
 but it is common to confess it separately in any case.
 
 ## Pc 65, Ordaining someone less than 20 years old
@@ -70,7 +70,7 @@ A bhikkhu who doesn't respond after being formally rebuked, should be suspended.
 Other bhikkhus should not commune, affiliate (e.g. participate in _pāṭimokkha_)
 or lie down in the same dwelling with a suspended bhikkhu.
 
-There is no offence if one knows the bhikkhu has already given up his wrong
+There is no offense if one knows the bhikkhu has already given up his wrong
 view, but has not yet been formally restored.
 
 ## Pc 70, Expelled novice
@@ -88,11 +88,11 @@ or lie down with him in the same dwelling.
 ## Pc 74, Hitting a bhikkhu
 
 Hitting a bhikkhu in anger is a *pācittiya*, an unordained person is a *dukkaṭa*
-offence.
+offense.
 
 It is not a factor whether the other person is hurt or not.
 
-It is not an offence to hit another person when being in physical danger and
+It is not an offense to hit another person when being in physical danger and
 wanting to escape.
 
 ## Pc 75, Threatening gesture

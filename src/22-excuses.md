@@ -27,5 +27,5 @@ To criticize the Dhamma in a similar way is a *dukkaṭa*.
 ## Pc 73, Claiming ignorance
 
 To pretend that one didn't know about a rule to excuse oneself of its consequences is a *dukkaṭa*.
-The other bhikkhus may expose the deception. If he continues to pretend ignorance, the offence is a *pācittiya*.
+The other bhikkhus may expose the deception. If he continues to pretend ignorance, the offense is a *pācittiya*.
 

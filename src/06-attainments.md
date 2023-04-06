@@ -95,9 +95,9 @@ There is no offense in coming, sitting, etc., as long as the intention is just t
 
 ### To impress
 
-Special practices (dhutaṅga, long periods of meditation, vegetarianism) out of the desire to impress others: dukkaṭa. Blameless reasons out of desire to practice are not an offence.
+Special practices (dhutaṅga, long periods of meditation, vegetarianism) out of the desire to impress others: dukkaṭa. Blameless reasons out of desire to practice are not an offense.
 
-### Non-offences
+### Non-offenses
 
 - mistaken and exaggerated understanding of one's mental states
 - not intending to boast, others trying to read a statement as an implied claim
@@ -114,8 +114,8 @@ Origin: similar to Pr 4, but with bhikkhus who boasted of true attainments of ea
 
 Good conduct between bhikkhus: Ven. Mogallāna waits to relate his vision until in the presence of the Buddha.
 
-### Non-offences
+### Non-offenses
 
 - to a bhikkhu or bhikkhuni
-- display of psychic power is not assigned an offence, but strongly critized by the Buddha (monk and the wooden bowl)
+- display of psychic power is not assigned an offense, but strongly critized by the Buddha (monk and the wooden bowl)
 

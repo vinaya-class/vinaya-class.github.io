@@ -21,11 +21,11 @@ Proper size: Smaller than a human skull is too small. Medium size is ~22.5 cm di
 
 One must either determine it for use, place it under shared ownership (*vikappana*), abandon it or give it away.
 
-The offence occurs on the 10th dawnrise after receving it.
+The offense occurs on the 10th dawnrise after receving it.
 
 **Perception** is not a factor.
 
-There is no offence if the bowl is lost, destroyed or stolen before the 10 days are up.
+There is no offense if the bowl is lost, destroyed or stolen before the 10 days are up.
 
 ## NP 22, Asking for new bowl
 
@@ -35,7 +35,7 @@ work.
 
 A bowl should be repaired as long as possible.
 
-The offence is *dukkaṭa* when asking, a *nissaggiya pācittiya* when receiving it.
+The offense is *dukkaṭa* when asking, a *nissaggiya pācittiya* when receiving it.
 
 'Asking' refers to asking from lay supporters. One may ask the Sangha for a new
 bowl from the stores, and the community will decide whether the request is
@@ -43,7 +43,7 @@ justified.
 
 *Note:* describe the forfeiture and bowl exchange procedure.
 
-### Non-offences
+### Non-offenses
 
 Asking from
 
@@ -60,15 +60,15 @@ Asking from
 
 **Object:** bowl, robe, sitting cloth, needle box, or belt.
 
-Hiding other requisites is a *dukkaṭa* offence.
+Hiding other requisites is a *dukkaṭa* offense.
 
-Hiding the requisites of a samanera or anagarika is a *dukkaṭa* offence.
+Hiding the requisites of a samanera or anagarika is a *dukkaṭa* offense.
 
 **Perception** of whose requisite it is, is not a mitigating factor.
 
 A 'friendly game' fulfils **Intention** all the same.
 
-### Non-offences
+### Non-offenses
 
 - putting away items to their proper place
 - putting it away as a teaching lesson, with the intention to give it back after
@@ -86,7 +86,7 @@ Allowed materials for a *needle box* are not explicit, but a *needle tube* is
 allowed of reed, bamboo, wood, lac (resin), fruit shells, copper, conch-shell.
 
 Receiving and using the improper item when it was requested by oneself (e.g.
-given as a surprise gift) is a *dukkaṭa* offence.
+given as a surprise gift) is a *dukkaṭa* offense.
 
 The intention of the rule was (a) to stop the fashionable fad, and (b) to not be
 burdensome for lay people who offered their help.

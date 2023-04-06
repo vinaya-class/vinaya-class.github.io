@@ -25,10 +25,10 @@ A bhikkhu may designate a lay steward to manage funds offered for the bhikkhu's
 support.
 
 If the bhikkhu harasses the steward with impatient prompting, even if he obtains
-the requisite, the item must be forfeited and the NP offence confessed.
+the requisite, the item must be forfeited and the NP offense confessed.
 
 If the bhikkhu exceeds the number of allowed promptings, he incurs the NP
-offence when obtaining the item.
+offense when obtaining the item.
 
 A verbal prompting may be substituted with two silent ones: from 6 verbal and 0
 silent, to 0 verbal and 12 silent.
@@ -107,7 +107,7 @@ or consent to it being placed next to him.
 *Intention* is not a mitigating factor. The bhikkhu may not accept the money for
 someone else's sake.
 
-NP offence: the money is forfeit, can not be used for the benefit of bhikkhus.
+NP offense: the money is forfeit, can not be used for the benefit of bhikkhus.
 
 *Discussion:* unaware of receiving money (wrapped in a bolt of cloth, hidden
 with food offerings).
@@ -116,11 +116,11 @@ When informing lay supporters who wish to make a donation, the proper language
 should be used, i.e. not giving them instruction what to do with their money.
 
 If the donor does not intend the money for the bhikkhu (i.e. offering it to
-support the monastery in general), it is not an offence to allow them to place
+support the monastery in general), it is not an offense to allow them to place
 the money next to the bhikkhu.
 
 If someone drops money into a bhikkhu's bowl against his protest, he may ask
-someone to remove it without an offence. The offence is incurred when he start
+someone to remove it without an offense. The offense is incurred when he start
 walking away with it.
 
 The term 'gold or silver' includes the materials, and whatever is used as currency.
@@ -161,9 +161,9 @@ _Store credit:_ a lay person may leave money at a store, and arrange that they
 serve a bhikkhu using that credit when he asks (Amazon voucher, restaurant,
 pastry shop).
 
-### Non-offences
+### Non-offenses
 
-There is no offence for a bhikkhu, in the monastery, to pick up gold or money
+There is no offense for a bhikkhu, in the monastery, to pick up gold or money
 and put it away for safe keeping.
 
 ## NP 19, Selling or buying
@@ -191,7 +191,7 @@ would come under this rule.
 \enlargethispage*{\baselineskip}
 -->
 
-### Non-offences
+### Non-offenses
 
 - asking for the price
 - informing the steward or seller (e.g. "I have this. I need X") and letting the

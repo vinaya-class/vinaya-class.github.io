@@ -186,7 +186,7 @@ public kitchen.
 Soup kitchens, homeless shelters, etc. Any place where all comers are offered
 food free of charge.
 
-### Non-offences
+### Non-offenses
 
 - one is invited by the owners
 - being ill (not being able to leave)
@@ -204,7 +204,7 @@ order to form his own faction within the Sangha.
 A 'group meal' here means four or more bhikkhus, specifically named in the
 invitation, out of the entire community.
 
-There is no offence if the invitation is for 'x number of bhikkhus', leaving the
+There is no offense if the invitation is for 'x number of bhikkhus', leaving the
 selection to the community.
 
 ## Pc 33, Meal before invitation
@@ -217,7 +217,7 @@ See [Snp 4.16](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.16.than.htm
 "He should conquer these four thoughts of lament: 'What will I eat, or where
 will I eat. How badly I slept. Tonight where will I sleep?'"
 
-No offence is the donors are informed, e.g. that the bhikkhus will eat breakfast before the midday meal.
+No offense is the donors are informed, e.g. that the bhikkhus will eat breakfast before the midday meal.
 It is nonetheless bad manners to eat so much at breakfast to not be able to eat at the meal.
 
 If the donors are not informed, very light food is still allowed, such as drinking thin rice porridge.
@@ -231,10 +231,10 @@ Origin: some bhikkhus don't know moderation in accepting cakes as provisions fro
 -->
 
 After accepting the provisions, the bhikkhu should inform the other to not accept more at that place.
-It is a *dukkaṭa* offence to not do so.
+It is a *dukkaṭa* offense to not do so.
 
 The term 'provisions' here refers to food prepared for *someone else* going on a journey.
-Hence there is no offence if the food was prepared *for the bhikkhu*, although restraint should be exercised.
+Hence there is no offense if the food was prepared *for the bhikkhu*, although restraint should be exercised.
 
 ## Pc 35, More food after turning down what was offered
 
@@ -243,7 +243,7 @@ to another donor to have something else they like. The first donor could have of
 all the food they needed, and feels hurt that they went somewhere else for more.
 
 If the bhikkhu already accepted all that the donor wanted to give,
-it is not an offence to seek more alms if he would need more food.
+it is not an offense to seek more alms if he would need more food.
 
 The donor may offer more food, and the bhikkhu may accept or refuse certain
 items, until he has finished eating (removes his hands from the bowl and pushes
@@ -262,7 +262,7 @@ If another donor arrives with more food, and the bhikkhu had refused some food
 earlier, he should ask permission from the earlier donor before receiving more
 food, to avoid offending them.
 
-### Non-offences
+### Non-offenses
 
 - accepting for the sake of another
 - accepting the leftovers of another
@@ -274,7 +274,7 @@ situation for the other bhikkhu to break Pc 35.
 
 **Intention** has to be wishing to find fault and blame the other bhikkhu.
 
-No offence for giving him leftover food to eat.
+No offense for giving him leftover food to eat.
 
 ## Pc 41, Handing food to members of other religions
 

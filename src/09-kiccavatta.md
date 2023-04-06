@@ -136,7 +136,7 @@ No naked flames in shared dwellings, no candles or incense.
 
 Keep room clean and tidy, in a presentable state.
 
-Offences for not putting away or having put away Sangha property on ones behalf. 
+Offenses for not putting away or having put away Sangha property on ones behalf. 
 
 "In whatever dwelling one is living, if the dwelling is dirty and one is able, one should clean it."
 

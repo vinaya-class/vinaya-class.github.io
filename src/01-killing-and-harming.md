@@ -21,7 +21,7 @@ A human being is regarded as such from the time when the "being to be born" is e
 \enlargethispage*{\baselineskip}
 -->
 
-There is a distinction between recommending an action something which *causes death in each case* (abortion or active contraception) and something which *causes death in some of the cases* (a treatment which can go wrong). There is **no offence** in the second case, e.g. some people are known to die in car accidents, but it doesn't mean that a bhikkhu can't ask a person to drive.
+There is a distinction between recommending an action something which *causes death in each case* (abortion or active contraception) and something which *causes death in some of the cases* (a treatment which can go wrong). There is **no offense** in the second case, e.g. some people are known to die in car accidents, but it doesn't mean that a bhikkhu can't ask a person to drive.
 
 Turning off life-support equipment: if the ill person stated their position on it beforehand, the doctors may be simply following his instruction.
 
@@ -45,7 +45,7 @@ Origin: Ven. Udāyin is killing crows by shooting them with arrows, cutting thei
 
 Mercy killing by the owner, or euthanasia practices by vets fulfil effort. Having a pet means responsibility.
 
-Acting in doubt, going ahead anyway is dukkaṭa. Such as when the bhikkhu thinks that cleaning an item may or may not kill living beings. Trying carefully not to kill insects while cleaning is not an offence.
+Acting in doubt, going ahead anyway is dukkaṭa. Such as when the bhikkhu thinks that cleaning an item may or may not kill living beings. Trying carefully not to kill insects while cleaning is not an offense.
 
 **Perception** is a factor. Stepping on a twig with the intention to crush a snake is dukkaṭa.
 
@@ -95,7 +95,7 @@ Result is not a factor.
 - pure or mostly rock, stones, gravel, sand are never 'genuine' soil
 - burnt or already dup up soil is not 'genuine' until rained on for four months
 
-If someone digs up the soil, a bhikkhu may shovel it into a wheelbarrow without offence.
+If someone digs up the soil, a bhikkhu may shovel it into a wheelbarrow without offense.
 
 **Effort:** Digging, burning, making a hole, or giving command to do it.
 

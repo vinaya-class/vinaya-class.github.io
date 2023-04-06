@@ -7,7 +7,7 @@
 ## Ay 1, sitting privately with a woman
 
 The *aniyata* (indefinite) rules highlight two difficult situations and require
-the community to examine them, instead of assigning a definite offence.
+the community to examine them, instead of assigning a definite offense.
 
 *Origin:* Lady Visākhā sees the Ven. Udāyin sitting at a concealed place with a
 girl who is newly married.
@@ -27,8 +27,8 @@ their facial expressions or hear what they say.
 *A secluded seat:* concealed behind a wall, a closed door, a large bush.
 Sufficient cover for sexual activity.
 
-This is already an offence under *Pc 44 (secluded seat)*, but this rule also
-covers the heavier offences.
+This is already an offense under *Pc 44 (secluded seat)*, but this rule also
+covers the heavier offenses.
 
 The bhikkhu community should investigate, hearing out the relevant individuals,
 and deciding on imposing the penalty or not.
@@ -38,7 +38,7 @@ may cross-question him as a group, until they are satisfied that he is telling
 the truth.
 
 The decision must be unanimous, and the bhikkhu in question must accept that his
-action was an offence. Otherwise the case has to be left unsettled.
+action was an offense. Otherwise the case has to be left unsettled.
 
 ## Ay 2, sitting out of earshot with a woman
 

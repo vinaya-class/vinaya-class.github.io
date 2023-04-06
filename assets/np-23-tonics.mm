@@ -119,7 +119,7 @@
 <node TEXT="and serve as food," ID="ID_1334250596" CREATED="1472450488271" MODIFIED="1472450500859"/>
 <node TEXT="yet would not be considered&#xa;gross (substantial) food." ID="ID_264572260" CREATED="1472450501147" MODIFIED="1472450556135"/>
 </node>
-<node TEXT="Origin of the offence" POSITION="left" ID="ID_1782493433" CREATED="1472471998153" MODIFIED="1472476012523">
+<node TEXT="Origin of the offense" POSITION="left" ID="ID_1782493433" CREATED="1472471998153" MODIFIED="1472476012523">
 <edge COLOR="#00007c"/>
 <node TEXT="some bhikkhus were receiving&#xa;an abundance of the five tonics" ID="ID_72693917" CREATED="1472472112366" MODIFIED="1472476033233"/>
 <node TEXT="they hoarded it in pots and bags" ID="ID_1490416195" CREATED="1472472268089" MODIFIED="1472472430540"/>

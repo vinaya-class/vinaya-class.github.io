@@ -93,13 +93,13 @@ A bhikkhu who arrives at a monastery with no cloth to cover himself may take any
 
 When one's robes have been stolen or destroyed, one may ask for cloth at most the amount enough for an upper- and lower robe.
 
-There is no offence for accepting cloth when the donors are offering it for a different reason.
+There is no offense for accepting cloth when the donors are offering it for a different reason.
 
 ## NP 8, Request to improve robe
 
 An unrelated householder wishes to purchase robes for the bhikkhu, and he suggests purchasing a more expensive one.
 
-No offence when the lay person is a relative, or has invited one to ask for cloth.
+No offense when the lay person is a relative, or has invited one to ask for cloth.
 
 ## NP 9, Request to combine robe funds
 

@@ -60,7 +60,7 @@ Hoping to cause a rift, loss of respect, etc.
 
 False tale-bearing is Pc 1.
 
-Not an offence: informing the abbot about a difficult situation, hoping for a
+Not an offense: informing the abbot about a difficult situation, hoping for a
 good outcome, not for causing a rift.
 
 ## Pc 46, Visiting families without informing
@@ -146,9 +146,9 @@ Perception of one being ill or not is not a factor.
 One should be sure that the extra warmth is necessary for one's health
 before lighting a fire.
 
-Lighting a fire in the sauna is not an offence.
+Lighting a fire in the sauna is not an offense.
 
-There is no offence for lighting a for a purpose other than warming oneself,
+There is no offense for lighting a for a purpose other than warming oneself,
 such as boiling water or burning dead leaves or firing a bowl.
 
 On living soil there can be Pc 10, on living plants there can be Pc 11. Using a

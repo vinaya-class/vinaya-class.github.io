@@ -55,7 +55,7 @@ reimbursed if they didn't donate the effort or materials.
 The bhikkhu may not ask for expensive materials directly, but may indicate what
 his project is, and if people offer the materials, he may accept it.
 
-It is not an offence to build a hut for another's use.
+It is not an offense to build a hut for another's use.
 
 ## Sg 7, Large hut without approval
 
@@ -80,7 +80,7 @@ Leaving tools outside are a _dukkaṭa_ as a derived offense.
 
 The rule doesn't apply to outdoors furniture such as weather-proof benches.
 
-### Non-offences
+### Non-offenses
 
 - leaving them out to dry, while deciding to come back and put them away
 - when there are 'constraints' on them such as tigers lying down on them
@@ -98,7 +98,7 @@ ants, etc. might damage them.
 One should tidy up one's room or hut before leaving a monastery, in a way that
 it is ready for another bhikkhu to use.
 
-There is no offence if someone else (such as the guest monk) has already set out
+There is no offense if someone else (such as the guest monk) has already set out
 the bedding without one having asked for them. In that case, the guest monks is
 responsible for putting the items back.
 
@@ -110,7 +110,7 @@ the intention to forcing him out.
 *To intrude* is defined as lying or sitting down within 75cm of his sleeping
 place, or on the way to the entrance.
 
-There is no offence in intruding for a compelling reason, such as suffering from
+There is no offense in intruding for a compelling reason, such as suffering from
 the cold or heat, being sick, or begin in danger. One should leave after the
 reason to intrude has passed.
 
@@ -124,10 +124,10 @@ reason to intrude has passed.
 to spend the Vassa. Some group-of-seventeen bhikkhus waited for them to fix it
 up, then drove them out, forcibly taking over the dwelling.
 
-The offence relates to acting out of anger as a primary impulse. Frustrated
+The offense relates to acting out of anger as a primary impulse. Frustrated
 greed also produces anger (not getting the hut one wished for).
 
-There is no offence if one's primary motivation is not anger. For example, the
+There is no offense if one's primary motivation is not anger. For example, the
 guest monk might have to evict a bhikkhu who is holding onto a dwelling after
 being told to leave. There may be anger, but it is not the primary impulse.
 

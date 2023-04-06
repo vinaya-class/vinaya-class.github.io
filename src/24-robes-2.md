@@ -21,7 +21,7 @@ bhikkhu.
 A bhikkhu should request from his supporters what he needs, rather than the raw
 materials for it.
 
-### Non-offences
+### Non-offenses
 
 - if both the supporters and weavers are his relatives
 - if they made invitation to ask
@@ -40,7 +40,7 @@ going to the weaver's shop and making a fuss about details.
 
 Related to *NP 8*, making stipulations about what kind of robe to receive.
 
-### Non-offences
+### Non-offenses
 
 - the supporters are relatives
 - they have invited one to ask

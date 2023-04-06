@@ -37,7 +37,7 @@ Passive contact:
 
 Contact while trying to shake her off is not an offense.
 
-If the bhikkhu's aim is to partake, the offence is saṅghādisesa.
+If the bhikkhu's aim is to partake, the offense is saṅghādisesa.
 
 ### Non-offenses
 

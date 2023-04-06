@@ -15,7 +15,73 @@
 
 BPC continue
 
-yo pana bhikkhu bhikkhuniyā ...
+new Pali poem
+
+** yo pana
+
+yo pana bhikkhu bhikkhuṁ
+
+yo pana bhikkhu bhikkhussa / anupasampannassa
+
+yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya ...
+
+tena kho pana samayena āyasmā mahākassapo ...
+
+bhikkhuniyā:
+- with a bhikkhunī
+- fem dat sg of bhikkhunī
+
+saddhiṁ:
+- ind, prep (+instr)
+- together (with); with
+
+saṁvidhāya:
+- ger of saṃvidahati, trans (+acc)
+- arranging; organising; planning
+
+saṃvidahati:
+- pr, trans (+acc)
+- arranges; organises; plans
+
+yo pana bhikkhu:
+- idiom, pron + ind + masc
+- a monk who; whichever monk
+
+yo:
+- pron, masc.nom.sg. of ya
+- whoever; whatever; whichever
+
+pana:
+- indeclineable
+- moreover; and so; but; or; however
+
+kho pana:
+- idiom, ind + ind
+- and now; but; and next; indeed
+
+kho:
+- ind, emph
+- indeed; surely; certainly; truly
+
+tena kho pana samayena
+- idiom, pron + ind + ind + masc, instr for loc sg
+- now at that time; now on that occasion
+
+tena:
+- pron, masc & nt instr sg of ta
+- with him; by him; with that; by that
+
+ta:
+- pron, base
+- that
+
+samayo:
+- masc, from sameti (meets with / agrees with)
+- time; occasion; lit. come together
+
+aparena samayena:
+- idiom, adj + masc
+- at another time; later
 
 * Lesson 1
 ** Language Notes

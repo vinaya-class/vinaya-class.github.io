@@ -40,11 +40,11 @@ Result is fulfiled when the semen enters the urinary tract, since at that point 
 \clearpage
 -->
 
-*(Figure: Overview of the procedure after a Saṅghādisesa offence, comparing the case of immediately informing and concealing.)*
+*(Figure: Overview of the procedure after a Saṅghādisesa offense, comparing the case of immediately informing and concealing.)*
 
-One doesn't have to wait until one is certain about the offence, speaking to another bhikkhu about a doubtful situation will at least clear one's conscience that one is not concealing it.
+One doesn't have to wait until one is certain about the offense, speaking to another bhikkhu about a doubtful situation will at least clear one's conscience that one is not concealing it.
 
-A bhikkhu who comitted a saṅghādisesa must inform another bhikkhu as soon as possible, but at most until the next dawnrise. The Sangha must meet and at his request, allow a six-dawn period of penance (*mānatta*). If he concealed the offence, a probation period (*parivāsa*) is required beforehand.
+A bhikkhu who comitted a saṅghādisesa must inform another bhikkhu as soon as possible, but at most until the next dawnrise. The Sangha must meet and at his request, allow a six-dawn period of penance (*mānatta*). If he concealed the offense, a probation period (*parivāsa*) is required beforehand.
 
 The Sangha will determine when and where the bhikkhu should observe the *parivāsa* and *mānatta*. These periods are determined by the Sangha and don't have to occur back-to-back.
 
@@ -58,13 +58,13 @@ Characteristic duties during penance:
 
 - not receiving duties of respect from other bhikkhus
 - inform visiting bhikkhus that he is undergoing penance
-- every day, notify every bhikkhu in the monastery of his offence
+- every day, notify every bhikkhu in the monastery of his offense
 - stay under a separate roof than the other bhikkhus
 - only leave the monastery when accompanied by four other bhikkhus
 
 The duties during probation are the same as during penance, except:
 
-- inform the Sangha of his offence every fortnight, not every day
+- inform the Sangha of his offense every fortnight, not every day
 - only leave the monastery when accompanied by a single other bhikkhu
 
 ### Sensual thoughts

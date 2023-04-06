@@ -11,7 +11,7 @@
 -   5 factors: object, effort, intention, perception, result
 -   Blanket exemptions: insane, possessed by spirits, delirious with
     pain, the first offender
--   Common non-offences: unknowingly, unthinkingly, unintentionally
+-   Common non-offenses: unknowingly, unthinkingly, unintentionally
 -   4 Great Standards to judge modern cases
 -   Min. 4 bhikkhus for Sangha actions, decisons and Patimokkha
 -   Min. 5 bhikkhus for ordination and Kaṭhina

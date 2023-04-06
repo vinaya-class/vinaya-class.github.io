@@ -4,7 +4,7 @@
 -   **Sg 11,** Supporting a schismatic group
 -   **Sg 12,** Not accepting admonishment
 -   **Sg 13,** Not accepting a rebuke or banishment
--   **Pc 9,** Telling an unordained person about serious offence
+-   **Pc 9,** Telling an unordained person about serious offense
 -   **Pc 12,** Evasive reply
 -   **Pc 13,** Criticising community official
 
@@ -55,15 +55,15 @@ supporting bhikkhus of good conduct.
 culture. As a result they favoured socializing, easy-going, frivolous and chatty
 monks, and withdrew support from bhikkhus behaving with restraint.
 
-## Pc 9, Telling an unordained person about serious offence
+## Pc 9, Telling an unordained person about serious offense
 
-Serious offence: *pārājika* or *saṅghādisesa*.
+Serious offense: *pārājika* or *saṅghādisesa*.
 
-Reporting on other offences are a *dukkaṭa* offence.
+Reporting on other offenses are a *dukkaṭa* offense.
 
 The purpose of the rule is to protect both ordained and unordained people.
 
-An unordained person's offences are a *dukkaṭa* offence to report on, such as
+An unordained person's offenses are a *dukkaṭa* offense to report on, such as
 breaking the Five Precepts.
 
 The community may authorize informing the lay people, if that might to improve a
@@ -72,7 +72,7 @@ difficult situation, by unanimous agreement through *apalokana-kamma*.
 **Perception** is not a mitigating factor.
 
 **Effort:** The statement has to include both the action and the class of
-offence: 'He had his meal past midday, which is a *pācittiya* offence'.
+offense: 'He had his meal past midday, which is a *pācittiya* offense'.
 
 Discrediting a fellow bhikkhu is grounds for Pc 13. When lay people ask why is a
 community member standing at the end of the line, it is better to say 'he is
@@ -80,7 +80,7 @@ undergoing a procedure defined in the monastic code'.
 
 ## Pc 12, Evasive reply
 
-A bhikkhu wants to hide his offences when being formally questioned, by
+A bhikkhu wants to hide his offenses when being formally questioned, by
 responding evasively. He might try changing the topic, keep asking questions, or
 making unrelated statements.
 
@@ -88,9 +88,9 @@ making unrelated statements.
 
 An evasive reply or remaining silent when questioned is a *dukkaṭa*. The
 community then may make a formal charge of evasive speech. If he continues, the
-offence is *pācittiya*.
+offense is *pācittiya*.
 
-It is not an offence to remain silent when:
+It is not an offense to remain silent when:
 
 - not understanding what is being said
 - too ill to speak
@@ -119,7 +119,7 @@ properly or not, whether he is biased or not.
 
 If one criticises a community official as being unfair, but it turns out that he
 was fair (following established procedure), and it was the *complainer* who was
-acting out of disappointment (didn't get what he wanted), the offence is
+acting out of disappointment (didn't get what he wanted), the offense is
 incurred.
 
 One's **Intention** is to make him lose face, status, or feel embarrassed.
@@ -128,9 +128,9 @@ One's **Intention** is to make him lose face, status, or feel embarrassed.
 
 Insulting him face-to-face is *Pc 2*, whether he is biased or not.
 
-### Non-offences
+### Non-offenses
 
-It is not an offence to voice criticism when the official is habitually acting
+It is not an offense to voice criticism when the official is habitually acting
 out of bias -- desire, aversion, delusion or fear.
 
 Such as favouritism when assigning the best dwellings to bhikkhus he likes, or

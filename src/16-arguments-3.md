@@ -15,7 +15,7 @@ no peace.'
 
 *Result* is a factor, the bhikkhu has to experience anxiety even for a moment.
 
-There is no offence in discussing offences out of genuine concern, or for the
+There is no offense in discussing offenses out of genuine concern, or for the
 sake of clarifying the training.
 
 ## Pc 78, Eavesdropping
@@ -31,7 +31,7 @@ cough or otherwise signal being present.
 
 ## Pc 63, Reopen a closed issue
 
-Relevant issues may be disputes, accusations, offences, or relating to duties.
+Relevant issues may be disputes, accusations, offenses, or relating to duties.
 
 The purpose of the rule is to avoid burdening and encumbering a community, only
 to satisfy one bhikkhu's personal agenda.
@@ -47,7 +47,7 @@ The rule applies to decisions in the past, or when one was not present at the
 meeting. One implicitly agrees to such established decisions by asking to live
 at a monastery, expressed by asking for dependence (*nissaya*) and other protocols.
 
-### Non-offences
+### Non-offenses
 
 - Re-opening an issue when it was in fact not dealt with properly
   - not in accordance with the rules, decision by an incomplete group,
@@ -76,7 +76,7 @@ at the meeting (sitting within *hatthapāsa*) or have given their consent by
 proxy, and no one -- in the course of the transaction -- makes a valid protest
 against its being carried out." (Mv.IX.3.5-6)
 
-### Non-offences
+### Non-offenses
 
 - the decision was not in accordance with the rule
 - incomplete assembly
@@ -93,7 +93,7 @@ present or given his consent.
 **Effort:** he goes beyond *hatthapāsa* of the bhikkhus in the meeting without
 first giving his consent.
 
-There is no offence if one leaves the meeting for a different purpose, such as
+There is no offense if one leaves the meeting for a different purpose, such as
 being ill, can't wait to use the toilet, or thinking 'I'll be right back.'
 
 Nonetheless, it is better to give one's consent before leaving the meeting.
@@ -112,7 +112,7 @@ where the community members may object.
 Complaining after one *has not* objected to the article being given to an
 individual, fulfils **Effort**.
 
-There is no offence to complain out of valid concerns (as in *Pc 13*,
+There is no offense to complain out of valid concerns (as in *Pc 13*,
 criticizing a community official), such as habitual favouritism, anger, delusion
 or fear, which means the transaction was invalid.
 

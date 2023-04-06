@@ -45,9 +45,9 @@ Eggs, blood, etc. are included under 'meat'. Consuming uncooked (raw) meat is *d
 'Eating' is defined as 'entering the mouth'.
 
 Swallowing food disloged from between the teeth, or chewing and swallowing
-unchewed food passed up from the stomach is not an offence.
+unchewed food passed up from the stomach is not an offense.
 
-Cooking is not allowed, but heating up is not an offence.
+Cooking is not allowed, but heating up is not an offense.
 
 Being ill is not an exception, since the 7 day tonics are allowed for that
 reason.
@@ -80,13 +80,13 @@ allowed. If the bhikkhu hasn't relinquished it, it is not allowable (dukkata).
 \clearpage
 -->
 
-### Non-offences
+### Non-offenses
 
-- the act of storing it is not an offence, a bhikkhu may carry a lay person's
+- the act of storing it is not an offense, a bhikkhu may carry a lay person's
   food while travelling
-- no offence for telling an unordained person to store it
+- no offense for telling an unordained person to store it
 - a designated food-store is allowed
-- no offence for setting food aside and consuming it within the right period
+- no offense for setting food aside and consuming it within the right period
 
 ## Pc 39, Requesting finer staple foods
 
@@ -186,7 +186,7 @@ juice.
 
 **Effort:** taking any amount, even as little as the tip of a blade of grass.
 
-### Non-offences
+### Non-offenses
 
 - eating food which was cooked using alcohol
 - medicine containing a negligible amount of alcohol: the taste, color, and
@@ -210,7 +210,7 @@ carbohydrate-rich liquid.
 The purpose is to avoid damaging the faith of those supporters who might
 suffer financially if they give too much.
 
-### Non-offences
+### Non-offenses
 
 <!-- latex
 \begin{multicols}{2}
@@ -239,7 +239,7 @@ The messenger must be a lay person.
 
 Eating unannounced food offerings is to be acknoledgeded as bad conduct.
 
-### Non-offences
+### Non-offenses
 
 - being ill and unable to go on alms-round
 - allowance for using fruit, roots, etc. growing in the dwelling or its vicinity

@@ -60,7 +60,7 @@ Reconciling a still married couple is not an offense. Reconciling a divorced cou
 
 ## Pc 6, Lying down with a woman
 
-Origin: Ven. Anuruddha stays at the house of a wealthy woman for a night. She approaches him, but he remains unmoved, and she leaves. There was no offence, but the rule is established to avoid similar situations.
+Origin: Ven. Anuruddha stays at the house of a wealthy woman for a night. She approaches him, but he remains unmoved, and she leaves. There was no offense, but the rule is established to avoid similar situations.
 
 **Object:** Female human being, even a baby, one's relative or not.
 
@@ -82,7 +82,7 @@ The bhikkhu sits with a woman at a secluded place, private to the eye and ear, w
 
 **Effort:** sitting or lying down at the same place, even if not the same seat.
 
-### Non-offences
+### Non-offenses
 
 <!-- latex
 \vspace*{-0.5\baselineskip}
