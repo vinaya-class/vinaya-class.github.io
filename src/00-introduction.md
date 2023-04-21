@@ -39,7 +39,7 @@ The ten reasons for the establishing of the Pāṭimokkha, *dasa atthavase*:
 9.  to establish the True Dhamma;
 10. to support the Vinaya."
 
-(Vin.III.20; [AN 10.31](https://suttacentral.net/an10.31/en/bodhi))
+([Vin.III.20](https://suttacentral.net/pli-tv-bu-vb-pj1/en/brahmali), Pr 1; [AN 10.31](https://suttacentral.net/an10.31/en/bodhi))
 
 <!-- latex
 \columnbreak
