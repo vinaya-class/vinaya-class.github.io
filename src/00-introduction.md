@@ -28,10 +28,10 @@
 
 The ten reasons for the establishing of the Pāṭimokkha, *dasa atthavase*:
 
-1.  "For the excellence of the Sangha;
-2.  for the wellbeing of the Sangha;
+1.  "For the well-being of the Sangha;
+2.  for the ease of the Sangha;
 3.  for the control of ill-controlled bhikkhus;
-4.  for the comfort of wellbehaved bhikkhus;
+4.  for the ease of well-behaved bhikkhus;
 5.  for the restraint of the *āsavā* in this present state;
 6.  for protection against the *āsavā* in a future state;
 7.  to give confidence to those of little faith;

@@ -41,6 +41,7 @@ tags
 *.qsl
 *.sol
 *.cut
+*.xdv
 
 # General macOS
 .DS_Store

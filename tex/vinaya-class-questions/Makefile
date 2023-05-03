@@ -1,5 +1,6 @@
 LATEX=latexmk
-LATEX_OPTS=-pdflua
+# LATEX_OPTS=-pdflua
+LATEX_OPTS=-interaction=nonstopmode -halt-on-error -xelatex
 
 all: vinaya-class-questions-A.pdf vinaya-class-questions-B.pdf vinaya-class-questions-A-answerkey.pdf vinaya-class-questions-B-answerkey.pdf pali-lessons.pdf
 

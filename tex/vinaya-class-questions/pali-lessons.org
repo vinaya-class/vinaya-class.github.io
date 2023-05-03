@@ -8,24 +8,33 @@
 #+LATEX_HEADER:   \usepackage[forpaper, nosolutions]{eqexam}
 #+LATEX_HEADER:   \usepackage[nosolutions]{vinaya-class-questions}
 #+LATEX_HEADER: \fi
+#+LATEX_HEADER: \def\maketitle{}
+#+LATEX_HEADER: \maxtocdepth{subsection}
 #+LANGUAGE: en_GB
 #+OPTIONS: toc:nil tasks:nil ':t H:4 author:nil
 #+TITLE: Pali Lessons
 
+#+latex: \frontmatter
+#+latex: \par
+#+latex: {\centering
+#+latex: \par
+#+latex: {\Huge Pāḷi Lessons}
+#+latex: \par
+#+latex: \bigskip
+#+latex: \href{https://vinaya-class.github.io}{https://vinaya-class.github.io}
+#+latex: \par
+#+latex: {\scshape\small last updated on}\\
+#+latex: \today
+#+latex: \par
+#+latex: }
+#+latex: \par
+#+latex: \bigskip
+#+latex: \tableofcontents*
+#+latex: \par
+#+latex: \mainmatter
+
 * Notes                                                            :noexport:
-
-BPC continue
-
-new Pali poem
-
-** paccavekkhitabbam
 ** yo pana
-
-yo pana bhikkhu bhikkhuṁ
-
-yo pana bhikkhu bhikkhussa / anupasampannassa
-
-yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya ...
 
 tena kho pana samayena āyasmā mahākassapo ...
 
@@ -84,542 +93,6 @@ samayo:
 aparena samayena:
 - idiom, adj + masc
 - at another time; later
-
-* Lesson 1
-** Language Notes
-
-The *gender of a noun* is either masculine, feminine or neuter.
-Its *number* is either singular or plural.
-Its *declension* have eight cases, which indicate the subject, object, location, etc.
-
-*Nouns ending* in /-a/ are either masculine or neuter. Nouns ending in /-ā/ are feminine.\\
-Other nouns end in /-i, -ī, -u, -ū/.
-
-*Word order* in the simplest case is Subject-Object-Verb, but since the case indicates the role of a noun, word order is often altered for emphasis.
-
-| Sūdo /(nom.sg.)/ bhattaṁ /(acc.)/ pacati /(3rd.sg.)/. | Dārakā /(nom.sg.)/ bhojanīyaṁ /(acc.)/ bhuñjanti /(3rd.pl.)/. |
-| The chef cooks the rice.                              | The boys eat the food.                                        |
-
-The *subject* and *verb* must agree in number: /Sakuṇā ākāse uḍḍenti/ (Birds fly in the sky).
-
-| Sakuṇ\textbf{ā}                        | masc.nom.\textbf{pl.} | Birds      |
-| ākāse / ākāsamhi / ākāsasmiṁ          | masc.loc.sg.          | in the sky |
-| uḍḍe\textbf{nti} / uḍḍaya\textbf{nti}. | pr.3.\textbf{pl.}     | they fly.  |
-
-The verb "to be" (is / are) is often implied and dropped from the sentence.
-
-#+latex: \bigskip
-
-#+latex: \begin{multicols}{2}
-
-*Plural / singular* for nominative cases:
-
-| masc.sg. | -o        | devo     |
-| masc.pl. | -ā        | devā     |
-|----------+-----------+----------|
-| nt.sg.   | -aṁ       | rūpaṁ    |
-| nt.pl.   | -ā, -āni  | rūpāni   |
-|----------+-----------+----------|
-| fem.sg.  | -ā        | vedanā   |
-| fem.pl.  | -ā, -āyo, | vedanāyo |
-
-\vfill\null
-
-#+latex: \columnbreak
-
-*Negation:* /a-/ prefix for nouns, /na/ particle for verbs.
-
-*Questions* begin with /api, api nu, kiṁ/. /Kiṁ/ may be placed at the end of the sentence.
-
-/Api nu gacchasi?/ Do you go?\\
-/Kiṁ nāmo si?/ What is your name?\\
-/Gacchasi kiṁ?/ Do you go?
-
-*An adjective* agrees with the noun it qualifies in gender, number and case. Generally, the order is adjective + noun.
-
-#+latex: \end{multicols}
-
-*Declension Table: Masculine Nouns Ending in -a*
-
-| Case            | Singular                                           | Plural           | Meaning (sg.)                    |
-|-----------------+----------------------------------------------------+------------------+----------------------------------|
-| 1. Nominative   | nar\textbf{o}                                      | nar\textbf{ā}    | the man does sth (object)        |
-| 2. Accusative   | nar\textbf{aṁ}                                     | nar\textbf{e}    | sth happens to the man (subject) |
-| 3. Instrumental | nar\textbf{ena}                                    | nar\textbf{ehi}  | by, with, through the man        |
-| 4. Dative       | nar\textbf{āya}, nar\textbf{assa}                  | nar\textbf{ānaṁ} | to the man, for the man          |
-| 5. Ablative     | nar\textbf{ā}, nar\textbf{amhā}, nar\textbf{asmā}  | nar\textbf{ehi}  | from the man                     |
-| 6. Genitive     | nar\textbf{assa}                                   | nar\textbf{ānaṁ} | of the man, the man's            |
-| 7. Locative     | nar\textbf{e}, nar\textbf{amhi}, nar\textbf{asmiṁ} | nar\textbf{esu}  | in, on, at the man               |
-| 8. Vocative     | nar\textbf{a}, nar\textbf{ā}                       | nar\textbf{ā}    | Hey, man!                        |
-
-This the most common declension, worth memorizing by heart. 87% of all masculine
-nouns are ending in *-a*, \mbox{97\% of} all neuter nouns are ending in *-aṁ*, in
-addition to adjectives and participles with the same declensions.
-
-#+latex: \clearpage
-
-** Simple Present
-
-Actions that are happening at the present moment, occurring regularly, or general truths.
-
-Verbal bases can end in /-a, -ā, -e, -o/.
-
-#+latex: {\centering\par
-#+latex: \begin{multicols}{2}
-
-Verbal terminations:
-
-|       | *sg.* | *pl.*   |
-| *1st* | -mi   | -ma     |
-| *2nd* | -si   | -tha    |
-| *3rd* | -ti   | -(a)nti |
-
-The base is obtained by removing the 3rd.sg. termination /-ti/ from the conjugated form.
-
-#+latex: \columnbreak
-
-Root: /√dhāv/ (to run), base: /dhāva/
-
-|       | *sg.*   | *pl.*    |
-| *1st* | dhāvāmi | dhāvāma  |
-| *2nd* | dhāvasi | dhāvatha |
-| *3rd* | dhāvati | dhāvanti |
-
-The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
-
-#+latex: \end{multicols}
-#+latex: \par}
-#+latex: \bigskip
-#+latex: \begin{multicols}{2}
-#+latex: \setlength{\columnseprule}{0pt}
-
-| he goes             | gacchati                 |
-| we go               | \fillin{4cm}{gacchāma}   |
-| he comes            | āgacchati                |
-| they come           | \fillin{4cm}{āgacchanti} |
-| he walks            | carati                   |
-| they walk           | \fillin{4cm}{caranti}    |
-| he chews            | khādati                  |
-| you (sg.) chew      | \fillin{4cm}{khādasi}    |
-| he eats (enjoys)    | bhuñjati                 |
-| they eat            | \fillin{4cm}{bhuñjanti}  |
-
-#+latex: \columnbreak
-
-| he sees             | passati                  |
-| you (sg.) see       | \fillin{4cm}{passasi}    |
-| he recites          | uddisati                 |
-| I recite            | \fillin{4cm}{uddisāmi}   |
-| he gives (to)       | deti                     |
-| you (pl.) give (to) | \fillin{4cm}{detha}      |
-| he informs          | āroceti                  |
-| I inform            | \fillin{4cm}{ārocemi}    |
-| he confesses        | āvikaroti                |
-| you confess         | \fillin{4cm}{āvikarotha} |
-
-#+latex: \end{multicols}
-
-** Declensions (-a)
-
-*** Nominative Case: naro -- the man (subject)
-
-"*Who* is doing it?" Indicates the *subject* of a sentence.
-
-| Naro nisīdati.                            | *The man* sits.                    |
-| Sīhā na dhāvanti.                         | *The lions* are not running.       |
-| Jātā mīyanti.                             | *(Those who are) born* (they) die. |
-| Abhisatto'va nipatati, vayo.[fn:thag-118] | Like a curse, it falls, *old age*. |
-
-#+latex: \clearpage
-
-[fn:thag-118] [[https://suttacentral.net/thag1.118/en/sujato][Thag 118]]
-
-*** Accusative Case: naraṁ -- the man (object)
-
-*(a)* "*What* is he eating?" Indicates the *object* of a sentence.
-
-
-| I use *the requisite.*                                     | Parikkhāraṁ paṭisevāmi.                 |
-| The birds eat *the seeds.* (/bīja/)                        | \fillin{8cm}{Sakuṇā bījāni bhuñjanti.}   |
-| The lion doesn't see *the dogs.* (/sunakha/)               | \fillin{8cm}{Sīho sunakhe na passati.}  |
-| The dogs are barking (/bhussati/) *at the moon.* (/canda/) | \fillin{8cm}{Sunakhā candaṁ bhussanti.} |
-| The disciple (/sāvaka/) eats the lion.                     | \fillin{8cm}{Sāvako sīhaṁ khādati.}     |
-| The lion eats the disciple.                                | \fillin{8cm}{Sīho sāvakaṁ khādati.}     |
-| They fill up (/paripūreti/) the ocean. (/sāgara/)          | \fillin{8cm}{Paripūrenti sāgaraṁ.}      |
-
-*(b)* "*Where* is he going to?" Indicates where the subject is *going to* or *going along*. A.k.a. "the accusative of motion".
-
-#+begin_quote
-The māluva-seed (/māluvābīja/) falls *at the base of sal trees.* (/sālamūla/)[fn:mn-45]
-
-/Māluvābījaṁ sālamūle nipatati./
-#+end_quote
-
-| The elder walks *along the road.*                   | \fillin{8cm}{Thero maggaṁ carati.}       |
-| The layman (/upāsaka/) doesn't go *to the village.* | \fillin{8cm}{Upāsako gāmaṁ na gacchati.} |
-| The men run *to the barn.* (/koṭṭhāgāra/)            | \fillin{8cm}{Narā koṭṭhāgāraṁ dhāvanti.}  |
-| The birds fly *to the sal trees.* (/sālarukkha/)    | \fillin{8cm}{Sakuṇā sālarukkhe uḍḍenti.}  |
-| We enter (/pavisati/) *the hut.* (/agāra/)          | \fillin{8cm}{Agāraṁ pavisāma.}           |
-
-[fn:mn-45] [[https://suttacentral.net/mn45/en/sujato][MN 45]]
-
-** Translate
-
-| Saṅgho uposathaṁ karoti.                                    | \fillin{8cm}{The Sangha performs the uposatha.}                      |
-| Pārisuddhiṁ āyasmanto āroc\textbf{atha.}                    | \fillin{8cm}{The Venerable is declaring purity.}                     |
-| Āpattiṁ āvikaroti.                                          | \fillin{8cm}{He confesses the offense.}                              |
-| Suññāgāraṁ pavisāmi.                                        | \fillin{8cm}{I enter the empty hut.}                                 |
-| Rukkhamūle gacchāma.                                        | \fillin{8cm}{We go to the roots of trees.}                           |
-| Cattāro satipaṭṭhānā satta bojjhaṅge paripūrenti.[fn:mn-118] | \fillin{8cm}{The 4 found. of mindf. fulfil the 7 fact. of enligh.  } |
-
-[fn:mn-118] [[https://suttacentral.net/mn118/en/sujato][MN 118]]
-
-* Lesson 2
-** Review Exercises
-
-Fill in the missing declensions.
-
-| Singular                      | Plural                | Meaning (sg.)                       |
-| \null                         |                       |                                     |
-| nara (/masc./)                |                       |                                     |
-| \null                         |                       |                                     |
-| \fillin{3cm}{naro}            | \fillin{3cm}{narā}    | /nom./, the man (obj.)              |
-| \fillin{3cm}{naraṁ}           | \fillin{3cm}{nare}    | /acc./, the man (subj.)             |
-| \null                         |                       |                                     |
-| kāya (/masc./)                |                       |                                     |
-| \null                         |                       |                                     |
-| \fillin{3cm}{kāyo}            | \fillin{3cm}{kāyā}    | /nom./, the body (obj.)             |
-| \fillin{3cm}{kāyaṁ}           | \fillin{3cm}{kāye}    | /acc./, the body (subj.)            |
-
-** Declensions (-a)
-*** Instrumental Case: narena -- with, by, because of the man
-
-*"With whom/what? By whom/what? By means of, because of whom/what?"*
-
-/Buddhena/: with the Buddha, by the Buddha, by means of the Buddha, because of the Buddha.
-
-Final /-a/ of the stem becomes /-ena/: /Buddha/ → /Buddhena/.
-
-To the stems ending in /i, ī, u, ū/, the ending /-nā/ is added.
-
-The final long vowel of the stem becomes short.
-
-| senānī (general) | → | senāninā |
-| garu (teacher)   | → | garunā   |
-| vidū (seer)      | → | vidunā   |
-
-#+latex: \bigskip
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| He walks along the road with a woman. (/mātugāma/) | \fillin{8cm}{Maggaṁ mātugāmena carati.} |
-| TODO                                               |                                         |
-| TODO                                               |                                         |
-| TODO                                               |                                         |
-| TODO                                               |                                         |
-| TODO                                               |                                         |
-
-#+latex: \normalArrayStrech
-#+latex: \clearpage
-
-*** Dative and Genitive Cases
-
-*Dative: narāya / narassa -- to the man, for the man -- "To whom/what? For whom/what?"*
-
-Singular: final /-a/ of the stem becomes /-āya/ and /-assa/.
-
-/Buddhāya, Buddhassa/: to or for the Buddha.
-
-To the stems ending in /i, ī, u, ū/, the ending /-no/ and /-ssa/ are added.
-
-*Genitive: narassa -- of the man, the man's -- "Of whom/what? Whose?"*
-
-Singular: /-ssa/ is added to the final /-a/.
-
-Genitive singular forms of other nouns are the same as the Dative singulars.
-
-|        |                     | Dative             | Genitive                      |
-|--------+---------------------+--------------------+-------------------------------|
-| Buddha | Buddhassa           | to/for the Buddha  | of the Buddha, the Buddha's   |
-| muni   | munino, munissa     | to/for the hermit  | of the hermit, the hermit's   |
-| senānī | senānino, senānissa | to/for the general | of the general, the general's |
-| garu   | garuno, garussa     | to/for the teacher | of the teacher, the teacher's |
-| vidū   | viduno, vidussa     | to/for the seer    | of the seer, the seer's       |
-
-The irregular /go/ (cow, ox) has two forms: /gavassa, gāvassa/ (to/for the cow, of the cow, the cow's).
-
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| TODO                                            |                                                           |
-| TODO                                            |                                                           |
-| TODO                                            |                                                           |
-| TODO                                            |                                                           |
-| TODO                                            |                                                           |
-| We don't see the change of the body of the man. | \fillin{8cm}{Na passāma manussassa kāyassa vipariṇāmaṁ.}  |
-
-#+begin_quote
-Na kho pana mayaṁ passāma āyasmato upasenassa kāyassa vā aññathattaṁ indriyānaṁ vā vipariṇāmaṁ. (SN 35.69)
-
-But we don't see any impairment in the body or deterioration of Ven. Upasena's faculties.
-#+end_quote
-
-#+latex: \normalArrayStrech
-
-** Optative or Potential Verbs (Might -eyya)
-
-#+latex: {\centering\par
-#+latex: \begin{multicols}{2}
-
-Verbal terminations:
-
-|       | *sg.*         | *pl.*           |
-| *1st* | -eyyāmi, -emi | -eyyāma, -ema   |
-| *2nd* | -eyyāsi, -esi | -eyyātha, -etha |
-| *3rd* | -eyya, -e     | -eyyuṁ          |
-
-#+latex: \columnbreak
-
-Root: /√dhāv/ (to run), base: /dhāva/
-
-|       | *sg.*               | *pl.*                 |
-| *1st* | dhāveyyāmi, dhāvemi | dhāveyyāma, dhāvema   |
-| *2nd* | dhāveyyāsi, dhāvesi | dhāveyyātha, dhāvetha |
-| *3rd* | dhāveyya, dhāve     | dhāveyyuṁ             |
-
-#+latex: \end{multicols}
-#+latex: \par}
-
-Irregular forms:
-
-#+latex: {\centering\par
-#+latex: \begin{multicols}{2}
-
-/√as/ (to be), /atthi/
-
-|       | *sg.*        | *pl.*                |
-| *1st* | siyaṁ, assaṁ | assāma               |
-| *2nd* | siyā, assa   | assatha              |
-| *3rd* | siyā, assa   | siyuṁ, assu, siyaṁsu |
-
-#+latex: \columnbreak
-
-/√kar/ (to do, make, work), /karo/
-
-|       | *sg.*                 | *pl.*                 |
-| *1st* | kareyyāmi, kayirāmi   | kareyyāma, kayirāma   |
-| *2nd* | kareyyāsi, kayirāsi   | kareyyātha, kayirātha |
-| *3rd* | kareyya, kayirā, kare | kareyyuṁ, kayiruṁ     |
-
-#+latex: \end{multicols}
-#+latex: \par}
-
-/Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjeyya.../ (Sg 2)
-
-- /vipariṇamati/: he changes, alters, distorts
-- /vipariṇata/: changed, altered, distorted (pp. vipariṇamati)
-- /viparinatena/: with/by a changed, altered, distorted state
-
-Whatever bhikkhu, affected by a distorted mind, with a woman, physical contact he might perform...
-
-/Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya, aññatra bhikkhusammatiyā, pācittiyaṁ./ (Pc 9)
-
-/Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṁ dadeyya, pācittiyaṁ./ (Pc 74)
-
-** Future Passive Participle: Should Be Done (-tabba)
-
-A.k.a. the gerundive form, formed by adding /-tabba, -anīya, -ya/ either to the
-present active base or to the verbal root. In the root, /i → e/ and /u → o/.
-The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is reduplicated.
-
-#+latex: \bigskip
-#+latex: {\centering\par
-#+latex: \begin{multicols}{2}
-
-| √dā  | dātabba, deyya   | should be given       |
-| √nī  | nettabba         | should be led         |
-| √su  | sotabba          | should be listened to |
-| dese | desetabba | should be expounded |
-
-#+latex: \columnbreak
-
-| √kar | kātabba, karaṇīya | should be done        |
-| √ñā  | ñātabba, ñeyya   | should be known       |
-| √pā  | peyya            | should be drunk       |
-| kiṇā  | kiṇituṁ   | should be bought    |
-
-#+latex: \end{multicols}
-#+latex: \par}
-
-** Readings
-
-Suṇātu me bhante saṅgho.
-Ajj'uposatho paṇṇaraso.
-Yadi saṅghassa pattakallaṁ,
-saṅgho uposathaṁ kareyya,
-pāṭimokkhaṁ uddisseyya.
-
-Kiṁ saṅghassa pubba-kiccaṁ?
-Pārisuddhiṁ āyasmanto ārocetha.
-Pāṭimokkhaṁ uddisissāmi.
-Taṁ sabbeva santā sādhukaṁ suṇoma manasikaroma.
-Yassa siyā āpatti, so āvikareyya.
-Asantiyā āpattiyā tuṇhī bhāvitabbaṁ.
-Tuṇhī-bhāvena kho pan'āyasmante
-pārisuddhā ti vedissāmi.
-
------
-
-Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā
-añchanto ‘dīghaṁ añchāmī’ti pajānāti, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti
-pajānāti;
-
-Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti.
-Vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti. Sadosaṁ vā cittaṁ ‘sadosaṁ
-cittan’ti pajānāti. Vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānāti. Samohaṁ
-vā cittaṁ ‘samohaṁ cittan’ti pajānāti. Vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti
-pajānāti.
-
-Idha, bhikkhave, bhikkhu: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa
-atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; ...
-
-* Misc                                                             :noexport:
-** Exercises
-
-Suññāgāre abhiramāmī
-abhiramati -- enjoys; delights (in)
-
-sabbaloke ca me mano n'ābhiramissati, sabbalokā ca me mano vuṭṭhahissati
-
-araññagato vā rukkhamūlagato vā suññāgāragato
-
-| he dwells           | vasati                   |
-| you (pl.) dwell     | \fillin{4cm}{vasatha}    |
-| he stands           | tiṭṭhati                  |
-| you (sg.) stand     | \fillin{4cm}{tiṭṭhasi}    |
-| he sits                | nisīdati                 |
-|                        |                          |
-| he lies down           | sayati                   |
-|                        |                          |
-| he addresses           | āmanteti                 |
-|                        |                          |
-| he gets up             | uṭṭhahati                 |
-| we get up              | \fillin{4cm}{uṭṭhahāma}   |
-| he stands up           | uttiṭṭhati                |
-| you (pl.) stand up     | \fillin{4cm}{uttiṭṭhatha} |
-| he leaves (from)       | pakkamati                |
-| you (pl.) leave (from) | \fillin{4cm}{pakkamatha} |
-| he keeps               | dhāreti                  |
-| they keep              | \fillin{4cm}{dhārenti}   |
-
-** Indeclinables and Idioms
-
-*Vā:* follows a noun or a verb to express *'or'*:
-
-/So vā sā vā gacchati./ Either he or she is going.
-
-*Idha:* ind. (1) here; now; in this world; (2) in this case.
-
-*Pecca:* ind. after death
-
-/Idha modati pecca modati, katapuñño ubhayattha modati./ (Dhp 16)
-
-- /modati:/ is happy; enjoys himself [√mud + *a + ti]
-- /muditā/: fem. happiness (for); appreciation [√mud + ita + ā]
-- /katapuñña:/ adj. who has made merit; has gained spiritual wealth [kata + puñña]
-- /ubhayattha/: ind. in both cases; on both sides; lit. both matters [ubhaya + attha]
-
-/Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati .../ (DN 22)
-
-*Puna:* ind. again; once more
-
-/Puna gehaṁ na kāhasi/ (Dhp 154)
-
-- /geha:/ nt. house; dwelling [√gah + a]
-- /kāhasi:/ fut. (+acc) you will make; you will build [√kar + o + si]
-- /kāhati:/ fut. (+acc) he will do; he will make [√kar + o + ti]
-
-*Puna caparaṁ:* idiom. and what is more; and so too [puna + ca + paraṁ]
-
-/Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ.../ (DN 22)
-
-*Yo pana bhikkhu:* idiom. a monk who; but whichever monk
-
-/Yo pana bhikkhu bhikkhuṁ.../ \\
-/Yo pana bhikkhu bhikkhussa / anupasampannassa.../ \\
-/Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya.../
-
-*Yo:* pron. whoever; whatever; whichever (masc.nom.sg. of /ya/)
-
-*Pana:* ind. moreover; and so; but; or; however
-
-*** Ca
-
-The particle *ca* follows a noun or a verb to express:\\
-(1) and; both\\
-(2) but; although; and if
-
-#+begin_quote
-n'atthi jhānaṁ apaññassa,\\
-paññā n'atthi ajhāyato,\\
-yamhi jhānañ'\textbf{ca} paññā \textbf{ca},\\
-sa ve nibbānasantike
-
-/(Dhp 372)/
-
-na hi verena verāni,\\
-sammant'īdha kudācanaṁ,\\
-averena \textbf{ca} sammanti,\\
-esa dhammo sanantano.
-
-/(Dhp 5)/
-#+end_quote
-
-** Personal Pronouns, Nominative Case
-
-|             | *sg.*       | *pl.*           |
-| *1st*       | ahaṁ        | amhe, mayaṁ, no |
-| *2nd*       | tuvaṁ, tvaṁ | tumhe, vo       |
-| *3rd.masc.* | so, sa      | te              |
-| *3rd.fem.*  | sā          | tā, tāyo        |
-| *3rd.nt.*   | taṁ, tad    | tāni            |
-
-The 1st and 2nd personal pronouns are gender neutral, the 3rd person pronouns are gendered.
-
-Pronouns take on the person and number of the noun they represent.
-
-** Exercises
-
-#+begin_comment
-karomi
-
-ñāya
-manussa
-patta
-rodha
-pāda
-hattha
-nīvaraṇa
-
-The boys are crying.
-
-... suvaṇṇaṁ vā chijjamānaṁ patati. (Pr 2)
-... gold falls after being cut loose.
-#+end_comment
-
-#+latex: \renewcommand{\arraystretch}{2}
-
-| The elder goes to the village with the disciple. | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}                |
-| The elder goes to the village by air.            | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                 |
-| The disciple is being eaten by the lion.         | \fillin{8cm}{Sāvako sīhena khajjati.}                       |
-| The elder gives the bowl the the layman.         | \fillin{8cm}{Thero upāsakassa pattaṁ deti.}                 |
-| The elder gives the robe to the disciple.        | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}                 |
-| Homage to him, the Blessed One.                  | \fillin{8cm}{Namo tassa bhagavato.}                         |
-| The layman walks from the residence.             | \fillin{8cm}{Upāsako gacchati āvāsamhā / āvāsā / āvāsasmā.} |
-| The elder's disciple goes to the village.        | \fillin{8cm}{Therassa sāvako gāmaṁ gacchati.}               |
-| The disciple gives to the elder.                 | \fillin{8cm}{Sāvako therassa deti.}                         |
-| The lion walks in the village.                   | \fillin{8cm}{Sīho gāme / gāmasmiṁ carati.}                  |
-| Come here, disciple!                             | \fillin{8cm}{Ehi sāvaka!}                                   |
-
-#+latex: \normalArrayStrech
 
 ** Vocabulary
 
@@ -681,178 +154,1672 @@ man
 woman
 
 bhamakāra: masc. turner; lathe operator [bhama + kāra]
+** Kuṭi work
+* Lesson 1
+** Language Notes
 
-** Quotes
-*** Vinaya Pitaka
-*** DN 22
+The *gender of a noun* is either masculine, feminine or neuter.
+Its *number* is either singular or plural.
+Its *declension* have eight cases, which indicate the subject, object, location, etc.
 
-āvāse saṅgho viharati AN 4.180
+*Nouns ending* in /-a/ are either masculine or neuter. Nouns ending in /-ā/ are feminine.\\
+Other nouns end in /-i, -ī, -u, -ū/.
 
-nikkāmino gotamassa sāsanamhi SNP 13
+*Word order* in the simplest case is Subject-Object-Verb, but since the case indicates the role of a noun, word order is often altered for emphasis.
 
-satthā devānaṁ ca manussānaṁ ca buddho SN 11.3
+| Sūdo /(nom.sg.)/ bhattaṁ /(acc.)/ pacati /(3rd.sg.)/. | Dārakā /(nom.sg.)/ bhojanīyaṁ /(acc.)/ bhuñjanti /(3rd.pl.)/. |
+| The chef cooks the rice.                              | The boys eat the food.                                        |
 
-sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ DHP 187
+The *subject* and *verb* must agree in number: /Sakuṇā ākāse uḍḍenti/ (Birds fly in the sky).
 
-vitakkānaṁ ca vicārānaṁ ca vūpasamā DN 22.18
+| Sakuṇ\textbf{ā}                        | masc.nom.\textbf{pl.} | Birds      |
+| ākāse / ākāsamhi / ākāsasmiṁ          | masc.loc.sg.          | in the sky |
+| uḍḍe\textbf{nti} / uḍḍaya\textbf{nti}. | pr.3.\textbf{pl.}     | they fly.  |
 
-Anissito ca viharati, na ca kiñci loke upādiyati.
+The verb "to be" (is / are) is often implied and dropped from the sentence.
 
------
+*An adjective* agrees with the noun it qualifies in gender, number and case. \\
+Generally, the order is adjective + noun. E.g. /seto asso:/ a white horse, /setā assā:/ white horses.
 
------
+*Adverbs* are indeclinable: /idha/ (here), /tattha / tatra/ (there), /tato/
+(from there), /idāni/ (now), /pubbe/ (before), /pacchā/ (after), etc.
 
-Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ uddhaṁ pādatalā adho kesamatthakā
-tacapariyantaṁ pūraṁ nānappakārassa asucino paccavekkhati: ‘atthi imasmiṁ kāye
-kesā lomā nakhā dantā taco
+#+latex: \bigskip
 
-*** Chanting
+#+latex: \begin{multicols}{2}
 
-sakunassa saddo chant
+*Plural / singular* for nominative cases:
 
-Atthi bhikkhave ajātaṁ...
+| masc.sg. | -o        | devo     |
+| masc.pl. | -ā        | devā     |
+|----------+-----------+----------|
+| nt.sg.   | -aṁ       | rūpaṁ    |
+| nt.pl.   | -ā, -āni  | rūpāni   |
+|----------+-----------+----------|
+| fem.sg.  | -ā        | vedanā   |
+| fem.pl.  | -ā, -āyo, | vedanāyo |
 
-Paṭisaṅkhā yoniso piṇḍapātaṁ paṭisevāmi...
+#+latex: \columnbreak
 
-* Lesson 2.5                                                       :noexport:
+Personal pronouns in nominative case:
+
+|             | *sg.*       | *pl.*           |
+| *1st*       | ahaṁ        | amhe, mayaṁ, no |
+| *2nd*       | tuvaṁ, tvaṁ | tumhe, vo       |
+| *3rd.masc.* | so, sa      | te              |
+| *3rd.fem.*  | sā          | tā, tāyo        |
+| *3rd.nt.*   | taṁ, tad    | tāni            |
+
+#+latex: \end{multicols}
+#+latex: \bigskip
+
+The 1st and 2nd personal pronouns are gender neutral, the 3rd person pronouns are gendered.
+
+Pronouns take on the person and number of the noun they represent.
+
+#+latex: \bigskip
+
+#+latex: \begin{multicols}{2}
+
+*Negation:* The particle /na/ before verbs, shortened as the /a-/ prefix for
+nouns. /mā + aorist past/ is a (present) prohibition.
+
+/avera:/ [na + vera] non-hostility \\
+/Na jānāmi./ I don't know. \\
+/Mā akāsi!/ Don't do!
+
+#+latex: \columnbreak
+
+*Questions* begin with interrogatives such as /api, api nu, kiṁ, kahaṁ, kathaṁ/.
+/Kiṁ/ may be placed at the end of the sentence.
+
+/Api nu gacchasi?/ Do you go?\\
+/Kiṁ nāmo si?/ What is your name?\\
+/Gacchasi kiṁ?/ Do you go?
+
+#+latex: \end{multicols}
+
+#+latex: \clearpage
+
+*Declension Table: Masculine Nouns Ending in -a*
+
+| Case            | Singular                                           | Plural           | Meaning (sg.)                    |
+|-----------------+----------------------------------------------------+------------------+----------------------------------|
+| 1. Nominative   | nar\textbf{o}                                      | nar\textbf{ā}    | the man does sth (object)        |
+| 2. Accusative   | nar\textbf{aṁ}                                     | nar\textbf{e}    | sth happens to the man (subject) |
+| 3. Instrumental | nar\textbf{ena}                                    | nar\textbf{ehi}  | by, with, through the man        |
+| 4. Dative       | nar\textbf{āya}, nar\textbf{assa}                  | nar\textbf{ānaṁ} | to the man, for the man          |
+| 5. Ablative     | nar\textbf{ā}, nar\textbf{amhā}, nar\textbf{asmā}  | nar\textbf{ehi}  | from the man                     |
+| 6. Genitive     | nar\textbf{assa}                                   | nar\textbf{ānaṁ} | of the man, the man's            |
+| 7. Locative     | nar\textbf{e}, nar\textbf{amhi}, nar\textbf{asmiṁ} | nar\textbf{esu}  | in, on, at the man               |
+| 8. Vocative     | nar\textbf{a}, nar\textbf{ā}                       | nar\textbf{ā}    | Hey, man!                        |
+
+This the most common declension, worth memorizing by heart. 87% of all masculine
+nouns are ending in *-a*, \mbox{97\% of} all neuter nouns are ending in *-aṁ*, in
+addition to adjectives and participles with the same declensions.
+
+** Simple Present Tense (-āmi, -asi, -ati)
+
+Actions that are happening at the present moment, occurring regularly, or general truths.
+
+Verbal bases can end in /-a, -ā, -e, -o/.
+
+#+latex: \bigskip
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Verbal terminations:
+
+|       | *sg.* | *pl.*   |
+| *1st* | -mi   | -ma     |
+| *2nd* | -si   | -tha    |
+| *3rd* | -ti   | -(a)nti |
+
+The base is obtained by removing the 3rd.sg. termination /-ti/ from the conjugated form.
+
+#+latex: \columnbreak
+
+Root: /√dhāv/ (to run), base: /dhāva/
+
+|       | *sg.*   | *pl.*    |
+| *1st* | dhāvāmi | dhāvāma  |
+| *2nd* | dhāvasi | dhāvatha |
+| *3rd* | dhāvati | dhāvanti |
+
+The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
+
+#+latex: \end{multicols}
+#+latex: \par}
+#+latex: \bigskip
+#+latex: \begin{multicols}{2}
+#+latex: \setlength{\columnseprule}{0pt}
+
+| he goes             | gacchati                 |
+| we go               | \fillin{4cm}{gacchāma}   |
+| he comes            | āgacchati                |
+| they come           | \fillin{4cm}{āgacchanti} |
+| he walks            | carati                   |
+| they walk           | \fillin{4cm}{caranti}    |
+| he chews            | khādati                  |
+| you (sg.) chew      | \fillin{4cm}{khādasi}    |
+| he eats (enjoys)    | bhuñjati                 |
+| they eat            | \fillin{4cm}{bhuñjanti}  |
+
+#+latex: \columnbreak
+
+| he sees             | passati                  |
+| you (sg.) see       | \fillin{4cm}{passasi}    |
+| he recites          | uddisati                 |
+| I recite            | \fillin{4cm}{uddisāmi}   |
+| he gives (to)       | deti                     |
+| you (pl.) give (to) | \fillin{4cm}{detha}      |
+| he informs          | āroceti                  |
+| I inform            | \fillin{4cm}{ārocemi}    |
+| he confesses        | āvikaroti                |
+| you confess         | \fillin{4cm}{āvikarotha} |
+
+#+latex: \end{multicols}
+
+*** Present Tense of Irregular Verb √as (to be)
+
+|     | *sg.*      |         | *pl.*            |             |
+| 1st | amhi, asmi | I am    | amha, amhā, asma | we are      |
+| 2nd | asi        | you are | attha            | you all are |
+| 3rd | atthi      | he is   | santi            | they are    |
+
+\bigskip
+
+/n'eso'ham'asmi:/ [na + eso + ahaṁ + asmi] lit. not this I am
+
+#+begin_quote
+/Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ./ ([[https://suttacentral.net/ud8.3/en/sujato][Ud 8.3]])
+
+\fillin{12cm}{There is, monks, an unborn, unoriginated, uncreated, unfabricated.}
+#+end_quote
+
+*** Present Tense of Irregular Verb √hū (to be)
+
+|     | *sg.* |         | *pl.* |             |
+| 1st | homi  | I am    | homa  | we are      |
+| 2nd | hosi  | you are | hotha | you all are |
+| 3rd | hoti  | he is   | honti | they are    |
+
+** Declensions (-a)
+*** Nominative Case: naro -- the man (subject)
+
+"*Who* is doing it?" Indicates the *subject* of a sentence.
+
+| Naro nisīdati.                            | *The man* sits.                    |
+| Mātugāmo uṭṭhahati.                        | *The woman* stands.                |
+| uṭṭhāti                                    | stands up                          |
+| Sīhā na dhāvanti.                         | *The lions* are not running.       |
+| Jātā mīyanti.                             | *(Those who are) born* (they) die. |
+| Abhisatto'va nipatati, vayo.[fn:thag-118] | Like a curse, it falls, *old age*. |
+
+[fn:thag-118] [[https://suttacentral.net/thag1.118/en/sujato][Thag 118]]
+
+*** Accusative Case: naraṁ -- the man (object)
+
+*(a)* "*What* is he eating?" Indicates the *object* of a sentence.
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| I use *the requisite.*                                     | Parikkhāraṁ paṭisevāmi.                 |
+| The birds eat *the seeds.* (/bīja/)                        | \fillin{8cm}{Sakuṇā bījāni bhuñjanti.}   |
+| The lion doesn't see *the dogs.* (/sunakha/)               | \fillin{8cm}{Sīho sunakhe na passati.}  |
+| The dogs are barking (/bhussati/) *at the moon.* (/canda/) | \fillin{8cm}{Sunakhā candaṁ bhussanti.} |
+
+| The disciple (/sāvaka/) eats the lion.                     | \fillin{8cm}{Sāvako sīhaṁ khādati.}     |
+| The lion eats the disciple.                                | \fillin{8cm}{Sīho sāvakaṁ khādati.}     |
+| They fill up (/paripūreti/) the ocean. (/sāgara/)          | \fillin{8cm}{Paripūrenti sāgaraṁ.}      |
+
+#+latex: \normalArrayStrech
+
+*(b)* "*Where* is he going to?" Indicates where the subject is *going to* or *going along*. A.k.a. "the accusative of motion".
+
+#+begin_quote
+/Māluvābījaṁ sālamūle nipatati./ ([[https://suttacentral.net/mn45/en/sujato][MN 45]])
+
+The māluva-seed (/māluvābīja/) falls *at the base of sal trees.* (/sālamūla/)
+#+end_quote
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| The elder walks *along the road.*                   | \fillin{8cm}{Thero maggaṁ carati.}       |
+| The layman (/upāsaka/) doesn't go *to the village.* | \fillin{8cm}{Upāsako gāmaṁ na gacchati.} |
+| The men run *to the barn.* (/koṭṭhāgāra/)            | \fillin{8cm}{Narā koṭṭhāgāraṁ dhāvanti.}  |
+| The birds fly *to the sal trees.* (/sālarukkha/)    | \fillin{8cm}{Sakuṇā sālarukkhe uḍḍenti.}  |
+| We enter (/pavisati/) *the hut.* (/agāra/)          | \fillin{8cm}{Agāraṁ pavisāma.}           |
+
+#+latex: \normalArrayStrech
+
+** Exercises
+*** Translate
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Saṅgho uposathaṁ karoti.                                    | \fillin{8cm}{The Sangha performs the uposatha.}                      |
+| Āpattiṁ āvikaroti.                                          | \fillin{8cm}{He confesses the offense.}                              |
+| Suññāgāraṁ pavisāmi.                                        | \fillin{8cm}{I enter the empty hut.}                                 |
+| Rukkhamūle gacchāma.                                        | \fillin{8cm}{We go to the roots of trees.}                           |
+| Cattāro satipaṭṭhānā satta bojjhaṅge paripūrenti.[fn:mn-118] | \fillin{8cm}{The 4 found. of mindf. fulfil the 7 fact. of enligh.  } |
+
+#+latex: \normalArrayStrech
+
+[fn:mn-118] [[https://suttacentral.net/mn118/en/sujato][MN 118]]
+
+* Lesson 2
 ** Review Exercises
 
-Fill in the missing declensions.
+#+latex: \renewcommand{\arraystretch}{1.8}
 
-| Singular                      | Plural                | Meaning (sg.)                       |
-| \null                         |                       |                                     |
-| nara (/masc./)                |                       |                                     |
-| \null                         |                       |                                     |
-| \fillin{3cm}{narena}          | \fillin{3cm}{narehi}  | /instr./, by, with, through the man |
-| \fillin{3cm}{narāya, narassa} | \fillin{3cm}{narānaṁ} | /dat./, to the man, for the man     |
-| \null                         |                       |                                     |
-| kāya (/masc./)                |                       |                                     |
-| \null                         |                       |                                     |
-| \fillin{3cm}{kāyena}          | \fillin{3cm}{kāyehi}  | /instr./, with the body             |
-| \fillin{3cm}{kāyassa}         | \fillin{3cm}{kāyānaṁ} | /dat./, for the body                |
+| The man eats rice.       | \fillin{8cm}{Naro bhattaṁ bhuñjati.} |
+| The men are cooking.     | \fillin{8cm}{Narā pacanti.}          |
+| I walk to the man.       | \fillin{8cm}{Naraṁ carāmi.}          |
+| I see the moon.          | \fillin{8cm}{Candaṁ passāmi.}        |
+| They don't see the dogs. | \fillin{8cm}{Sunakhe na passatha.}   |
+| The boys are running.    | \fillin{8cm}{Dārakā dhāvanti.}       |
+| You are sitting here.    | \fillin{8cm}{Idha nisīdasi.}         |
+| She comes from there.    | \fillin{8cm}{Sā tato āgacchati.}     |
+| We run to the boys.      | \fillin{8cm}{Mayaṁ dārake dhāvāma.}  |
 
-** Adjectives
-** Declension: Masculine Nouns Ending in -a (part 2)
+#+latex: \normalArrayStrech
+
+** Declensions (-a)
+*** Vocative Case: nara / narā -- Hey, man!
+
+Used when addressing people directly: "Hey layman, come here!" /Ehi upāsak\textbf{a}!/
+
+Vocative singular: all stems ending in /-a, -i, -u/ remain unchanged, the final long /-ī, -ū/ become short.
+
+Vocative plural: same form as the nominative plural.
+
+#+latex: \bigskip
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+| stem   | sg.    | pl.              |
+|--------+--------+------------------|
+| Buddha | Buddha | Buddhā           |
+| muni   | muni   | munī             |
+| garu   | garu   | garū             |
+| senānī | senāni | senānī, senānino |
+| vidū   | vidu   | vidū             |
+| go     | go     | gāvo             |
+
+#+latex: \columnbreak
+
+Some special vocative forms:
+
+- /Bho, he:/ Hello / hey! (sg.)
+- /Bhavanto/ (pl.)
+- /āvuso/ (sg.)
+- /bhante/ (sg.)
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+#+latex: \clearpage
+
+*** Imperative Verbs
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+|       | *sg.* | *pl.*   |
+| *1st* | -mi   | -ma     |
+| *2nd* | -hi   | -tha    |
+| *3rd* | -tu   | -(a)ntu |
+
+#+latex: \columnbreak
+
+|       | *sg.*          | *pl.*    |
+| *1st* | dhāvāmi        | dhāvāma  |
+| *2nd* | dhāva, dhāvāhi | dhāvatha |
+| *3rd* | dhāvatu        | dhāvantu |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+Before /-hi/, the final /-a/ is lenghened: /dhāvāhi/. The /-hi/ may be dropped and the /-ā/ shortened: /dhāva/.
+
+The imperative in Pali can express a supplication, a blessing, a command, a gentle advice or a curse.
+
+The particle /mā/ is used to express a prohibition.
+
+| /dhāvāmi/  | I may run / May I run / Let me run.             |
+| /dhāvatha/ | Run! / You may run / May you run / Let you run. |
+| /dhāvatu/  | He may run / May he run / Let him run.          |
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Phāsu (comfortably) vihara\textbf{tu}! | \fillin{8cm}{Let him live comfortably!}          |
+| Vassasataṁ jīv\textbf{a}!              | \fillin{8cm}{May you live 100 years!}            |
+| \textbf{Mā} gaccha!                    | \fillin{8cm}{Don't go!}                          |
+| Suṇātu me bhante saṅgho ...             | \fillin{8cm}{Let the Sangha hear me.}            |
+| Pārisuddhiṁ āyasmanto ārocetha.        | \fillin{8cm}{Let the Venerables declare purity.} |
+
+#+latex: \normalArrayStrech
+
+*** Instrumental Case: narena -- with, by, because of the man
+
+*"With whom/what? By whom/what? By means of, because of whom/what?"*
+
+/Buddhena/: with the Buddha, by the Buddha, by means of the Buddha, because of the Buddha.
+
+Final /-a/ of the stem becomes /-ena/: /Buddha/ → /Buddhena/.
+
+In the singular case, to the stems ending in /i, ī, u, ū/, the ending /-nā/ is added. The final long vowel of the stem becomes short.
+
+In the plural case, the final long vowel becomes long and /-hi/ is added.
+
+|                  |   | *sg.*    | *pl.*    |
+| senānī (general) | → | senāninā | senānīhi |
+| garu (teacher)   | → | garunā   | garūhi   |
+| vidū (seer)      | → | vidunā   | vidūhi   |
+
+The particles *saddhiṁ, saha* used with the instrumental case, expresses the meaning of *"together with / accompanied by"*.
+
+*Saddhiṁ* is added after a noun, *saha* is used as a preposition.
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Buddhena saddhiṁ                                    | together with the Buddha                           |
+| \fillin{8cm}{garunā saddhiṁ}                        | together with the teacher                          |
+| \fillin{8cm}{vidūhi saddhiṁ}                        | together with the wise men                         |
+| \fillin{8cm}{Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.} | I, together with a friend, go to the village.      |
+| \fillin{8cm}{Maggaṁ mātugāmena saddhiṃ carati.}     | He walks along the road with a woman. (/mātugāma/) |
+
+| Aṭṭhi tacena onaddhaṁ, saha vatthebhi[fn:vatthebhi]\space sobhati. (MN 82) |
+| \fillin{10cm}{A bone covered with skin; it looks beautiful with clothes.} |
+
+#+latex: \normalArrayStrech
+
+- /onaddha/: pp. of onandhati, covered (with); wrapped (with)
+- /vattha/: nt. cloth; clothes; robe
+- /sobhati/: shines (in); looks beautiful (in)
+
+*** Dative Case: narāya / narassa -- to the man, for the man
+
+*"To whom/what? For whom/what?"*
+
+Singular: final /-a/ of the stem becomes /-āya/ and /-assa/.
+
+/Buddhāya, Buddhassa/: to or for the Buddha.
+
+To the stems ending in /i, ī, u, ū/, the ending /-no/ and /-ssa/ are added.
+
+#+begin_quote
+Dasa atthavase:
+(1.) saṅghasuṭṭhutāya,
+(2.) saṅghaphāsutāya,
+(3.) dummaṅkūnaṁ puggalānaṁ \mbox{niggahāya},
+(4.) pesalānaṁ bhikkhūnaṁ phāsuvihārāya, ... (AN 10.31)
+#+end_quote
+
+*** Genitive Case: narassa -- of the man, the man's
+
+*"Of whom/what? Whose?"*
+
+Singular: /-ssa/ is added to the final /-a/.
+
+Genitive singular forms of other nouns are the same as the Dative singulars.
+
+|        |                     | Dative             | Genitive                      |
+|--------+---------------------+--------------------+-------------------------------|
+| Buddha | Buddhassa           | to/for the Buddha  | of the Buddha, the Buddha's   |
+| muni   | munino, munissa     | to/for the hermit  | of the hermit, the hermit's   |
+| senānī | senānino, senānissa | to/for the general | of the general, the general's |
+| garu   | garuno, garussa     | to/for the teacher | of the teacher, the teacher's |
+| vidū   | viduno, vidussa     | to/for the seer    | of the seer, the seer's       |
+
+The irregular /go/ (cow, ox) has two forms: /gavassa, gāvassa/ (to/for the cow, of the cow, the cow's).
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| We don't see the change of the body of the man. | \fillin{8cm}{Na passāma manussassa kāyassa vipariṇāmaṁ.}  |
+| TODO                                            |                                                           |
+| TODO                                            |                                                           |
+| TODO                                            |                                                           |
+| TODO                                            |                                                           |
+| TODO                                            |                                                           |
+
+#+latex: \normalArrayStrech
+
+#+begin_quote
+/Na kho pana mayaṁ passāma āyasmato upasenassa kāyassa vā aññathattaṁ indriyānaṁ vā vipariṇāmaṁ./
+
+But we don't see any impairment in the body or deterioration of Ven. Upasena's faculties.
+
+(SN 35.69)
+#+end_quote
+
+** Optative or Potential Verbs: May / Should (-eyya)
+
+# Gair: p.53
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Verbal terminations:
+
+|       | *sg.*         | *pl.*           |
+| *1st* | -eyyāmi, -emi | -eyyāma, -ema   |
+| *2nd* | -eyyāsi, -esi | -eyyātha, -etha |
+| *3rd* | -eyya, -e     | -eyyuṁ          |
+
+#+latex: \columnbreak
+
+Root: /√dhāv/ (to run), base: /dhāva/
+
+|       | *sg.*               | *pl.*                 |
+| *1st* | dhāveyyāmi, dhāvemi | dhāveyyāma, dhāvema   |
+| *2nd* | dhāveyyāsi, dhāvesi | dhāveyyātha, dhāvetha |
+| *3rd* | dhāveyya, dhāve     | dhāveyyuṁ             |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+Irregular forms:
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+/√as/ (to be), /atthi/
+
+|       | *sg.*        | *pl.*                |
+| *1st* | siyaṁ, assaṁ | assāma               |
+| *2nd* | siyā, assa   | assatha              |
+| *3rd* | siyā, assa   | siyuṁ, assu, siyaṁsu |
+
+#+latex: \columnbreak
+
+/√kar/ (to do, make, work), /karo/
+
+|       | *sg.*                 | *pl.*                 |
+| *1st* | kareyyāmi, kayirāmi   | kareyyāma, kayirāma   |
+| *2nd* | kareyyāsi, kayirāsi   | kareyyātha, kayirātha |
+| *3rd* | kareyya, kayirā, kare | kareyyuṁ, kayiruṁ     |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+The optative generally indicates that the situation is hypothetical. It is often used to imply sense of "if".
+
+#+begin_quote
+/Yadā tumhe, bhaddiya, attanāva jāneyyātha.../ ([[https://suttacentral.net/an4.193/en/sujato][AN 4.193]])
+
+\fillin{10cm}{When (if) you, Bhaddiya, know this by yourself...}
+#+end_quote
+
+The optative cam imply a polite imperative, "it would be good if you..."
+
+#+begin_quote
+/Atha tumhe, kālāmā, upasampajja vihareyyāthā.../ ([[https://suttacentral.net/an3.65/en/sujato][AN 3.65]])
+
+\fillin{10cm}{Then, Kālāmas, you should undertake them and abide in them...}
+#+end_quote
+
+*** Optative of √as (to be) has two forms
+
+| 1st | assaṁ | I could be   | assāma         | we could be   |
+|     | siyaṁ |              | --             |               |
+|-----+-------+--------------+----------------+---------------|
+| 2nd | assa  | you could be | assatha        | you could be  |
+|     | siyā  |              | --             |               |
+|-----+-------+--------------+----------------+---------------|
+| 3rd | assa  | he could be  | assu           | they could be |
+|     | siyā  |              | siyaṁsu, siyuṁ |               |
+
+#+begin_quote
+/Aho vata mayaṁ na maraṇadhammā assāma!/ (DN 22)
+
+If only we could not be of the nature to die!
+#+end_quote
+
+** Future Passive Participle: Should Be Done (-tabba)
+
+A.k.a. the gerundive form, formed by adding /-tabba, -anīya, -ya/ either to the
+present active base or to the verbal root. In the root, /i → e/ and /u → o/.
+The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is reduplicated.
+
+#+latex: \bigskip
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+| √dā  | dātabba, deyya   | should be given       |
+| √nī  | nettabba         | should be led         |
+| √su  | sotabba          | should be listened to |
+| dese | desetabba | should be expounded |
+
+#+latex: \columnbreak
+
+| √kar | kātabba, karaṇīya | should be done        |
+| √ñā  | ñātabba, ñeyya   | should be known       |
+| √pā  | peyya            | should be drunk       |
+| kiṇā  | kiṇituṁ   | should be bought    |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+** Exercises
+*** Translate
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| TODO | \fillin{8cm}{TODO} |
+|      | \fillin{8cm}{}     |
+|      | \fillin{8cm}{}     |
+|      | \fillin{8cm}{}     |
+|      | \fillin{8cm}{}     |
+|      | \fillin{8cm}{}     |
+
+#+latex: \normalArrayStrech
+
+#+latex: \clearpage
+
+*** Readings
+
+Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ vadeyyaṁ: "kusalaṁ, bhikkhave, bhāvethā"ti. ([[https://suttacentral.net/an2.11-20/en/sujato][AN 2.11-20]])
+
+-----
+
+Yo pana bhikkhu sañcicca pāṇaṁ jīvitā voropeyya, pācittiyaṁ. ([[https://suttacentral.net/pli-tv-bu-vb-pc61/pli/ms][Pc 61]])
+
+Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ. (Pc 71)
+
+# Yo pana bhikkhu sañcicca manussaviggahaṁ jīvitā voropeyya satthahārakaṁ vāssa pariyeseyya maraṇavaṇṇaṁ vā saṁvaṇṇeyya maraṇāya vā samādapeyya ... ([[https://suttacentral.net/pli-tv-bu-vb-pj3/pli/ms][Pr 3]])
+
+Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjeyya ... (Sg 2)
+
+- /vipariṇamati/: he changes, alters, distorts
+- /vipariṇata/: changed, altered, distorted (pp. vipariṇamati)
+- /viparinatena/: with/by a changed, altered, distorted state
+
+# Yo pana bhikkhu bhikkhussa duṭṭhullaṁ āpattiṁ anupasampannassa āroceyya, aññatra bhikkhusammatiyā, pācittiyaṁ. (Pc 9)
+
+Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṁ dadeyya, pācittiyaṁ. (Pc 74)
+
+Agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttariṁ bhuñjeyya, pācittiyaṁ. (Pc 31)
+
+-----
+
+Suṇātu me bhante saṅgho. \\
+Ajj'uposatho paṇṇaraso. \\
+Yadi saṅghassa pattakallaṁ, \\
+saṅgho uposathaṁ kareyya, \\
+pāṭimokkhaṁ uddisseyya.
+
+Kiṁ saṅghassa pubba-kiccaṁ? \\
+Pārisuddhiṁ āyasmanto ārocetha. \\
+Pāṭimokkhaṁ uddisissāmi. \\
+Taṁ sabbeva santā sādhukaṁ \\
+suṇoma manasikaroma. \\
+Yassa siyā āpatti, so āvikareyya. \\
+Asantiyā [na + santi + yā] āpattiyā tuṇhī bhāvitabbaṁ. \\
+Tuṇhī-bhāvena kho pan'āyasmante \\
+pārisuddhā ti vedissāmi.
+
+(Nidāna)
+
+*** Extra Challenge                                                :noexport:
+
+Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā
+añchanto ‘dīghaṁ añchāmī’ti pajānāti, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti
+pajānāti;
+
+Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti.
+Vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti. Sadosaṁ vā cittaṁ ‘sadosaṁ
+cittan’ti pajānāti. Vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānāti. Samohaṁ
+vā cittaṁ ‘samohaṁ cittan’ti pajānāti. Vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti
+pajānāti.
+
+Idha, bhikkhave, bhikkhu: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa
+atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; ...
+
+(DN 22)
+* Lesson 3
+** Review Exercises
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Homage to him, the Blessed One.                     | \fillin{8cm}{Namo tassa bhagavato.}                 |
+| May all beings be happy.                            | \fillin{8cm}{Sabbe sattā sukhī hontu.}              |
+| Come here, layman!                                  | \fillin{8cm}{Ehi upāsaka!}                          |
+| The elder goes to the village with the disciple.    | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}        |
+| The elder gives the robe to the disciple.           | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}         |
+| The disciple is being eaten by the lion.            | \fillin{8cm}{Sāvako sīhena khajjati.}               |
+| TODO                                                |                                                     |
+| \fillin{8cm}{We are obstructed by birth and death.} | Mayaṁ otiṇṇā amha jātijarāmaraṇena.[fn:ratanattaya] |
+| \fillin{8cm}{There is no equal to the Tathāgata.}   | Na samo (equal to) atthi tathāgatena.[fn:snp-2-1]   |
+
+#+latex: \normalArrayStrech
+
+** Indeclinables and Idioms
+
+#+latex: \begin{multicols}{2}
+
+*ca* follows a noun or a verb to express:
+
+*(1) and; both*
+
+Placed after each joined word:
+
+/Thero bhikkhu sabrahmacārīnaṁ piyo *ca* hoti manāpo *ca* garu *ca* bhāvanīyo *ca.*/
+
+A senior monk is well-liked *and* pleasing, *and* honoured *and* respected by his fellow companions in the holy life. (AN 5.4)
+
+Placed *once* after the last item of a list:
+
+/Ahaṁ kasāmi vapāmi \textbf{ca.}/ \\
+I plow and sow.
+
+/assā gāvo ajā eḷakā \textbf{ca}/ \\
+horses, cattle, sheep *and* goats
+
+*(2) but; although; and if*
+
+na hi verena verāni,\\
+sammant'īdha kudācanaṁ,\\
+averena \textbf{ca} sammanti,\\
+esa dhammo sanantano.
+
+/(Dhp 5)/
+
+#+latex: \columnbreak
+
+*vā:* follows a noun or a verb to express *either ... or*:
+
+/So vā sā vā gacchatu./ May either he or she go.
+
+/Bhikkhu araññagato vā rukkhamūlagato vā suññāgāragato vā nisīdati./
+
+*ce:* if, *no ce:* if not
+
+*sace:* if
+
+*tato ce uttari*: if more than that
+
+/tato ce uttariṁ nikkhippeyya.../
+
+/no ce abhinipphādeyya.../ (NP 10)
+
+*kiṁ nu kho:* How indeed? Why on earth?
+
+*saddhiṁ, saha:* with, together with.
+
+*idha:* (1) here; now; in this world; (2) in this case.
+
+*pecca:* after death
+
+*puna:* again; once more
+
+*paraṁ:* after; beyond
+
+*puna caparaṁ:* idiom. and what is more; and so too [puna + ca + paraṁ]
+
+#+latex: \end{multicols}
+
+#+latex: \begin{multicols}{2}
+
+*yo pana bhikkhu:* idiom. a monk who;\\
+but whichever monk
+
+*yo:* pron. whoever; whatever;\\
+whichever (masc.nom.sg. of /ya/)
+
+#+latex: \columnbreak
+
+*pana:* moreover; and so; but; or; however
+
+*bhikkhu pan'eva:* [pana + eva], now, if...; further, ...
+
+*eva:* only; just; merely
+
+#+latex: \end{multicols}
+
+/Ahaṃ bhante tisaraṇena saha aṭṭhasīlāni (nt.acc.pl.) yācāmi./
+
+/Idha modati pecca modati, katapuñño ubhayattha modati./ (Dhp 16)
+
+- /modati:/ is happy; enjoys himself [√mud + *a + ti]
+- /muditā/: fem. happiness (for); appreciation [√mud + ita + ā]
+- /katapuñña:/ adj. who has made merit; has gained spiritual wealth [kata + puñña]
+- /ubhayattha/: ind. in both cases; on both sides; lit. both matters [ubhaya + attha]
+
+/Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati .../ (DN 22)
+
+/Puna gehaṁ na kāhasi/ (Dhp 154)
+
+- /geha:/ nt. house; dwelling [√gah + a]
+- /kāhasi:/ fut. (+acc) you will make; you will build [√kar + o + si]
+- /kāhati:/ fut. (+acc) he will do; he will make [√kar + o + ti]
+
+/Puna caparaṁ, bhikkhave, bhikkhu imameva kāyaṁ.../ (DN 22)
+
+/Yo pana bhikkhu bhikkhuṁ.../ \\
+/Yo pana bhikkhu bhikkhussa / anupasampannassa.../ \\
+/Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya.../
+
+/saṁvidhāya:/ gerund of /saṁvidahati/ [saṁ + vi + √dhā + a + ti], arranges, organises, plans
+
+** Gerund (e.g. bhavitvā)
+
+# Maitreya, p.27
+# Gair, p.70
+
+A.k.a. "absolutive form" or "indeclinable past participle".
+
+The gerund in Pāli expersses a *completed or continuing action* in such statements as "having gone" or "after going".
+
+*The suffix /-tvā/ or /-tvāna/* is added to the verbal stem. The final /-a/ of the
+stem is replaced by /-i/ (forming the infinitive stem).
+
+For verbs with a present stem ending in /-e/, /-tvā/ is added directly.
+
+For other verbs, /-tvā/ is added directly to the verb root rather than the
+present or infinitive stem. The root may undergo changes, and there are many
+irregular forms.
+
+#+latex: \bigskip
+#+latex: \begin{multicols}{2}
+
+| bhavati (is, becomes)   | bhavitvā         |
+| gacchati (goes)         | gantvā           |
+| labhati (gets, obtains) | labhitvā, laddhā |
+| neti (leads)            | netvā            |
+| deseti (teaches)        | desetvā          |
+| karoti (does)           | katvā            |
+
+#+latex: \columnbreak
+
+| suṇāti (hears)         | sutvā           |
+| pivati (drinks)       | pitvā           |
+| passati (sees)        | disvā           |
+| deti / dadāti (gives) | datvā           |
+| jānāti (knows)        | ñatvā / jānitvā |
+
+#+latex: \end{multicols}
+
+#+begin_quote
+/Atha kho aññataro brāhmaṇo yena bhagavā ten'upasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi./
+
+Then a certain Brahman approached the Blessed One. Having approached, he greeted (exchanged greetings with) the Blessed One. ([[https://suttacentral.net/an2.11-20/en/sujato][AN 2.16]])
+#+end_quote
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā, sālaṁ gacchāmi.                  |
+| \fillin{12cm}{After eating the food, I rinse my bowl, clean my teeth and go to the hall.} |
+
+#+latex: \normalArrayStrech
+
+/... yathārupe adinnādāne rājāno coraṁ gahetvā/ (Pr 2)
+
+*The suffix -ya* is also used to form gerunds. These are common with with verbs having a prefix.
+
+/pahāya:/ [pa + √hā + ya], having abandoned. Gerund of /pajahati/: giving up; abandoning.
+
+/pañca nīvaraṇe pahāya:/ having abandoned the five hindrances
+
+/pariyādāya:/ [pari + √ādā + ya], having taken over. Gerund of /pariyādāti:/ takes, grasps.
+
+/cittaṁ pariyādāya tiṭṭhati:/ having taken over the mind, it remains.
+
+#+begin_quote
+Kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati ... tassa abhijjhāpi
+... byāpādopi ... thinamiddhampi ... uddhaccakukkuccampi ... vicikicchāpi ...
+aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentral.net/mn68/en/sujato][MN 68]])
+#+end_quote
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| So tatra gantvā idha āgacchati.                                | He, having gone there, comes here.                           |
+| \fillin{8cm}{So tatra nisīditvā tato uṭṭhāti.}                  | After sitting down there, he stands up from there (uṭṭhāti).  |
+| \fillin{8cm}{Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.}     | After staying here today, tomorrow we go there.              |
+| \fillin{8cm}{Sace so coretvā idha āgacceyya, ahaṁ daṇḍeyyāmi.} | If, after stealing, he might comes here, I may punish (him). |
+| \fillin{8cm}{Rukkhaṁ agginā ḍahetvā masiṁ kareyya.}            | After burning the tree with fire, they may make ash (masi).  |
+
+#+latex: \normalArrayStrech
+
+** Infinitive (e.g. bhavituṁ)
+
+# Maitreya: Lesson 9, p.27
+# Bodhirasa: Class 9
+
+The infinitive verbal form expresses a *purpose*.
+It is formed by adding /-(i)tuṁ/ to the root.
+Generally the infinitive stands before the verb or predicate.
+
+#+latex: \begin{multicols}{2}
+
+*root + -tuṁ*
+
+| √dā  | dātuṁ           | to give        |
+| √gam | ga\textbf{n}tuṁ | to go          |
+| √han | hantuṁ          | to kill        |
+| √kar | k\textbf{ā}tuṁ  | to do, to make |
+| √ñā  | ñātuṁ           | to know        |
+
+#+latex: \columnbreak
+
+*root + -ituṁ*
+
+| √car   | carituṁ   | to walk  |
+| √jīv   | jīvituṁ   | to live  |
+| √har   | harituṁ   | to carry |
+| √han   | hanituṁ   | to kill  |
+| √pucch | pucchituṁ | to ask   |
+
+#+latex: \end{multicols}
+
+| So idha *vasituṁ* icchati.                    | He wishes *to stay* here.                    |
+| Ahaṁ buddhaṁ *passituṁ* araññaṁ gacchissāmi. | I will go to the forest *to see* the Buddha. |
+
+The infinitive may be translated as "to see" / "in order to see" / "for the purpose of seeing".
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Ahaṁ bhuñjitvā sayituṁ na icchāmi.                     | \fillin{8cm}{Having eaten, I don't want to lie down.} |
+| Mayaṁ idāni atra bhutvā vapituṁ tahiṁ gacchāma.       | \fillin{8cm}{Now, we eat here and go there to sow.}   |
+| \fillin{8cm}{Āma, ahaṁ jānāmi, tvaṁ carituṁ icchati.} | Yes, I know you like to walk.                         |
+
+#+latex: \normalArrayStrech
+
+** Declensions (-a)
+*** Locative Case: nare / naramhi / narasmiṁ -- in, on, at the man
+
+# Maitreya: p.50
+
+"*Where* is it happening?" Indicates the location of the action, and expresses
+the sense of *in*, *on*, *at*, or *among*.
+
+The locative singular is formed by adding /-smiṁ/ or /-mhi/ to the stem. A final
+long vowel in the stem is shortened. Stems ending in /-a/ have a special form,
+in which the /-a/ becomes /-e/: /Buddhe/.
+
+The locative plural is formed by adding /-su/ to the stem. Before /-su/, the
+final /-a/ becomes /-e/: /Buddhesu/. Other short vowels can optionally become
+long or remain short.
+
+|        | *sg.*                           | *pl.*           |
+| Buddha | Buddhe, Buddhasmiṁ, Buddhamhi   | Buddhesu        |
+| muni   | munismiṁ, munimhi               | munisu, munīsu  |
+| seṇānī  | seṇānismiṁ, senānimhi           | senānīsu        |
+| garu   | garusmiṁ, garumhi               | garusu, garūsu  |
+| vidū   | vidusmiṁ, vidumhi               | vidūdsu         |
+| go     | gave, gāve, gavasmiṁ, gāvasmiṁ, | gavesu, gāvesu, |
+|        | gavamhi, gāvamhi                | gosu            |
+
+#+begin_quote
+/Ekaṁ samayaṁ bhagavā bhoganagare viharati ānandacetiye./
+
+[...] /asukasmiṁ nāma āvāse saṅgho viharati sathero sapāmokkho/ ([[https://suttacentral.net/an4.180/en/sujato][AN 4.180]])
+#+end_quote
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| The lion walks *in the village.*                                     | Sīho *gāme / gāmamhi / gāmasmiṁ* carati. |
+| \fillin{8cm}{The wise men are delighted in the Buddha.}              | Viduno Buddhe pasannā.                   |
+| \fillin{8cm}{Now rain falls, (so) don't go out.}                     | Idāni devo vassati, mā bahi gacchittha.  |
+| \fillin{8cm}{Today many men assemble in the village.}                | Ajja bahū manussā gāme sannipatanti.     |
+| Monkeys move about (/vicarati/) on trees.                            | \fillin{8cm}{Makkaṭā rukkhesu vicaranti.} |
+| They, having seen the disadvantage (/ādīnava/) of sensual pleasures, | \fillin{8cm}{Te kāmānaṁ ādīnavaṁ disvā,} |
+| go forth (/pabbajati/) in the bhikkhu-saṅgha.                         | \fillin{8cm}{bhikkhu-saṅghe pabbajanti.}  |
+
+#+latex: \normalArrayStrech
+
+#+latex: \clearpage
+
 *** Ablative Case: narā / naramhā / narasmā -- from, out of the man
 
-# (p.39 in Pali Made Easy)
+# Maitreya, p.39
 
 *From whom/what? From where? Out of whom/what?*
 
 /Buddhasmā/: from the Buddha, out of the Buddha.
 
-Final /-a/ of the stem becomes /-ā/ or /-smā/: /Buddha/ → /Buddhasmā/.
-
-To the stems ending in /i, ī, u, ū/, the ending /-smā/ instead of /-nā/ may be added.
-
-The final long vowel of the stem becomes short.
+Final /-a/ of the stem becomes /-ā/, /-amhā/ or /-smā/: /Buddha/ → /Buddhasmā/.
+To the stems ending in /i, ī, u, ū/, the ending /-smā/ instead of /-nā/ may be
+added. The final long vowel of the stem becomes short.
 
 *The plural* is formed with /-bhi/. The final /-a/ becomes /e/: /Buddhebhi/.
+Short final vowels /i, u/ become long: /munībhi, garūbhi/. The /-bhi/ often
+becomes /-hi/, e.g.: /Buddhehi, munīhi, senānīhi, garūhi, vidūhi/.
 
-Short final vowels /i, u/ become long: /munībhi, garūbhi/.
+|                  |   | *sg.*               | *pl.*           |
+| munī (hermit)    | → | muninā, munismā     | munībhi, munīhi |
+| senānī (general) | → | senāninā, senānismā | senāhi          |
+| garu (teacher)   | → | garunā,  garusmā    | garūhi          |
+| vidū (seer)      | → | vidunā, vidusmā     | vidūhi          |
+| padīpa (lamp)    | → | padīpamhā           | padīpehi        |
 
-The /-bhi/ often becomes /-hi/, e.g.: /Buddhehi, munīhi, senānīhi, garūhi, vidūhi/.
+(Some forms have no occurrence in the Chaṭṭha Saṅgāyana corpus.)
 
-| munī (hermit)    | → | muninā, munismā     |
-| senānī (general) | → | senāninā, senānismā |
-| garu (teacher)   | → | garunā,  garusmā    |
-| vidū (seer)      | → | vidunā, vidusmā     |
+# Maitreya: p.41
 
-# Maitreya, p.41
-
-The suffix /-to/ forms adverbs with an ablative sense. /Buddhato/: from the Buddha. E.g.: /munito, senānito, garuto, viduto/.
-
-The particles *saddhiṁ, saha* added to a noun adds an instrumental meaning of *'together with'*.
-
-| Buddhena saddhiṁ, Buddhena saha | together with the Buddha   |
-| Garunā saddhiṁ, garunā saha     | together with the teacher  |
-| vidūhi saddhiṁ, vidūhi saha     | together with the wise men |
+*The suffix /-to/* forms adverbs with an ablative sense. /Buddhato/: from the Buddha. E.g.: /munito, senānito, garuto, viduto/.
 
 The particle *vinā* adds the meaning of *without*:
 
-/Buddhaṁ (acc.) vinā, Buddhena (instr.) vinā, Buddhamhā vinā (abl.):/ without the Buddha, apart from the Buddha.
+/Buddhaṁ (acc.) vinā, Buddhena (instr.) vinā, Buddhamhā vinā (abl.):/ without
+the Buddha, apart from the Buddha.
 
-# Duroselle, p.89
+Not to be confused with nominative forms:
 
-pārato, from the further shore;
-orato, from the near shore.
-(ⅲ) From adjectives: sabbato, everywhere.
+/Saṅkhato:/ nom.sg. of /saṅkhata:/ [saṁ + √kar + ta], pp. of saṅkharoti. Created, conditioned, fabricated.\\
+/Saṅkanto:/ nom.sg. of /saṅkanta:/ [saṁ + √kam + ta], pp. of saṅkamati. Moved over, shifted, transferred.
 
-# Gair, p.40
+# Duroselle: p.89
+# Gair: p.40
 
-dukkhato - away from sorrow
-padīpato - away from the lamp
+| from far, from the further shore | pārato                 |
+| from near, from the near shore   | orato                  |
+| away from suffering              | \fillin{4cm}{dukkhato} |
+| from everywhere                  | \fillin{4cm}{sabbato}  |
+| from the lamp                    | \fillin{4cm}{padīpato} |
 
-uid:mil3.5.5/pli/ms
+#+latex: \clearpage
 
-“Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so, mahārāja, padīpo padīpamhā saṅkanto”ti?
+** Exercises
+*** Translate
 
-** Gerund (gahetvā)
+# See examples in Maitreya: Lesson 11, Subject of a Predicate
 
-p.51, Gair
+#+latex: \renewcommand{\arraystretch}{1.8}
 
-kodhaṁ jhatvā na socati (SN 1.71)
+| The elder goes to the village by air.                                | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                  |
+| A bhikkhu gives to a bowl to a bhikkhu.                              | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
+| A bhikkhu walks to a village with a bhikkhunī.                       | \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}               |
+| \fillin{8cm}{All the boys are crying:}                               | Sabbepime dārakā rodanti:                                    |
+| \fillin{8cm}{Give congee, give rice, give food!}                     | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā. (Pc 65)       |
+| \fillin{8cm}{He, from the breakup of the body, from after death...}  | So, kāyassa bhedā (abl.), paraṁ maraṇā (abl.)...[fn:sn-42-3] |
+| \fillin{8cm}{(Due to the) first jhāna there is delight in solitude.} | Paṭhamena jhānena suññāgāre abhirati. (Pr 4, Pc 8)            |
 
-** Indeclinables and Idioms
-*** Atthi / Natthi / Hoti / Hotu
-*** Others
+#+latex: \normalArrayStrech
 
-kho pana:
-- idiom, ind + ind
-- and now; but; and next; indeed
+*** Readings
 
-kho:
-- ind, emph
-- indeed; surely; certainly; truly
+#+begin_quote
+Aggato ve pasannānaṁ, \\
+aggaṁ dhammaṁ vijānataṁ; \\
+Agge buddhe pasannānaṁ, \\
+dakkhiṇeyye anuttare.
 
-tena kho pana samayena
-- idiom, pron + ind + ind + masc, instr for loc sg
-- now at that time; now on that occasion
+Agge dhamme pasannānaṁ, \\
+virāgūpasame sukhe; \\
+Agge saṅghe pasannānaṁ, \\
+puññakkhette anuttare.
 
-tena:
-- pron, masc & nt instr sg of ta
-- with him; by him; with that; by that
+([[https://suttacentral.net/an4.34/pli/ms][AN 4.34]])
+#+end_quote
 
-samayo:
-- masc, from sameti (meets with / agrees with)
-- time; occasion; lit. come together
-
-aparena samayena:
-- idiom, adj + masc
-- at another time; later
-
-** Quotes
-*** Pāṭimokkha rules
-*** Quotes
-
-uid:an10.43/en/sujato Ten Roots of Arguments
-
-Idhupāli, bhikkhū anāpattiṁ āpattīti dīpenti, āpattiṁ anāpattīti dīpenti, lahukaṁ āpattiṁ garukāpattīti dīpenti, garukaṁ āpattiṁ lahukāpattīti dīpenti, duṭṭhullaṁ āpattiṁ aduṭṭhullāpattīti dīpenti
+- /agga:/ adj. highest; supreme;
+- /pasanna/ adj. (+gen or +loc) who has faith (in); who has confidence (in); lit. settled [pa + √sad + na]
 
 -----
 
-Mettā-sahagatena cetasā ekaṁ disaṁ...
+Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so,
+mahārāja, padīpo padīpamhā saṅkanto'ti? ([[https://suttacentral.net/mil3.5.5/en/sujato][Mil 3.5.5]])
 
 -----
 
-True and False Refuges
+Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya... (NP 8)
+
+So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya... (NP 10)
+
+* Lesson 4
+** Review Exercises
+
+nikkāmino gotamasāsanamhi (gotamassa sāsanamhi) (Snp 2.1)
 
 Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca
 
+yadā paññāya passati, atha nibbindati dukkhe
+
+esa maggo visuddhiyā
+
+vitakkānaṁ ca vicārānaṁ ca vūpasamā (DN 22)
+
+Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)
+
+Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187)
+
+** Adverbs of Time
+
+# Bodhirasa: Class 5
+
+Adverbs in general are indeclinable. Adverbs of time describe *when* the action
+is done, they often come *first* in the sentence.
+
+#+latex: \begin{multicols}{2}
+
+| pubbe    | before, previously      |
+| āyatiṁ   | in future               |
+| dāni     | now                     |
+| yadā     | when, whenever          |
+| pacchā   | afterwards              |
+| ajja     | today                   |
+| tadā     | then                    |
+| sadā     | always                  |
+| sāyaṁ    | late, in the evening    |
+| kadā     | when                    |
+
+#+latex: \columnbreak
+
+| idāni    | now                     |
+| pāto     | in the morning          |
+| ekadā    | one day                 |
+| suve     | tomorrow                |
+| purā     | formerly, earlier       |
+| atippago | too early               |
+| aciraṁ   | recently, soon          |
+| ciraṁ    | for a long time         |
+| atisāyaṁ | late at night, too late |
+| kālena   | at the proper time      |
+
+#+latex: \end{multicols}
+
+** Future Tense (-issāmi, -issasi, -issati)
+
+# Bodhirasa: Class 5
+# Maitreya: Lesson 5
+
+The future tense, apart from an action in the future, can also express a
+condition, a possibility, or a statement of eternal truth, as well as a mild
+form of imperative.
+
+Future verbs can be formed by inserting /-issa/ between the base and the
+present tense verbal ending.
+
+For verbs ending in /-e/, insert /-ssa/: /dese + ssa + āma → desessāma/ (we will teach)
+
+The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used instead.
+
+| *sg.*               |             | *pl.*                |                 |
+| bhav\textbf{issāmi} | I will be   | bhav\textbf{issāma}  | we will be      |
+| bhav\textbf{issasi} | you will be | bhav\textbf{issatha} | you all will be |
+| bhav\textbf{issati} | he will be  | bhav\textbf{issanti} | they will be    |
+
+"Bhavissati" often expresses the idea of "should be".
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Parisuddho no kāyasamācāro bhavissati. (MN 39)                | \fillin{8cm}{Our bodily behaviour should be purified.}               |
+| Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61) | \fillin{8cm}{I should not approach families intoxicated with pride.} |
+| \fillin{8cm}{brāhmaṇā karissanti ...}                          | Brahmans will do ....                                                |
+
+#+latex: \normalArrayStrech
+
+** Present Participle (-nt, -māna)
+
+# Maitreya: Lesson 22, p.70
+# Bodhirasa: Class 10
+
+The present participle describes the action that the subject (a noun) is doing, hence it is a *verbal adjective*.
+
+It is formed by adding /-nt/ or /-māna/ to the verbal base.
+The final /-e/ becomes /-aya/ before /-māna/. The long /-ā/ is shortened.
+
+| √gam | gaccha | gacchant, gacchamāna, gacchāna | going    |
+| √dā  | data   | dadant, dadamāna, dadāna       | giving   |
+| √kī  | kiṇā    | kiṇant, kiṇamāna, kiṇāna        | buying   |
+| √dis | dese   | desent, desayamāna, desayāna   | teaching |
+| √as  | sa     | santa, samāna                  | existing |
+| √bhū | bhava  | bhavanta                       | being    |
+| √car | cara   | caranta, caramāna              | walking  |
+
+Irregular forms:
+
+| √as    | sa   | santa, samāna            | being, existing |
+| √kar   | karo | karont, karumāna, karāna | doing, making   |
+
+The present participles are declinable, they agree with the noun in gender, number and case.
+
+/gacchant → (nom.sg.) gacchaṁ, gacchanto (nom.pl) gacchanto, gacchantā/
+
+#+begin_quote
+dīghaṁ vā assasanto "dīghaṁ assasāmī"ti pajānāti (MN 118)
+
+\bigskip
+
+... suvaṇṇaṁ (gold) vā chijjamānaṁ (loosen) patati. (falls) (Pr 2)
+
+... gold falls after being cut loose.
+#+end_quote
+
+Since the present participles are verbs, they can take an object in the accusative case:
+
+#+begin_quote
+"*abhippamodayaṁ cittaṁ* assasissāmī"ti sikkhati (MN 118)
+
+- abhippamodati → (prp.) abhippamodayanta: [abhi + pa + √mud + *aya + nta] \\
+  gladdening; pleasing;
+
+No ce abhinipphādeyya, tato ce *uttariṁ vāyamamāno* taṁ cīvaraṁ abhinipphādeyya, nissaggiyaṁ pācittiyaṁ. (NP 10)
+
+- vāyamamāno: prp. of vāyamati: [vi + ā + √yam + a + ti] makes an effort (to)
+
+#+latex: \clearpage
+
+/Puriso passeyya maccha-gumbaṁ carantaṁ tiṭṭhantaṁ./ (MN 39)
+
+- maccha-gumbaṁ (school of fish) = masc.acc.sg
+- carantaṁ = masc.acc.sg
+- tiṭṭhantaṁ = masc.acc.sg
+
+\fillin{12cm}{A man could see schools of fish wandering around and remaining still.}
+
+\bigskip
+
+Seyyathāpi bhikkhave makkaṭo araññe pavane caramāno... (SN 12.61)
+
+- makkato = masc.nom.sg
+- caramāno = masc.nom.sg
+
+\fillin{12cm}{Just like, monks, a monkey roaming around in a forest wilderness...}
+#+end_quote
+
+** Adjectives
+
+# Bodhirasa: Class 11
+# Maitreya: Lesson 12, p.34
+
+Adjectives in Pāli must agree with the noun they qualify in gender, number and case.
+E.g. /seto asso:/ a white horse, /setā assā:/ white horses.
+
+Generally a single adjective stands before the noun it qualifies, but many adjectives follow after the noun.
+
+/kuṭumbiko aḍḍho mahaddhano mahābhogo:/ the head of a family, wealthy, has much money, has great property
+
+A noun may act as a qualifier predicate, and should agree with its subject in case:
+
+/puttā manussānaṁ vatthu:/ children are men's wealth
+
+Adjectives as predicates should agree with the subject in gender, number and case:
+
+#+begin_quote
+/Kāmā hi citrā madhurā manoramā;/
+
+/citra:/ diverse, /madhura:/ sweet, lovely, /manorama:/ delightful, lit. mind pleasing [mano + rama]
+
+\fillin{12cm}{Sensual pleasures are diverse, sweet, delightful;}
+
+/aviddasū yattha sitā puthujjanā./ (Thag 19.1)
+
+\fillin{12cm}{an ignorant ordinary person is bound to them.}
+#+end_quote
+
+*Natthi* (there is/are not) and *musā* can be used as predicates[fn:predicate]:
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Saṅkhārā sassatā natthi | \fillin{8cm}{There are no eternal conditioned things} |
+| taṁ musā               | \fillin{8cm}{it's a lie}                              |
+
+#+latex: \normalArrayStrech
+
+*Past participles* as predicate:
+
+#+begin_quote
+/Apārutā tesaṁ amatassa dvārā, ye sotavanto pamuñcantu saddhaṁ;/ (SN 6.1)
+
+Opened are the gates of the deathless for them, let the hearers show faith.
+#+end_quote
+
+#+latex: \clearpage
+
+*Pronouns* as adjectives agree with the noun in gender, number and case.
+
+/So puriso:/ that man, /te purisā:/ those men.
+
+\bigskip
+
+# Maitreya: p.36
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| The body grows.                                 | \fillin{8cm}{Kāyo vaḍḍhati.}          |
+| They are not wealthy.                           | \fillin{8cm}{Te na mahaddhanā.}      |
+| \fillin{8cm}{Where does that elder live now?}   | So thero idāni kuhiṁ vasati?         |
+| \fillin{8cm}{Why does that evil man come here?} | So pāpako puriso kasmā idhāgacchati? |
+
+#+latex: \normalArrayStrech
+
+** Indeclinables and Idioms
+
+#+latex: \begin{multicols}{2}
+
+*kho pana:* idiom. and now; but; and next; indeed
+
+*kho:* emph. indeed; surely; certainly; truly
+
+*tena kho pana samayena:* \\
+idiom. pron. + ind. + ind. + masc., instr. for loc.sg. \\
+now at that time; now on that occasion
+
+*tena:* pron. masc. & nt.instr.sg. of /ta/ \\
+with him; by him; with that; by that
+
+#+latex: \columnbreak
+
+*samaya:* masc. [saṁ + √i + *a] \\
+from sameti (meets with / agrees with) \\
+time; occasion; lit. come together
+
+*aparena samayena:* idiom. at another time; later
+
+*aparena:* after, beyond; later on
+
+*aññatra samayā:* idiom. except at the right time
+
+#+latex: \end{multicols}
+
+** Exercises
+*** Translate
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| \fillin{8cm}{My mind will rise (stand) above the whole world.} | Sabbalokā ca me mano vuṭṭhahissati.[fn::AN 6.102] |
+| TODO                                                           |                                                  |
+| TODO                                                           |                                                  |
+| TODO                                                           |                                                  |
+| TODO                                                           |                                                  |
+| TODO                                                           |                                                  |
+
+#+latex: \normalArrayStrech
+
+#+latex: \clearpage
+
+*** Readings
+
+Yāvakīvañca, bhikkhave, bhikkhū abhiṇhaṁ sannipātā bhavissanti sannipātabahulā;
+vuddhiyeva, bhikkhave, bhikkhūnaṁ pāṭikaṅkhā, no parihāni. ([[https://suttacentral.net/an7.23/pli/ms][AN 7.23]])
+
+------
+
+Sampanna-sīlā viharissāma sampanna-pāṭimokkhā, pāṭimokkha-saṃvara-saṃvutā
+viharissāma ācāra-gocara-sampannā. (Sīl'uddesa-pāṭha)
+
+-------
+
+Sīlavā kho panāyamāyasmā pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno
+aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu. ([[https://suttacentral.net/an8.2/en/sujato][AN 8.2]])
+
+# This monk is ethical, restrained in the monastic code, conducting themselves
+# well and seeking alms in suitable places. Seeing danger in the slightest fault,
+# they keep the rules they’ve undertaken.
+
 -----
 
-Sabbe saṅkhārā aniccā’ti yadā paññāya passati
-Atha nibbindati dukkhe esa maggo visuddhiyā
+Yato kho tvaṁ, uttiya, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne
+evaṁ bhāvessasi, tato tvaṁ, uttiya, gamissasi maccudheyyassa pāran'ti. ([[https://suttacentral.net/sn47.16/en/sujato][SN 47.16]])
+
+# When you develop these four kinds of mindfulness meditation, depending on and
+# grounded on ethics, you'll pass beyond Death's domain.
+
+------
+
+Yathā kho pana paccekapuṭṭhassa veyyākaraṇaṁ hoti, \\
+evamevaṁ evarūpāya parisāya yāvatatiyaṁ anusāvitaṁ hoti.
+
+Yo pana bhikkhu yāvatatiyaṁ anusāviyamāne saramāno \\
+santiṁ āpattiṁ nāvikareyya, \\
+sampajānamusāvādassa hoti.
+
+Sampajānamusāvādo kho \\
+panāyasmanto antarāyiko dhammo vutto bhagavatā, \\
+tasmā saramānena bhikkhunā āpannena visuddhāpekkhena \\
+santī āpatti āvikātabbā, \\
+āvikatā hissa phāsu hoti.
+
+([[https://suttacentral.net/pli-tv-bu-pm/pli/ms][Nidāna]])
+
+* Lesson 5
+** Review Exercises
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| TODO | TODO |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+
+#+latex: \normalArrayStrech
+
+** Adverbs of Place
+
+*-ttha "place"*
+
+| ta    | that       | + ttha | tattha (tatra) | there          |
+| ima   | this       | + ttha | ettha          | here           |
+| ya    | whatever   | + ttha | yattha (yatra) | wherever       |
+| ka    | what?      | + ttha | kattha         | where?         |
+| sabba | all, every | + ttha | sabbattha      | everywhere     |
+| eka   | one        | + ttha | ekattha        | in one place   |
+| añña  | another    | + ttha | aññattha       | somewhere else |
+
+*-to "from a place"*
+
+| ka      | what?    | + to | kuto      | from where               |
+| ta      | that     | + to | tato      | from there               |
+| eka     | one      | + to | ekato     | from one side            |
+| pari    | around   | + to | parito    | from all around          |
+| pura    | in front | + to | purato    | in front of              |
+| samanta | all      | + to | samantato | from all every direction |
+
+*-hiṁ*
+
+| ka     | what?    | + hiṁ | kuhiṁ | where?   |
+| ta     | that     | + hiṁ | tahiṁ | there    |
+| ya     | whatever | + hiṁ | yahiṁ | wherever |
+
+** Past Participle (-ta, -ita, -na)
+
+# Maitreya: Lesson 15, p.43
+# Bodhirasa: Class
+
+Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi rules complicate the exact forms.
+
+| rukkho patito (pp.nom. of patati)                     | the fallen tree                      |
+| antarāyiko dhammo vutto (pp.nom. of vacati) bhagavatā | said to be an obstacle by the Buddha |
+
+When the subject is in instrumental case, the past participle is passive.
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| \fillin{8cm}{Migo diṭṭho purisena.}                | The deer (/miga/) was seen by the man.               |
+| \fillin{8cm}{Vyādhena hataṁ migaṁ ahaṁ passāmi.} | I see the deer killed by the huntsman (/vyādha/).    |
+| \fillin{8cm}{Gāmamhā āgataṁ purisaṁ na passāmi.}  | I do not see the man that has come from the village. |
+
+#+latex: \normalArrayStrech
+
+Some frequent examples:
+
+| bhavati   | √bhū  | to be      | bhūta            | became      |
+| passati   | √dis  | to see     | di\textbf{ṭṭ}ha   | seen        |
+| gacchati  | √gam  | to go      | gata             | gone        |
+| karoti    | √kar  | to do      | kata             | done        |
+| labhati   | √labh | to get     | la\textbf{dd}ha  | received    |
+| jānāti    | √ñā   | to know    | ñāta             | known       |
+| bhāsati   | √bhās | to speak   | bhāsita          | spoken      |
+| pabbajati | √vaj  | to go on   | pabbajita        | ordained    |
+| ṭhahati    | √ṭhā   | to stand   | ṭhita             | stood       |
+| bhāveti   | √bhū  | bhāve      | bhāvita          | developed   |
+| deseti    | √dis  | dese       | desita           | preached    |
+| passati   | √dis  | passa      | passita          | seen        |
+| vedayati  | √vid  | vedaya     | vedayita         | experienced |
+| chindati  | √chid | to cut     | chi\textbf{nn}a  | cut         |
+| khīyati   | √khī  | to destroy | khīna            | destroyed   |
+| nisīdati  | √sad  | to sink    | nisi\textbf{nn}a | seated      |
+| pajahati  | √hā   | to abandon | pah\textbf{ī}na  | abandoned   |
+
+#+latex: \clearpage
+
+** Aorist Past Tense
+
+# Bodhirasa: Class 4
+# Maitreya: Lesson 8
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Verbal terminations:
+
+|       | *sg.*  | *pl.*            |
+| *1st* | -iṁ    | -(i)mhā, -(i)mha |
+| *2nd* | -o, -i | -(i)ttha         |
+| *3rd* | -i     | -(i)ṁsu, -uṁ     |
+
+#+latex: \columnbreak
+
+Root: /√dhāv/ (to run), base: /dhāva/
+
+|       | *sg.*          | *pl.*              |
+| *1st* | adhāviṁ        | adhāvimhā          |
+| *2nd* | adhāvo, adhāvi | adhāvittha         |
+| *3rd* | adhāvi         | adhāviṁsu, adhāvuṁ |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+The /a-/ is prefixed to the verbs, but optionally it may be dropped, e.g.
+/dhāviṁ, kiṇiṁ, desesiṁ, kariṁ, haniṁ,/ etc.
+
+For verbs ending in /-e/, an /s/ is inserted: /desesiṁ, desesi, desesuṁ,/ etc.
+
+Some roots ending in long vowels also get the /s/ aorist ending. In the plural case, the long vowel is shortened:
+/aṭṭhā\textbf{siṁ}:/ I stood, /aṭṭhā\textbf{si}:/ you stood, /aṭṭha\textbf{ttha}:/ you all stood.
+
+See the Appendix for the aorist conjugation of the irregular /√as/ and /√hū/ (to be).
+
+The particle /mā/ + aorist verb expresses a prohibition in the present or future.
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| They went there.                                     | \fillin{8cm}{Te tatra gacchiṁsu.}       |
+| We dwelt here.                                       | \fillin{8cm}{Mayaṁ idha vasimhā.}       |
+| When did you come from there?                        | \fillin{8cm}{Kadā tvaṁ tato āgacchi?}   |
+| \fillin{8cm}{Because I knew it, therfore I said it.} | Yato ahaṁ ajāniṁ tato avadiṁ.          |
+| \fillin{8cm}{Don't stay here.}                       | Tumhe mā idha vasittha.                 |
+| \fillin{8cm}{If it be so, I should come here.}       | Yadi evaṁ siyā, ahaṁ idha āgaccheyyāmi. |
+
+#+latex: \normalArrayStrech
+
+** Causative: Having It Done (-e, -aya, -āpe, -āpaya)
+
+# Maitreya: Lesson 31, p.129
+
+The causative base is formed by adding /-e, -aya, -āpe, -āpaya/ either to the root or the verbal base.
+The base thus formed is conjugated in all tenses and moods.
+
+The causative form of a transitive verb takes two objects in the accusative.
+
+#+begin_quote
+/Atha kho Suppavāsā [...] dārakaṁ Bhagavantaṁ vandāpesi./ (Ud 2.8)
+
+Then the lady Suppavāsā made her boy bow to the Blessed One.
+#+end_quote
+
+Sometimes the agent who was caused to do the action is in the instrumental case.
+
+#+begin_quote
+/Atha kho devahito brāhmaṇo uṇhodakassa kājaṁ *purisena* gāhāpetvā phāṇitassa ca puṭaṁ āyasmato upavāṇassa pādāsi./ (SN 7.13)
+
+Then Devahita the brahmin having had a carrying-pole feched with hot water *by a man*, he also presented Upavāna with a jar of molasses.
+#+end_quote
+
+#+latex: \clearpage
+
+Some verbs can take two objects as a double accusative:
+
+#+latex: \begin{multicols}{3}
+
+| duh  | to milk     |
+| yāc  | to beg      |
+| rudh | to obstruct |
+
+#+latex: \columnbreak
+
+| bhikkh | to beg food |
+| sās    | to instruct |
+| nī     | to lead     |
+
+#+latex: \columnbreak
+
+| vah | to carry     |
+| har | to take away |
+
+#+latex: \end{multicols}
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Pañhaṁ taṁ, samaṇa, pucchissāmi. (SN 10.12) | \fillin{8cm}{I will ask you a question, ascetic.} |
+| \fillin{8cm}{Puriso gāviṁ gāmaṁ nayati.}    | The man leads (/nayati/) the ox to the village.   |
+
+#+latex: \normalArrayStrech
+
+** Exercises
+*** Translate
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| TODO | TODO |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+| TODO |      |
+
+#+latex: \normalArrayStrech
+
+*** Readings
+
+/Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ./ (Pc 10)
+
+TODO
+
+*** Extra Challenge
+
+Read the text of [[https://suttacentral.net/pli-tv-bu-vb-np10/en/brahmali][NP 10]] as recited:
+
+Bhikkhuṁ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṁ pahiṇeyya...
+
+* Lesson 6                                                         :noexport:
+** Passive
+
+p.31 Johansson
+
+Accayanti ahorattā...
+
+uid:thag2.13/pli/ms
 
 -----
 
-DN 22:
-- Feeling: sāmisā / nirāmisā
-- Making effort: anuppannānaṁ pāpakānaṁ...
+Katamsu ...
+Vīriyena dukkhamacceti,
 
------
+** yāva ... tāva
 
-** Simple Present (Tables of All Endings)
+# Bodhirasa
+
+A common construction in Pāli is created with the adverbs
+
+*yāva* (until, as long as, an unspecified point in time) and
+
+*tāva* (then, at that point in time)
+
+ahaṁ *yāva* tumhe dharatha, *tāva* paṭijaggissāmi.
+
+*As long as* you carry on living, *that long* I will look after you.
+
+Where have you come across this kind of construction before *?*
+
+in the future, you might come across all the following constructions:
+
+| nominative singular   | yo so         |
+| nominative plural     | yāni tāni     |
+| accusative singular   | yaṁ taṁ       |
+| instrumental singular | yena tena     |
+| instrumental plural   | yehi tehi     |
+| genitive singular     | yassa tassa   |
+| genitive plural       | yesaṁ tesaṁ   |
+| ablative singular     | yasmā tasmā   |
+| locative singular     | yasmiṁ tasmiṁ |
+| locative plural       | yesu tesu     |
+
+** Exercises
+*** Readings
+
+ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī
+
+p.51 Johannson
+
+**** Snp 3.12
+
+“All the suffering that originates
+“Yaṁ kiñci dukkhaṁ sambhoti,
+is caused by consciousness.
+Sabbaṁ viññāṇapaccayā;
+With the cessation of consciousness,
+Viññāṇassa nirodhena,
+there is no origination of suffering.
+Natthi dukkhassa sambhavo.
+
+**** Snp 4.11
+
+“So where does contact in the world spring from?
+“Phasso nu lokasmi kutonidāno,
+And possessions, too, where do they come from?
+Pariggahā cāpi kutopahūtā;
+When what is absent is there no possessiveness?
+Kismiṁ asante na mamattamatthi,
+When what disappears do contacts not strike?”
+Kismiṁ vibhūte na phusanti phassā”.
+
+“Name and form cause contact;
+“Nāmañca rūpañca paṭicca phasso,
+possessions spring from wishing;
+Icchānidānāni pariggahāni;
+when wishing is absent there is no possessiveness;
+Icchāyasantyā na mamattamatthi,
+when form disappears, contacts don’t strike.”
+Rūpe vibhūte na phusanti phassā”.
+
+“Form disappears for one proceeding how?
+“Kathaṁ sametassa vibhoti rūpaṁ,
+And how do happiness and suffering disappear?
+Sukhaṁ dukhañcāpi kathaṁ vibhoti;
+Tell me how they disappear;
+Etaṁ me pabrūhi yathā vibhoti,
+I think we ought to know these things.”
+Taṁ jāniyāmāti me mano ahu”.
+
+“Without normal perception or distorted perception;
+“Na saññasaññī na visaññasaññī,
+not lacking perception, nor perceiving what has disappeared.
+Nopi asaññī na vibhūtasaññī;
+Form disappears for one proceeding thus;
+Evaṁ sametassa vibhoti rūpaṁ,
+for concepts of identity due to proliferation spring from perception.”
+Saññānidānā hi papañcasaṅkhā”.
+
+**** Snp 4.1: Sense Pleasure
+
+Kāmaṁ kāmayamānassa,
+tassa ce taṁ samijjhati;
+Addhā pītimano hoti,
+laddhā macco yadicchati.
+
+Tassa ce kāmayānassa,
+chandajātassa jantuno;
+Te kāmā parihāyanti,
+sallaviddhova ruppati.
+
+Yo kāme parivajjeti,
+sappasseva padā siro;
+Somaṁ visattikaṁ loke,
+sato samativattati.
+
+Yo kāme parivajjeti,
+sappasseva padā siro;
+Somaṁ visattikaṁ loke
+sato samativattati.
+
+**** Snp 4.6: Aging
+
+Maraṇenapi taṁ pahīyati,
+Yaṁ puriso mamidanti maññati;
+Etampi viditvā paṇḍito,
+Na mamattāya nametha māmako.
+
+* Appendix
+** Simple Present
 
 Actions that are happening at the present moment, occurring regularly, or general truths.
 
@@ -913,189 +1880,556 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 #+latex: \end{multicols}
 #+latex: \par}
 
-* Lesson 3                                                         :noexport:
-** Review Exercises
+** Future Tense
+** Aorist Past Tense
 
-Fill in the translation of the phrase and the table fields.
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
 
-/kāyassa bhedā:/ \fillin{6cm}{from the breakup of the body}
+Verbal terminations:
 
-|             | declension   | meaning          |
-|-------------+--------------+------------------|
-| kāyassa (1) | masc.gen.sg. | of the body      |
-| kāyassa (2) | masc.dat.sg. | to the body      |
-| bhedā (1)   | masc.abl.sg. | from the breakup |
-| bhedā (2)   | masc.nom.pl. | the breakups     |
+|       | *sg.*  | *pl.*            |
+| *1st* | -iṁ    | -(i)mhā, -(i)mha |
+| *2nd* | -o, -i | -(i)ttha         |
+| *3rd* | -i     | -(i)ṁsu, -uṁ     |
 
-** Locative Case: nare / naramhi / narasmiṁ -- in, on, at the man
-** Vocative Case: nara / narā -- Hey, man!
-** Optative (Might be)
+#+latex: \columnbreak
 
-Examples: p.34 A New Course, Gair
+Root: /√dhāv/ (to run), base: /dhāva/
 
-When you know this really by yourself...
+|       | *sg.*          | *pl.*              |
+| *1st* | adhāviṁ        | adhāvimhā          |
+| *2nd* | adhāvo, adhāvi | adhāvittha         |
+| *3rd* | adhāvi         | adhāviṁsu, adhāvuṁ |
 
-If merit led to sorrow, I would not speak thus.
+#+latex: \end{multicols}
+#+latex: \par}
 
-Then you should abide
+8^{th} conjugation group and other bases ending in *e*, such as causative verbs, are conjugated with an inserted “s”
 
-** Adverbs
-** Conjugations
-** Exercises
-** Vocabulary
-** Quotes
-*** Pāṭimokkha Rules
+|     | singular  |            | plural     |                |
+|-----+-----------+------------+------------+----------------|
+| 3rd | dese*si*  | he taught  | dese*suṁ*  | they taught    |
+| 2nd | dese*si*  | you taught | des*ittha* | you all taught |
+| 1st | dese*siṁ* | I taught   | des*imha*  | we taught      |
+|     |           |            |            |                |
+|     |           |            | des*imhā*  |                |
 
-uid:an7.23/pli/ms
+similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
 
-Yāvakīvañca, bhikkhave, bhikkhū abhiṇhaṁ sannipātā bhavissanti sannipātabahulā; vuddhiyeva, bhikkhave, bhikkhūnaṁ pāṭikaṅkhā, no parihāni.
+Some roots ending in long vowels also get the /s/ aorist ending. In the plural case, the long vowel is shortened.
 
-uid:an8.2/pli/ms
+|     | *sg.*     |           | *pl.*                |               |
+|-----+-----------+-----------+----------------------+---------------|
+| 1st | aṭṭhā*siṁ* | I stood   | aṭṭha*mha*, aṭṭha*mhā* | we stood      |
+| 2nd | aṭṭhā*si*  | you stood | aṭṭha*ttha*           | you all stood |
+| 3rd | aṭṭhā*si*  | he stood  | aṭṭha*ṁsu*            | they stood    |
 
-ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī
 
-*** Snp 4.1: Sense Pleasure
+** Declension of Nouns
 
-Kāmaṁ kāmayamānassa,
-tassa ce taṁ samijjhati;
-Addhā pītimano hoti,
-laddhā macco yadicchati.
+#+latex: \clearpage
 
-Tassa ce kāmayānassa,
-chandajātassa jantuno;
-Te kāmā parihāyanti,
-sallaviddhova ruppati.
+*** Masculine Nouns Ending in -a (nara)
 
-Yo kāme parivajjeti,
-sappasseva padā siro;
-Somaṁ visattikaṁ loke,
-sato samativattati.
+| Case            | Singular                                           | Plural           | Meaning (sg.)                    |
+|-----------------+----------------------------------------------------+------------------+----------------------------------|
+| 1. Nominative   | nar\textbf{o}                                      | nar\textbf{ā}    | the man does sth (object)        |
+| 2. Accusative   | nar\textbf{aṁ}                                     | nar\textbf{e}    | sth happens to the man (subject) |
+| 3. Instrumental | nar\textbf{ena}                                    | nar\textbf{ehi}  | by, with, through the man        |
+| 4. Dative       | nar\textbf{āya}, nar\textbf{assa}                  | nar\textbf{ānaṁ} | to the man, for the man          |
+| 5. Ablative     | nar\textbf{ā}, nar\textbf{amhā}, nar\textbf{asmā}  | nar\textbf{ehi}  | from the man                     |
+| 6. Genitive     | nar\textbf{assa}                                   | nar\textbf{ānaṁ} | of the man, the man's            |
+| 7. Locative     | nar\textbf{e}, nar\textbf{amhi}, nar\textbf{asmiṁ} | nar\textbf{esu}  | in, on, at the man               |
+| 8. Vocative     | nar\textbf{a}, nar\textbf{ā}                       | nar\textbf{ā}    | Hey, man!                        |
 
-Yo kāme parivajjeti,
-sappasseva padā siro;
-Somaṁ visattikaṁ loke
-sato samativattati.
+*** Masculine Nouns Ending in -i (aggi)
 
-*** Snp 4.6: Aging
+| 1. nom   | agg\textbf{i}                                       | agg\textbf{ī}, agg\textbf{ayo} |
+| 2. acc   | agg\textbf{iṁ}                                      | agg\textbf{ī}, agg\textbf{ayo} |
+| 3. inst  | agg\textbf{inā}                                     | agg\textbf{īhi}                |
+| 4. dat   | agg\textbf{ino}, agg\textbf{issa}                   | agg\textbf{īnaṁ}               |
+| 5. abl   | agg\textbf{inā}, agg\textbf{imhā}, agg\textbf{ismā} | agg\textbf{īhi}                |
+| 6. gen   | agg\textbf{ino}, agg\textbf{issa}                   | agg\textbf{īnaṁ}               |
+| 7. loc   | agg\textbf{imhi}, agg\textbf{ismiṁ}                 | agg\textbf{īsu}                |
+| 8. voc   | agg\textbf{i}                                       | agg\textbf{ī}, agg\textbf{ayo} |
 
-Maraṇenapi taṁ pahīyati,
-Yaṁ puriso mamidanti maññati;
-Etampi viditvā paṇḍito,
-Na mamattāya nametha māmako.
+*** Masculine Nouns Ending in -ī (pakkhī)
 
-* Lesson 4                                                         :noexport:
-** Passive
+| 1. nom   | pakkh\textbf{ī}                                            | pakkh\textbf{ī}, pakkh\textbf{ino} |
+| 2. acc   | pakkh\textbf{inaṁ}, pakkh\textbf{iṁ}                       | pakkh\textbf{ī}, pakkh\textbf{ino} |
+| 3. inst  | pakkh\textbf{inā}                                          | pakkh\textbf{īhi}                  |
+| 4. dat   | pakkh\textbf{ino}, pakkh\textbf{issa}                      | pakkh\textbf{īnaṁ}                 |
+| 5. abl   | pakkh\textbf{inā}, pakkh\textbf{imhā}, pakkh\textbf{ismā}  | pakkh\textbf{īhi}                  |
+| 6. gen   | pakkh\textbf{ino}, pakkh\textbf{issa}                      | pakkh\textbf{īnaṁ}                 |
+| 7. loc   | pakkh\textbf{ini}, pakkh\textbf{imhi}, pakkh\textbf{ismiṁ} | pakkh\textbf{īsu}                  |
+| 8. voc   | pakkh\textbf{ī}                                            | pakkh\textbf{ī}, pakkh\textbf{ino} |
 
-p.31 Johansson
+*** Masculine Nouns Ending in -u (bhikkhu)
 
-Accayanti ahorattā...
+| 1. nom   | bhikkh\textbf{u}                                             | bhikkh\textbf{ū}, bhikkh\textbf{avo}                     |
+| 2. acc   | bhikkh\textbf{uṁ}                                            | bhikkh\textbf{ū}, bhikkh\textbf{avo}                     |
+| 3. inst  | bhikkh\textbf{unā}                                           | bhikkh\textbf{ūhi}                                       |
+| 4. dat   | bhikkh\textbf{uno}, bhikkh\textbf{ussa}                      | bhikkh\textbf{ūnaṁ}                                      |
+| 5. abl   | bhikkh\textbf{unā}, bhikkh\textbf{umhā}, bhikkh\textbf{usmā} | bhikkh\textbf{ūhi}                                       |
+| 6. gen   | bhikkh\textbf{uno}, bhikkh\textbf{ussa}                      | bhikkh\textbf{ūnaṁ}                                      |
+| 7. loc   | bhikkh\textbf{umhi}, bhikkh\textbf{usmiṁ}                    | bhikkh\textbf{ūsu}                                       |
+| 8. voc   | bhikkh\textbf{u}                                             | bhikkh\textbf{ū}, bhikkh\textbf{avo}, bhikkh\textbf{ave} |
 
-uid:thag2.13/pli/ms
+*** Neuter Nouns Ending in -a (citta)
 
------
+| 1. nom   | citt\textbf{aṁ}                                       | citt\textbf{ā}, citt\textbf{āni} |
+| 2. acc   | citt\textbf{aṁ}                                       | citt\textbf{e}, citt\textbf{āni} |
+| 3. inst  | citt\textbf{ena}                                      | citt\textbf{ehi}                 |
+| 4. dat   | citt\textbf{āya}, citt\textbf{assa}                   | citt\textbf{ānaṁ}                |
+| 5. abl   | citt\textbf{ā}, citt\textbf{amhā}, citt\textbf{asmā}  | citt\textbf{ehi}                 |
+| 6. gen   | citt\textbf{assa}                                     | citt\textbf{ānaṁ}                |
+| 7. loc   | citt\textbf{e}, citt\textbf{amhi}, citt\textbf{asmiṁ} | citt\textbf{esu}                 |
+| 8. voc   | citt\textbf{a}, citt\textbf{ā}                        | citt\textbf{āni}                 |
 
-Katamsu ...
-Vīriyena dukkhamacceti,
+*** Neuter Nouns Ending in -i
 
-** Exercises
-** Vocabulary
-** Quotes
-*** Pāṭimokkha Rules
+| 1. nom   | aṭṭh\textbf{i}                                         | aṭṭh\textbf{ī}, aṭṭh\textbf{īni}   |
+| 2. acc   | aṭṭh\textbf{iṁ}                                        | aṭṭh\textbf{ī}, aṭṭh\textbf{īni}   |
+| 3. inst  | aṭṭh\textbf{inā}                                       | aṭṭh\textbf{īhi}                  |
+| 4. dat   | aṭṭh\textbf{ino}, aṭṭh\textbf{issa}                     | aṭṭh\textbf{īnaṁ}                 |
+| 5. abl   | aṭṭh\textbf{inā}, aṭṭh\textbf{imhā}, aṭṭh\textbf{ismā}   | aṭṭh\textbf{īhi}                  |
+| 6. gen   | aṭṭh\textbf{ino}, aṭṭh\textbf{issa}                     | aṭṭh\textbf{īnaṁ}                 |
+| 7. loc   | aṭṭh\textbf{ini}, aṭṭh\textbf{imhi}, aṭṭh\textbf{ismiṁ} | aṭṭh\textbf{isu}, aṭṭh\textbf{īsu} |
+| 8. voc   | aṭṭh\textbf{i}                                         | aṭṭh\textbf{ī}, aṭṭh\textbf{īni}   |
 
-Nidāna, uid:pli-tv-bu-pm/pli/ms
+*** Neuter Nouns ending in -u
 
-Kiṁ saṅghassa pubbakiccaṁ?
+| 1. nom  | āy\textbf{uṁ}                                    | āy\textbf{ū}, āy\textbf{ūni} |
+| 2. acc  | āy\textbf{uṁ}                                    | āy\textbf{ū}, āy\textbf{ūni} |
+| 3. inst | āy\textbf{unā}                                   | āy\textbf{ūhi}               |
+| 4. dat  | āy\textbf{uno}, āy\textbf{ussa}                  | āy\textbf{ūnaṁ}              |
+| 5. abl  | āy\textbf{unā}, āy\textbf{umhā}, āy\textbf{usmā} | āy\textbf{ūhi}               |
+| 6. gen  | āy\textbf{uno}, āy\textbf{ussa}                  | āy\textbf{ūnaṁ}              |
+| 7. loc  | āy\textbf{umhi}, āy\textbf{usmiṁ}                | āy\textbf{ūsu}               |
+| 8. voc  | āy\textbf{u}                                     | āy\textbf{ū}, āy\textbf{ūni} |
 
-Yo pana bhikkhu yāvatatiyaṁ anusāviyamāne saramāno santiṁ āpattiṁ nāvikareyya, sampajānamusāvādassa hoti. Sampajānamusāvādo kho panāyasmanto antarāyiko dhammo vutto bhagavatā, tasmā saramānena bhikkhunā āpannena visuddhāpekkhena santī āpatti āvikātabbā, āvikatā hissa phāsu hoti.
+#+latex: \clearpage
 
-Uddiṭṭhaṁ kho āyasmanto nidānaṁ. Tatthāyasmante pucchāmi, kaccittha parisuddhā, dutiyampi pucchāmi, kaccittha parisuddhā, tatiyampi pucchāmi, kaccittha parisuddhā, parisuddhetthāyasmanto, tasmā tuṇhī, evametaṁ dhārayāmīti.
+*** Feminine Nouns Ending in -ā
 
-Nidānaṁ niṭṭhitaṁ.
+| 1. nom  | vedan\textbf{ā}                       | vedan\textbf{ā}, vedan\textbf{āyo} |
+| 2. acc  | vedan\textbf{aṁ}                      | vedan\textbf{ā}, vedan\textbf{āyo} |
+| 3. inst | vedan\textbf{āya}                     | vedan\textbf{āhi}                  |
+| 4. dat  | vedan\textbf{āya}                     | vedan\textbf{ānaṁ}                 |
+| 5. abl  | vedan\textbf{āya}                     | vedan\textbf{āhi}                  |
+| 6. gen  | vedan\textbf{āya}                     | vedan\textbf{ānaṁ}                 |
+| 7. loc  | vedan\textbf{āya}, vedan\textbf{āyaṁ} | vedan\textbf{āsu}                  |
+| 8. voc  | vedan\textbf{e}                       | vedan\textbf{ā}, vedan\textbf{āyo} |
 
-*** Quotes
+*** Feminine Nouns ending in -i
 
-ācāragocarasampanno aṇumattesu vajjesu bhayadassāvī
+| 1. nom  | bhūm\textbf{i}                      | bhūm\textbf{ī}, bhūm\textbf{iyo}   |
+| 2. acc  | bhūm\textbf{iṁ}                     | bhūm\textbf{ī}, bhūm\textbf{iyo}   |
+| 3. inst | bhūm\textbf{iyā}                    | bhūm\textbf{īhi}                   |
+| 4. dat  | bhūm\textbf{iyā}                    | bhūm\textbf{īnaṁ}                  |
+| 5. abl  | bhūm\textbf{iyā}                    | bhūm\textbf{īhi}                   |
+| 6. gen  | bhūm\textbf{iyā}                    | bhūm\textbf{īnaṁ}                  |
+| 7. loc  | bhūm\textbf{iyā}, bhūm\textbf{iyaṁ} | bhūm\textbf{isu}, bhūm\textbf{īsu} |
+| 8. voc  | bhūm\textbf{i}                      | bhūm\textbf{ī}, bhūm\textbf{iyo}   |
 
-p.51 Johannson
+*** Feminine Nouns ending in -ī
 
-Snp 3.12
+| 1. nom  | kumār\textbf{ī}                       | kumār\textbf{ī}, kumār\textbf{iyo}   |
+| 2. acc  | kumār\textbf{iṁ}                      | kumār\textbf{ī}, kumār\textbf{iyo}   |
+| 3. inst | kumār\textbf{iyā}                     | kumār\textbf{īhi}                    |
+| 4. dat  | kumār\textbf{iyā}                     | kumār\textbf{īnaṁ}                   |
+| 5. abl  | kumār\textbf{iyā}                     | kumār\textbf{īhi}                    |
+| 6. gen  | kumār\textbf{iyā}                     | kumār\textbf{īnaṁ}                   |
+| 7. loc  | kumār\textbf{iyā}, kumār\textbf{iyaṁ} | kumār\textbf{isu}, kumār\textbf{īsu} |
+| 8. voc  | kumār\textbf{ī}                       | kumār\textbf{ī}, kumār\textbf{iyo}   |
 
-“All the suffering that originates
-“Yaṁ kiñci dukkhaṁ sambhoti,
-is caused by consciousness.
-Sabbaṁ viññāṇapaccayā;
-With the cessation of consciousness,
-Viññāṇassa nirodhena,
-there is no origination of suffering.
-Natthi dukkhassa sambhavo.
+*** Feminine Nouns ending in -u
 
-Snp 4.11
+| 1. nom  | yāg\textbf{u}                     | yāg\textbf{ū}, yāg\textbf{uyo}   |
+| 2. acc  | yāg\textbf{uṁ}                    | yāg\textbf{ū}, yāg\textbf{uyo}   |
+| 3. inst | yāg\textbf{uyā}                   | yāg\textbf{ūhi}                  |
+| 4. dat  | yāg\textbf{uyā}                   | yāg\textbf{ūnaṁ}                 |
+| 5. abl  | yāg\textbf{uyā}                   | yāg\textbf{ūhi}                  |
+| 6. gen  | yāg\textbf{uyā}                   | yāg\textbf{ūnaṁ}                 |
+| 7. loc  | yāg\textbf{uyā}, yāg\textbf{uyaṁ} | yāg\textbf{usu}, yāg\textbf{ūsu} |
+| 8. voc  | yāg\textbf{u}                     | yāg\textbf{ū}, yāg\textbf{uyo}   |
 
-“So where does contact in the world spring from?
-“Phasso nu lokasmi kutonidāno,
-And possessions, too, where do they come from?
-Pariggahā cāpi kutopahūtā;
-When what is absent is there no possessiveness?
-Kismiṁ asante na mamattamatthi,
-When what disappears do contacts not strike?”
-Kismiṁ vibhūte na phusanti phassā”.
+#+latex: \clearpage
 
-“Name and form cause contact;
-“Nāmañca rūpañca paṭicca phasso,
-possessions spring from wishing;
-Icchānidānāni pariggahāni;
-when wishing is absent there is no possessiveness;
-Icchāyasantyā na mamattamatthi,
-when form disappears, contacts don’t strike.”
-Rūpe vibhūte na phusanti phassā”.
+*** Comparison Between Masculine and Neuter Nouns Ending in -a
 
-“Form disappears for one proceeding how?
-“Kathaṁ sametassa vibhoti rūpaṁ,
-And how do happiness and suffering disappear?
-Sukhaṁ dukhañcāpi kathaṁ vibhoti;
-Tell me how they disappear;
-Etaṁ me pabrūhi yathā vibhoti,
-I think we ought to know these things.”
-Taṁ jāniyāmāti me mano ahu”.
+|          | *masc.sg.*                                        | *nt.sg.*                                             | *masc.pl.*       | *nt.pl.*                         |
+|----------+---------------------------------------------------+------------------------------------------------------+------------------+----------------------------------|
+| 1. nom   | nar\textbf{o}                                     | citt\textbf{aṁ}                                      | nar\textbf{ā}    | citt\textbf{ā}, citt\textbf{āni} |
+| 2. acc   | nar\textbf{aṁ}                                    | citt\textbf{aṁ}                                      | nar\textbf{e}    | citt\textbf{e}, citt\textbf{āni} |
+| 3. inst  | nar\textbf{ena}                                   | citt\textbf{ena}                                     | nar\textbf{ehi}  | citt\textbf{ehi}                 |
+| 4. dat   | nar\textbf{āya}, nar\textbf{assa}                 | citt\textbf{āya}, citt\textbf{assa}                  | nar\textbf{ānaṁ} | citt\textbf{ānaṁ}                |
+| 5. abl   | nar\textbf{ā}, nar\textbf{amhā}, nar\textbf{asmā} | citt\textbf{ā}, citt\textbf{amhā}, citt\textbf{asmā} | nar\textbf{ehi}  | citt\textbf{ehi}                 |
+| 6. gen   | nar\textbf{assa}                                  | citt\textbf{assa}                                    | nar\textbf{ānaṁ} | citt\textbf{ānaṁ}                |
+| 7. loc   | nar\textbf{e} nar\textbf{amhi} nar\textbf{asmiṁ}  | citt\textbf{e} citt\textbf{amhi} citt\textbf{asmiṁ}  | nar\textbf{esu}  | citt\textbf{esu}                 |
+| 8. voc   | nar\textbf{a}, nar\textbf{ā}                      | citt\textbf{a} citt\textbf{ā}                        | nar\textbf{ā}    | citt\textbf{āni}                 |
 
-“Without normal perception or distorted perception;
-“Na saññasaññī na visaññasaññī,
-not lacking perception, nor perceiving what has disappeared.
-Nopi asaññī na vibhūtasaññī;
-Form disappears for one proceeding thus;
-Evaṁ sametassa vibhoti rūpaṁ,
-for concepts of identity due to proliferation spring from perception.”
-Saññānidānā hi papañcasaṅkhā”.
+*** Comparison Between Masculine and Neuter Nouns Ending in -i
 
-* Lesson 5                                                         :noexport:
-** Exercises
-** Vocabulary
-** Quotes
-*** Pāṭimokkha Rules
-*** Quotes
+|         | *masc.sg.*                                          | *nt.sg.*                                              | *masc.pl.*                     | *nt.pl.*                         |
+|---------+-----------------------------------------------------+-------------------------------------------------------+--------------------------------+----------------------------------|
+| 1. nom  | agg\textbf{i}                                       | aṭṭh\textbf{i}                                         | agg\textbf{ī}, agg\textbf{ayo} | aṭṭh\textbf{ī}, aṭṭh\textbf{īni}   |
+| 2. acc  | agg\textbf{iṁ}                                      | aṭṭh\textbf{iṁ}                                        | agg\textbf{ī}, agg\textbf{ayo} | aṭṭh\textbf{ī}, aṭṭh\textbf{īni}   |
+| 3. inst | agg\textbf{inā}                                     | aṭṭh\textbf{inā}                                       | agg\textbf{īhi}                | aṭṭh\textbf{īhi}                  |
+| 4. dat  | agg\textbf{ino}, agg\textbf{issa}                   | aṭṭh\textbf{ino}, aṭṭh\textbf{issa}                     | agg\textbf{īnaṁ}               | aṭṭh\textbf{īnaṁ}                 |
+| 5. abl  | agg\textbf{inā}, agg\textbf{imhā}, agg\textbf{ismā} | aṭṭh\textbf{inā}, aṭṭh\textbf{imhā}, aṭṭh\textbf{ismā}   | agg\textbf{īhi}                | aṭṭh\textbf{īhi}                  |
+| 6. gen  | agg\textbf{ino}, agg\textbf{issa}                   | aṭṭh\textbf{ino}, aṭṭh\textbf{issa}                     | agg\textbf{īnaṁ}               | aṭṭh\textbf{īnaṁ}                 |
+| 7. loc  | agg\textbf{imhi}, agg\textbf{ismiṁ}                 | aṭṭh\textbf{ini}, aṭṭh\textbf{imhi}, aṭṭh\textbf{ismiṁ} | agg\textbf{īsu}                | aṭṭh\textbf{isu}, aṭṭh\textbf{īsu} |
+| 8. voc  | agg\textbf{i}                                       | aṭṭh\textbf{i}                                         | agg\textbf{ī}, agg\textbf{ayo} | aṭṭh\textbf{ī}, aṭṭh\textbf{īni}   |
 
-Who is capable of growing in Dhamma-Vinaya (AN 5.10)
-A reverential and deferential bhikkhu, with five qualities
-1. has faith (saddha)
-2. moral shame (hiri)
-3. moral dread (ottappa)
-4. energetic (āraddhavīriyo)
-5. wisdom (pañña)
+*** Comparison Between Masculine and Neuter Nouns -u
 
-Longer list at AN 10.68: growing day and night, like the waxing moon
+|         | *masc.sg.*                               | *nt.sg.*                         | *masc.pl.*                            | *nt.pl.*                     |
+|---------+------------------------------------------+----------------------------------+---------------------------------------+------------------------------|
+| 1. nom  | bhikkh\textbf{u}                         | āy\textbf{uṁ}                    | bhikkh\textbf{ū}, bhikkh\textbf{avo}  | āy\textbf{ū}, āy\textbf{ūni} |
+| 2. acc  | bhikkh\textbf{uṁ}                        | āy\textbf{uṁ}                    | bhikkh\textbf{ū}, bhikkh\textbf{avo}  | āy\textbf{ū}, āy\textbf{ūni} |
+| 3. inst | bhikkh\textbf{unā}                       | āy\textbf{unā}                   | bhikkh\textbf{ūhi}                    | āy\textbf{ūhi}               |
+| 4. dat  | bhikkh\textbf{uno}, bhikkh\textbf{ussa}  | āy\textbf{uno}, āy\textbf{ussa}  | bhikkh\textbf{ūnaṁ}                   | āy\textbf{ūnaṁ}              |
+| 5. abl  | bhikkh\textbf{unā}, bhikkh\textbf{umhā}, | āy\textbf{unā}, āy\textbf{umhā}, | bhikkh\textbf{ūhi}                    | āy\textbf{ūhi}               |
+|         | bhikkh\textbf{usmā}                      | āy\textbf{usmā}                  |                                       |                              |
+| 6. gen  | bhikkh\textbf{uno}, bhikkh\textbf{ussa}  | āy\textbf{uno}, āy\textbf{ussa}  | bhikkh\textbf{ūnaṁ}                   | āy\textbf{ūnaṁ}              |
+| 7. loc  | bhikkh\textbf{umhi} bhikkh\textbf{usmiṁ} | āy\textbf{umhi} āy\textbf{usmiṁ} | bhikkh\textbf{ūsu}                    | āy\textbf{ūsu}               |
+| 8. voc  | bhikkh\textbf{u}                         | āy\textbf{u}                     | bhikkh\textbf{ū}, bhikkh\textbf{avo}, | āy\textbf{ū}, āy\textbf{ūni} |
+|         |                                          |                                  | bhikkh\textbf{ave}                    |                              |
 
-#+begin_src
-- Whoever has faith, conscience, prudence, energy, and wisdom;
-- who wants to listen, memorizes the teachings, examines their meaning, and practices accordingly, and is diligent when it comes to skillful qualities
-- can expect growth, not decline, in skillful qualities, whether by day or by night. It’s like the moon in the waxing fortnight.
-#+end_src
+#+latex: \clearpage
 
-uid:an4.199/en/sujato
+** Declension Examples
 
-When there is the concept ‘I am because of this’, there are the concepts ‘I am such because of this’, ‘I am thus because of this’,
+#+latex: \begin{multicols}{3}
+#+latex: {\centering\textit{\textbf{masculine -a}}\par}
 
-Imināsmīti, bhikkhave, sati iminā itthasmīti hoti, iminā evaṁsmīti hoti, iminā aññathāsmīti hoti, iminā asasmīti hoti, iminā satasmīti hoti...
+| nara | man |
 
-uid:an3.33/en/bodhi
+#+latex: \columnbreak
+#+latex: {\centering\textit{\textbf{masculine -i}}\par}
 
-“Tasmātiha, sāriputta, evaṁ sikkhitabbaṁ: ‘imasmiñca saviññāṇake kāye ahaṅkāramamaṅkāramānānusayā na bhavissanti, bahiddhā ca sabbanimittesu ahaṅkāramamaṅkāramānānusayā na bhavissanti, yañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharato ahaṅkāramamaṅkāramānānusayā na honti tañca cetovimuttiṁ paññāvimuttiṁ upasampajja viharissāmā’ti. Evañhi kho, sāriputta, sikkhitabbaṁ.
+| samādhi  | concentration         |
+| gahapati | householder           |
+| muni     | hermit                |
+| gāmaṇi    | chief; headman        |
+| isi      | seer; sage            |
+| ñāti     | family; relative      |
+| pāṇi      | hand; palm            |
+| sārathi  | charioteer            |
+| añjali   | palms together |
+| upadhi   | appropriation         |
+
+#+latex: \columnbreak
+#+latex: {\centering\textit{\textbf{masculine -u}}\par}
+
+| bhikkhu | monk          |
+| garu    | teacher       |
+| hetu    | reason (for)  |
+| phāsu   | ease; comfort |
+| maccu   | death         |
+| nhāru   | tendon; sinew |
+| paṁsu   | dirt; soil    |
+
+#+latex: \end{multicols}
+
+#+latex: \bigskip
+
+#+latex: \begin{multicols}{3}
+#+latex: {\centering\textit{\textbf{neuter -a}}\par}
+
+| citta     | mind              |
+| rūpa      | matter; form      |
+| maraṇa     | death             |
+| saṁyojana | fetter; chain     |
+| viññāṇa    | consciousness     |
+| sacca     | truth             |
+| āsana     | seat              |
+| pahāna    | giving up         |
+| sīla      | virtue; behaviour |
+| agāra     | dwelling; house   |
+| cīvara    | robe; cloth       |
+| dāna      | giving; offering  |
+
+#+latex: \columnbreak
+#+latex: {\centering\textit{\textbf{neuter -i}}\par}
+
+| aggi   | fire                   |
+| ādi    | beginning, and so on   |
+| akkhi  | eye                    |
+| aṭṭhi   | bone                   |
+| dadhi  | curds                  |
+| sappi  | ghee, clarified butter |
+| suci   | purity                 |
+| asuci  | impurity               |
+| vāri   | water                  |
+| byanti | end                    |
+
+#+latex: \columnbreak
+#+latex: {\centering\textit{\textbf{neuter -u}}\par}
+
+| vatthu | ground, land, case |
+| cakkhu | eye                |
+| āyu    | long life, age     |
+| massu  | beard              |
+| ahu    | day                |
+| pheggu | fibre; sapwood     |
+| madhu  | honey              |
+| āgu    | crime; offence     |
+| dāru   | wood               |
+| dhanu  | bow                |
+| sādu   | delicious food     |
+
+#+latex: \end{multicols}
+
+#+latex: \bigskip
+
+#+latex: \begin{multicols}{3}
+
+#+latex: {\centering\textit{\textbf{feminine -ā}}\par}
+
+| vedanā | sensation |
+
+#+latex: \columnbreak
+#+latex: {\centering\textit{\textbf{feminine -i}}\par}
+
+| bhūmi | earth; ground |
+
+#+latex: \columnbreak
+#+latex: {\centering\textit{\textbf{feminine -u}}\par}
+
+| dhātu | element            |
+| yāgu  | rice gruel; conjey |
+
+#+latex: \end{multicols}
+
+#+latex: \clearpage
+
+#+latex: {\centering\textit{\textbf{masculine -ī}}\par}
+
+Many of these nouns can also be used as adjectives.
+
+| hattha   | hand             | hatthī           | has a hand           | elephant           |
+| bhoga    | wealth           | bhogī            | has wealth           | wealthy person     |
+| bhoga    | pleasure         | bhogī            | has pleasure         | one who enjoys     |
+| sukha    | ease             | sukhī            | has ease             | happy person       |
+| gaṇa      | following        | gaṇī              | has following        | leader             |
+| nanda    | pleasure         | nandī            | has pleasure         | one who enjoys     |
+| pakkha   | wings            | pakkhī           | has wings            | bird               |
+| pāṇa      | breath           | pāṇī              | has breath           | living being       |
+| saññā    | perception       | saññī            | has perception       | sentient being     |
+| tapas    | ascetic practice | tapa\textbf{ss}ī | has ascetic practice | ascetic            |
+| gaha     | house            | gihī             | has house            | householder        |
+| medhā    | wisdom           | medhāvī          | has wisdom           | intelligent person |
+| vasa     | control          | vasī             | has control          | master             |
+| rūpa     | form             | rūpī             | has form             | physical being     |
+| māyā     | illusion         | māyāvī           | has illusion         | illusionist        |
+| bhāga    | portion          | bhāgī            | has portion          | shareholder        |
+| vāda     | doctrine         | vādī             | has doctrine         | adherent           |
+| dhamma   | truth            | dhammī           | has truth            | who righteous      |
+| macchara | stinginess       | maccharī         | has stinginess       | who is a stingy    |
+| ottappa  | regret           | ottappī          | has regret           | who conscientious  |
+
+#+latex: {\centering\textit{\textbf{feminine -ī}}\par}
+
+Includes common feminine nouns such as:
+
+| itthī   | woman  |
+| pathavī | earth  |
+| bhaginī | sister |
+
+Also a common way of forming feminine versions of masculine nouns.
+
+| brahmaṇa | Brahman   | brahmaṇ\textbf{ī} | Brahman woman  |
+| sakha   | friend    | sakh\textbf{ī}   | female friend  |
+| dāsa    | servant   | dās\textbf{ī}    | female servant |
+| sakuṇa   | bird      | sakuṇ\textbf{ī}   | female bird    |
+| sīha    | lion      | sīh\textbf{ī}    | lioness        |
+| kukkuṭa  | cockeral  | kukkuṭ\textbf{ī}  | hen            |
+| deva    | king, god | dev\textbf{ī}    | queen, goddess |
+
+** Irregular verb √as (to be)
+*** Present Tense
+
+|     | singular |         | plural |             |
+|-----+----------+---------+--------+-------------|
+| 3rd | atthi    | he is   | santi  | they are    |
+| 2nd | asi      | you are | attha  | you all are |
+| 1st | amhi     | I am    | amha   | we are      |
+|     |          |         |        |             |
+|     | asmi     |         | amhā   |             |
+|     |          |         |        |             |
+|     |          |         | asma   |             |
+
+*** Imperative Mood
+
+|     | singular |             | plural |                 |
+|-----+----------+-------------+--------+-----------------|
+| 3rd | atthu    | he must be  | santu  | they must be    |
+| 2nd | āhi      | you must be | attha  | you all must be |
+| 1st | amhi     | I must be   | amha   | we must be      |
+|     |          |             |        |                 |
+|     | asmi     |             | amhā   |                 |
+|     |          |             |        |                 |
+|     |          |             | asma   |                 |
+
+*** Aorist Past Tense
+
+|     | singular |          | plural    |              |
+|-----+----------+----------+-----------+--------------|
+| 3rd | ās*i*    | he was   | ās*iṁsu*  | they were    |
+|     |          |          |           |              |
+|     |          |          | ās*uṁ*    |              |
+| 2nd | ās*i*    | you were | ās*ittha* | you all were |
+| 1st | ās*iṁ*   | I was    | ās*imha*  | we were      |
+|     |          |          |           |              |
+|     |          |          | ās*imhā*  |              |
+
+root: √as (to be)
+
+constr: *a* + √as + i → *ā*si
+
+** Irregular verb √hū (to be)
+*** Present Tense
+
+|     | singular |         | plural |             |
+|-----+----------+---------+--------+-------------|
+| 3rd | hoti     | he is   | honti  | they are    |
+| 2nd | hosi     | you are | hotha  | you all are |
+| 1st | homi     | I am    | homa   | we are      |
+
+*** Imperative Mood
+
+|     | singular |             | plural |             |
+|-----+----------+-------------+--------+-------------|
+| 3rd | hotu     | he must be  | hontu  | they are    |
+| 2nd | hohi     | you must be | hotha  | you all are |
+| 1st | homi     | I must be   | homa   | we are      |
+
+*** Aorist Past Tense
+
+|     | singular |          | plural      |              |
+|-----+----------+----------+-------------+--------------|
+| 3rd | ahos*i*  | he was   | ahes*uṁ*    | they were    |
+| 2nd | ahos*i*  | you were | ahuva*ttha* | you all were |
+| 1st | ahos*iṁ* | I was    | ahu*mhā*    | we were      |
+|     |          |          |             |              |
+|     |          |          | ahu*mha*    |              |
+
+** Past Participle
+*** root + ta
+
+| bhavati  | √bhū  | to be     | bhūta           | became    |
+| passati  | √dis  | to see    | di\textbf{ṭṭ}ha  | seen      |
+| gacchati | √gam  | to go     | gata            | gone      |
+| hanati   | √han  | to kill   | hata            | killed    |
+| karoti   | √kar  | to do     | kata            | done      |
+| labhati  | √labh | to get    | la\textbf{dd}ha | received  |
+| marati   | √mar  | to die    | mata            | dead      |
+| mussati  | √mus  | to forget | mu\textbf{ṭṭ}ha  | forgotten |
+| jānāti   | √ñā   | to know   | ñāta            | known     |
+
+*** root + ita
+
+| bhāsati   | √bhās  | to speak   | bhāsita   | spoken    |
+| carati    | √car   | to walk    | carita    | walked    |
+| iñjati    | √iñj   | to move    | iñjita    | moved     |
+| makkheti  | √makkh | to smear   | makkhita  | smeared   |
+| nandati   | √nand  | to delight | nandita   | delighted |
+| pabbajati | √vaj   | to go on   | pabbajita | ordained  |
+| ṭhahati    | √ṭhā    | to stand   | ṭhita      | stood     |
+| vindati   | √vid   | to know    | vidita    | known     |
+| yācati    | √yāc   | to beg     | yācita    | begged    |
+
+*** base + ita
+
+| bhāveti    | √bhū  | bhāve  | bhāvita    | developed   |
+| deseti     | √dis  | dese   | desita     | preached    |
+| kāreti     | √kar  | kāre   | kārita     | had built   |
+| passati    | √dis  | passa  | passita    | seen        |
+| sevati     | √si   | seva   | sevita     | associated  |
+| pakāseti   | √kās  | kāse   | pakāsita   | explained   |
+| parisedati | √sid  | sede   | parisedita | incubated   |
+| phasseti   | √phus | phasse | phassita   | touched     |
+| ṭhapeti     | √ṭhā   | ṭhape   | ṭhapita     | placed      |
+| vedayati   | √vid  | vedaya | vedayita   | experienced |
+
+*** root + na
+
+| chindati   | √chid | to cut         | chi\textbf{nn}a   | cut       |
+| jirati     | √jīr  | to age         | ji\textbf{ṇṇ}a     | aged      |
+| khīyati    | √khī  | to destroy     | khīna             | destroyed |
+| muyhati    | √muh  | to be confused | mū\textbf{ḷh}a     | confused  |
+| nisīdati   | √sad  | to sink        | nisi\textbf{nn}a  | seated    |
+| pajahati   | √hā   | to abandon     | pah\textbf{ī}na   | abandoned |
+| pūrati     | √pūr  | to fill        | pu\textbf{ṇṇ}a     | completed |
+| upapajjati | √pad  | to go          | upapa\textbf{nn}a | appeared  |
+| vikirati   | √kir  | to scatter     | viki\textbf{ṇṇ}a   | scattered |
+
+** Interrogatives, Asking Questions
+
+| api              | have? did?             |
+| api nu           | who? what? how? would? |
+| kahaṁ            | where?                 |
+| katama           | what?; which?          |
+| kasmā            | why?                   |
+| kathaṁ           | how?                   |
+| kiṁ              | who? what? which? why? |
+| kiñca (kiṁ + ca) | and what? but why? etc |
+| kinti            | how? in what way?      |
+| kīva             | how far? how much?     |
+| kuhiṁ            | where?                 |
+| kuvaṁ            | where?                 |
+
+** Negation
+
+# Bodhirasa: Class 5
+# Maitreya: Lesson 6, 8, 9
+
+*The particle /na/* can be placed before a verb:
+
+| na gacchati     | he does not go  |
+| ahaṁ na jānāmi  | I don't know    |
+| so naro n'atthi | he is not a man |
+
+*The particle /mā/* standing before an imperative verb expresses a prohibition: /mā gaccha/ (don't go!)
+
+/jhāyatha, bhikkhave, mā pamādaṃ attha/ (MN 19 simpl) Meditate, monks! Don’t be negligent!
+
+The verb is often in the aorist past tense, but the meaning is in the present or even the future.
+
+| mā āgacchi | Don't come!           |
+| mā kari    | Don't do! Don't make! |
+
+/mā akāsi pāpakaṃ kammaṃ/ (SN 10.5) Don’t do evil deeds.
+
+/kiṃ nu kujjhasi? mā kujjhi!/ (SN 21.9) Why are you angry? Don't be angry!
+
+*The particle /no/* can express the meaning "not" (among other meanings).
+
+/Ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya./ (AN 8.53) \\
+These qualities lead to attachment, not to detachment.
+* References
+
+Beginner Pāli Course at SBS
+https://sasanarakkha.github.io/study-tools/pali-class.html
+
+Pali Made Easy by Venerable Balangoda Ananda Maitreya
+https://archive.org/details/PaliMadeEasyOCRed
+
+A Practical Grammar of the Pāli Language by Charles Duroiselle, v4.3, 2007
+https://archive.org/details/PaliGrammarCharlesDuroiselle
+
+A New Course In Reading Pali by James W. Gair, W. S. Karunatillake
+https://archive.org/details/NewPaliCourse/
+
+[fn:sn-42-3] [[https://suttacentral.net/sn42.3/en/sujato][SN 42.3]]
+
+[fn:snp-2-1] Snp 2.1 simpl.
+
+[fn:ratanattaya] Paritta Ratanattaya-paṇāma, simpl.
+
+[fn:vatthebhi] The only occurrence of vatth\textbf{ebhi}, normally it's vatth\textbf{ehi}.
+
+[fn:predicate] A predicate is any word or phrase which describes its subject.
