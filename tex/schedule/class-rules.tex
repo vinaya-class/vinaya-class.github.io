@@ -1,0 +1,88 @@
+\documentclass[11pt]{article}
+
+\usepackage{geometry}
+\geometry{
+  a5paper,
+  landscape,
+  nohead,
+  nofoot,
+  vmargin = 15mm,
+  hmargin = 20mm,
+}
+
+\usepackage[normalem]{ulem}
+\usepackage{multicol}
+% \usepackage{xcolor}
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
+
+\setmainfont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+]{Crimson-Roman.otf}
+
+% \newfontfamily\spectralScFont{SpectralSC-Medium.otf}
+
+\setlength{\parskip}{8pt}
+\setlength{\parindent}{0pt}
+
+\newcommand\subSectionFmt[1]{%
+  {%
+  \normalfont%
+  \bfseries\itshape%
+  \uline{#1}%
+  }%
+}
+
+\pagestyle{empty}
+
+\setlength{\columnsep}{20pt}
+\setlength{\columnseprule}{0pt}
+
+\begin{document}
+
+% \raggedright
+
+{\LARGE Class Rules}
+
+\begin{multicols}{2}
+
+\subSectionFmt{Kuṭi-Work Before Vinaya Class:}
+
+Sign up for presenting rules and prepare.
+
+There will be a short test before the introduction, with the question:
+
+`List the ten reasons for the establishing of the Pāṭimokkha.' (Memorize from Pr 1 story or AN 10.31)
+
+\subSectionFmt{Class Materials:}
+
+No phones, tablets or laptops in the class room. Bring pen and paper.
+
+Everyone will get a copy of the general class notes, and a small Pāṭimokkha book. There will be reference books in the room for fact-checking, but use them as little as possible.
+
+\columnbreak
+
+\subSectionFmt{Routine:}
+
+(1)~Chanting to pay respect. (2)~Origin stories.\\
+(3)~Rules. (4)~Quiz and discussion of solutions.
+
+\subSectionFmt{Presenting a group of rules:}
+
+20-30 mins, be concise. Focus on the main points. Aim to speak from memory, prepare short notes as a guide. For the quiz questions, add new ones if you wish.
+
+Arrange with someone to present the origin story, recommended ones are marked with an asterisk on the schedule.
+
+In a discussion, questions not relevant to the topic should be deferred to another occasion.
+
+\subSectionFmt{Presenting origin stories:}
+
+Tell us what happens in the story in your own words, focusing on the aspects relevant to the rule. Make a few bullet points to remember, don't read the story from the book.
+
+\end{multicols}
+
+\end{document}

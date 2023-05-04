@@ -30,8 +30,6 @@
 - [Robes 2](24-robes-2.md)
 - [Misc 3](25-misc-3.md)
 
-[Questions](99-questions.md)
-
 [Closing](99-closing.md)
 
 <!-- [Profiles](99-profiles.md) -->

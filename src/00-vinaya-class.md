@@ -11,6 +11,7 @@ Read here or download as PDF below for printing:
 
 - [schedule.pdf](./includes/docs/schedule.pdf)
 - [sign-up-sheet.pdf](./includes/docs/sign-up-sheet.pdf)
+- [class-rules.pdf](./includes/docs/class-rules.pdf)
 - [vinaya-class-notes.pdf](./includes/docs/vinaya-class-notes.pdf)
 - [vinaya-class-questions-A.pdf](./includes/docs/vinaya-class-questions-A.pdf)
 - [vinaya-class-questions-A-answerkey.pdf](./includes/docs/vinaya-class-questions-A-answerkey.pdf)
@@ -32,6 +33,18 @@ Read here or download as PDF below for printing:
 
 [![Sign-up Sheet](./includes/docs/sign-up-sheet-thumb.png)](./includes/docs/sign-up-sheet.pdf)
 
+## Class Rules
+
+**NOTE:** This is one way to organize the class routine, please adapt as you see
+best. One example alternative would be that after presenting the rules, a large
+group can be broken up to several smaller ones for the quiz questions and
+subsequent discussion, with each sub-group including at least one experienced
+/thera/.
+
+[class-rules.pdf](./includes/docs/class-rules.pdf)
+
+[![Class Rules](./includes/docs/class-rules-thumb.png)](./includes/docs/class-rules.pdf)
+
 ## Notes
 
 [vinaya-class-notes.pdf](./includes/docs/vinaya-class-notes.pdf)
@@ -39,6 +52,11 @@ Read here or download as PDF below for printing:
 [![Vinaya Class Notes](./includes/docs/vinaya-class-notes-thumb.png)](./includes/docs/vinaya-class-notes.pdf)
 
 ## Questions
+
+**NOTE:** The questions are written to _lean toward_ a particular answer, but
+they may have different solutions depending on how one imagined the situation
+presented. They are intended to be filled out and reviewed together during the
+class, discussing the possible solutions.
 
 **Series 'A'**
 

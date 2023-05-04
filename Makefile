@@ -1,4 +1,4 @@
-all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf
+all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf
 
 dist:
 	./scripts/dist.sh
@@ -33,6 +33,9 @@ schedule-pdf:
 
 sign-up-sheet-pdf:
 	./scripts/compile_tex.sh ./tex/schedule/sign-up-sheet.tex
+
+class-rules-pdf:
+	./scripts/compile_tex.sh ./tex/schedule/class-rules.tex
 
 vinayakamma-chart-pdf:
 	./scripts/compile_tex.sh ./tex/vinayakamma-chart/vinayakamma-chart.tex
