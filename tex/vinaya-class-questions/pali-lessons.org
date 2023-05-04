@@ -13,6 +13,7 @@
 #+LANGUAGE: en_GB
 #+OPTIONS: toc:nil tasks:nil ':t H:4 author:nil
 #+TITLE: Pali Lessons
+#+AUTHOR: The Bhikkhu Saṅgha
 
 #+latex: \frontmatter
 #+latex: \par
@@ -332,7 +333,7 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 /n'eso'ham'asmi:/ [na + eso + ahaṁ + asmi] lit. not this I am
 
 #+begin_quote
-/Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ./ ([[https://suttacentral.net/ud8.3/en/sujato][Ud 8.3]])
+/Atthi, bhikkhave, ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ./ ([[https://suttacentral.net/ud8.3/pli/ms][Ud 8.3]])
 
 \fillin{12cm}{There is, monks, an unborn, unoriginated, uncreated, unfabricated.}
 #+end_quote
@@ -354,9 +355,10 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 | uṭṭhāti                                    | stands up                          |
 | Sīhā na dhāvanti.                         | *The lions* are not running.       |
 | Jātā mīyanti.                             | *(Those who are) born* (they) die. |
+| Mallako bhindati.                         | The cup breaks.                    |
 | Abhisatto'va nipatati, vayo.[fn:thag-118] | Like a curse, it falls, *old age*. |
 
-[fn:thag-118] [[https://suttacentral.net/thag1.118/en/sujato][Thag 118]]
+[fn:thag-118] [[https://suttacentral.net/thag1.118/pli/ms][Thag 118]]
 
 *** Accusative Case: naraṁ -- the man (object)
 
@@ -378,7 +380,7 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 *(b)* "*Where* is he going to?" Indicates where the subject is *going to* or *going along*. A.k.a. "the accusative of motion".
 
 #+begin_quote
-/Māluvābījaṁ sālamūle nipatati./ ([[https://suttacentral.net/mn45/en/sujato][MN 45]])
+/Māluvābījaṁ sālamūle nipatati./ ([[https://suttacentral.net/mn45/pli/ms][MN 45]])
 
 The māluva-seed (/māluvābīja/) falls *at the base of sal trees.* (/sālamūla/)
 #+end_quote
@@ -406,7 +408,7 @@ The māluva-seed (/māluvābīja/) falls *at the base of sal trees.* (/sālamūl
 
 #+latex: \normalArrayStrech
 
-[fn:mn-118] [[https://suttacentral.net/mn118/en/sujato][MN 118]]
+[fn:mn-118] [[https://suttacentral.net/mn118/pli/ms][MN 118]]
 
 * Lesson 2
 ** Review Exercises
@@ -554,7 +556,7 @@ Dasa atthavase:
 (1.) saṅghasuṭṭhutāya,
 (2.) saṅghaphāsutāya,
 (3.) dummaṅkūnaṁ puggalānaṁ \mbox{niggahāya},
-(4.) pesalānaṁ bhikkhūnaṁ phāsuvihārāya, ... (AN 10.31)
+(4.) pesalānaṁ bhikkhūnaṁ phāsuvihārāya, ... ([[https://suttacentral.net/an10.31/pli/ms][AN 10.31]])
 #+end_quote
 
 *** Genitive Case: narassa -- of the man, the man's
@@ -647,7 +649,7 @@ Irregular forms:
 The optative generally indicates that the situation is hypothetical. It is often used to imply sense of "if".
 
 #+begin_quote
-/Yadā tumhe, bhaddiya, attanāva jāneyyātha.../ ([[https://suttacentral.net/an4.193/en/sujato][AN 4.193]])
+/Yadā tumhe, bhaddiya, attanāva jāneyyātha.../ ([[https://suttacentral.net/an4.193/pli/ms][AN 4.193]])
 
 \fillin{10cm}{When (if) you, Bhaddiya, know this by yourself...}
 #+end_quote
@@ -655,7 +657,7 @@ The optative generally indicates that the situation is hypothetical. It is often
 The optative cam imply a polite imperative, "it would be good if you..."
 
 #+begin_quote
-/Atha tumhe, kālāmā, upasampajja vihareyyāthā.../ ([[https://suttacentral.net/an3.65/en/sujato][AN 3.65]])
+/Atha tumhe, kālāmā, upasampajja vihareyyāthā.../ ([[https://suttacentral.net/an3.65/pli/ms][AN 3.65]])
 
 \fillin{10cm}{Then, Kālāmas, you should undertake them and abide in them...}
 #+end_quote
@@ -720,7 +722,7 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 
 *** Readings
 
-Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ vadeyyaṁ: "kusalaṁ, bhikkhave, bhāvethā"ti. ([[https://suttacentral.net/an2.11-20/en/sujato][AN 2.11-20]])
+Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ vadeyyaṁ: "kusalaṁ, bhikkhave, bhāvethā"ti. ([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.11-20]])
 
 -----
 
@@ -944,7 +946,7 @@ irregular forms.
 #+begin_quote
 /Atha kho aññataro brāhmaṇo yena bhagavā ten'upasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi./
 
-Then a certain Brahman approached the Blessed One. Having approached, he greeted (exchanged greetings with) the Blessed One. ([[https://suttacentral.net/an2.11-20/en/sujato][AN 2.16]])
+Then a certain Brahman approached the Blessed One. Having approached, he greeted (exchanged greetings with) the Blessed One. ([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.16]])
 #+end_quote
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -969,7 +971,7 @@ Then a certain Brahman approached the Blessed One. Having approached, he greeted
 #+begin_quote
 Kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati ... tassa abhijjhāpi
 ... byāpādopi ... thinamiddhampi ... uddhaccakukkuccampi ... vicikicchāpi ...
-aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentral.net/mn68/en/sujato][MN 68]])
+aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentral.net/mn68/pli/ms][MN 68]])
 #+end_quote
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -1054,7 +1056,7 @@ long or remain short.
 #+begin_quote
 /Ekaṁ samayaṁ bhagavā bhoganagare viharati ānandacetiye./
 
-[...] /asukasmiṁ nāma āvāse saṅgho viharati sathero sapāmokkho/ ([[https://suttacentral.net/an4.180/en/sujato][AN 4.180]])
+[...] /asukasmiṁ nāma āvāse saṅgho viharati sathero sapāmokkho/ ([[https://suttacentral.net/an4.180/pli/ms][AN 4.180]])
 #+end_quote
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -1119,6 +1121,15 @@ Not to be confused with nominative forms:
 | from everywhere                  | \fillin{4cm}{sabbato}  |
 | from the lamp                    | \fillin{4cm}{padīpato} |
 
+*The suffix /-to/* can also form indeclinable adverbs: /dukkato/ can be translated as ablative "from suffering", or an adverb "as suffering".
+
+/parato/: (1) abl. [para + to], from far \\
+/parato/: (2) ind. as another; as alien
+
+/parato ca ghoso:/ word of another
+
+/Saṅkhāre parato passa, dukkhato mā ca attato./ ([[https://suttacentral.net/sn8.4/pli/ms][SN 8.4]])
+
 #+latex: \clearpage
 
 ** Exercises
@@ -1160,13 +1171,15 @@ puññakkhette anuttare.
 -----
 
 Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so,
-mahārāja, padīpo padīpamhā saṅkanto'ti? ([[https://suttacentral.net/mil3.5.5/en/sujato][Mil 3.5.5]])
+mahārāja, padīpo padīpamhā saṅkanto'ti? ([[https://suttacentral.net/mil3.5.5/pli/ms][Mil 3.5.5]])
 
 -----
 
 Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya... (NP 8)
 
 So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya... (NP 10)
+
+#+latex: \addtocontents{toc}{\clearpage}
 
 * Lesson 4
 ** Review Exercises
@@ -1444,7 +1457,7 @@ viharissāma ācāra-gocara-sampannā. (Sīl'uddesa-pāṭha)
 -------
 
 Sīlavā kho panāyamāyasmā pātimokkhasaṁvarasaṁvuto viharati ācāragocarasampanno
-aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu. ([[https://suttacentral.net/an8.2/en/sujato][AN 8.2]])
+aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu. ([[https://suttacentral.net/an8.2/pli/ms][AN 8.2]])
 
 # This monk is ethical, restrained in the monastic code, conducting themselves
 # well and seeking alms in suitable places. Seeing danger in the slightest fault,
@@ -1453,7 +1466,7 @@ aṇumattesu vajjesu bhayadassāvī, samādāya sikkhati sikkhāpadesu. ([[https
 -----
 
 Yato kho tvaṁ, uttiya, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne
-evaṁ bhāvessasi, tato tvaṁ, uttiya, gamissasi maccudheyyassa pāran'ti. ([[https://suttacentral.net/sn47.16/en/sujato][SN 47.16]])
+evaṁ bhāvessasi, tato tvaṁ, uttiya, gamissasi maccudheyyassa pāran'ti. ([[https://suttacentral.net/sn47.16/pli/ms][SN 47.16]])
 
 # When you develop these four kinds of mindfulness meditation, depending on and
 # grounded on ethics, you'll pass beyond Death's domain.
@@ -1528,6 +1541,7 @@ Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi r
 
 | rukkho patito (pp.nom. of patati)                     | the fallen tree                      |
 | antarāyiko dhammo vutto (pp.nom. of vacati) bhagavatā | said to be an obstacle by the Buddha |
+| Pubbe'bhinno mallako.                                 | The cup is already broken.           |
 
 When the subject is in instrumental case, the past participle is passive.
 
@@ -2412,21 +2426,15 @@ The verb is often in the aorist past tense, but the meaning is in the present or
 These qualities lead to attachment, not to detachment.
 * References
 
-Beginner Pāli Course at SBS
-https://sasanarakkha.github.io/study-tools/pali-class.html
+- [[https://sasanarakkha.github.io/study-tools/pali-class.html][Beginner Pāli Course at SBS (sasanarakkha.github.io)]]
+- [[https://archive.org/details/PaliMadeEasyOCRed][Pali Made Easy by Venerable Balangoda Ananda Maitreya (archive.org)]]
+- [[https://archive.org/details/PaliGrammarCharlesDuroiselle][A Practical Grammar of the Pāli Language by Charles Duroiselle, v4.3, 2007 (archive.org)]]
+- [[https://archive.org/details/NewPaliCourse/][A New Course In Reading Pali by James W. Gair, W. S. Karunatillake (archive.org)]]
+- [[https://archive.org/details/PaliBuddhistTextsA][Pali Buddhist Texts Explained to the Beginner by Rune E A Johansson (archive.org)]]
 
-Pali Made Easy by Venerable Balangoda Ananda Maitreya
-https://archive.org/details/PaliMadeEasyOCRed
+[fn:sn-42-3] [[https://suttacentral.net/sn42.3/pli/ms][SN 42.3]]
 
-A Practical Grammar of the Pāli Language by Charles Duroiselle, v4.3, 2007
-https://archive.org/details/PaliGrammarCharlesDuroiselle
-
-A New Course In Reading Pali by James W. Gair, W. S. Karunatillake
-https://archive.org/details/NewPaliCourse/
-
-[fn:sn-42-3] [[https://suttacentral.net/sn42.3/en/sujato][SN 42.3]]
-
-[fn:snp-2-1] Snp 2.1 simpl.
+[fn:snp-2-1] [[https://suttacentral.net/snp2.1/pli/ms][Snp 2.1]] simpl.
 
 [fn:ratanattaya] Paritta Ratanattaya-paṇāma, simpl.
 
