@@ -7,7 +7,11 @@
 
 </div>
 
-Read here or download as PDF below for printing:
+Read here or download as PDF below for printing.
+
+- [vinaya-class.zip](./includes/docs/vinaya-class.zip) All-in-one ZIP archive
+
+Individual files:
 
 - [schedule.pdf](./includes/docs/schedule.pdf)
 - [sign-up-sheet.pdf](./includes/docs/sign-up-sheet.pdf)

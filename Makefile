@@ -1,4 +1,4 @@
-all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf
+all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf vinaya-class-zip
 
 dist:
 	./scripts/dist.sh
@@ -45,3 +45,6 @@ sanghadisesa-procedure-pdf:
 
 robe-keeping-pdf:
 	./scripts/compile_tex.sh ./tex/robe-keeping/robe-keeping.tex
+
+vinaya-class-zip:
+	cd src/includes/docs && zip vinaya-class.zip *.pdf
