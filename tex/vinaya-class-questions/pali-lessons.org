@@ -34,6 +34,22 @@
 #+latex: \par
 #+latex: \mainmatter
 
+* Tasks                                                            :noexport:
+
+add missing exercises
+
+Vocab csv + BPC exec.
+
+Bril font for lang cheat sheets
+
+** publish only before classes
+
+Pali Chat
+
+Pali Poem
+
+Pali Crossword (see TPC 14)
+
 * Notes                                                            :noexport:
 ** yo pana
 
@@ -308,16 +324,16 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 
 #+latex: \columnbreak
 
-| he sees             | passati                  |
-| you (sg.) see       | \fillin{4cm}{passasi}    |
-| he recites          | uddisati                 |
-| I recite            | \fillin{4cm}{uddisāmi}   |
-| he gives (to)       | deti                     |
-| you (pl.) give (to) | \fillin{4cm}{detha}      |
-| he informs          | āroceti                  |
-| I inform            | \fillin{4cm}{ārocemi}    |
-| he confesses        | āvikaroti                |
-| you confess         | \fillin{4cm}{āvikarotha} |
+| he sees             | passati                 |
+| you (sg.) see       | \fillin{4cm}{passasi}   |
+| he recites          | uddisati                |
+| I recite            | \fillin{4cm}{uddisāmi}  |
+| he gives (to)       | deti                    |
+| you (pl.) give (to) | \fillin{4cm}{detha}     |
+| he informs          | āroceti                 |
+| I inform            | \fillin{4cm}{ārocemi}   |
+| he confesses        | āvikaroti               |
+| you (sg.) confess   | \fillin{4cm}{āvikarosi} |
 
 #+latex: \end{multicols}
 
@@ -351,8 +367,8 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 "*Who* is doing it?" Indicates the *subject* of a sentence.
 
 | Naro nisīdati.                            | *The man* sits.                    |
-| Mātugāmo uṭṭhahati.                        | *The woman* stands.                |
-| uṭṭhāti                                    | stands up                          |
+| Dārako tiṭṭhati.                           | *The boy* stands (tiṭṭhati).        |
+| Mātugāmo uṭṭhahati.                        | *The woman* stands up (uṭṭhāti).    |
 | Sīhā na dhāvanti.                         | *The lions* are not running.       |
 | Jātā mīyanti.                             | *(Those who are) born* (they) die. |
 | Mallako bhindati.                         | The cup breaks.                    |
@@ -371,24 +387,32 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 | The lion doesn't see *the dogs.* (/sunakha/)               | \fillin{8cm}{Sīho sunakhe na passati.}  |
 | The dogs are barking (/bhussati/) *at the moon.* (/canda/) | \fillin{8cm}{Sunakhā candaṁ bhussanti.} |
 
-| The disciple (/sāvaka/) eats the lion.                     | \fillin{8cm}{Sāvako sīhaṁ khādati.}     |
-| The lion eats the disciple.                                | \fillin{8cm}{Sīho sāvakaṁ khādati.}     |
-| They fill up (/paripūreti/) the ocean. (/sāgara/)          | \fillin{8cm}{Paripūrenti sāgaraṁ.}      |
+#+latex: \clearpage
+
+| The disciple (/sāvaka/) eats the lion.                            | \fillin{8cm}{Sāvako sīhaṁ khādati.} |
+| The lion eats the disciple.                                       | \fillin{8cm}{Sīho sāvakaṁ khādati.} |
+| They fill up (/paripūreti/) the ocean (/sāgara/).[fn:yatha-chant] | \fillin{8cm}{Paripūrenti sāgaraṁ.}  |
 
 #+latex: \normalArrayStrech
 
-*(b)* "*Where* is he going to?" Indicates where the subject is *going to* or *going along*. A.k.a. "the accusative of motion".
+*(b)* "*Where* is he going to?" Indicates where the subject is *going to* or *going along*. \\
+A.k.a. "the accusative of motion".
 
 #+begin_quote
 /Māluvābījaṁ sālamūle nipatati./ ([[https://suttacentral.net/mn45/pli/ms][MN 45]])
 
 The māluva-seed (/māluvābīja/) falls *at the base of sal trees.* (/sālamūla/)
+
+/Bhagavā kosalesu cārikaṁ carati.../ (Ud 5.9)
+
+The Buddha was wandering in the land of the Kosalans...
 #+end_quote
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| The elder walks *along the road.*                   | \fillin{8cm}{Thero maggaṁ carati.}       |
+| The elder is *going on a walk.*                     | \fillin{8cm}{Thero cārikaṁ carati.}      |
 | The layman (/upāsaka/) doesn't go *to the village.* | \fillin{8cm}{Upāsako gāmaṁ na gacchati.} |
+| We go up to (upasaṅkamati) the layman.               | \fillin{8cm}{Upāsakaṁ upasaṅkamāma.}     |
 | The men run *to the barn.* (/koṭṭhāgāra/)            | \fillin{8cm}{Narā koṭṭhāgāraṁ dhāvanti.}  |
 | The birds fly *to the sal trees.* (/sālarukkha/)    | \fillin{8cm}{Sakuṇā sālarukkhe uḍḍenti.}  |
 | We enter (/pavisati/) *the hut.* (/agāra/)          | \fillin{8cm}{Agāraṁ pavisāma.}           |
@@ -408,22 +432,64 @@ The māluva-seed (/māluvābīja/) falls *at the base of sal trees.* (/sālamūl
 
 #+latex: \normalArrayStrech
 
-[fn:mn-118] [[https://suttacentral.net/mn118/pli/ms][MN 118]]
+*** Extra Challenge                                                :noexport:
+**** Pāli Chat
+
+This morning I am entering Ericeira for alms-round.
+
+/Idha pubbaṇhasamayaṁ Ericeiraṁ piṇḍāya pavisāmi./
+
+| Good morning!                            | Supubbaṇho bhante/āvuso.              |
+| Good morning everyone.                   | Supubbaṇho sabbesaṁ.                 |
+| Thank you.                               | Anumodāmi.                           |
+| You're welcome.                          | Svāgato.                             |
+| I (we) must go.                          | Handa dāni mayaṁ gacchāma.           |
+| Go at your convenience.                  | Yassadāni tvaṁ kālaṁ maññasī.        |
+| See you tomorrow.                        | Suve.                                |
+| Sorry.                                   | Kāruññaṁ.                            |
+| Yes.                                     | Āma, bhante.                         |
+| No.                                      | No hetaṁ, bhante.                    |
+| Never mind (leave it aside).             | Tiṭṭhatu, bhante.                     |
+| Excuse me!                               | Okāsa, bhante.                       |
+| Please sit.                              | Nisīdatha.                           |
+| How are you? (I hope you are enduring.)  | Kacci te bhante khamanīyaṁ?          |
+| I hope you all are well.                 | Kacci vo khamanīyaṁ.                 |
+| I am alright.                            | Khamanīyaṁ me, āvuso.                |
+| I am not well.                           | Na me, bhante, khamanīyaṁ.           |
+| I didn't understand.                     | Aññāṇamāpādi.                         |
+| Why is that?                             | Taṁ kissa hetu?                      |
+| It is very hot / cold today.             | Ajjaṁ uṇhakālaṁ / sītakālaṁ.        |
+| Where is the market?                     | Kattha / Kuhiṁ antarāpaṇaṁ?          |
+| What is your name?                       | Kinnāmosi?                           |
+| My name is ...                           | Ahaṁ bhante ... nāma.                |
+| What is your preceptor's name?           | Ko nāma te upajjhāyo?                |
+| My preceptor's name is Ven. ...          | Upajjhāyo me bhante āyasmā ... nāma. |
+| aṇha (m.)                                 | day                                  |
+| sāya (nt.)                               | night                                |
+| samaya (m.)                              | time; occasion                       |
+| supubbaṇha [su + pubba + aṇha]            | good morning                         |
+| pubbaṇhasamayaṁ                          |                                      |
+| sumajjhanhika [su + majjha + anha + ika] | good midday                          |
+| majjhanhikasamayaṁ                       |                                      |
+| susāyanha [su + sāya + anha]             | good evening                         |
+| sāyanhasamayaṁ                           |                                      |
+
+([[https://suttacentral.net/an3.155/en/sujato][AN 3.155, Morning]])
 
 * Lesson 2
 ** Review Exercises
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| The man eats rice.       | \fillin{8cm}{Naro bhattaṁ bhuñjati.} |
-| The men are cooking.     | \fillin{8cm}{Narā pacanti.}          |
-| I walk to the man.       | \fillin{8cm}{Naraṁ carāmi.}          |
-| I see the moon.          | \fillin{8cm}{Candaṁ passāmi.}        |
-| They don't see the dogs. | \fillin{8cm}{Sunakhe na passatha.}   |
-| The boys are running.    | \fillin{8cm}{Dārakā dhāvanti.}       |
-| You are sitting here.    | \fillin{8cm}{Idha nisīdasi.}         |
-| She comes from there.    | \fillin{8cm}{Sā tato āgacchati.}     |
-| We run to the boys.      | \fillin{8cm}{Mayaṁ dārake dhāvāma.}  |
+| The man eats rice.            | \fillin{8cm}{Naro bhattaṁ bhuñjati.} |
+| The men are cooking.          | \fillin{8cm}{Narā pacanti.}          |
+| I go up to the man.           | \fillin{8cm}{Naraṁ upasaṅkamati.}    |
+| I see the moon.               | \fillin{8cm}{Candaṁ passāmi.}        |
+| You (pl.) don't see the dogs. | \fillin{8cm}{Sunakhe na passatha.}   |
+| The boys are running.         | \fillin{8cm}{Dārakā dhāvanti.}       |
+| You are sitting here.         | \fillin{8cm}{Idha nisīdasi.}         |
+| She comes from there.         | \fillin{8cm}{Sā tato āgacchati.}     |
+| We run to the boys.           | \fillin{8cm}{Mayaṁ dārake dhāvāma.}  |
 
 #+latex: \normalArrayStrech
 
@@ -495,11 +561,12 @@ The particle /mā/ is used to express a prohibition.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Phāsu (comfortably) vihara\textbf{tu}! | \fillin{8cm}{Let him live comfortably!}          |
-| Vassasataṁ jīv\textbf{a}!              | \fillin{8cm}{May you live 100 years!}            |
-| \textbf{Mā} gaccha!                    | \fillin{8cm}{Don't go!}                          |
-| Suṇātu me bhante saṅgho ...             | \fillin{8cm}{Let the Sangha hear me.}            |
-| Pārisuddhiṁ āyasmanto ārocetha.        | \fillin{8cm}{Let the Venerables declare purity.} |
+| Buddho paṭiggaṇhā\textbf{tu} accayantaṃ. | \fillin{8cm}{May the Buddha accept (that) transgression.} |
+| Phāsu (comfortably) vihara\textbf{tu}!  | \fillin{8cm}{Let him live comfortably!}                   |
+| Vassasataṁ jīv\textbf{a}!               | \fillin{8cm}{May you live 100 years!}                     |
+| \textbf{Mā} gaccha!                     | \fillin{8cm}{Don't go!}                                   |
+| Suṇātu me bhante saṅgho ...              | \fillin{8cm}{Let the Sangha hear me.}                     |
+| Pārisuddhiṁ āyasmanto ārocetha.         | \fillin{8cm}{Let the Venerables declare purity.}          |
 
 #+latex: \normalArrayStrech
 
@@ -515,10 +582,13 @@ In the singular case, to the stems ending in /i, ī, u, ū/, the ending /-nā/ i
 
 In the plural case, the final long vowel becomes long and /-hi/ is added.
 
-|                  |   | *sg.*    | *pl.*    |
-| senānī (general) | → | senāninā | senānīhi |
-| garu (teacher)   | → | garunā   | garūhi   |
-| vidū (seer)      | → | vidunā   | vidūhi   |
+|                   |   | *sg.*                  | *pl.*                  |
+| ācariya (teacher) | → | ācariyena              | ācariyehi              |
+| paṇḍita (sage)     | → | \fillin{4cm}{paṇḍitena} | \fillin{4cm}{paṇḍitehi} |
+| senānī (general)  | → | senāninā               | senānīhi               |
+| garu (guru)       | → | garunā                 | garūhi                 |
+| vidū (seer)       | → | vidunā                 | vidūhi                 |
+| viññū (wise man)  | → | \fillin{4cm}{viññunā}  | \fillin{4cm}{viññūhi}  |
 
 The particles *saddhiṁ, saha* used with the instrumental case, expresses the meaning of *"together with / accompanied by"*.
 
@@ -526,11 +596,11 @@ The particles *saddhiṁ, saha* used with the instrumental case, expresses the m
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Buddhena saddhiṁ                                    | together with the Buddha                           |
-| \fillin{8cm}{garunā saddhiṁ}                        | together with the teacher                          |
-| \fillin{8cm}{vidūhi saddhiṁ}                        | together with the wise men                         |
-| \fillin{8cm}{Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.} | I, together with a friend, go to the village.      |
-| \fillin{8cm}{Maggaṁ mātugāmena saddhiṃ carati.}     | He walks along the road with a woman. (/mātugāma/) |
+| Buddhena saddhiṁ                                    | together with the Buddha                      |
+| \fillin{8cm}{ācariyena / ācariyā saddhiṁ}           | together with the teacher                     |
+| \fillin{8cm}{viññūhi saddhiṁ}                       | together with the wise men                    |
+| \fillin{8cm}{Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.} | I, together with a friend, go to the village. |
+| \fillin{8cm}{Mātugāmena saddhiṃ cārikaṁ carati.}    | He wanders about with a woman. (/mātugāma/)   |
 
 | Aṭṭhi tacena onaddhaṁ, saha vatthebhi[fn:vatthebhi]\space sobhati. (MN 82) |
 | \fillin{10cm}{A bone covered with skin; it looks beautiful with clothes.} |
@@ -543,13 +613,22 @@ The particles *saddhiṁ, saha* used with the instrumental case, expresses the m
 
 *** Dative Case: narāya / narassa -- to the man, for the man
 
+# Maitreya: p.47
+
 *"To whom/what? For whom/what?"*
 
 Singular: final /-a/ of the stem becomes /-āya/ and /-assa/.
 
 /Buddhāya, Buddhassa/: to or for the Buddha.
 
+#+begin_quote
+Saṅgho imaṃ kaṭhinadussaṃ āyasmato Amarassa deti. ([[https://suttacentral.net/pli-tv-kd7/pli/ms][Vin. Kd 7]])
+#+end_quote
+
 To the stems ending in /i, ī, u, ū/, the ending /-no/ and /-ssa/ are added.
+
+| \fillin{8cm}{Namo Buddhāya / Buddhassa.} | Homage to the Buddha. |
+| \fillin{8cm}{Nibbānāya saṁvattati.}      | It leads to Nibbāna.  |
 
 #+begin_quote
 Dasa atthavase:
@@ -560,6 +639,8 @@ Dasa atthavase:
 #+end_quote
 
 *** Genitive Case: narassa -- of the man, the man's
+
+# Maitreya: p.48
 
 *"Of whom/what? Whose?"*
 
@@ -577,24 +658,24 @@ Genitive singular forms of other nouns are the same as the Dative singulars.
 
 The irregular /go/ (cow, ox) has two forms: /gavassa, gāvassa/ (to/for the cow, of the cow, the cow's).
 
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| We don't see the change of the body of the man. | \fillin{8cm}{Na passāma manussassa kāyassa vipariṇāmaṁ.}  |
-| TODO                                            |                                                           |
-| TODO                                            |                                                           |
-| TODO                                            |                                                           |
-| TODO                                            |                                                           |
-| TODO                                            |                                                           |
-
-#+latex: \normalArrayStrech
-
 #+begin_quote
 /Na kho pana mayaṁ passāma āyasmato upasenassa kāyassa vā aññathattaṁ indriyānaṁ vā vipariṇāmaṁ./
 
-But we don't see any impairment in the body or deterioration of Ven. Upasena's faculties.
-
-(SN 35.69)
+But we don't see any impairment in the body or deterioration of Ven. Upasena's faculties. (SN 35.69)
 #+end_quote
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| \fillin{8cm}{Fire, having rose up, burns down the householder's house.}       | Aggi uṭṭhāya (/rose up/) gahapatikassa gehaṁ (/house/) ḍahati (/burns down/). |
+| \fillin{8cm}{The cooks cook the rice for the householder's servants.}         | Sūdehi gahapatino sevakānaṁ odano pacanti.                                   |
+| \fillin{8cm}{Taken away by thieves, the householder's oxen vanished.}         | Corehi haritvā, gahapatino gāvo naṭṭho (/vanished/).                          |
+| \fillin{8cm}{The darkness was dispelled by the sun's light.}                  | Suriyassa ālokena andhakāro (/darkness/) apagato (/lit. gone away/).         |
+| We don't see the change of the body of the man.                               | \fillin{8cm}{Na passāma manussassa kāyassa vipariṇāmaṁ.}                     |
+| By means of the Teaching, men go to the far shore.                            | \fillin{8cm}{Manussā dhammena pāraṁ gacchanti.}                              |
+| The man's oxen were lost / vanished.                                          | \fillin{8cm}{Purisassa goṇo / gāvo naṭṭho.}                                   |
+| Rice cooked by the cook was eaten (/khādito/) by the beggar's (/yācaka/) dog. | \fillin{8cm}{Sūdena pacito odano yācakassa sunakhena khādito.}               |
+
+#+latex: \normalArrayStrech
 
 ** Optative or Potential Verbs: May / Should (-eyya)
 
@@ -657,9 +738,13 @@ The optative generally indicates that the situation is hypothetical. It is often
 The optative cam imply a polite imperative, "it would be good if you..."
 
 #+begin_quote
-/Atha tumhe, kālāmā, upasampajja vihareyyāthā.../ ([[https://suttacentral.net/an3.65/pli/ms][AN 3.65]])
+/Ime dhammā kusalā ... hitāya sukhāya saṁvattantī'ti,/
 
-\fillin{10cm}{Then, Kālāmas, you should undertake them and abide in them...}
+\fillin{10cm}{These things are wholesome ... lead to long-term happiness,}
+
+/atha tumhe, kālāmā, upasampajja (undertaking, attaining) vihareyyātha./ ([[https://suttacentral.net/an3.65/pli/ms][AN 3.65]])
+
+\fillin{10cm}{then, Kālāmas, you should undertake them and abide in them...}
 #+end_quote
 
 *** Optative of √as (to be) has two forms
@@ -696,10 +781,10 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 
 #+latex: \columnbreak
 
-| √kar | kātabba, karaṇīya | should be done        |
-| √ñā  | ñātabba, ñeyya   | should be known       |
-| √pā  | peyya            | should be drunk       |
-| kiṇā  | kiṇituṁ   | should be bought    |
+| √kar | kātabba, karaṇīya | should be done   |
+| √ñā  | ñātabba, ñeyya   | should be known  |
+| √pā  | peyya            | should be drunk  |
+| kiṇā  | kīṇeyya           | should be bought |
 
 #+latex: \end{multicols}
 #+latex: \par}
@@ -723,6 +808,8 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 *** Readings
 
 Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ vadeyyaṁ: "kusalaṁ, bhikkhave, bhāvethā"ti. ([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.11-20]])
+
+(bhāvetha + iti → bhāvethā'ti, a + i → ā)
 
 -----
 
@@ -765,6 +852,7 @@ pārisuddhā ti vedissāmi.
 (Nidāna)
 
 *** Extra Challenge                                                :noexport:
+**** Readings
 
 Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā
 añchanto ‘dīghaṁ añchāmī’ti pajānāti, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti
@@ -780,20 +868,33 @@ Idha, bhikkhave, bhikkhu: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa
 atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; ...
 
 (DN 22)
+
+**** Crossword
+
 * Lesson 3
 ** Review Exercises
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Homage to him, the Blessed One.                     | \fillin{8cm}{Namo tassa bhagavato.}                 |
-| May all beings be happy.                            | \fillin{8cm}{Sabbe sattā sukhī hontu.}              |
-| Come here, layman!                                  | \fillin{8cm}{Ehi upāsaka!}                          |
-| The elder goes to the village with the disciple.    | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}        |
-| The elder gives the robe to the disciple.           | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}         |
-| The disciple is being eaten by the lion.            | \fillin{8cm}{Sāvako sīhena khajjati.}               |
-| TODO                                                |                                                     |
-| \fillin{8cm}{We are obstructed by birth and death.} | Mayaṁ otiṇṇā amha jātijarāmaraṇena.[fn:ratanattaya] |
-| \fillin{8cm}{There is no equal to the Tathāgata.}   | Na samo (equal to) atthi tathāgatena.[fn:snp-2-1]   |
+| \fillin{8cm}{May all misfortunes be avoided, may all illness be dispelled.} | Sabbītiyo vivajjantu sabbarogo vinassatu.           |
+| \fillin{8cm}{Go away, beings!}                                              | Paṭikkamantu bhūtāni![fn:an4-67]                     |
+| \fillin{8cm}{We are obstructed by birth and death.}                         | Mayaṁ otiṇṇā amha jātijarāmaraṇena.[fn:ratanattaya] |
+| \fillin{8cm}{There is no equal to the Tathāgata.}                           | Na samo (equal to) atthi tathāgatena.[fn:snp-2-1]   |
+| Homage to him, the Blessed One.                                             | \fillin{8cm}{Namo tassa bhagavato.}                 |
+| May all beings be happy.                                                    | \fillin{8cm}{Sabbe sattā sukhī hontu.}              |
+| Come here, layman!                                                          | \fillin{8cm}{Ehi / Āgacchāhi upāsaka!}              |
+| The elder goes to the village with the disciple (/sāvaka/).                 | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}        |
+| The elder gives the robe to the disciple.                                   | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}         |
+
+/īti:/ (f.) calamity; misfortune; lit. it comes [√i + ti]
+
+/vivajjati:/ avoids
+
+/vinassati:/ disappears
+
+/paṭikkamati:/ returns; steps back; recedes; goes away
+
+/bhūta:/ (nt.) living being; lit. become [√bhū + ta]
 
 #+latex: \normalArrayStrech
 
@@ -878,6 +979,8 @@ whichever (masc.nom.sg. of /ya/)
 
 *eva:* only; just; merely
 
+*h'eva:* hi + eva (with emphasis)
+
 #+latex: \end{multicols}
 
 /Ahaṃ bhante tisaraṇena saha aṭṭhasīlāni (nt.acc.pl.) yācāmi./
@@ -889,7 +992,7 @@ whichever (masc.nom.sg. of /ya/)
 - /katapuñña:/ adj. who has made merit; has gained spiritual wealth [kata + puñña]
 - /ubhayattha/: ind. in both cases; on both sides; lit. both matters [ubhaya + attha]
 
-/Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati .../ (DN 22)
+/Idha, bhikkhave, bhikkhu kāye[fn:kaye-note] kāyānupassī viharati .../ (DN 22)
 
 /Puna gehaṁ na kāhasi/ (Dhp 154)
 
@@ -909,6 +1012,7 @@ whichever (masc.nom.sg. of /ya/)
 
 # Maitreya, p.27
 # Gair, p.70
+# Duroiselle, p.74
 
 A.k.a. "absolutive form" or "indeclinable past participle".
 
@@ -969,18 +1073,46 @@ Then a certain Brahman approached the Blessed One. Having approached, he greeted
 /cittaṁ pariyādāya tiṭṭhati:/ having taken over the mind, it remains.
 
 #+begin_quote
-Kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati ... tassa abhijjhāpi
+Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati ... tassa abhijjhāpi
 ... byāpādopi ... thinamiddhampi ... uddhaccakukkuccampi ... vicikicchāpi ...
 aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentral.net/mn68/pli/ms][MN 68]])
 #+end_quote
 
+#+latex: \begin{multicols}{2}
+
+/viveka:/ (m.) seclusion; discrimination
+
+/nādhigacchati:/ does not get to; does not obtain
+
+/abhijjhā:/ (f.) wanting; lit. over thinking
+
+/byāpāda:/ (m.) ill will; lit. going wrong
+
+/thinamiddha:/ (nt.) dullness; sloth
+
+#+latex: \columnbreak
+
+/uddhaccakukkucca:/ (nt.) restlessness; agitation
+
+/vicikicchā:/ (f.) doubt; uncertainty
+
+/aratī:/ (f.) discontent; dislike
+
+/tandī:/ (f.) laziness; tiredness
+
+#+latex: \end{multicols}
+
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| So tatra gantvā idha āgacchati.                                | He, having gone there, comes here.                           |
-| \fillin{8cm}{So tatra nisīditvā tato uṭṭhāti.}                  | After sitting down there, he stands up from there (uṭṭhāti).  |
-| \fillin{8cm}{Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.}     | After staying here today, tomorrow we go there.              |
-| \fillin{8cm}{Sace so coretvā idha āgacceyya, ahaṁ daṇḍeyyāmi.} | If, after stealing, he might comes here, I may punish (him). |
-| \fillin{8cm}{Rukkhaṁ agginā ḍahetvā masiṁ kareyya.}            | After burning the tree with fire, they may make ash (masi).  |
+| Chandañca ruciñca ādāya voharati. (Sg 11)                       | \fillin{8cm}{He speaks with our given consent and approval.}                      |
+| Sace so coretvā idha āgacceyya, ahaṁ daṇḍeyyāmi.                | \fillin{8cm}{If, after stealing, he might come here, I may punish (him).}         |
+| So tatra gantvā idha āgacchati.                                 | \fillin{8cm}{He, having gone there, comes here.}                                  |
+| Idha nisīditvā mā rodāhi, tatra gacchāhi, gantvā bhutvā sayāhi. | \fillin{8cm}{Sitting here, don't cry, go there, having gone and eaten, lie down.} |
+| \fillin{8cm}{So tatra nisīditvā tato uṭṭhāti.}                   | After sitting down there, he stands up from there (/uṭṭhāti/).                     |
+| \fillin{8cm}{Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.}      | After staying (/vasati/) here today, tomorrow we go there.                        |
+| \fillin{8cm}{Rukkhaṁ agginā jhāpetvā masiṁ kareyya.}            | After burning (/jhāyati/) the tree with fire, they may make ash (/masi/).         |
+| \fillin{8cm}{Te idha āgantvā pacitvā gacchanti. }               | Having come here, having cooked, they go.                                         |
+| \fillin{8cm}{Tvaṁ buñjitvā pivitvā sayasi.}                     | Having eaten, having drunk, you lie down.                                         |
 
 #+latex: \normalArrayStrech
 
@@ -1022,9 +1154,11 @@ The infinitive may be translated as "to see" / "in order to see" / "for the purp
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Ahaṁ bhuñjitvā sayituṁ na icchāmi.                     | \fillin{8cm}{Having eaten, I don't want to lie down.} |
-| Mayaṁ idāni atra bhutvā vapituṁ tahiṁ gacchāma.       | \fillin{8cm}{Now, we eat here and go there to sow.}   |
-| \fillin{8cm}{Āma, ahaṁ jānāmi, tvaṁ carituṁ icchati.} | Yes, I know you like to walk.                         |
+| Ahaṁ bhuñjitvā sayituṁ (/lie down, sleep/) na icchāmi.             | \fillin{8cm}{Having eaten, I don't want to lie down.} |
+| Mayaṁ idāni atra bhutvā vapituṁ (/sow/) tahiṁ (/there/) gacchāma. | \fillin{8cm}{Now, we eat here and go there to sow.}   |
+| \fillin{8cm}{Āma, ahaṁ jānāmi, tvaṁ carituṁ icchasi.}             | Yes, I know you like to walk.                         |
+| \fillin{8cm}{Mayaṁ ketuṁ tahiṁ na gacchāma.}                      | We don't go there to buy.                             |
+| \fillin{8cm}{Mayaṁ hantuṁ na icchāma.}                             | We don't like to kill.                                |
 
 #+latex: \normalArrayStrech
 
@@ -1044,14 +1178,17 @@ The locative plural is formed by adding /-su/ to the stem. Before /-su/, the
 final /-a/ becomes /-e/: /Buddhesu/. Other short vowels can optionally become
 long or remain short.
 
-|        | *sg.*                           | *pl.*           |
-| Buddha | Buddhe, Buddhasmiṁ, Buddhamhi   | Buddhesu        |
-| muni   | munismiṁ, munimhi               | munisu, munīsu  |
-| seṇānī  | seṇānismiṁ, senānimhi           | senānīsu        |
-| garu   | garusmiṁ, garumhi               | garusu, garūsu  |
-| vidū   | vidusmiṁ, vidumhi               | vidūdsu         |
-| go     | gave, gāve, gavasmiṁ, gāvasmiṁ, | gavesu, gāvesu, |
-|        | gavamhi, gāvamhi                | gosu            |
+|        | *sg.*                             | *pl.*                  |
+| Buddha | Buddhe, Buddhasmiṁ, Buddhamhi     | Buddhesu               |
+| paṇḍita | \fillin{4cm}{paṇḍite, paṇḍitamhi}  | \fillin{4cm}{paṇḍitesu} |
+| muni   | munismiṁ, munimhi                 | munisu, munīsu         |
+| senānī | senānismiṁ, senānimhi             | senānīsu               |
+| garu   | garusmiṁ, garumhi                 | garusu, garūsu         |
+| vidū   | vidusmiṁ, vidumhi                 | vidūsu                 |
+| viññū  | \fillin{4cm}{viññusmiṁ, viññumhi} | \fillin{4cm}{viññūsu}  |
+| go     | gave, gāve, gavasmiṁ, gāvasmiṁ,   | gavesu, gāvesu,        |
+|        | gavamhi, gāvamhi                  | gosu                   |
+
 
 #+begin_quote
 /Ekaṁ samayaṁ bhagavā bhoganagare viharati ānandacetiye./
@@ -1062,11 +1199,11 @@ long or remain short.
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | The lion walks *in the village.*                                     | Sīho *gāme / gāmamhi / gāmasmiṁ* carati. |
-| \fillin{8cm}{The wise men are delighted in the Buddha.}              | Viduno Buddhe pasannā.                   |
+| \fillin{8cm}{The wise men are delighted in the Buddha.}              | Viññuno Buddhe pasannā.                  |
 | \fillin{8cm}{Now rain falls, (so) don't go out.}                     | Idāni devo vassati, mā bahi gacchittha.  |
 | \fillin{8cm}{Today many men assemble in the village.}                | Ajja bahū manussā gāme sannipatanti.     |
-| Monkeys move about (/vicarati/) on trees.                            | \fillin{8cm}{Makkaṭā rukkhesu vicaranti.} |
-| They, having seen the disadvantage (/ādīnava/) of sensual pleasures, | \fillin{8cm}{Te kāmānaṁ ādīnavaṁ disvā,} |
+| Monkeys (/makkaṭa/) move about (/vicarati/) on trees.                 | \fillin{8cm}{Makkaṭā rukkhesu vicaranti.} |
+| They, having seen the disadvantage (/ādīnava/) in sensual pleasures, | \fillin{8cm}{Te kāmesu ādīnavaṁ disvā,}  |
 | go forth (/pabbajati/) in the bhikkhu-saṅgha.                         | \fillin{8cm}{bhikkhu-saṅghe pabbajanti.}  |
 
 #+latex: \normalArrayStrech
@@ -1121,7 +1258,7 @@ Not to be confused with nominative forms:
 | from everywhere                  | \fillin{4cm}{sabbato}  |
 | from the lamp                    | \fillin{4cm}{padīpato} |
 
-*The suffix /-to/* can also form indeclinable adverbs: /dukkato/ can be translated as ablative "from suffering", or an adverb "as suffering".
+*The suffix /-to/* can also form indeclinable adverbs: /dukkhato/ can be translated as ablative "from suffering", or an adverb "as suffering".
 
 /parato/: (1) abl. [para + to], from far \\
 /parato/: (2) ind. as another; as alien
@@ -1258,9 +1395,9 @@ The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used i
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Parisuddho no kāyasamācāro bhavissati. (MN 39)                | \fillin{8cm}{Our bodily behaviour should be purified.}               |
-| Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61) | \fillin{8cm}{I should not approach families intoxicated with pride.} |
-| \fillin{8cm}{brāhmaṇā karissanti ...}                          | Brahmans will do ....                                                |
+| Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61) | I should not approach families intoxicated with pride. |
+| Parisuddho no kāyasamācāro bhavissati. (MN 39)                | \fillin{8cm}{Our bodily behaviour should be purified.} |
+| \fillin{8cm}{brāhmaṇā karissanti ...}                          | Brahmans will do ....                                  |
 
 #+latex: \normalArrayStrech
 
@@ -1293,6 +1430,9 @@ The present participles are declinable, they agree with the noun in gender, numb
 
 #+begin_quote
 dīghaṁ vā assasanto "dīghaṁ assasāmī"ti pajānāti (MN 118)
+
+Maggaṁ kho pana me gacchantassa kāyo kilanto. (AN 8.80) \\
+But while walking my body got tired.
 
 \bigskip
 
@@ -1393,11 +1533,31 @@ Opened are the gates of the deathless for them, let the hearers show faith.
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | The body grows.                                 | \fillin{8cm}{Kāyo vaḍḍhati.}          |
-| They are not wealthy.                           | \fillin{8cm}{Te na mahaddhanā.}      |
+| He is poor.                                     | \fillin{8cm}{So appabhogo.}          |
+| They are wealthy.                               | \fillin{8cm}{Te mahābhogā.}          |
 | \fillin{8cm}{Where does that elder live now?}   | So thero idāni kuhiṁ vasati?         |
 | \fillin{8cm}{Why does that evil man come here?} | So pāpako puriso kasmā idhāgacchati? |
+| \fillin{8cm}{Where is she reborn?}              | Kuhiṁ sā paccājāyati?                |
 
 #+latex: \normalArrayStrech
+
+#+latex: \begin{multicols}{2}
+
+/vaḍḍhati:/ grows
+
+/appabhogo:/ poor; with few assets
+
+#+latex: \columnbreak
+
+/mahābhogo:/ wealthy; with great assets
+
+/paccājāyati:/ is born again
+
+#+latex: \end{multicols}
+
+/Sace manussattaṁ āgacchati yattha yattha paccājāyati (again-born) appabhogo hoti./ (MN 135)
+
+\fillin{12cm}{If he comes back to the human state, then wherever he is reborn he is poor.}
 
 ** Indeclinables and Idioms
 
@@ -1433,12 +1593,12 @@ time; occasion; lit. come together
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{My mind will rise (stand) above the whole world.} | Sabbalokā ca me mano vuṭṭhahissati.[fn::AN 6.102] |
-| TODO                                                           |                                                  |
-| TODO                                                           |                                                  |
-| TODO                                                           |                                                  |
-| TODO                                                           |                                                  |
-| TODO                                                           |                                                  |
+| \fillin{8cm}{My mind will rise (stand) above all worldly things.} | Sabbalokā ca me mano vuṭṭhahissati.[fn::AN 6.102] |
+| TODO                                                              |                                                  |
+| TODO                                                              |                                                  |
+| TODO                                                              |                                                  |
+| TODO                                                              |                                                  |
+| TODO                                                              |                                                  |
 
 #+latex: \normalArrayStrech
 
@@ -1547,9 +1707,9 @@ When the subject is in instrumental case, the past participle is passive.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{Migo diṭṭho purisena.}                | The deer (/miga/) was seen by the man.               |
-| \fillin{8cm}{Vyādhena hataṁ migaṁ ahaṁ passāmi.} | I see the deer killed by the huntsman (/vyādha/).    |
-| \fillin{8cm}{Gāmamhā āgataṁ purisaṁ na passāmi.}  | I do not see the man that has come from the village. |
+| \fillin{8cm}{Migo purisena diṭṭho.}                | The deer (/miga/) was seen by the man.                     |
+| \fillin{8cm}{Vyādhena hataṁ migaṁ ahaṁ passāmi.} | I see the deer killed (/hata/) by the huntsman (/vyādha/). |
+| \fillin{8cm}{Gāmamhā āgataṁ purisaṁ na passāmi.}  | I do not see the man that has come from the village.       |
 
 #+latex: \normalArrayStrech
 
@@ -1617,7 +1777,7 @@ The particle /mā/ + aorist verb expresses a prohibition in the present or futur
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | They went there.                                     | \fillin{8cm}{Te tatra gacchiṁsu.}       |
-| We dwelt here.                                       | \fillin{8cm}{Mayaṁ idha vasimhā.}       |
+| We dwelt here.                                       | \fillin{8cm}{Mayaṁ idha avasimhā.}      |
 | When did you come from there?                        | \fillin{8cm}{Kadā tvaṁ tato āgacchi?}   |
 | \fillin{8cm}{Because I knew it, therfore I said it.} | Yato ahaṁ ajāniṁ tato avadiṁ.          |
 | \fillin{8cm}{Don't stay here.}                       | Tumhe mā idha vasittha.                 |
@@ -2431,6 +2591,14 @@ These qualities lead to attachment, not to detachment.
 - [[https://archive.org/details/PaliGrammarCharlesDuroiselle][A Practical Grammar of the Pāli Language by Charles Duroiselle, v4.3, 2007 (archive.org)]]
 - [[https://archive.org/details/NewPaliCourse/][A New Course In Reading Pali by James W. Gair, W. S. Karunatillake (archive.org)]]
 - [[https://archive.org/details/PaliBuddhistTextsA][Pali Buddhist Texts Explained to the Beginner by Rune E A Johansson (archive.org)]]
+
+[fn:an-4-67] [[https://suttacentral.net/an4.67/pli/ms][AN 4.67]]
+
+[fn:kaye-note] /Kāye/ (loc.) can mean "in the body", or "with regard to the body".
+
+[fn:yatha-chant]: Yathā vāri-vahā pūrā...
+
+[fn:mn-118] [[https://suttacentral.net/mn118/pli/ms][MN 118]]
 
 [fn:sn-42-3] [[https://suttacentral.net/sn42.3/pli/ms][SN 42.3]]
 
