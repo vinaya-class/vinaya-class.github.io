@@ -1,0 +1,98 @@
+\documentclass[10pt, a4paper]{article}
+
+\makeatletter
+
+\usepackage{graphicx}
+\graphicspath{{./assets/}}
+
+\usepackage{multicol}
+
+\usepackage{geometry}
+\geometry{
+  a4paper,
+  top = 10mm,
+  bottom = 20mm,
+  hmargin = 20mm,
+}
+
+\usepackage{fontspec}
+\setmainfont{Linux Libertine}
+
+\def\BOOK@fontSizePt{10}
+\def\BOOK@lineHeightPt{18}
+
+\renewcommand{\normalsize}{%
+  \@setfontsize\normalsize\BOOK@fontSizePt\BOOK@lineHeightPt
+  \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+  \abovedisplayshortskip \z@ \@plus3\p@
+  \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+  \belowdisplayskip \abovedisplayskip
+  %\color{textbody}
+  \let\@listi\@listI}
+\normalsize
+
+\usepackage{cwpuzzle}
+
+\renewcommand\PuzzleCluePre{%
+  \begin{minipage}[t]{0.75\linewidth}%
+}
+
+\renewcommand\PuzzleClueFont{\fontsize{10}{17}\selectfont}
+
+% \def\PuzzleThickline{\linethickness{2pt}}
+
+\pagestyle{empty}
+
+\makeatother
+
+\begin{document}
+
+\begin{Puzzle}{13}{9}%
+\input{./assets/cw-01.txt}
+\end{Puzzle}
+
+\vspace*{-\baselineskip}
+
+\begin{multicols}{2}
+
+\begin{PuzzleClues}{\textbf{Tiriyato}}
+  \mbox{}\\
+  \Clue{1}{putta}{mātāya dāraka}\\
+  \Clue{2}{pīti}{TODO}\\
+  \Clue{4}{kuṭi}{bhikkhussa vihāraṁ}\\
+  \Clue{5}{cīvara}{bhikkhussa dussaṁ}\\
+  \Clue{7}{tapati}{kilesaṁ jhāyati}\\
+  \Clue{10}{aratī}{TODO}\\
+  \Clue{11}{gimha}{TODO}\\
+  \Clue{13}{gāviṁ}{TODO}\\
+  \Clue{14}{kataññū}{vedeti (having received)}\\
+  \Clue{15}{rahāyati}{TODO}\\
+  \Clue{16}{ādi}{TODO}
+\end{PuzzleClues}
+
+\columnbreak
+
+\begin{PuzzleClues}{\textbf{Dīghaso}}
+  \mbox{}\\
+  \Clue{1}{pacati}{sūdassa kammaṁ}\\
+  \Clue{2}{pivati}{TODO}\\
+  \Clue{3}{tatra}{TODO}\\
+  \Clue{4}{kattikā}{TODO}\\
+  \Clue{6}{vidū}{paṇḍito}\\
+  \Clue{8}{patta}{TODO}\\
+  \Clue{9}{aggi}{TODO}\\
+  \Clue{10}{ahiri}{TODO}\\
+  \Clue{12}{rūpa}{TODO}
+\end{PuzzleClues}
+
+\end{multicols}
+
+\clearpage
+
+\PuzzleSolution[true]
+
+\begin{Puzzle}{13}{9}%
+\input{./assets/cw-01.txt}
+\end{Puzzle}
+
+\end{document}

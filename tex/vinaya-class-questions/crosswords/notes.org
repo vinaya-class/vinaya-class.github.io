@@ -1,0 +1,36 @@
+#+title: Notes
+
+* Cw 01
+
+| cīvara   | bhikkhussa dussa          |
+| kattikā  | gimhānaṁ pacchimaṁ māsaṁ |
+| gimha    | eka utu                   |
+| pacati   | sūdassa kammaṁ            |
+| kuṭi      | bhikkhussa vihāraṁ        |
+| tatra    | nocidha                   |
+| aratī    |                           |
+| ahari    |                           |
+| rahāyati | vivekaṁ icchati           |
+| patta    | tato bhikkhu bhuñjati     |
+| kataññū  | vedeti (having received)  |
+| putta    | mātāya dāraka             |
+| aggi     |                           |
+| tapati   | kilesaṁ jhāyati           |
+| pivati   |                           |
+| gāviṁ    |                           |
+| vidū     | paṇḍito                    |
+| pīti     |                           |
+| ādi      |                           |
+| rūpa     |                           |
+
+#+begin_src
+ putta   pīti
+ a  t kuṭi
+ cīvara  v v
+ a  t tapati
+at aratīat d
+gimha i ti ūr
+gāviṁ kataññū
+i  rahāyati p
+ ādi        a
+#+end_src
