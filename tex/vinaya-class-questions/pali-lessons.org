@@ -38,6 +38,12 @@
 
 add missing exercises
 
+singing, etc
+
+diluting the holy life, offerings
+
+crossw include
+
 Vocab csv + BPC exec.
 
 Bril font for lang cheat sheets
@@ -224,8 +230,13 @@ Personal pronouns in nominative case:
 | *1st*       | ahaṁ        | amhe, mayaṁ, no |
 | *2nd*       | tuvaṁ, tvaṁ | tumhe, vo       |
 | *3rd.masc.* | so, sa      | te              |
-| *3rd.fem.*  | sā          | tā, tāyo        |
 | *3rd.nt.*   | taṁ, tad    | tāni            |
+| *3rd.fem.*  | sā          | tā, tāyo        |
+
+/sā taṃ bhāsati:/ she speaks (to) him/them
+
+| ta → | /(nom.sg.)/ so / taṁ / sā | /(nom.pl.)/ te / tāni / tā, tāyo  |
+|      | /(acc.sg.)/ taṁ           | /(acc.pl.)/  te / tāni / tā, tāyo |
 
 #+latex: \end{multicols}
 #+latex: \bigskip
@@ -233,6 +244,11 @@ Personal pronouns in nominative case:
 The 1st and 2nd personal pronouns are gender neutral, the 3rd person pronouns are gendered.
 
 Pronouns take on the person and number of the noun they represent.
+
+A relative sentence begins with a relative clause, followed by a demonstrative:
+
+| /yo/   | /gilānaṃ/ | /upaṭṭhāti/ | /so/ | /maṃ/ | /upaṭṭhāti/ |
+| he who | ill       | attends    | he   | me    | attends    |
 
 #+latex: \bigskip
 
@@ -435,9 +451,13 @@ The Buddha was wandering in the land of the Kosalans...
 *** Extra Challenge                                                :noexport:
 **** Pāli Chat
 
+/Idha pubbaṇhasamayaṁ Ericeiraṁ piṇḍāya pavisāmi./
+
 This morning I am entering Ericeira for alms-round.
 
-/Idha pubbaṇhasamayaṁ Ericeiraṁ piṇḍāya pavisāmi./
+/Bhante, ayyo āgacchatu, idha nisīdatu./
+
+Venerable, may the Ven. come and sit here.
 
 | Good morning!                            | Supubbaṇho bhante/āvuso.              |
 | Good morning everyone.                   | Supubbaṇho sabbesaṁ.                 |
@@ -481,15 +501,17 @@ This morning I am entering Ericeira for alms-round.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| The man eats rice.            | \fillin{8cm}{Naro bhattaṁ bhuñjati.} |
-| The men are cooking.          | \fillin{8cm}{Narā pacanti.}          |
-| I go up to the man.           | \fillin{8cm}{Naraṁ upasaṅkamati.}    |
-| I see the moon.               | \fillin{8cm}{Candaṁ passāmi.}        |
-| You (pl.) don't see the dogs. | \fillin{8cm}{Sunakhe na passatha.}   |
-| The boys are running.         | \fillin{8cm}{Dārakā dhāvanti.}       |
-| You are sitting here.         | \fillin{8cm}{Idha nisīdasi.}         |
-| She comes from there.         | \fillin{8cm}{Sā tato āgacchati.}     |
-| We run to the boys.           | \fillin{8cm}{Mayaṁ dārake dhāvāma.}  |
+| \fillin{8cm}{The elders make an effort.} | Therā viriyaṁ ārabhanti (/begins; undertakes/). |
+| \fillin{8cm}{They give ear.}             | Te sotaṁ odahanti (/applies; gives/).           |
+| The man eats rice.                       | \fillin{8cm}{Naro bhattaṁ bhuñjati.}            |
+| The men are cooking.                     | \fillin{8cm}{Narā pacanti.}                     |
+| I go up to the man.                      | \fillin{8cm}{Naraṁ upasaṅkamati.}               |
+| I see the moon.                          | \fillin{8cm}{Candaṁ passāmi.}                   |
+| You (pl.) don't see the dogs.            | \fillin{8cm}{Sunakhe na passatha.}              |
+| The boys are running.                    | \fillin{8cm}{Dārakā dhāvanti.}                  |
+| You are sitting here.                    | \fillin{8cm}{Idha nisīdasi.}                    |
+| She comes from there.                    | \fillin{8cm}{Sā tato āgacchati.}                |
+| We run to the boys.                      | \fillin{8cm}{Mayaṁ dārake dhāvāma.}             |
 
 #+latex: \normalArrayStrech
 
@@ -596,14 +618,15 @@ The particles *saddhiṁ, saha* used with the instrumental case, expresses the m
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Buddhena saddhiṁ                                    | together with the Buddha                      |
-| \fillin{8cm}{ācariyena / ācariyā saddhiṁ}           | together with the teacher                     |
-| \fillin{8cm}{viññūhi saddhiṁ}                       | together with the wise men                    |
-| \fillin{8cm}{Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.} | I, together with a friend, go to the village. |
-| \fillin{8cm}{Mātugāmena saddhiṃ cārikaṁ carati.}    | He wanders about with a woman. (/mātugāma/)   |
+| Buddhena saddhiṁ                                    | together with the Buddha                             |
+| \fillin{8cm}{ācariyena / ācariyā saddhiṁ}           | together with the teacher                            |
+| \fillin{8cm}{viññūhi saddhiṁ}                       | together with the wise men                           |
+| Etena saccena suvatthi hotu.[fn:snp-2-1]            | \fillin{8cm}{By this truth may there be well-being.} |
+| \fillin{8cm}{Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.} | I, together with a friend, go to the village.        |
+| \fillin{8cm}{Mātugāmena saddhiṃ cārikaṁ carati.}    | He wanders about with a woman. (/mātugāma/)          |
 
-| Aṭṭhi tacena onaddhaṁ, saha vatthebhi[fn:vatthebhi]\space sobhati. (MN 82) |
-| \fillin{10cm}{A bone covered with skin; it looks beautiful with clothes.} |
+| Aṭṭhi tacena onaddhaṁ, saha vatthebhi[fn:vatthebhi]\space sobhati. (MN 82) |                                        |
+| \fillin{10cm}{A bone covered with skin; it looks beautiful with clothes.} |                                        |
 
 #+latex: \normalArrayStrech
 
@@ -627,8 +650,9 @@ Saṅgho imaṃ kaṭhinadussaṃ āyasmato Amarassa deti. ([[https://suttacentr
 
 To the stems ending in /i, ī, u, ū/, the ending /-no/ and /-ssa/ are added.
 
-| \fillin{8cm}{Namo Buddhāya / Buddhassa.} | Homage to the Buddha. |
-| \fillin{8cm}{Nibbānāya saṁvattati.}      | It leads to Nibbāna.  |
+| Homage to the Buddha.                            | \fillin{8cm}{Namo Buddhāya / Buddhassa.}                          |
+| It leads to Nibbāna.                             | \fillin{8cm}{Nibbānāya saṁvattati.}                               |
+| We eat the almsfood not for fun or indulgence... | \fillin{8cm}{Mayaṁ piṇḍapātaṁ bhuñjāma neva davāya, na madāya...} |
 
 #+begin_quote
 Dasa atthavase:
@@ -876,15 +900,15 @@ atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; .
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{May all misfortunes be avoided, may all illness be dispelled.} | Sabbītiyo vivajjantu sabbarogo vinassatu.           |
-| \fillin{8cm}{Go away, beings!}                                              | Paṭikkamantu bhūtāni![fn:an4-67]                     |
-| \fillin{8cm}{We are obstructed by birth and death.}                         | Mayaṁ otiṇṇā amha jātijarāmaraṇena.[fn:ratanattaya] |
-| \fillin{8cm}{There is no equal to the Tathāgata.}                           | Na samo (equal to) atthi tathāgatena.[fn:snp-2-1]   |
-| Homage to him, the Blessed One.                                             | \fillin{8cm}{Namo tassa bhagavato.}                 |
-| May all beings be happy.                                                    | \fillin{8cm}{Sabbe sattā sukhī hontu.}              |
-| Come here, layman!                                                          | \fillin{8cm}{Ehi / Āgacchāhi upāsaka!}              |
-| The elder goes to the village with the disciple (/sāvaka/).                 | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}        |
-| The elder gives the robe to the disciple.                                   | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}         |
+| \fillin{8cm}{May all misfortunes be avoided, may all illness be dispelled.} | Sabbītiyo vivajjantu sabbarogo vinassatu.               |
+| \fillin{8cm}{Go away, beings!}                                              | Paṭikkamantu bhūtāni![fn:an-4-67]                        |
+| \fillin{8cm}{We are obstructed by birth and death.}                         | Mayaṁ otiṇṇā amha jātijarāmaraṇena.[fn:ratanattaya]     |
+| \fillin{8cm}{There is no equal to the Tathāgata.}                           | Na samo (equal to) atthi tathāgatena.[fn:snp-2-1-simpl] |
+| Homage to him, the Blessed One.                                             | \fillin{8cm}{Namo tassa bhagavato.}                     |
+| May all beings be happy.                                                    | \fillin{8cm}{Sabbe sattā sukhī hontu.}                  |
+| Come here, layman!                                                          | \fillin{8cm}{Ehi / Āgacchāhi upāsaka!}                  |
+| The elder goes to the village with the disciple (/sāvaka/).                 | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}            |
+| The elder gives the robe to the disciple.                                   | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}             |
 
 /īti:/ (f.) calamity; misfortune; lit. it comes [√i + ti]
 
@@ -981,9 +1005,19 @@ whichever (masc.nom.sg. of /ya/)
 
 *h'eva:* hi + eva (with emphasis)
 
+*yathā:* like; as; according to; how
+
+*yathā yathā:* in whatever way
+
 #+latex: \end{multicols}
 
 /Ahaṃ bhante tisaraṇena saha aṭṭhasīlāni (nt.acc.pl.) yācāmi./
+
+/Yathā parisaṁ alaṁ dassanāya gantuṁ, tathā ayaṁ bhikkhusaṅgho./ (AN 4.190)
+
+/Yathārūpaṁ parisaṁ alaṁ yojanagaṇanānipi dassanāya gantuṁ./ (AN 4.190)
+
+# An assembly such as this is worth traveling many leagues to see.
 
 /Idha modati pecca modati, katapuñño ubhayattha modati./ (Dhp 16)
 
@@ -1048,6 +1082,8 @@ irregular forms.
 #+latex: \end{multicols}
 
 #+begin_quote
+/Mayaṁ taṁ dhammaṁ sutvā evaṁ jānāma.../ Having heard the teaching we know thus... (Morning chanting)
+
 /Atha kho aññataro brāhmaṇo yena bhagavā ten'upasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi./
 
 Then a certain Brahman approached the Blessed One. Having approached, he greeted (exchanged greetings with) the Blessed One. ([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.16]])
@@ -1269,6 +1305,45 @@ Not to be confused with nominative forms:
 
 #+latex: \clearpage
 
+** Pronouns
+
+#+latex: \begin{multicols}{2}
+
+Personal pronouns (nominative)
+
+|             | *sg.*              | *pl.*                 |
+| *1st*       | ahaṁ               | amhe, mayaṁ, no       |
+|             | \fillin{2cm}{I}    | \fillin{2cm}{we}      |
+| *2nd*       | tuvaṁ, tvaṁ        | tumhe, vo             |
+|             | \fillin{2cm}{thou} | \fillin{2cm}{you lot} |
+| *3rd.masc.* | so, sa             | te                    |
+|             | \fillin{2cm}{he}   | \fillin{2cm}{they}    |
+| *3rd.nt.*   | taṁ, tad           | tāni                  |
+|             | \fillin{2cm}{it}   | \fillin{2cm}{they}    |
+| *3rd.fem.*  | sā                 | tā, tāyo              |
+|             | \fillin{2cm}{she}  | \fillin{2cm}{they}    |
+
+#+latex: \columnbreak
+
+Possessive pronouns (genitive)
+
+| *sg.*                  | *pl.*                   |
+| mama, mayhaṁ, me       | amhākaṁ, no             |
+| \fillin{2cm}{mine, my} | \fillin{2cm}{ours, our} |
+| tava, tuyhaṁ, te       | tumhākam                |
+| \fillin{2cm}{your(s)}  | \fillin{2cm}{your(s)}   |
+| tassa                  | tesaṁ                   |
+| \fillin{2cm}{your(s)}  | \fillin{2cm}{your(s)}   |
+| tassa                  | tesaṁ                   |
+| \fillin{2cm}{its}      | \fillin{2cm}{their(s)}  |
+| tassā                  | tāsaṁ                   |
+| \fillin{2cm}{hers}     | \fillin{2cm}{their(s)}  |
+
+#+latex: \end{multicols}
+
+| ta → | /(nom.sg.)/ so / taṁ / sā | /(nom.pl.)/ te / tāni / tā, tāyo  |
+|      | /(acc.sg.)/ taṁ           | /(acc.pl.)/  te / tāni / tā, tāyo |
+
 ** Exercises
 *** Translate
 
@@ -1276,15 +1351,22 @@ Not to be confused with nominative forms:
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| The elder goes to the village by air.                                | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                  |
-| A bhikkhu gives to a bowl to a bhikkhu.                              | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
-| A bhikkhu walks to a village with a bhikkhunī.                       | \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}               |
+| \fillin{8cm}{Like rivers full of water...}                           | Yathā vārivahā pūrā...                                       |
 | \fillin{8cm}{All the boys are crying:}                               | Sabbepime dārakā rodanti:                                    |
 | \fillin{8cm}{Give congee, give rice, give food!}                     | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā. (Pc 65)       |
 | \fillin{8cm}{He, from the breakup of the body, from after death...}  | So, kāyassa bhedā (abl.), paraṁ maraṇā (abl.)...[fn:sn-42-3] |
 | \fillin{8cm}{(Due to the) first jhāna there is delight in solitude.} | Paṭhamena jhānena suññāgāre abhirati. (Pr 4, Pc 8)            |
+| The elder goes to the village by air.                                | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                  |
+| A bhikkhu gives to a bowl to a bhikkhu.                              | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
+| A bhikkhu walks to a village with a bhikkhunī.                       | \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}               |
 
 #+latex: \normalArrayStrech
+
+/vāri:/ (nt.) water
+
+/vāha:/ (adj.) carrying; leading
+
+/pūra:/ (adj.) full (of); filled (with)
 
 *** Readings
 
@@ -1307,19 +1389,65 @@ puññakkhette anuttare.
 
 -----
 
-Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so,
-mahārāja, padīpo padīpamhā saṅkanto'ti? ([[https://suttacentral.net/mil3.5.5/pli/ms][Mil 3.5.5]])
-
------
-
 Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya... (NP 8)
 
 So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya... (NP 10)
+
+------
+
+Na, bhikkhave, āyatakena gītassarena dhammo gāyitabbo. Yo gāyeyya, āpatti dukkaṭassā"ti.
+
+# You shouldn’t sing the Teaching with a drawn-out voice.
+# If you do, you commit an offense of wrong conduct.”
+
+Tena kho pana samayena bhikkhū sarabhaññe kukkuccāyanti. Bhagavato etamatthaṁ ārocesuṁ.
+
+# Being afraid of wrongdoing, the monks did not chant. They told the Buddha.
+
+"Anujānāmi, bhikkhave, sarabhaññan"ti. ([[https://suttacentral.net/pli-tv-kd15/en/brahmali][Vin. Kd 15]])
+
+# "I allow chanting."
+
+-----
+
+Tasmātiha, bhikkhave, vīriyaṁ ārabhatha appattassa pattiyā, anadhigatassa
+adhigamāya, asacchikatassa sacchikiriyāya.
+
+# So you should rouse up energy for attaining the unattained, achieving the unachieved, and realizing the unrealized, thinking:
+
+'Evaṁ no ayaṁ amhākaṁ pabbajjā avañjhā bhavissati saphalā saudrayā.
+
+# ‘In this way our going forth will not be wasted, but will be fruitful and fertile.
+
+Yesañca mayaṁ paribhuñjāma
+cīvara-piṇḍapāta-senāsana-gilānappaccayabhesajja-parikkhāraṁ tesaṁ te kārā
+amhesu mahapphalā bhavissanti mahānisaṁsā"ti.
+
+# And our use of robes, almsfood, lodgings, and medicines and supplies for the sick shall be of great fruit and benefit for those who offered them.'
+
+evañhi vo, bhikkhave, sikkhitabbaṁ. ([[https://suttacentral.net/sn12.22/en/sujato][SN 12.22]])
+
+# That's how you should train.
+
+-----
+
+Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so,
+mahārāja, padīpo padīpamhā saṅkanto'ti? ([[https://suttacentral.net/mil3.5.5/pli/ms][Mil 3.5.5]])
 
 #+latex: \addtocontents{toc}{\clearpage}
 
 * Lesson 4
 ** Review Exercises
+
+TODO format exercises
+
+Dānaṃ dadantu saddhāya\\
+sīlaṃ rakkhantu sabbadā\\
+Bhāvanābhiratā hontu\\
+gacchantu devatā-gatā (Dukkhappattā... chant)
+
+May they give gifts with conviction, may they always maintain virtue.\\
+May they delight in meditation. May they go to a heavenly destination.
 
 nikkāmino gotamasāsanamhi (gotamassa sāsanamhi) (Snp 2.1)
 
@@ -1334,6 +1462,11 @@ vitakkānaṁ ca vicārānaṁ ca vūpasamā (DN 22)
 Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)
 
 Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187)
+
+Ye naṁ dadanti saddhāya,\\
+vippasannena cetasā;\\
+Tameva annaṁ bhajati,\\
+asmiṁ loke paramhi ca. ([[https://suttacentral.net/sn1.43/pli/ms][SN 1.43]])
 
 ** Adverbs of Time
 
@@ -1593,12 +1726,18 @@ time; occasion; lit. come together
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{My mind will rise (stand) above all worldly things.} | Sabbalokā ca me mano vuṭṭhahissati.[fn::AN 6.102] |
-| TODO                                                              |                                                  |
-| TODO                                                              |                                                  |
-| TODO                                                              |                                                  |
-| TODO                                                              |                                                  |
-| TODO                                                              |                                                  |
+\fillin{12cm}{}
+
+| \fillin{8cm}{My mind will rise (stand) above all worldly things.}                  | Sabbalokā ca me mano vuṭṭhahissati.[fn::AN 6.102]                         |
+| \fillin{8cm}{What are you doing while living here?}                                | Tumhe idha kiṁ kurumānā viharatha?                                       |
+| \fillin{8cm}{The servants of the housewife eat the fruits falling from the trees.} | Rukkhehi patantāni phalāni gahapatāniyā sevakā bhuñjanti.                |
+| \fillin{8cm}{The farmers sing songs in the fields.}                                | Khetthesu kassakā gītāni gāyanti.                                        |
+| \fillin{8cm}{Men become very devoted to monks who live in a forest dwelling.}      | Araññe senāsane viharantesu bhikkūsu manussā bhiyyo pasīdanti.           |
+| Where will you stay there, after going from here?                                  | \fillin{8cm}{Tvaṁ ito gantvā tatra kuhiṁ vasissati?}                     |
+| Don't talk while eating.                                                           | \fillin{8cm}{Bhuñjantā mā sallapatha.}                                   |
+| Wealth does not follow the person who is dying.                                    | \fillin{8cm}{Dhanaṁ mīyantaṁ / marantaṁ purisaṁ na anugacchati.}        |
+| While walking up and down, he brought many small creatures to destruction.         | \fillin{8cm}{So caṅkamanto bahū khuddake pāṇino saṅghātaṁ āpādesi.}      |
+| When the road becomes safe, then we shall set out from here.                       | \fillin{8cm}{Yadā maggo khemo bhavissati, tadā mayaṁ ito nikkhamissāma.} |
 
 #+latex: \normalArrayStrech
 
@@ -1653,15 +1792,14 @@ santī āpatti āvikātabbā, \\
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| TODO | TODO |
-| TODO |      |
-| TODO |      |
-| TODO |      |
-| TODO |      |
-| TODO |      |
-| TODO |      |
-| TODO |      |
-| TODO |      |
+| \fillin{8cm}{Why does that man depart now from here?}                       | Idāni kasmā so puriso ito nikkhamati?                                              |
+| \fillin{8cm}{You converse with the wise man.}                               | Tumhe paṇḍitehi saddhiṁ sallapatha.                                                |
+| \fillin{8cm}{The wise one dispels negligence by diligence.}                 | Paṇḍito appamādena pamādaṁ nudati.                                                 |
+| \fillin{8cm}{We will today climb the mountain to see the seer's hermitage.} | Mayaṁ ajja isino assamaṁ daṭṭhuṁ pabbataṁ abhiruhissāma.                           |
+| If you become lazy, you will not meditate and contemplate.                  | \fillin{8cm}{Sace tvaṁ kusīto / alaso bhaveyyāsi, na jhāyissasi nijjhāyissasi ca.} |
+| If the cooks would not cook, where should we go to eat?                     | \fillin{8cm}{Sace sūdā na paceyyuṁ, mayaṁ bhuñjituṁ kuhiṁ gaccheyyāma?}           |
+| One should defeat anger by means of non-anger.                              | \fillin{8cm}{Akkoddhena jine / jineyya kodhaṁ.}                                    |
+| We read our lessons here, but you are playing over there.                   | \fillin{8cm}{Mayaṁ idha pāṭhe paṭhāma, tumhe pana tatra kīḷatha.}                   |
 
 #+latex: \normalArrayStrech
 
@@ -1699,9 +1837,24 @@ santī āpatti āvikātabbā, \\
 
 Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi rules complicate the exact forms.
 
-| rukkho patito (pp.nom. of patati)                     | the fallen tree                      |
-| antarāyiko dhammo vutto (pp.nom. of vacati) bhagavatā | said to be an obstacle by the Buddha |
-| Pubbe'bhinno mallako.                                 | The cup is already broken.           |
+| rukkho patito (pp.nom. of patati)                     | the fallen tree                                          |
+| antarāyiko dhammo vutto (pp.nom. of vacati) bhagavatā | said to be an obstacle by the Buddha                     |
+| Pubbe'bhinno mallako.                                 | The cup is already broken.                               |
+| Icchitaṃ patthitaṃ tumhaṃ khippameva samijjhatu.     | \fillin{8cm}{May your hopes and wishes succeed quickly.} |
+
+#+latex: \begin{multicols}{2}
+
+/icchati:/ wants; desires
+
+/pattheti:/ wishes (for)
+
+#+latex: \columnbreak
+
+/khippaṁ:/ ind. quickly
+
+/samijjhati:/ achieves; succeeds
+
+#+latex: \end{multicols}
 
 When the subject is in instrumental case, the past participle is passive.
 
@@ -1843,20 +1996,93 @@ Some verbs can take two objects as a double accusative:
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| TODO | TODO |
-| TODO |      |
-| TODO |      |
-| TODO |      |
-| TODO |      |
-| TODO |      |
+| \fillin{8cm}{He turns his mind away from those phenomena, ...}                                | So tehi dhammehi cittaṁ paṭivāpetvā ...                               |
+| \fillin{8cm}{... and, inclines his mind to the property of deathlessness.}                    | ... amatāya dhātuyā cittaṁ upasaṁharati.[fn::MN 64, AN 9.36]          |
+| \fillin{8cm}{The new bridge has been built by the carpenter.}                                 | Navo setu kārunā kato hoti.                                           |
+| \fillin{8cm}{Having stayed in my brother's house yesterday, I came here early morning today.} | Ahaṁ hiyyo bhātikassa gehe vasitvā ajja pāto'va idhāgacchiṁ.          |
+| \fillin{8cm}{The deer bitten by the snake fell down and died there.}                          | Alagaddena daṭṭho migo tatth'eva patitvā mato.                         |
+| The Buddha expounded the doctrine for abandoning of lust, anger and delusion.                 | \fillin{8cm}{Buddho rāgassa dosassa mohassa pahānāya dhammaṁ desesi.} |
+| They gave ear to hear the teaching of the Buddha.                                             | \fillin{8cm}{Te Buddhassa dhammaṁ sotuṁ sotaṁ odahiṁsu.}             |
+| Monks made an attempt to attain Arahatship.                                                   | \fillin{8cm}{Bhikkhū arahattaṁ pāpunituṁ viriyaṁ ārabhiṁsu.}         |
+| The monk went to the forest and sat down at the foot of a tree.                               | \fillin{8cm}{Bhikkhu araññaṁ / vanaṁ gantvā rukkhassa mūle nisīdi.}   |
+
 
 #+latex: \normalArrayStrech
 
 *** Readings
 
-/Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ./ (Pc 10)
+Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ. (Pc 10)
 
-TODO
+------
+
+“Kāmarāgena ḍayhāmi,\\
+cittaṁ me pariḍayhati;\\
+Sādhu nibbāpanaṁ brūhi,\\
+anukampāya gotamā”ti.
+
+“Saññāya vipariyesā,\\
+cittaṁ te pariḍayhati;\\
+Nimittaṁ parivajjehi,\\
+subhaṁ rāgūpasaṁhitaṁ.
+
+Saṅkhāre parato passa,\\
+dukkhato mā ca attato;\\
+Nibbāpehi mahārāgaṁ,\\
+mā ḍayhittho punappunaṁ.
+
+Asubhāya cittaṁ bhāvehi,\\
+ekaggaṁ susamāhitaṁ;\\
+Sati kāyagatā tyatthu,\\
+nibbidābahulo bhava.
+
+Animittañca bhāvehi,
+mānānusayamujjaha;\\
+Tato mānābhisamayā,\\
+upasanto carissasī”ti.
+
+(SN 8.4)
+
+------
+
+Katamo cānanda, maggo, katamā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ
+pahānāya? Idhānanda, bhikkhu upadhivivekā akusalānaṁ dhammānaṁ pahānā sabbaso
+kāyaduṭṭhullānaṁ paṭippassaddhiyā vivicceva kāmehi vivicca akusalehi dhammehi
+savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
+So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ
+viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato
+parato palokato suññato anattato samanupassati. So tehi dhammehi cittaṁ
+paṭivāpeti.
+
+So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati: ‘etaṁ
+santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo
+taṇhākkhayo virāgo nirodho nibbānan’ti.
+
+So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti; no ce āsavānaṁ khayaṁ pāpuṇāti teneva
+dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā
+opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā. Ayampi kho,
+ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya.
+
+(MN 64)
+
+-----
+
+‘Paṭhamampāhaṁ, bhikkhave, jhānaṁ nissāya āsavānaṁ khayaṁ vadāmī’ti, iti kho
+panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? Idha, bhikkhave, bhikkhu vivicceva
+kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati. So yadeva tattha hoti
+rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ, te dhamme aniccato
+dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato
+samanupassati. So tehi dhammehi cittaṁ paṭivāpeti.
+
+So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati: ‘etaṁ
+santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo
+taṇhākkhayo virāgo nirodho nibbānan’ti.
+
+So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti. No ce āsavānaṁ khayaṁ
+pāpuṇāti, teneva dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ
+saṁyojanānaṁ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā
+lokā.
+
+(AN 9.36)
 
 *** Extra Challenge
 
@@ -2591,18 +2817,21 @@ These qualities lead to attachment, not to detachment.
 - [[https://archive.org/details/PaliGrammarCharlesDuroiselle][A Practical Grammar of the Pāli Language by Charles Duroiselle, v4.3, 2007 (archive.org)]]
 - [[https://archive.org/details/NewPaliCourse/][A New Course In Reading Pali by James W. Gair, W. S. Karunatillake (archive.org)]]
 - [[https://archive.org/details/PaliBuddhistTextsA][Pali Buddhist Texts Explained to the Beginner by Rune E A Johansson (archive.org)]]
+- [[https://palistudies.blogspot.com/][Learn Pali Language (blogspot.com)]]
 
 [fn:an-4-67] [[https://suttacentral.net/an4.67/pli/ms][AN 4.67]]
 
 [fn:kaye-note] /Kāye/ (loc.) can mean "in the body", or "with regard to the body".
 
-[fn:yatha-chant]: Yathā vāri-vahā pūrā...
+[fn:yatha-chant] Yathā vāri-vahā pūrā...
 
 [fn:mn-118] [[https://suttacentral.net/mn118/pli/ms][MN 118]]
 
 [fn:sn-42-3] [[https://suttacentral.net/sn42.3/pli/ms][SN 42.3]]
 
-[fn:snp-2-1] [[https://suttacentral.net/snp2.1/pli/ms][Snp 2.1]] simpl.
+[fn:snp-2-1] [[https://suttacentral.net/snp2.1/pli/ms][Snp 2.1]]
+
+[fn:snp-2-1-simpl] [[https://suttacentral.net/snp2.1/pli/ms][Snp 2.1]] simpl.
 
 [fn:ratanattaya] Paritta Ratanattaya-paṇāma, simpl.
 
