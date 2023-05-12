@@ -4,7 +4,7 @@
 
 | cīvara   | bhikkhussa dussa          |
 | kattikā  | gimhānaṁ pacchimaṁ māsaṁ |
-| gimha    | eka utu                   |
+| gimha    | eko utu                   |
 | pacati   | sūdassa kammaṁ            |
 | kuṭi      | bhikkhussa vihāraṁ        |
 | tatra    | nocidha                   |
