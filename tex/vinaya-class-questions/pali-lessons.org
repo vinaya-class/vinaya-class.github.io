@@ -29,9 +29,6 @@
 * Tasks                                                            :noexport:
 ** editing
 
-include crossword
-add crossword words
-
 check vocabulary
 format vocab pages
 
@@ -52,6 +49,22 @@ Pali Crossword
 
 sabbadukkanissarananibbāna saccakirinatthāya
 imaṁ kāsāvaṁ gahetvā
+
+** what have I lost?
+
+uid:sn2.18/en/sujato
+
+“Well then, ascetic, do you sorrow?”
+“Tena hi, samaṇa, socasī”ti?
+
+“What have I lost, sir?”
+“Kiṁ jīyittha, āvuso”ti?
+
+How does discontent not
+Kathaṁ taṁ ekamāsīnaṁ,
+
+overwhelm you as you sit alone?”
+aratī nābhikīratī”ti.
 
 ** they don't neglect retreat
 
@@ -558,17 +571,20 @@ Venerable, may the Ven. come and sit here.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{The elders make an effort.} | Therā viriyaṁ ārabhanti (/begins; undertakes/). |
-| \fillin{8cm}{They give ear.}             | Te sotaṁ odahanti (/applies; gives/).           |
-| The man eats rice.                       | \fillin{8cm}{Naro bhattaṁ bhuñjati.}            |
-| The men are cooking.                     | \fillin{8cm}{Narā pacanti.}                     |
-| I go up to the man.                      | \fillin{8cm}{Naraṁ upasaṅkamati.}               |
-| I see the moon.                          | \fillin{8cm}{Candaṁ passāmi.}                   |
-| You (pl.) don't see the dogs.            | \fillin{8cm}{Sunakhe na passatha.}              |
-| The boys are running.                    | \fillin{8cm}{Dārakā dhāvanti.}                  |
-| You are sitting here.                    | \fillin{8cm}{Idha nisīdasi.}                    |
-| She comes from there.                    | \fillin{8cm}{Sā tato āgacchati.}                |
-| We run to the boys.                      | \fillin{8cm}{Mayaṁ dārake dhāvāma.}             |
+| \fillin{8cm}{The elders make an effort.}            | Therā viriyaṁ ārabhanti (/begins; undertakes/).  |
+| \fillin{8cm}{They give ear.}                        | Te sotaṁ odahanti (/applies; gives/).            |
+| \fillin{8cm}{Who seeks privacy, he wants solitude.} | Yo rahāyati (seeks privacy), so vivekaṁ icchati. |
+| \fillin{8cm}{Discontent is a dauther of Māra.}      | Aratī eko māradhītaro.                           |
+| \fillin{8cm}{He gives her the cloth.}               | So tā dussaṁ (cloth) deti.                       |
+| The man eats rice.                                  | \fillin{8cm}{Naro bhattaṁ bhuñjati.}             |
+| The men are cooking.                                | \fillin{8cm}{Narā pacanti.}                      |
+| I go up to the man.                                 | \fillin{8cm}{Naraṁ upasaṅkamati.}                |
+| I see the moon.                                     | \fillin{8cm}{Candaṁ passāmi.}                    |
+| You (pl.) don't see the dogs.                       | \fillin{8cm}{Sunakhe na passatha.}               |
+| The boys are running.                               | \fillin{8cm}{Dārakā dhāvanti.}                   |
+| You are sitting here.                               | \fillin{8cm}{Idha nisīdasi.}                     |
+| She comes from there.                               | \fillin{8cm}{Sā tato āgacchati.}                 |
+| We run to the boys.                                 | \fillin{8cm}{Mayaṁ dārake dhāvāma.}              |
 
 #+latex: \normalArrayStrech
 
@@ -643,7 +659,10 @@ The particle /mā/ is used to express a prohibition.
 | Buddho paṭiggaṇhā\textbf{tu} accayantaṃ. | \fillin{8cm}{May the Buddha accept (that) transgression.} |
 | Phāsu (comfortably) vihara\textbf{tu}!  | \fillin{8cm}{Let him live comfortably!}                   |
 | Vassasataṁ jīv\textbf{a}!               | \fillin{8cm}{May you live 100 years!}                     |
+| Samitaṁ (calm) ved\textbf{ehi}!         | \fillin{8cm}{May you feel calm!}                          |
 | \textbf{Mā} gaccha!                     | \fillin{8cm}{Don't go!}                                   |
+| Kāmarāgena \textbf{mā} ḍayhatha (burn)!  | \fillin{8cm}{May you not burn with sensual desire!}       |
+| Kilese tap\textbf{antu} (burn)!         | \fillin{8cm}{May they burn the defilements!}              |
 | Suṇātu me bhante saṅgho ...              | \fillin{8cm}{Let the Sangha hear me.}                     |
 | Pārisuddhiṁ āyasmanto ārocetha.         | \fillin{8cm}{Let the Venerables declare purity.}          |
 
