@@ -2,27 +2,6 @@
 
 * Cw 01
 
-| cīvara   | bhikkhussa dussa          |
-| kattikā  | gimhānaṁ pacchimaṁ māsaṁ |
-| gimha    | eko utu                   |
-| pacati   | sūdassa kammaṁ            |
-| kuṭi      | bhikkhussa vihāraṁ        |
-| tatra    | nocidha                   |
-| aratī    |                           |
-| ahari    |                           |
-| rahāyati | vivekaṁ icchati           |
-| patta    | tato bhikkhu bhuñjati     |
-| kataññū  | vedeti (having received)  |
-| putta    | mātāya dāraka             |
-| aggi     |                           |
-| tapati   | kilesaṁ jhāyati           |
-| pivati   |                           |
-| gāviṁ    |                           |
-| vidū     | paṇḍito                    |
-| pīti     |                           |
-| ādi      |                           |
-| rūpa     |                           |
-
 #+begin_src
  putta   pīti
  a  t kuṭi

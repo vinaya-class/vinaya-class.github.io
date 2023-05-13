@@ -167,29 +167,35 @@
   \uline{\bfseries\itshape #1}%
 }
 
+\newcommand\subSubSectionFmt[1]{%
+  \normalfont
+  \memRTLraggedright
+  \uline{\itshape #1}%
+}
+
 \makeheadstyles{vinaya-class}{%
 \chapterstyle{vinaya-class}
-  \setbeforesecskip{1\onelineskip
-                    \@plus -0.5\onelineskip \@minus -.5\onelineskip}%
-  \setaftersecskip{1\onelineskip \@plus 0.1\onelineskip}%
   \setsecheadstyle{\sectionFmt}%
-  \setbeforesubsecskip{-1.0\onelineskip
-                       \@plus -0.25\onelineskip \@minus -0.25\onelineskip}%
-  \setaftersubsecskip{1.0\onelineskip \@plus 0.1\onelineskip}%
+  \setbeforesecskip{1\onelineskip \@plus -0.5\onelineskip \@minus -.5\onelineskip}%
+  \setaftersecskip{1\onelineskip \@plus 0.1\onelineskip}%
+  %
   \setsubsecheadstyle{\subSectionFmt}%
-  \setbeforesubsubsecskip{1.0\onelineskip
-                          \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
-  \setaftersubsubsecskip{-1em}%
-  \setsubsubsecheadstyle{\normalfont\normalsize\scshape\MakeTextLowercase}%
-  \setbeforeparaskip{1.0\onelineskip
-                     \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
-  \setafterparaskip{-1em}%
+  \setbeforesubsecskip{-1.0\onelineskip \@plus -0.25\onelineskip \@minus -0.25\onelineskip}%
+  \setaftersubsecskip{1.0\onelineskip \@plus 0.1\onelineskip}%
+  %
+  \setsubsubsecheadstyle{\subSubSectionFmt}%
+  \setbeforesubsubsecskip{-1.0\onelineskip \@plus -0.25\onelineskip \@minus -0.25\onelineskip}%
+  \setaftersubsubsecskip{1.0\onelineskip \@plus 0.1\onelineskip}%
+  %
   \setparaheadstyle{\normalfont\normalsize\itshape\addperiod}%
+  \setbeforeparaskip{1.0\onelineskip \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
+  \setafterparaskip{-1em}%
+  %
+  \setsubparaheadstyle{\normalfont\normalsize\itshape\addperiod}%
   \setsubparaindent{\parindent}%
-  \setbeforesubparaskip{1.0\onelineskip
-                        \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
+  \setbeforesubparaskip{1.0\onelineskip \@plus 0.5\onelineskip \@minus 0.2\onelineskip}%
   \setaftersubparaskip{-1em}%
-  \setsubparaheadstyle{\normalfont\normalsize\itshape\addperiod}}
+}
 
 %% Based on bringhurst from memoir.
 \headstyles{vinaya-class}

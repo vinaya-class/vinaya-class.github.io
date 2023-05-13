@@ -1,48 +1,39 @@
 #+LATEX_CLASS: memoir
-#+LATEX_HEADER: \newif\ifanswerkey
-#+LATEX_HEADER: \answerkeytrue
-#+LATEX_HEADER: \ifanswerkey
-#+LATEX_HEADER:   \usepackage[forpaper, answerkey]{eqexam}
-#+LATEX_HEADER:   \usepackage{vinaya-class-questions}
-#+LATEX_HEADER: \else
-#+LATEX_HEADER:   \usepackage[forpaper, nosolutions]{eqexam}
-#+LATEX_HEADER:   \usepackage[nosolutions]{vinaya-class-questions}
-#+LATEX_HEADER: \fi
-#+LATEX_HEADER: \def\maketitle{}
-#+LATEX_HEADER: \maxtocdepth{subsection}
+#+LATEX_HEADER: \input{./pali-lessons-preamble.tex}
 #+LANGUAGE: en_GB
 #+OPTIONS: toc:nil tasks:nil ':t H:4 author:nil
 #+TITLE: Pali Lessons
 #+AUTHOR: The Bhikkhu Saṅgha
 
-#+latex: \frontmatter
-#+latex: \par
-#+latex: {\centering
-#+latex: \par
-#+latex: {\Huge Pāḷi Lessons}
-#+latex: \par
-#+latex: \bigskip
-#+latex: \href{https://vinaya-class.github.io}{https://vinaya-class.github.io}
-#+latex: \par
-#+latex: {\scshape\small last updated on}\\
-#+latex: \today
-#+latex: \par
-#+latex: }
-#+latex: \par
-#+latex: \bigskip
-#+latex: \tableofcontents*
-#+latex: \par
-#+latex: \mainmatter
+#+begin_export latex
+\frontmatter
+
+{\centering
+
+{\Huge Pāḷi Lessons}
+
+\bigskip
+\href{https://vinaya-class.github.io}{https://vinaya-class.github.io}
+
+{\scshape\small last updated on}\\
+\today
+
+}
+
+\bigskip
+\tableofcontents*
+
+\mainmatter
+#+end_export
 
 * Tasks                                                            :noexport:
+** editing
 
-add missing exercises
+include crossword
+add crossword words
 
-singing, etc
-
-diluting the holy life, offerings
-
-crossw include
+check vocabulary
+format vocab pages
 
 Vocab csv + BPC exec.
 
@@ -54,9 +45,77 @@ Pali Chat
 
 Pali Poem
 
-Pali Crossword (see TPC 14)
+Pali Crossword
 
 * Notes                                                            :noexport:
+** upasampada chant
+
+sabbadukkanissarananibbāna saccakirinatthāya
+imaṁ kāsāvaṁ gahetvā
+
+** they don't neglect retreat
+
+uid:an5.73/en/sujato
+
+Furthermore, a mendicant thinks about and considers the teaching in their heart, examining it with the mind as they learned and memorized it.
+
+Puna caparaṁ, bhikkhu, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakketi anuvicāreti manasānupekkhati.
+
+They spend their days thinking about that teaching. But they neglect retreat, and are not committed to internal serenity of heart.
+
+So tehi dhammavitakkehi divasaṁ atināmeti, riñcati paṭisallānaṁ, nānuyuñjati ajjhattaṁ cetosamathaṁ.
+
+That mendicant is called one who thinks a lot, not one who lives by the teaching.
+
+Ayaṁ vuccati, bhikkhu: ‘bhikkhu vitakkabahulo, no dhammavihārī’.
+
+** dancing, singing, playing instruments, games
+
+corruptor of families
+dance here, sister
+singing, etc
+
+They danced, sang, played instruments, and performed.
+naccantipi gāyantipi vādentipi lāsentipi,
+
+While the women were dancing, singing, playing instruments, and performing, so would they.
+naccantiyāpi naccanti, naccantiyāpi gāyanti, naccantiyāpi vādenti, naccantiyāpi lāsenti, gāyantiyāpi naccanti, gāyantiyāpi gāyanti, gāyantiyāpi vādenti, gāyantiyāpi lāsenti, vādentiyāpi naccanti, vādentiyāpi gāyanti, vādentiyāpi vādenti, vādentiyāpi lāsenti, lāsentiyāpi naccanti, lāsentiyāpi gāyanti, lāsentiyāpi vādenti, lāsentiyāpi lāsenti;
+
+They played various games: eight-row checkers, ten-row checkers, imaginary checkers, hopscotch, pick-up-sticks, dice, tip-cat, painting with the hand, ball games, leaf flutes, toy plows, somersaults, toy windmills, toy measures, toy carriages, toy bows, letter guessing, thought guessing, mimicking deformities.
+aṭṭhapadepi kīḷanti, dasapadepi kīḷanti, ākāsepi kīḷanti, parihārapathepi kīḷanti, santikāyapi kīḷanti, khalikāyapi kīḷanti, ghaṭikāyapi kīḷanti, salākahatthenapi kīḷanti, akkhenapi kīḷanti, paṅgacīrenapi kīḷanti, vaṅkakenapi kīḷanti, mokkhacikāyapi kīḷanti, ciṅgulakenapi kīḷanti, pattāḷhakenapi kīḷanti, rathakenapi kīḷanti, dhanukenapi kīḷanti, akkharikāyapi kīḷanti, manesikāyapi kīḷanti, yathāvajjenapi kīḷanti.
+
+They trained in elephant riding, in horsemanship, in carriage riding, in archery, in swordsmanship.
+Hatthismimpi sikkhanti, assasmimpi sikkhanti, rathasmimpi sikkhanti, dhanusmimpi sikkhanti, tharusmimpi sikkhanti,
+
+And they ran in front of elephants, horses, and carriages, and they ran backward and forward.
+hatthissapi purato dhāvanti, assassapi purato dhāvanti, rathassapi purato dhāvantipi ādhāvantipi, ⧫
+
+They whistled, clapped their hands, wrestled, and boxed.
+usseḷentipi, apphoṭentipi, nibbujjhantipi, muṭṭhīhipi yujjhanti,
+
+They spread their outer robe on a stage and said to the dancing girls, “Dance here, Sister,” and they made gestures of approval. And they misbehaved in a variety of ways.
+raṅgamajjhepi saṅghāṭiṁ pattharitvā naccakiṁ evaṁ vadanti—“idha, bhagini, naccassū”ti, nalāṭikampi denti, vividhampi anācāraṁ ācaranti.
+
+** cords of sensuality not allowable
+
+If gold and money were proper for them, then the five kinds of sensual stimulation would also be proper.
+
+Yassa kho, gāmaṇi, jātarūparajataṁ kappati, pañcapi tassa kāmaguṇā kappanti.
+
+And if the five kinds of sensual stimulation are proper for them, you should definitely regard them as not having the qualities of an ascetic or a follower of the Sakyan.
+
+Yassa pañca kāmaguṇā kappanti (…), ekaṁsenetaṁ, gāmaṇi, dhāreyyāsi assamaṇadhammo asakyaputtiyadhammoti.
+
+** looking into eyes
+
+laughing, chatting, etc
+
+They enjoy it and like it and find it satisfying.
+So taṁ assādeti, taṁ nikāmeti, tena ca vittiṁ āpajjati.
+
+This is a break, taint, stain, or mar in celibacy.
+Idampi kho, brāhmaṇa, brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampi.
+
 ** yo pana
 
 tena kho pana samayena āyasmā mahākassapo ...
@@ -177,7 +236,6 @@ man
 woman
 
 bhamakāra: masc. turner; lathe operator [bhama + kāra]
-** Kuṭi work
 * Lesson 1
 ** Language Notes
 
@@ -448,8 +506,7 @@ The Buddha was wandering in the land of the Kosalans...
 
 #+latex: \normalArrayStrech
 
-*** Extra Challenge                                                :noexport:
-**** Pāli Chat
+*** Extra Challenge: Pāli Chat
 
 /Idha pubbaṇhasamayaṁ Ericeiraṁ piṇḍāya pavisāmi./
 
@@ -875,25 +932,29 @@ pārisuddhā ti vedissāmi.
 
 (Nidāna)
 
-*** Extra Challenge                                                :noexport:
-**** Readings
+*** Extra Challenge: Crossword
 
-Seyyathāpi, bhikkhave, dakkho bhamakāro vā bhamakārantevāsī vā dīghaṁ vā
-añchanto ‘dīghaṁ añchāmī’ti pajānāti, rassaṁ vā añchanto ‘rassaṁ añchāmī’ti
-pajānāti;
+#+begin_export latex
+\begin{Puzzle}{13}{9}%
+\input{./crosswords/assets/cw-01.txt}
+\end{Puzzle}
 
-Idha, bhikkhave, bhikkhu sarāgaṁ vā cittaṁ ‘sarāgaṁ cittan’ti pajānāti.
-Vītarāgaṁ vā cittaṁ ‘vītarāgaṁ cittan’ti pajānāti. Sadosaṁ vā cittaṁ ‘sadosaṁ
-cittan’ti pajānāti. Vītadosaṁ vā cittaṁ ‘vītadosaṁ cittan’ti pajānāti. Samohaṁ
-vā cittaṁ ‘samohaṁ cittan’ti pajānāti. Vītamohaṁ vā cittaṁ ‘vītamohaṁ cittan’ti
-pajānāti.
+\vspace*{\baselineskip}
 
-Idha, bhikkhave, bhikkhu: ‘iti rūpaṁ, iti rūpassa samudayo, iti rūpassa
-atthaṅgamo; iti vedanā, iti vedanāya samudayo, iti vedanāya atthaṅgamo; ...
+\input{./crosswords/cw-01-clues.tex}
 
-(DN 22)
+\ifanswerkey
 
-**** Crossword
+\vspace*{\baselineskip}
+
+\PuzzleSolution[true]
+
+\begin{Puzzle}{13}{9}%
+\input{./crosswords/assets/cw-01.txt}
+\end{Puzzle}
+
+\fi
+#+end_export
 
 * Lesson 3
 ** Review Exercises
@@ -1438,39 +1499,37 @@ evañhi vo, bhikkhave, sikkhitabbaṁ. ([[https://suttacentral.net/sn12.22/en/su
 Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so,
 mahārāja, padīpo padīpamhā saṅkanto'ti? ([[https://suttacentral.net/mil3.5.5/pli/ms][Mil 3.5.5]])
 
+-----
+
+Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.
+
+\fillin{12cm}{May they give gifts with conviction, may they always maintain virtue.}
+
+Bhāvanābhiratā hontu, gacchantu devatā-gatā[fn:: Dukkhappattā... chant]
+
+\fillin{8cm}{May they delight in meditation, may they go to the devas.}
+
+-----
+
+Ye naṁ dadanti saddhāya, \\
+vippasannena cetasā; \\
+Tameva annaṁ bhajati, \\
+asmiṁ loke paramhi ca. ([[https://suttacentral.net/sn1.43/pli/ms][SN 1.43]])
+
 #+latex: \addtocontents{toc}{\clearpage}
 
 * Lesson 4
 ** Review Exercises
 
-TODO format exercises
+| \fillin{8cm}{Those who, devoted, firm-minded,}                                           | Ye suppayuttā manasā daḷhena                                           |
+| \fillin{8cm}{apply themselves to Gotama's message}                                       | nikkāmino gotamasāsanamhi (gotamassa sāsanamhi)                       |
+| \fillin{8cm}{they, with no seed, no desire for growth,}                                  | Te khīṇa-bījā aviruḷhi-chandā                                          |
+| \fillin{8cm}{enlightened, go out like this flame.}                                       | Nibbanti dhīrā yathā’yam padīpo (Snp 2.1)                             |
+| \fillin{8cm}{A disciple of the fully awakened Buddha delights in the ending of craving.} | Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187, simpl.) |
+| \fillin{8cm}{To many refuges they go, to mountains and forest glades}                    | Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca (Dhp 188)                  |
+| \fillin{8cm}{They dwell detached, not grasping at anything in the world.}                | Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)             |
 
-Dānaṃ dadantu saddhāya\\
-sīlaṃ rakkhantu sabbadā\\
-Bhāvanābhiratā hontu\\
-gacchantu devatā-gatā (Dukkhappattā... chant)
-
-May they give gifts with conviction, may they always maintain virtue.\\
-May they delight in meditation. May they go to a heavenly destination.
-
-nikkāmino gotamasāsanamhi (gotamassa sāsanamhi) (Snp 2.1)
-
-Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca
-
-yadā paññāya passati, atha nibbindati dukkhe
-
-esa maggo visuddhiyā
-
-vitakkānaṁ ca vicārānaṁ ca vūpasamā (DN 22)
-
-Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)
-
-Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187)
-
-Ye naṁ dadanti saddhāya,\\
-vippasannena cetasā;\\
-Tameva annaṁ bhajati,\\
-asmiṁ loke paramhi ca. ([[https://suttacentral.net/sn1.43/pli/ms][SN 1.43]])
+/nikkāmī:/ striving (in); active (in); lit. going out [nī + √kam + *ī]
 
 ** Adverbs of Time
 
@@ -2088,7 +2147,7 @@ lokā.
 
 (AN 9.36)
 
-*** Extra Challenge
+*** Extra Challenge: Reading NP 10
 
 Read the text of [[https://suttacentral.net/pli-tv-bu-vb-np10/en/brahmali][NP 10]] as recited:
 

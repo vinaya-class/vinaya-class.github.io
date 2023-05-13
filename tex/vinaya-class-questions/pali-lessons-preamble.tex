@@ -1,0 +1,27 @@
+\makeatletter
+
+\newif\ifanswerkey
+\answerkeytrue
+\ifanswerkey
+  \usepackage[forpaper, answerkey]{eqexam}
+  \usepackage{vinaya-class-questions}
+\else
+  \usepackage[forpaper, nosolutions]{eqexam}
+  \usepackage[nosolutions]{vinaya-class-questions}
+\fi
+
+\def\maketitle{}
+
+\maxtocdepth{subsection}
+
+\usepackage{cwpuzzle}
+
+\renewcommand\PuzzleCluePre{%
+  \begin{minipage}[t]{0.75\linewidth}%
+}
+
+\renewcommand\PuzzleClueFont{\fontsize{10}{17}\selectfont}
+
+% \def\PuzzleThickline{\linethickness{2pt}}
+
+\makeatother

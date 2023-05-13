@@ -1,17 +1,7 @@
-% Created 2023-05-04 Thu 08:15
+% Created 2023-05-13 Sat 20:05
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt,oneside]{memoir}
-\newif\ifanswerkey
-\answerkeyfalse
-\ifanswerkey
-\usepackage[forpaper, answerkey]{eqexam}
-\usepackage{vinaya-class-questions}
-\else
-\usepackage[forpaper, nosolutions]{eqexam}
-\usepackage[nosolutions]{vinaya-class-questions}
-\fi
-\def\maketitle{}
-\maxtocdepth{subsection}
+\input{./pali-lessons-preamble.tex}
 \date{\today}
 \title{Pali Lessons}
 \hypersetup{
@@ -25,28 +15,28 @@
 
 \maketitle
 \frontmatter
-\par
+
 {\centering
-\par
+
 {\Huge Pāḷi Lessons}
-\par
+
 \bigskip
 \href{https://vinaya-class.github.io}{https://vinaya-class.github.io}
-\par
+
 {\scshape\small last updated on}\\
 \today
-\par
+
 }
-\par
+
 \bigskip
 \tableofcontents*
-\par
+
 \mainmatter
 
 \chapter{Lesson 1}
-\label{sec:orga9a2ea5}
+\label{sec:orgd0288c4}
 \section{Language Notes}
-\label{sec:orge0504ce}
+\label{sec:org333302b}
 
 The \textbf{gender of a noun} is either masculine, feminine or neuter.
 Its \textbf{number} is either singular or plural.
@@ -111,8 +101,17 @@ Personal pronouns in nominative case:
 \textbf{1st} & ahaṁ & amhe, mayaṁ, no\\[0pt]
 \textbf{2nd} & tuvaṁ, tvaṁ & tumhe, vo\\[0pt]
 \textbf{3rd.masc.} & so, sa & te\\[0pt]
-\textbf{3rd.fem.} & sā & tā, tāyo\\[0pt]
 \textbf{3rd.nt.} & taṁ, tad & tāni\\[0pt]
+\textbf{3rd.fem.} & sā & tā, tāyo\\[0pt]
+\end{tabular}
+\end{center}
+
+\emph{sā taṃ bhāsati:} she speaks (to) him/them
+
+\begin{center}
+\begin{tabular}{lll}
+ta → & \emph{(nom.sg.)} so / taṁ / sā & \emph{(nom.pl.)} te / tāni / tā, tāyo\\[0pt]
+ & \emph{(acc.sg.)} taṁ & \emph{(acc.pl.)}  te / tāni / tā, tāyo\\[0pt]
 \end{tabular}
 \end{center}
 
@@ -122,6 +121,15 @@ Personal pronouns in nominative case:
 The 1st and 2nd personal pronouns are gender neutral, the 3rd person pronouns are gendered.
 
 Pronouns take on the person and number of the noun they represent.
+
+A relative sentence begins with a relative clause, followed by a demonstrative:
+
+\begin{center}
+\begin{tabular}{llllll}
+\emph{yo} & \emph{gilānaṃ} & \emph{upaṭṭhāti} & \emph{so} & \emph{maṃ} & \emph{upaṭṭhāti}\\[0pt]
+he who & ill & attends & he & me & attends\\[0pt]
+\end{tabular}
+\end{center}
 
 \bigskip
 
@@ -169,7 +177,7 @@ nouns are ending in \textbf{-a}, \mbox{97\% of} all neuter nouns are ending in \
 addition to adjectives and participles with the same declensions.
 
 \section{Simple Present Tense (-āmi, -asi, -ati)}
-\label{sec:org955a445}
+\label{sec:orgac2a312}
 
 Actions that are happening at the present moment, occurring regularly, or general truths.
 
@@ -241,14 +249,14 @@ you (pl.) give (to) & \fillin{4cm}{detha}\\[0pt]
 he informs & āroceti\\[0pt]
 I inform & \fillin{4cm}{ārocemi}\\[0pt]
 he confesses & āvikaroti\\[0pt]
-you confess & \fillin{4cm}{āvikarotha}\\[0pt]
+you (sg.) confess & \fillin{4cm}{āvikarosi}\\[0pt]
 \end{tabular}
 \end{center}
 
 \end{multicols}
 
 \subsection{Present Tense of Irregular Verb √as (to be)}
-\label{sec:org0255976}
+\label{sec:orga53f6b4}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -270,7 +278,7 @@ you confess & \fillin{4cm}{āvikarotha}\\[0pt]
 \end{quote}
 
 \subsection{Present Tense of Irregular Verb √hū (to be)}
-\label{sec:org37834f6}
+\label{sec:orgcf5ad0b}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -282,26 +290,26 @@ you confess & \fillin{4cm}{āvikarotha}\\[0pt]
 \end{center}
 
 \section{Declensions (-a)}
-\label{sec:orga9d3525}
+\label{sec:org43fe854}
 \subsection{Nominative Case: naro -- the man (subject)}
-\label{sec:orgc25b9bb}
+\label{sec:orga1a0b85}
 
 `\textbf{Who} is doing it?' Indicates the \textbf{subject} of a sentence.
 
 \begin{center}
 \begin{tabular}{ll}
 Naro nisīdati. & \textbf{The man} sits.\\[0pt]
-Mātugāmo uṭṭhahati. & \textbf{The woman} stands.\\[0pt]
-uṭṭhāti & stands up\\[0pt]
+Dārako tiṭṭhati. & \textbf{The boy} stands (tiṭṭhati).\\[0pt]
+Mātugāmo uṭṭhahati. & \textbf{The woman} stands up (uṭṭhāti).\\[0pt]
 Sīhā na dhāvanti. & \textbf{The lions} are not running.\\[0pt]
 Jātā mīyanti. & \textbf{(Those who are) born} (they) die.\\[0pt]
 Mallako bhindati. & The cup breaks.\\[0pt]
 Abhisatto'va nipatati, vayo.\footnotemark & Like a curse, it falls, \textbf{old age}.\\[0pt]
 \end{tabular}
-\end{center}\footnotetext[1]{\label{org3f2926d}\href{https://suttacentral.net/thag1.118/pli/ms}{Thag 118}}
+\end{center}\footnotetext[1]{\label{org92b5827}\href{https://suttacentral.net/thag1.118/pli/ms}{Thag 118}}
 
 \subsection{Accusative Case: naraṁ -- the man (object)}
-\label{sec:orgc1e401b}
+\label{sec:org44532e4}
 
 \textbf{(a)} `\textbf{What} is he eating?' Indicates the \textbf{object} of a sentence.
 
@@ -316,30 +324,38 @@ The dogs are barking (\emph{bhussati}) \textbf{at the moon.} (\emph{canda}) & \f
 \end{tabular}
 \end{center}
 
+\clearpage
+
 \begin{center}
 \begin{tabular}{ll}
 The disciple (\emph{sāvaka}) eats the lion. & \fillin{8cm}{Sāvako sīhaṁ khādati.}\\[0pt]
 The lion eats the disciple. & \fillin{8cm}{Sīho sāvakaṁ khādati.}\\[0pt]
-They fill up (\emph{paripūreti}) the ocean. (\emph{sāgara}) & \fillin{8cm}{Paripūrenti sāgaraṁ.}\\[0pt]
+They fill up (\emph{paripūreti}) the ocean (\emph{sāgara}).\footnotemark & \fillin{8cm}{Paripūrenti sāgaraṁ.}\\[0pt]
 \end{tabular}
-\end{center}
+\end{center}\footnotetext[2]{\label{orge63b5ad}Yathā vāri-vahā pūrā\ldots{}}
 
 \normalArrayStrech
 
-\textbf{(b)} `\textbf{Where} is he going to?' Indicates where the subject is \textbf{going to} or \textbf{going along}. A.k.a. `the accusative of motion'.
+\textbf{(b)} `\textbf{Where} is he going to?' Indicates where the subject is \textbf{going to} or \textbf{going along}. \\[0pt]
+A.k.a. `the accusative of motion'.
 
 \begin{quote}
 \emph{Māluvābījaṁ sālamūle nipatati.} (\href{https://suttacentral.net/mn45/pli/ms}{MN 45})
 
 The māluva-seed (\emph{māluvābīja}) falls \textbf{at the base of sal trees.} (\emph{sālamūla})
+
+\emph{Bhagavā kosalesu cārikaṁ carati\ldots{}} (Ud 5.9)
+
+The Buddha was wandering in the land of the Kosalans\ldots{}
 \end{quote}
 
 \renewcommand{\arraystretch}{1.8}
 
 \begin{center}
 \begin{tabular}{ll}
-The elder walks \textbf{along the road.} & \fillin{8cm}{Thero maggaṁ carati.}\\[0pt]
+The elder is \textbf{going on a walk.} & \fillin{8cm}{Thero cārikaṁ carati.}\\[0pt]
 The layman (\emph{upāsaka}) doesn't go \textbf{to the village.} & \fillin{8cm}{Upāsako gāmaṁ na gacchati.}\\[0pt]
+We go up to (upasaṅkamati) the layman. & \fillin{8cm}{Upāsakaṁ upasaṅkamāma.}\\[0pt]
 The men run \textbf{to the barn.} (\emph{koṭṭhāgāra}) & \fillin{8cm}{Narā koṭṭhāgāraṁ dhāvanti.}\\[0pt]
 The birds fly \textbf{to the sal trees.} (\emph{sālarukkha}) & \fillin{8cm}{Sakuṇā sālarukkhe uḍḍenti.}\\[0pt]
 We enter (\emph{pavisati}) \textbf{the hut.} (\emph{agāra}) & \fillin{8cm}{Agāraṁ pavisāma.}\\[0pt]
@@ -349,9 +365,9 @@ We enter (\emph{pavisati}) \textbf{the hut.} (\emph{agāra}) & \fillin{8cm}{Agā
 \normalArrayStrech
 
 \section{Exercises}
-\label{sec:orgadb56dd}
+\label{sec:org063e15b}
 \subsection{Translate}
-\label{sec:orgecaaa07}
+\label{sec:org51d9318}
 
 \renewcommand{\arraystretch}{1.8}
 
@@ -363,24 +379,78 @@ Suññāgāraṁ pavisāmi. & \fillin{8cm}{I enter the empty hut.}\\[0pt]
 Rukkhamūle gacchāma. & \fillin{8cm}{We go to the roots of trees.}\\[0pt]
 Cattāro satipaṭṭhānā satta bojjhaṅge paripūrenti.\footnotemark & \fillin{8cm}{The 4 found. of mindf. fulfil the 7 fact. of enligh.  }\\[0pt]
 \end{tabular}
-\end{center}\footnotetext[2]{\label{org5b14698}\href{https://suttacentral.net/mn118/pli/ms}{MN 118}}
+\end{center}\footnotetext[3]{\label{org1bd6c3a}\href{https://suttacentral.net/mn118/pli/ms}{MN 118}}
 
 \normalArrayStrech
 
+\subsection{Extra Challenge: Pāli Chat}
+\label{sec:org325471a}
+
+\emph{Idha pubbaṇhasamayaṁ Ericeiraṁ piṇḍāya pavisāmi.}
+
+This morning I am entering Ericeira for alms-round.
+
+\emph{Bhante, ayyo āgacchatu, idha nisīdatu.}
+
+Venerable, may the Ven. come and sit here.
+
+\begin{center}
+\begin{tabular}{ll}
+Good morning! & Supubbaṇho bhante/āvuso.\\[0pt]
+Good morning everyone. & Supubbaṇho sabbesaṁ.\\[0pt]
+Thank you. & Anumodāmi.\\[0pt]
+You're welcome. & Svāgato.\\[0pt]
+I (we) must go. & Handa dāni mayaṁ gacchāma.\\[0pt]
+Go at your convenience. & Yassadāni tvaṁ kālaṁ maññasī.\\[0pt]
+See you tomorrow. & Suve.\\[0pt]
+Sorry. & Kāruññaṁ.\\[0pt]
+Yes. & Āma, bhante.\\[0pt]
+No. & No hetaṁ, bhante.\\[0pt]
+Never mind (leave it aside). & Tiṭṭhatu, bhante.\\[0pt]
+Excuse me! & Okāsa, bhante.\\[0pt]
+Please sit. & Nisīdatha.\\[0pt]
+How are you? (I hope you are enduring.) & Kacci te bhante khamanīyaṁ?\\[0pt]
+I hope you all are well. & Kacci vo khamanīyaṁ.\\[0pt]
+I am alright. & Khamanīyaṁ me, āvuso.\\[0pt]
+I am not well. & Na me, bhante, khamanīyaṁ.\\[0pt]
+I didn't understand. & Aññāṇamāpādi.\\[0pt]
+Why is that? & Taṁ kissa hetu?\\[0pt]
+It is very hot / cold today. & Ajjaṁ uṇhakālaṁ / sītakālaṁ.\\[0pt]
+Where is the market? & Kattha / Kuhiṁ antarāpaṇaṁ?\\[0pt]
+What is your name? & Kinnāmosi?\\[0pt]
+My name is \ldots{} & Ahaṁ bhante \ldots{} nāma.\\[0pt]
+What is your preceptor's name? & Ko nāma te upajjhāyo?\\[0pt]
+My preceptor's name is Ven. \ldots{} & Upajjhāyo me bhante āyasmā \ldots{} nāma.\\[0pt]
+aṇha (m.) & day\\[0pt]
+sāya (nt.) & night\\[0pt]
+samaya (m.) & time; occasion\\[0pt]
+supubbaṇha [su + pubba + aṇha] & good morning\\[0pt]
+pubbaṇhasamayaṁ & \\[0pt]
+sumajjhanhika [su + majjha + anha + ika] & good midday\\[0pt]
+majjhanhikasamayaṁ & \\[0pt]
+susāyanha [su + sāya + anha] & good evening\\[0pt]
+sāyanhasamayaṁ & \\[0pt]
+\end{tabular}
+\end{center}
+
+(\href{https://suttacentral.net/an3.155/en/sujato}{AN 3.155, Morning})
+
 \chapter{Lesson 2}
-\label{sec:orgbd143fa}
+\label{sec:orgb5083e6}
 \section{Review Exercises}
-\label{sec:orgd395712}
+\label{sec:org656fe82}
 
 \renewcommand{\arraystretch}{1.8}
 
 \begin{center}
 \begin{tabular}{ll}
+\fillin{8cm}{The elders make an effort.} & Therā viriyaṁ ārabhanti (\emph{begins; undertakes}).\\[0pt]
+\fillin{8cm}{They give ear.} & Te sotaṁ odahanti (\emph{applies; gives}).\\[0pt]
 The man eats rice. & \fillin{8cm}{Naro bhattaṁ bhuñjati.}\\[0pt]
 The men are cooking. & \fillin{8cm}{Narā pacanti.}\\[0pt]
-I walk to the man. & \fillin{8cm}{Naraṁ carāmi.}\\[0pt]
+I go up to the man. & \fillin{8cm}{Naraṁ upasaṅkamati.}\\[0pt]
 I see the moon. & \fillin{8cm}{Candaṁ passāmi.}\\[0pt]
-They don't see the dogs. & \fillin{8cm}{Sunakhe na passatha.}\\[0pt]
+You (pl.) don't see the dogs. & \fillin{8cm}{Sunakhe na passatha.}\\[0pt]
 The boys are running. & \fillin{8cm}{Dārakā dhāvanti.}\\[0pt]
 You are sitting here. & \fillin{8cm}{Idha nisīdasi.}\\[0pt]
 She comes from there. & \fillin{8cm}{Sā tato āgacchati.}\\[0pt]
@@ -391,9 +461,9 @@ We run to the boys. & \fillin{8cm}{Mayaṁ dārake dhāvāma.}\\[0pt]
 \normalArrayStrech
 
 \section{Declensions (-a)}
-\label{sec:org6be0a8e}
+\label{sec:org517ceb6}
 \subsection{Vocative Case: nara / narā -- Hey, man!}
-\label{sec:orgcf7a769}
+\label{sec:org215ddd7}
 
 Used when addressing people directly: `Hey layman, come here!' \emph{Ehi upāsak\textbf{a}!}
 
@@ -435,7 +505,7 @@ Some special vocative forms:
 \clearpage
 
 \subsection{Imperative Verbs}
-\label{sec:org94921f0}
+\label{sec:org00add3d}
 
 {\centering\par
 \begin{multicols}{2}
@@ -481,6 +551,7 @@ The particle \emph{mā} is used to express a prohibition.
 
 \begin{center}
 \begin{tabular}{ll}
+Buddho paṭiggaṇhā\textbf{tu} accayantaṃ. & \fillin{8cm}{May the Buddha accept (that) transgression.}\\[0pt]
 Phāsu (comfortably) vihara\textbf{tu}! & \fillin{8cm}{Let him live comfortably!}\\[0pt]
 Vassasataṁ jīv\textbf{a}! & \fillin{8cm}{May you live 100 years!}\\[0pt]
 \textbf{Mā} gaccha! & \fillin{8cm}{Don't go!}\\[0pt]
@@ -492,7 +563,7 @@ Pārisuddhiṁ āyasmanto ārocetha. & \fillin{8cm}{Let the Venerables declare p
 \normalArrayStrech
 
 \subsection{Instrumental Case: narena -- with, by, because of the man}
-\label{sec:orge273f09}
+\label{sec:orgd53cd31}
 
 \textbf{`With whom/what? By whom/what? By means of, because of whom/what?'}
 
@@ -507,9 +578,12 @@ In the plural case, the final long vowel becomes long and \emph{-hi} is added.
 \begin{center}
 \begin{tabular}{llll}
  &  & \textbf{sg.} & \textbf{pl.}\\[0pt]
+ācariya (teacher) & → & ācariyena & ācariyehi\\[0pt]
+paṇḍita (sage) & → & \fillin{4cm}{paṇḍitena} & \fillin{4cm}{paṇḍitehi}\\[0pt]
 senānī (general) & → & senāninā & senānīhi\\[0pt]
-garu (teacher) & → & garunā & garūhi\\[0pt]
+garu (guru) & → & garunā & garūhi\\[0pt]
 vidū (seer) & → & vidunā & vidūhi\\[0pt]
+viññū (wise man) & → & \fillin{4cm}{viññunā} & \fillin{4cm}{viññūhi}\\[0pt]
 \end{tabular}
 \end{center}
 
@@ -522,19 +596,20 @@ The particles \textbf{saddhiṁ, saha} used with the instrumental case, expresse
 \begin{center}
 \begin{tabular}{ll}
 Buddhena saddhiṁ & together with the Buddha\\[0pt]
-\fillin{8cm}{garunā saddhiṁ} & together with the teacher\\[0pt]
-\fillin{8cm}{vidūhi saddhiṁ} & together with the wise men\\[0pt]
+\fillin{8cm}{ācariyena / ācariyā saddhiṁ} & together with the teacher\\[0pt]
+\fillin{8cm}{viññūhi saddhiṁ} & together with the wise men\\[0pt]
+Etena saccena suvatthi hotu.\footnotemark & \fillin{8cm}{By this truth may there be well-being.}\\[0pt]
 \fillin{8cm}{Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.} & I, together with a friend, go to the village.\\[0pt]
-\fillin{8cm}{Maggaṁ mātugāmena saddhiṃ carati.} & He walks along the road with a woman. (\emph{mātugāma})\\[0pt]
+\fillin{8cm}{Mātugāmena saddhiṃ cārikaṁ carati.} & He wanders about with a woman. (\emph{mātugāma})\\[0pt]
 \end{tabular}
-\end{center}
+\end{center}\footnotetext[4]{\label{org34f962d}\href{https://suttacentral.net/snp2.1/pli/ms}{Snp 2.1}}
 
 \begin{center}
-\begin{tabular}{l}
-Aṭṭhi tacena onaddhaṁ, saha vatthebhi\footnotemark\space sobhati. (MN 82)\\[0pt]
-\fillin{10cm}{A bone covered with skin; it looks beautiful with clothes.}\\[0pt]
+\begin{tabular}{ll}
+Aṭṭhi tacena onaddhaṁ, saha vatthebhi\footnotemark\space sobhati. (MN 82) & \\[0pt]
+\fillin{10cm}{A bone covered with skin; it looks beautiful with clothes.} & \\[0pt]
 \end{tabular}
-\end{center}\footnotetext[3]{\label{org372aef1}The only occurrence of vatth\textbf{ebhi}, normally it's vatth\textbf{ehi}.}
+\end{center}\footnotetext[5]{\label{orgd655021}The only occurrence of vatth\textbf{ebhi}, normally it's vatth\textbf{ehi}.}
 
 \normalArrayStrech
 
@@ -545,7 +620,7 @@ Aṭṭhi tacena onaddhaṁ, saha vatthebhi\footnotemark\space sobhati. (MN 82)\
 \end{itemize}
 
 \subsection{Dative Case: narāya / narassa -- to the man, for the man}
-\label{sec:orga9edd96}
+\label{sec:org6cf1e89}
 
 \textbf{`To whom/what? For whom/what?'}
 
@@ -553,7 +628,19 @@ Singular: final \emph{-a} of the stem becomes \emph{-āya} and \emph{-assa}.
 
 \emph{Buddhāya, Buddhassa}: to or for the Buddha.
 
+\begin{quote}
+Saṅgho imaṃ kaṭhinadussaṃ āyasmato Amarassa deti. (\href{https://suttacentral.net/pli-tv-kd7/pli/ms}{Vin. Kd 7})
+\end{quote}
+
 To the stems ending in \emph{i, ī, u, ū}, the ending \emph{-no} and \emph{-ssa} are added.
+
+\begin{center}
+\begin{tabular}{ll}
+Homage to the Buddha. & \fillin{8cm}{Namo Buddhāya / Buddhassa.}\\[0pt]
+It leads to Nibbāna. & \fillin{8cm}{Nibbānāya saṁvattati.}\\[0pt]
+We eat the almsfood not for fun or indulgence\ldots{} & \fillin{8cm}{Mayaṁ piṇḍapātaṁ bhuñjāma neva davāya, na madāya...}\\[0pt]
+\end{tabular}
+\end{center}
 
 \begin{quote}
 Dasa atthavase:
@@ -564,7 +651,7 @@ Dasa atthavase:
 \end{quote}
 
 \subsection{Genitive Case: narassa -- of the man, the man's}
-\label{sec:orga058ad9}
+\label{sec:org7d58744}
 
 \textbf{`Of whom/what? Whose?'}
 
@@ -586,31 +673,31 @@ vidū & viduno, vidussa & to/for the seer & of the seer, the seer's\\[0pt]
 
 The irregular \emph{go} (cow, ox) has two forms: \emph{gavassa, gāvassa} (to/for the cow, of the cow, the cow's).
 
+\begin{quote}
+\emph{Na kho pana mayaṁ passāma āyasmato upasenassa kāyassa vā aññathattaṁ indriyānaṁ vā vipariṇāmaṁ.}
+
+But we don't see any impairment in the body or deterioration of Ven. Upasena's faculties. (SN 35.69)
+\end{quote}
+
 \renewcommand{\arraystretch}{1.8}
 
 \begin{center}
 \begin{tabular}{ll}
+\fillin{8cm}{Fire, having rose up, burns down the householder's house.} & Aggi uṭṭhāya (\emph{rose up}) gahapatikassa gehaṁ (\emph{house}) ḍahati (\emph{burns down}).\\[0pt]
+\fillin{8cm}{The cooks cook the rice for the householder's servants.} & Sūdehi gahapatino sevakānaṁ odano pacanti.\\[0pt]
+\fillin{8cm}{Taken away by thieves, the householder's oxen vanished.} & Corehi haritvā, gahapatino gāvo naṭṭho (\emph{vanished}).\\[0pt]
+\fillin{8cm}{The darkness was dispelled by the sun's light.} & Suriyassa ālokena andhakāro (\emph{darkness}) apagato (\emph{lit. gone away}).\\[0pt]
 We don't see the change of the body of the man. & \fillin{8cm}{Na passāma manussassa kāyassa vipariṇāmaṁ.}\\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
+By means of the Teaching, men go to the far shore. & \fillin{8cm}{Manussā dhammena pāraṁ gacchanti.}\\[0pt]
+The man's oxen were lost / vanished. & \fillin{8cm}{Purisassa goṇo / gāvo naṭṭho.}\\[0pt]
+Rice cooked by the cook was eaten (\emph{khādito}) by the beggar's (\emph{yācaka}) dog. & \fillin{8cm}{Sūdena pacito odano yācakassa sunakhena khādito.}\\[0pt]
 \end{tabular}
 \end{center}
 
 \normalArrayStrech
 
-\begin{quote}
-\emph{Na kho pana mayaṁ passāma āyasmato upasenassa kāyassa vā aññathattaṁ indriyānaṁ vā vipariṇāmaṁ.}
-
-But we don't see any impairment in the body or deterioration of Ven. Upasena's faculties.
-
-(SN 35.69)
-\end{quote}
-
 \section{Optative or Potential Verbs: May / Should (-eyya)}
-\label{sec:org29430d5}
+\label{sec:org8c8a553}
 
 {\centering\par
 \begin{multicols}{2}
@@ -685,13 +772,17 @@ The optative generally indicates that the situation is hypothetical. It is often
 The optative cam imply a polite imperative, `it would be good if you\ldots{}'
 
 \begin{quote}
-\emph{Atha tumhe, kālāmā, upasampajja vihareyyāthā\ldots{}} (\href{https://suttacentral.net/an3.65/pli/ms}{AN 3.65})
+\emph{Ime dhammā kusalā \ldots{} hitāya sukhāya saṁvattantī'ti,}
 
-\fillin{10cm}{Then, Kālāmas, you should undertake them and abide in them...}
+\fillin{10cm}{These things are wholesome ... lead to long-term happiness,}
+
+\emph{atha tumhe, kālāmā, upasampajja (undertaking, attaining) vihareyyātha.} (\href{https://suttacentral.net/an3.65/pli/ms}{AN 3.65})
+
+\fillin{10cm}{then, Kālāmas, you should undertake them and abide in them...}
 \end{quote}
 
 \subsection{Optative of √as (to be) has two forms}
-\label{sec:orge592e67}
+\label{sec:org42ddcff}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -713,7 +804,7 @@ If only we could not be of the nature to die!
 \end{quote}
 
 \section{Future Passive Participle: Should Be Done (-tabba)}
-\label{sec:orgb42f94c}
+\label{sec:org8236fb5}
 
 A.k.a. the gerundive form, formed by adding \emph{-tabba, -anīya, -ya} either to the
 present active base or to the verbal root. In the root, \emph{i → e} and \emph{u → o}.
@@ -739,7 +830,7 @@ dese & desetabba & should be expounded\\[0pt]
 √kar & kātabba, karaṇīya & should be done\\[0pt]
 √ñā & ñātabba, ñeyya & should be known\\[0pt]
 √pā & peyya & should be drunk\\[0pt]
-kiṇā & kiṇituṁ & should be bought\\[0pt]
+kiṇā & kīṇeyya & should be bought\\[0pt]
 \end{tabular}
 \end{center}
 
@@ -747,9 +838,9 @@ kiṇā & kiṇituṁ & should be bought\\[0pt]
 \par}
 
 \section{Exercises}
-\label{sec:orgf72f0de}
+\label{sec:org04b6444}
 \subsection{Translate}
-\label{sec:org2c690b5}
+\label{sec:org25d37cd}
 
 \renewcommand{\arraystretch}{1.8}
 
@@ -769,9 +860,11 @@ TODO & \fillin{8cm}{TODO}\\[0pt]
 \clearpage
 
 \subsection{Readings}
-\label{sec:org576f65b}
+\label{sec:org61d58ba}
 
 Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ vadeyyaṁ: `kusalaṁ, bhikkhave, bhāvethā'ti. (\href{https://suttacentral.net/an2.11-20/pli/ms}{AN 2.11-20})
+
+(bhāvetha + iti → bhāvethā'ti, a + i → ā)
 
 \noindent\rule{\textwidth}{0.5pt}
 
@@ -810,31 +903,65 @@ Tuṇhī-bhāvena kho pan'āyasmante \\[0pt]
 pārisuddhā ti vedissāmi.
 
 (Nidāna)
+
+\subsection{Extra Challenge: Crossword}
+\label{sec:org8e608cb}
+
+\begin{Puzzle}{13}{9}%
+\input{./crosswords/assets/cw-01.txt}
+\end{Puzzle}
+
+\vspace*{\baselineskip}
+
+\input{./crosswords/cw-01-clues.tex}
+
+\ifanswerkey
+
+\vspace*{\baselineskip}
+
+\PuzzleSolution[true]
+
+\begin{Puzzle}{13}{9}%
+\input{./crosswords/assets/cw-01.txt}
+\end{Puzzle}
+
+\fi
+
 \chapter{Lesson 3}
-\label{sec:orgc84a0a4}
+\label{sec:org0cbe4b0}
 \section{Review Exercises}
-\label{sec:orgf4764ac}
+\label{sec:orgb00e3fb}
 
 \renewcommand{\arraystretch}{1.8}
 
 \begin{center}
 \begin{tabular}{ll}
-Homage to him, the Blessed One. & \fillin{8cm}{Namo tassa bhagavato.}\\[0pt]
-May all beings be happy. & \fillin{8cm}{Sabbe sattā sukhī hontu.}\\[0pt]
-Come here, layman! & \fillin{8cm}{Ehi upāsaka!}\\[0pt]
-The elder goes to the village with the disciple. & \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}\\[0pt]
-The elder gives the robe to the disciple. & \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}\\[0pt]
-The disciple is being eaten by the lion. & \fillin{8cm}{Sāvako sīhena khajjati.}\\[0pt]
-TODO & \\[0pt]
+\fillin{8cm}{May all misfortunes be avoided, may all illness be dispelled.} & Sabbītiyo vivajjantu sabbarogo vinassatu.\\[0pt]
+\fillin{8cm}{Go away, beings!} & Paṭikkamantu bhūtāni!\footnotemark\\[0pt]
 \fillin{8cm}{We are obstructed by birth and death.} & Mayaṁ otiṇṇā amha jātijarāmaraṇena.\footnotemark\\[0pt]
 \fillin{8cm}{There is no equal to the Tathāgata.} & Na samo (equal to) atthi tathāgatena.\footnotemark\\[0pt]
+Homage to him, the Blessed One. & \fillin{8cm}{Namo tassa bhagavato.}\\[0pt]
+May all beings be happy. & \fillin{8cm}{Sabbe sattā sukhī hontu.}\\[0pt]
+Come here, layman! & \fillin{8cm}{Ehi / Āgacchāhi upāsaka!}\\[0pt]
+The elder goes to the village with the disciple (\emph{sāvaka}). & \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}\\[0pt]
+The elder gives the robe to the disciple. & \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}\\[0pt]
 \end{tabular}
-\end{center}\footnotetext[4]{\label{orgfc2e39d}Paritta Ratanattaya-paṇāma, simpl.}\footnotetext[5]{\label{org69cce55}\href{https://suttacentral.net/snp2.1/pli/ms}{Snp 2.1} simpl.}
+\end{center}\footnotetext[6]{\label{orgd78ecbc}\href{https://suttacentral.net/an4.67/pli/ms}{AN 4.67}}\footnotetext[7]{\label{org7ea03b1}Paritta Ratanattaya-paṇāma, simpl.}\footnotetext[8]{\label{org3176b80}\href{https://suttacentral.net/snp2.1/pli/ms}{Snp 2.1} simpl.}
+
+\emph{īti:} (f.) calamity; misfortune; lit. it comes [√i + ti]
+
+\emph{vivajjati:} avoids
+
+\emph{vinassati:} disappears
+
+\emph{paṭikkamati:} returns; steps back; recedes; goes away
+
+\emph{bhūta:} (nt.) living being; lit. become [√bhū + ta]
 
 \normalArrayStrech
 
 \section{Indeclinables and Idioms}
-\label{sec:orgd5c124f}
+\label{sec:org1dd6876}
 
 \begin{multicols}{2}
 
@@ -915,9 +1042,19 @@ whichever (masc.nom.sg. of \emph{ya})
 
 \textbf{eva:} only; just; merely
 
+\textbf{h'eva:} hi + eva (with emphasis)
+
+\textbf{yathā:} like; as; according to; how
+
+\textbf{yathā yathā:} in whatever way
+
 \end{multicols}
 
 \emph{Ahaṃ bhante tisaraṇena saha aṭṭhasīlāni (nt.acc.pl.) yācāmi.}
+
+\emph{Yathā parisaṁ alaṁ dassanāya gantuṁ, tathā ayaṁ bhikkhusaṅgho.} (AN 4.190)
+
+\emph{Yathārūpaṁ parisaṁ alaṁ yojanagaṇanānipi dassanāya gantuṁ.} (AN 4.190)
 
 \emph{Idha modati pecca modati, katapuñño ubhayattha modati.} (Dhp 16)
 
@@ -928,7 +1065,7 @@ whichever (masc.nom.sg. of \emph{ya})
 \item \emph{ubhayattha}: ind. in both cases; on both sides; lit. both matters [ubhaya + attha]
 \end{itemize}
 
-\emph{Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati \ldots{}} (DN 22)
+\emph{Idha, bhikkhave, bhikkhu kāye\footnote{\emph{Kāye} (loc.) can mean `in the body', or `with regard to the body'.} kāyānupassī viharati \ldots{}} (DN 22)
 
 \emph{Puna gehaṁ na kāhasi} (Dhp 154)
 
@@ -947,7 +1084,7 @@ whichever (masc.nom.sg. of \emph{ya})
 \emph{saṁvidhāya:} gerund of \emph{saṁvidahati} [saṁ + vi + √dhā + a + ti], arranges, organises, plans
 
 \section{Gerund (e.g. bhavitvā)}
-\label{sec:org11b8c6e}
+\label{sec:org36358e7}
 
 A.k.a. `absolutive form' or `indeclinable past participle'.
 
@@ -991,6 +1128,8 @@ jānāti (knows) & ñatvā / jānitvā\\[0pt]
 \end{multicols}
 
 \begin{quote}
+\emph{Mayaṁ taṁ dhammaṁ sutvā evaṁ jānāma\ldots{}} Having heard the teaching we know thus\ldots{} (Morning chanting)
+
 \emph{Atha kho aññataro brāhmaṇo yena bhagavā ten'upasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi.}
 
 Then a certain Brahman approached the Blessed One. Having approached, he greeted (exchanged greetings with) the Blessed One. (\href{https://suttacentral.net/an2.11-20/pli/ms}{AN 2.16})
@@ -1020,27 +1159,55 @@ Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā, sālaṁ gacch
 \emph{cittaṁ pariyādāya tiṭṭhati:} having taken over the mind, it remains.
 
 \begin{quote}
-Kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati \ldots{} tassa abhijjhāpi
+Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati \ldots{} tassa abhijjhāpi
 \ldots{} byāpādopi \ldots{} thinamiddhampi \ldots{} uddhaccakukkuccampi \ldots{} vicikicchāpi \ldots{}
 aratīpi \ldots{} tandīpi cittaṁ pariyādāya tiṭṭhati. (\href{https://suttacentral.net/mn68/pli/ms}{MN 68})
 \end{quote}
+
+\begin{multicols}{2}
+
+\emph{viveka:} (m.) seclusion; discrimination
+
+\emph{nādhigacchati:} does not get to; does not obtain
+
+\emph{abhijjhā:} (f.) wanting; lit. over thinking
+
+\emph{byāpāda:} (m.) ill will; lit. going wrong
+
+\emph{thinamiddha:} (nt.) dullness; sloth
+
+\columnbreak
+
+\emph{uddhaccakukkucca:} (nt.) restlessness; agitation
+
+\emph{vicikicchā:} (f.) doubt; uncertainty
+
+\emph{aratī:} (f.) discontent; dislike
+
+\emph{tandī:} (f.) laziness; tiredness
+
+\end{multicols}
 
 \renewcommand{\arraystretch}{1.8}
 
 \begin{center}
 \begin{tabular}{ll}
-So tatra gantvā idha āgacchati. & He, having gone there, comes here.\\[0pt]
-\fillin{8cm}{So tatra nisīditvā tato uṭṭhāti.} & After sitting down there, he stands up from there (uṭṭhāti).\\[0pt]
-\fillin{8cm}{Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.} & After staying here today, tomorrow we go there.\\[0pt]
-\fillin{8cm}{Sace so coretvā idha āgacceyya, ahaṁ daṇḍeyyāmi.} & If, after stealing, he might comes here, I may punish (him).\\[0pt]
-\fillin{8cm}{Rukkhaṁ agginā ḍahetvā masiṁ kareyya.} & After burning the tree with fire, they may make ash (masi).\\[0pt]
+Chandañca ruciñca ādāya voharati. (Sg 11) & \fillin{8cm}{He speaks with our given consent and approval.}\\[0pt]
+Sace so coretvā idha āgacceyya, ahaṁ daṇḍeyyāmi. & \fillin{8cm}{If, after stealing, he might come here, I may punish (him).}\\[0pt]
+So tatra gantvā idha āgacchati. & \fillin{8cm}{He, having gone there, comes here.}\\[0pt]
+Idha nisīditvā mā rodāhi, tatra gacchāhi, gantvā bhutvā sayāhi. & \fillin{8cm}{Sitting here, don't cry, go there, having gone and eaten, lie down.}\\[0pt]
+\fillin{8cm}{So tatra nisīditvā tato uṭṭhāti.} & After sitting down there, he stands up from there (\emph{uṭṭhāti}).\\[0pt]
+\fillin{8cm}{Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.} & After staying (\emph{vasati}) here today, tomorrow we go there.\\[0pt]
+\fillin{8cm}{Rukkhaṁ agginā jhāpetvā masiṁ kareyya.} & After burning (\emph{jhāyati}) the tree with fire, they may make ash (\emph{masi}).\\[0pt]
+\fillin{8cm}{Te idha āgantvā pacitvā gacchanti. } & Having come here, having cooked, they go.\\[0pt]
+\fillin{8cm}{Tvaṁ buñjitvā pivitvā sayasi.} & Having eaten, having drunk, you lie down.\\[0pt]
 \end{tabular}
 \end{center}
 
 \normalArrayStrech
 
 \section{Infinitive (e.g. bhavituṁ)}
-\label{sec:orgb0767a6}
+\label{sec:org8d31411}
 
 The infinitive verbal form expresses a \textbf{purpose}.
 It is formed by adding \emph{-(i)tuṁ} to the root.
@@ -1089,18 +1256,20 @@ The infinitive may be translated as `to see' / `in order to see' / `for the purp
 
 \begin{center}
 \begin{tabular}{ll}
-Ahaṁ bhuñjitvā sayituṁ na icchāmi. & \fillin{8cm}{Having eaten, I don't want to lie down.}\\[0pt]
-Mayaṁ idāni atra bhutvā vapituṁ tahiṁ gacchāma. & \fillin{8cm}{Now, we eat here and go there to sow.}\\[0pt]
-\fillin{8cm}{Āma, ahaṁ jānāmi, tvaṁ carituṁ icchati.} & Yes, I know you like to walk.\\[0pt]
+Ahaṁ bhuñjitvā sayituṁ (\emph{lie down, sleep}) na icchāmi. & \fillin{8cm}{Having eaten, I don't want to lie down.}\\[0pt]
+Mayaṁ idāni atra bhutvā vapituṁ (\emph{sow}) tahiṁ (\emph{there}) gacchāma. & \fillin{8cm}{Now, we eat here and go there to sow.}\\[0pt]
+\fillin{8cm}{Āma, ahaṁ jānāmi, tvaṁ carituṁ icchasi.} & Yes, I know you like to walk.\\[0pt]
+\fillin{8cm}{Mayaṁ ketuṁ tahiṁ na gacchāma.} & We don't go there to buy.\\[0pt]
+\fillin{8cm}{Mayaṁ hantuṁ na icchāma.} & We don't like to kill.\\[0pt]
 \end{tabular}
 \end{center}
 
 \normalArrayStrech
 
 \section{Declensions (-a)}
-\label{sec:org0ce8c53}
+\label{sec:org78e6b5e}
 \subsection{Locative Case: nare / naramhi / narasmiṁ -- in, on, at the man}
-\label{sec:orga76b595}
+\label{sec:org2935430}
 
 `\textbf{Where} is it happening?' Indicates the location of the action, and expresses
 the sense of \textbf{in}, \textbf{on}, \textbf{at}, or \textbf{among}.
@@ -1117,14 +1286,17 @@ long or remain short.
 \begin{tabular}{lll}
  & \textbf{sg.} & \textbf{pl.}\\[0pt]
 Buddha & Buddhe, Buddhasmiṁ, Buddhamhi & Buddhesu\\[0pt]
+paṇḍita & \fillin{4cm}{paṇḍite, paṇḍitamhi} & \fillin{4cm}{paṇḍitesu}\\[0pt]
 muni & munismiṁ, munimhi & munisu, munīsu\\[0pt]
-seṇānī & seṇānismiṁ, senānimhi & senānīsu\\[0pt]
+senānī & senānismiṁ, senānimhi & senānīsu\\[0pt]
 garu & garusmiṁ, garumhi & garusu, garūsu\\[0pt]
-vidū & vidusmiṁ, vidumhi & vidūdsu\\[0pt]
+vidū & vidusmiṁ, vidumhi & vidūsu\\[0pt]
+viññū & \fillin{4cm}{viññusmiṁ, viññumhi} & \fillin{4cm}{viññūsu}\\[0pt]
 go & gave, gāve, gavasmiṁ, gāvasmiṁ, & gavesu, gāvesu,\\[0pt]
  & gavamhi, gāvamhi & gosu\\[0pt]
 \end{tabular}
 \end{center}
+
 
 \begin{quote}
 \emph{Ekaṁ samayaṁ bhagavā bhoganagare viharati ānandacetiye.}
@@ -1137,11 +1309,11 @@ go & gave, gāve, gavasmiṁ, gāvasmiṁ, & gavesu, gāvesu,\\[0pt]
 \begin{center}
 \begin{tabular}{ll}
 The lion walks \textbf{in the village.} & Sīho \textbf{gāme / gāmamhi / gāmasmiṁ} carati.\\[0pt]
-\fillin{8cm}{The wise men are delighted in the Buddha.} & Viduno Buddhe pasannā.\\[0pt]
+\fillin{8cm}{The wise men are delighted in the Buddha.} & Viññuno Buddhe pasannā.\\[0pt]
 \fillin{8cm}{Now rain falls, (so) don't go out.} & Idāni devo vassati, mā bahi gacchittha.\\[0pt]
 \fillin{8cm}{Today many men assemble in the village.} & Ajja bahū manussā gāme sannipatanti.\\[0pt]
-Monkeys move about (\emph{vicarati}) on trees. & \fillin{8cm}{Makkaṭā rukkhesu vicaranti.}\\[0pt]
-They, having seen the disadvantage (\emph{ādīnava}) of sensual pleasures, & \fillin{8cm}{Te kāmānaṁ ādīnavaṁ disvā,}\\[0pt]
+Monkeys (\emph{makkaṭa}) move about (\emph{vicarati}) on trees. & \fillin{8cm}{Makkaṭā rukkhesu vicaranti.}\\[0pt]
+They, having seen the disadvantage (\emph{ādīnava}) in sensual pleasures, & \fillin{8cm}{Te kāmesu ādīnavaṁ disvā,}\\[0pt]
 go forth (\emph{pabbajati}) in the bhikkhu-saṅgha. & \fillin{8cm}{bhikkhu-saṅghe pabbajanti.}\\[0pt]
 \end{tabular}
 \end{center}
@@ -1151,7 +1323,7 @@ go forth (\emph{pabbajati}) in the bhikkhu-saṅgha. & \fillin{8cm}{bhikkhu-sa�
 \clearpage
 
 \subsection{Ablative Case: narā / naramhā / narasmā -- from, out of the man}
-\label{sec:org574acc3}
+\label{sec:orgd60ad8e}
 
 \textbf{From whom/what? From where? Out of whom/what?}
 
@@ -1200,7 +1372,7 @@ from the lamp & \fillin{4cm}{padīpato}\\[0pt]
 \end{tabular}
 \end{center}
 
-\textbf{The suffix \emph{-to}} can also form indeclinable adverbs: \emph{dukkato} can be translated as ablative `from suffering', or an adverb `as suffering'.
+\textbf{The suffix \emph{-to}} can also form indeclinable adverbs: \emph{dukkhato} can be translated as ablative `from suffering', or an adverb `as suffering'.
 
 \emph{parato}: (1) abl. [para + to], from far \\[0pt]
 \emph{parato}: (2) ind. as another; as alien
@@ -1211,29 +1383,88 @@ from the lamp & \fillin{4cm}{padīpato}\\[0pt]
 
 \clearpage
 
+\section{Pronouns}
+\label{sec:orgb0b99f5}
+
+\begin{multicols}{2}
+
+Personal pronouns (nominative)
+
+\begin{center}
+\begin{tabular}{lll}
+ & \textbf{sg.} & \textbf{pl.}\\[0pt]
+\textbf{1st} & ahaṁ & amhe, mayaṁ, no\\[0pt]
+ & \fillin{2cm}{I} & \fillin{2cm}{we}\\[0pt]
+\textbf{2nd} & tuvaṁ, tvaṁ & tumhe, vo\\[0pt]
+ & \fillin{2cm}{thou} & \fillin{2cm}{you lot}\\[0pt]
+\textbf{3rd.masc.} & so, sa & te\\[0pt]
+ & \fillin{2cm}{he} & \fillin{2cm}{they}\\[0pt]
+\textbf{3rd.nt.} & taṁ, tad & tāni\\[0pt]
+ & \fillin{2cm}{it} & \fillin{2cm}{they}\\[0pt]
+\textbf{3rd.fem.} & sā & tā, tāyo\\[0pt]
+ & \fillin{2cm}{she} & \fillin{2cm}{they}\\[0pt]
+\end{tabular}
+\end{center}
+
+\columnbreak
+
+Possessive pronouns (genitive)
+
+\begin{center}
+\begin{tabular}{ll}
+\textbf{sg.} & \textbf{pl.}\\[0pt]
+mama, mayhaṁ, me & amhākaṁ, no\\[0pt]
+\fillin{2cm}{mine, my} & \fillin{2cm}{ours, our}\\[0pt]
+tava, tuyhaṁ, te & tumhākam\\[0pt]
+\fillin{2cm}{your(s)} & \fillin{2cm}{your(s)}\\[0pt]
+tassa & tesaṁ\\[0pt]
+\fillin{2cm}{your(s)} & \fillin{2cm}{your(s)}\\[0pt]
+tassa & tesaṁ\\[0pt]
+\fillin{2cm}{its} & \fillin{2cm}{their(s)}\\[0pt]
+tassā & tāsaṁ\\[0pt]
+\fillin{2cm}{hers} & \fillin{2cm}{their(s)}\\[0pt]
+\end{tabular}
+\end{center}
+
+\end{multicols}
+
+\begin{center}
+\begin{tabular}{lll}
+ta → & \emph{(nom.sg.)} so / taṁ / sā & \emph{(nom.pl.)} te / tāni / tā, tāyo\\[0pt]
+ & \emph{(acc.sg.)} taṁ & \emph{(acc.pl.)}  te / tāni / tā, tāyo\\[0pt]
+\end{tabular}
+\end{center}
+
 \section{Exercises}
-\label{sec:org9b9410a}
+\label{sec:orgd015563}
 \subsection{Translate}
-\label{sec:org5d57f8f}
+\label{sec:orgffad1e4}
 
 \renewcommand{\arraystretch}{1.8}
 
 \begin{center}
 \begin{tabular}{ll}
-The elder goes to the village by air. & \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}\\[0pt]
-A bhikkhu gives to a bowl to a bhikkhu. & \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}\\[0pt]
-A bhikkhu walks to a village with a bhikkhunī. & \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}\\[0pt]
+\fillin{8cm}{Like rivers full of water...} & Yathā vārivahā pūrā\ldots{}\\[0pt]
 \fillin{8cm}{All the boys are crying:} & Sabbepime dārakā rodanti:\\[0pt]
 \fillin{8cm}{Give congee, give rice, give food!} & Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā. (Pc 65)\\[0pt]
 \fillin{8cm}{He, from the breakup of the body, from after death...} & So, kāyassa bhedā (abl.), paraṁ maraṇā (abl.)\ldots{}\footnotemark\\[0pt]
 \fillin{8cm}{(Due to the) first jhāna there is delight in solitude.} & Paṭhamena jhānena suññāgāre abhirati. (Pr 4, Pc 8)\\[0pt]
+The elder goes to the village by air. & \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}\\[0pt]
+A bhikkhu gives to a bowl to a bhikkhu. & \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}\\[0pt]
+A bhikkhu walks to a village with a bhikkhunī. & \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}\\[0pt]
 \end{tabular}
-\end{center}\footnotetext[6]{\label{org6ddf039}\href{https://suttacentral.net/sn42.3/pli/ms}{SN 42.3}}
+\end{center}\footnotetext[10]{\label{org80916b2}\href{https://suttacentral.net/sn42.3/pli/ms}{SN 42.3}}
 
 \normalArrayStrech
 
+\emph{vāri:} (nt.) water
+
+\emph{vāha:} (adj.) carrying; leading
+
+\emph{pūra:} (adj.) full (of); filled (with)
+
 \subsection{Readings}
-\label{sec:org440f2bd}
+\label{sec:orgc5382ae}
 
 \begin{quote}
 Aggato ve pasannānaṁ, \\[0pt]
@@ -1256,38 +1487,78 @@ puññakkhette anuttare.
 
 \noindent\rule{\textwidth}{0.5pt}
 
+Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya\ldots{} (NP 8)
+
+So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya\ldots{} (NP 10)
+
+\noindent\rule{\textwidth}{0.5pt}
+
+Na, bhikkhave, āyatakena gītassarena dhammo gāyitabbo. Yo gāyeyya, āpatti dukkaṭassā`ti.
+
+Tena kho pana samayena bhikkhū sarabhaññe kukkuccāyanti. Bhagavato etamatthaṁ ārocesuṁ.
+
+`Anujānāmi, bhikkhave, sarabhaññan'ti. (\href{https://suttacentral.net/pli-tv-kd15/en/brahmali}{Vin. Kd 15})
+
+\noindent\rule{\textwidth}{0.5pt}
+
+Maṇḍapeyyamidaṁ, bhikkhave, brahmacariyaṁ, satthā sammukhībhūto.
+
+Tasmātiha, bhikkhave, vīriyaṁ ārabhatha appattassa pattiyā, anadhigatassa
+adhigamāya, asacchikatassa sacchikiriyāya.
+
+`Evaṁ no ayaṁ amhākaṁ pabbajjā avañjhā bhavissati saphalā saudrayā.
+
+Yesañca mayaṁ paribhuñjāma
+cīvara-piṇḍapāta-senāsana-gilānappaccayabhesajja-parikkhāraṁ tesaṁ te kārā
+amhesu mahapphalā bhavissanti mahānisaṁsā`ti.
+
+evañhi vo, bhikkhave, sikkhitabbaṁ. (\href{https://suttacentral.net/sn12.22/en/sujato}{SN 12.22})
+
+\noindent\rule{\textwidth}{0.5pt}
+
 Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so,
 mahārāja, padīpo padīpamhā saṅkanto'ti? (\href{https://suttacentral.net/mil3.5.5/pli/ms}{Mil 3.5.5})
 
 \noindent\rule{\textwidth}{0.5pt}
 
-Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya\ldots{} (NP 8)
+Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.
 
-So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya\ldots{} (NP 10)
+\fillin{12cm}{May they give gifts with conviction, may they always maintain virtue.}
+
+Bhāvanābhiratā hontu, gacchantu devatā-gatā\footnote{Dukkhappattā\ldots{} chant}
+
+\fillin{8cm}{May they delight in meditation, may they go to the devas.}
+
+\noindent\rule{\textwidth}{0.5pt}
+
+Ye naṁ dadanti saddhāya, \\[0pt]
+vippasannena cetasā; \\[0pt]
+Tameva annaṁ bhajati, \\[0pt]
+asmiṁ loke paramhi ca. (\href{https://suttacentral.net/sn1.43/pli/ms}{SN 1.43})
 
 \addtocontents{toc}{\clearpage}
 
 \chapter{Lesson 4}
-\label{sec:org1b50cb2}
+\label{sec:org64f0ffd}
 \section{Review Exercises}
-\label{sec:org9f5051a}
+\label{sec:orgfa84cfc}
 
-nikkāmino gotamasāsanamhi (gotamassa sāsanamhi) (Snp 2.1)
+\begin{center}
+\begin{tabular}{ll}
+\fillin{8cm}{Those who, devoted, firm-minded,} & Ye suppayuttā manasā daḷhena\\[0pt]
+\fillin{8cm}{apply themselves to Gotama's message} & nikkāmino gotamasāsanamhi (gotamassa sāsanamhi)\\[0pt]
+\fillin{8cm}{they, with no seed, no desire for growth,} & Te khīṇa-bījā aviruḷhi-chandā\\[0pt]
+\fillin{8cm}{enlightened, go out like this flame.} & Nibbanti dhīrā yathā’yam padīpo (Snp 2.1)\\[0pt]
+\fillin{8cm}{A disciple of the fully awakened Buddha delights in the ending of craving.} & Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187, simpl.)\\[0pt]
+\fillin{8cm}{To many refuges they go, to mountains and forest glades} & Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca (Dhp 188)\\[0pt]
+\fillin{8cm}{They dwell detached, not grasping at anything in the world.} & Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)\\[0pt]
+\end{tabular}
+\end{center}
 
-Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca
-
-yadā paññāya passati, atha nibbindati dukkhe
-
-esa maggo visuddhiyā
-
-vitakkānaṁ ca vicārānaṁ ca vūpasamā (DN 22)
-
-Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)
-
-Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187)
+\emph{nikkāmī:} striving (in); active (in); lit. going out [nī + √kam + *ī]
 
 \section{Adverbs of Time}
-\label{sec:orgb943808}
+\label{sec:orgdd762ef}
 
 Adverbs in general are indeclinable. Adverbs of time describe \textbf{when} the action
 is done, they often come \textbf{first} in the sentence.
@@ -1329,7 +1600,7 @@ kālena & at the proper time\\[0pt]
 \end{multicols}
 
 \section{Future Tense (-issāmi, -issasi, -issati)}
-\label{sec:org5ec73e1}
+\label{sec:org0e7df35}
 
 The future tense, apart from an action in the future, can also express a
 condition, a possibility, or a statement of eternal truth, as well as a mild
@@ -1357,8 +1628,8 @@ bhav\textbf{issati} & he will be & bhav\textbf{issanti} & they will be\\[0pt]
 
 \begin{center}
 \begin{tabular}{ll}
+Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61) & I should not approach families intoxicated with pride.\\[0pt]
 Parisuddho no kāyasamācāro bhavissati. (MN 39) & \fillin{8cm}{Our bodily behaviour should be purified.}\\[0pt]
-Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61) & \fillin{8cm}{I should not approach families intoxicated with pride.}\\[0pt]
 \fillin{8cm}{brāhmaṇā karissanti ...} & Brahmans will do \ldots{}.\\[0pt]
 \end{tabular}
 \end{center}
@@ -1366,7 +1637,7 @@ Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61) & \fi
 \normalArrayStrech
 
 \section{Present Participle (-nt, -māna)}
-\label{sec:org8c4a5e4}
+\label{sec:orgc28fdb3}
 
 The present participle describes the action that the subject (a noun) is doing, hence it is a \textbf{verbal adjective}.
 
@@ -1400,6 +1671,9 @@ The present participles are declinable, they agree with the noun in gender, numb
 
 \begin{quote}
 dīghaṁ vā assasanto `dīghaṁ assasāmī'ti pajānāti (MN 118)
+
+Maggaṁ kho pana me gacchantassa kāyo kilanto. (AN 8.80) \\[0pt]
+But while walking my body got tired.
 
 \bigskip
 
@@ -1449,7 +1723,7 @@ Seyyathāpi bhikkhave makkaṭo araññe pavane caramāno\ldots{} (SN 12.61)
 \end{quote}
 
 \section{Adjectives}
-\label{sec:org2e5c6b3}
+\label{sec:org9f809e3}
 
 Adjectives in Pāli must agree with the noun they qualify in gender, number and case.
 E.g. \emph{seto asso:} a white horse, \emph{setā assā:} white horses.
@@ -1510,16 +1784,36 @@ Opened are the gates of the deathless for them, let the hearers show faith.
 \begin{center}
 \begin{tabular}{ll}
 The body grows. & \fillin{8cm}{Kāyo vaḍḍhati.}\\[0pt]
-They are not wealthy. & \fillin{8cm}{Te na mahaddhanā.}\\[0pt]
+He is poor. & \fillin{8cm}{So appabhogo.}\\[0pt]
+They are wealthy. & \fillin{8cm}{Te mahābhogā.}\\[0pt]
 \fillin{8cm}{Where does that elder live now?} & So thero idāni kuhiṁ vasati?\\[0pt]
 \fillin{8cm}{Why does that evil man come here?} & So pāpako puriso kasmā idhāgacchati?\\[0pt]
+\fillin{8cm}{Where is she reborn?} & Kuhiṁ sā paccājāyati?\\[0pt]
 \end{tabular}
 \end{center}
 
 \normalArrayStrech
 
+\begin{multicols}{2}
+
+\emph{vaḍḍhati:} grows
+
+\emph{appabhogo:} poor; with few assets
+
+\columnbreak
+
+\emph{mahābhogo:} wealthy; with great assets
+
+\emph{paccājāyati:} is born again
+
+\end{multicols}
+
+\emph{Sace manussattaṁ āgacchati yattha yattha paccājāyati (again-born) appabhogo hoti.} (MN 135)
+
+\fillin{12cm}{If he comes back to the human state, then wherever he is reborn he is poor.}
+
 \section{Indeclinables and Idioms}
-\label{sec:orga903daa}
+\label{sec:orgae72751}
 
 \begin{multicols}{2}
 
@@ -1549,29 +1843,35 @@ time; occasion; lit. come together
 \end{multicols}
 
 \section{Exercises}
-\label{sec:orgf5af41a}
+\label{sec:org2de3a2a}
 \subsection{Translate}
-\label{sec:orgfbf3839}
+\label{sec:orgd753eae}
 
 \renewcommand{\arraystretch}{1.8}
 
+\fillin{12cm}{}
+
 \begin{center}
 \begin{tabular}{ll}
-\fillin{8cm}{My mind will rise (stand) above the whole world.} & Sabbalokā ca me mano vuṭṭhahissati.\footnotemark\\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
+\fillin{8cm}{My mind will rise (stand) above all worldly things.} & Sabbalokā ca me mano vuṭṭhahissati.\footnotemark\\[0pt]
+\fillin{8cm}{What are you doing while living here?} & Tumhe idha kiṁ kurumānā viharatha?\\[0pt]
+\fillin{8cm}{The servants of the housewife eat the fruits falling from the trees.} & Rukkhehi patantāni phalāni gahapatāniyā sevakā bhuñjanti.\\[0pt]
+\fillin{8cm}{The farmers sing songs in the fields.} & Khetthesu kassakā gītāni gāyanti.\\[0pt]
+\fillin{8cm}{Men become very devoted to monks who live in a forest dwelling.} & Araññe senāsane viharantesu bhikkūsu manussā bhiyyo pasīdanti.\\[0pt]
+Where will you stay there, after going from here? & \fillin{8cm}{Tvaṁ ito gantvā tatra kuhiṁ vasissati?}\\[0pt]
+Don't talk while eating. & \fillin{8cm}{Bhuñjantā mā sallapatha.}\\[0pt]
+Wealth does not follow the person who is dying. & \fillin{8cm}{Dhanaṁ mīyantaṁ / marantaṁ purisaṁ na anugacchati.}\\[0pt]
+While walking up and down, he brought many small creatures to destruction. & \fillin{8cm}{So caṅkamanto bahū khuddake pāṇino saṅghātaṁ āpādesi.}\\[0pt]
+When the road becomes safe, then we shall set out from here. & \fillin{8cm}{Yadā maggo khemo bhavissati, tadā mayaṁ ito nikkhamissāma.}\\[0pt]
 \end{tabular}
-\end{center}\footnotetext[8]{\label{org4834cff}AN 6.102}
+\end{center}\footnotetext[13]{\label{orgc999896}AN 6.102}
 
 \normalArrayStrech
 
 \clearpage
 
 \subsection{Readings}
-\label{sec:orga86e5de}
+\label{sec:orgcc43404}
 
 Yāvakīvañca, bhikkhave, bhikkhū abhiṇhaṁ sannipātā bhavissanti sannipātabahulā;
 vuddhiyeva, bhikkhave, bhikkhūnaṁ pāṭikaṅkhā, no parihāni. (\href{https://suttacentral.net/an7.23/pli/ms}{AN 7.23})
@@ -1609,30 +1909,29 @@ santī āpatti āvikātabbā, \\[0pt]
 (\href{https://suttacentral.net/pli-tv-bu-pm/pli/ms}{Nidāna})
 
 \chapter{Lesson 5}
-\label{sec:orgc2444c4}
+\label{sec:org7a5b4fe}
 \section{Review Exercises}
-\label{sec:org98d370c}
+\label{sec:org9608acc}
 
 \renewcommand{\arraystretch}{1.8}
 
 \begin{center}
 \begin{tabular}{ll}
-TODO & TODO\\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
+\fillin{8cm}{Why does that man depart now from here?} & Idāni kasmā so puriso ito nikkhamati?\\[0pt]
+\fillin{8cm}{You converse with the wise man.} & Tumhe paṇḍitehi saddhiṁ sallapatha.\\[0pt]
+\fillin{8cm}{The wise one dispels negligence by diligence.} & Paṇḍito appamādena pamādaṁ nudati.\\[0pt]
+\fillin{8cm}{We will today climb the mountain to see the seer's hermitage.} & Mayaṁ ajja isino assamaṁ daṭṭhuṁ pabbataṁ abhiruhissāma.\\[0pt]
+If you become lazy, you will not meditate and contemplate. & \fillin{8cm}{Sace tvaṁ kusīto / alaso bhaveyyāsi, na jhāyissasi nijjhāyissasi ca.}\\[0pt]
+If the cooks would not cook, where should we go to eat? & \fillin{8cm}{Sace sūdā na paceyyuṁ, mayaṁ bhuñjituṁ kuhiṁ gaccheyyāma?}\\[0pt]
+One should defeat anger by means of non-anger. & \fillin{8cm}{Akkoddhena jine / jineyya kodhaṁ.}\\[0pt]
+We read our lessons here, but you are playing over there. & \fillin{8cm}{Mayaṁ idha pāṭhe paṭhāma, tumhe pana tatra kīḷatha.}\\[0pt]
 \end{tabular}
 \end{center}
 
 \normalArrayStrech
 
 \section{Adverbs of Place}
-\label{sec:org503ed7f}
+\label{sec:org9f63a53}
 
 \textbf{-ttha `place'}
 
@@ -1672,7 +1971,7 @@ ya & whatever & + hiṁ & yahiṁ & wherever\\[0pt]
 \end{center}
 
 \section{Past Participle (-ta, -ita, -na)}
-\label{sec:org82bb91b}
+\label{sec:org1f64d73}
 
 Generally formed by adding \emph{-ta, -ita, -na} to the verbal root or base. Sandhi rules complicate the exact forms.
 
@@ -1681,8 +1980,23 @@ Generally formed by adding \emph{-ta, -ita, -na} to the verbal root or base. San
 rukkho patito (pp.nom. of patati) & the fallen tree\\[0pt]
 antarāyiko dhammo vutto (pp.nom. of vacati) bhagavatā & said to be an obstacle by the Buddha\\[0pt]
 Pubbe'bhinno mallako. & The cup is already broken.\\[0pt]
+Icchitaṃ patthitaṃ tumhaṃ khippameva samijjhatu. & \fillin{8cm}{May your hopes and wishes succeed quickly.}\\[0pt]
 \end{tabular}
 \end{center}
+
+\begin{multicols}{2}
+
+\emph{icchati:} wants; desires
+
+\emph{pattheti:} wishes (for)
+
+\columnbreak
+
+\emph{khippaṁ:} ind. quickly
+
+\emph{samijjhati:} achieves; succeeds
+
+\end{multicols}
 
 When the subject is in instrumental case, the past participle is passive.
 
@@ -1690,8 +2004,8 @@ When the subject is in instrumental case, the past participle is passive.
 
 \begin{center}
 \begin{tabular}{ll}
-\fillin{8cm}{Migo diṭṭho purisena.} & The deer (\emph{miga}) was seen by the man.\\[0pt]
-\fillin{8cm}{Vyādhena hataṁ migaṁ ahaṁ passāmi.} & I see the deer killed by the huntsman (\emph{vyādha}).\\[0pt]
+\fillin{8cm}{Migo purisena diṭṭho.} & The deer (\emph{miga}) was seen by the man.\\[0pt]
+\fillin{8cm}{Vyādhena hataṁ migaṁ ahaṁ passāmi.} & I see the deer killed (\emph{hata}) by the huntsman (\emph{vyādha}).\\[0pt]
 \fillin{8cm}{Gāmamhā āgataṁ purisaṁ na passāmi.} & I do not see the man that has come from the village.\\[0pt]
 \end{tabular}
 \end{center}
@@ -1725,7 +2039,7 @@ pajahati & √hā & to abandon & pah\textbf{ī}na & abandoned\\[0pt]
 \clearpage
 
 \section{Aorist Past Tense}
-\label{sec:org4d4562d}
+\label{sec:org6bc15c1}
 
 {\centering\par
 \begin{multicols}{2}
@@ -1774,7 +2088,7 @@ The particle \emph{mā} + aorist verb expresses a prohibition in the present or 
 \begin{center}
 \begin{tabular}{ll}
 They went there. & \fillin{8cm}{Te tatra gacchiṁsu.}\\[0pt]
-We dwelt here. & \fillin{8cm}{Mayaṁ idha vasimhā.}\\[0pt]
+We dwelt here. & \fillin{8cm}{Mayaṁ idha avasimhā.}\\[0pt]
 When did you come from there? & \fillin{8cm}{Kadā tvaṁ tato āgacchi?}\\[0pt]
 \fillin{8cm}{Because I knew it, therfore I said it.} & Yato ahaṁ ajāniṁ tato avadiṁ.\\[0pt]
 \fillin{8cm}{Don't stay here.} & Tumhe mā idha vasittha.\\[0pt]
@@ -1785,7 +2099,7 @@ When did you come from there? & \fillin{8cm}{Kadā tvaṁ tato āgacchi?}\\[0pt]
 \normalArrayStrech
 
 \section{Causative: Having It Done (-e, -aya, -āpe, -āpaya)}
-\label{sec:org103f271}
+\label{sec:org82cd929}
 
 The causative base is formed by adding \emph{-e, -aya, -āpe, -āpaya} either to the root or the verbal base.
 The base thus formed is conjugated in all tenses and moods.
@@ -1853,43 +2167,116 @@ Pañhaṁ taṁ, samaṇa, pucchissāmi. (SN 10.12) & \fillin{8cm}{I will ask yo
 \normalArrayStrech
 
 \section{Exercises}
-\label{sec:org305362c}
+\label{sec:orga27d538}
 \subsection{Translate}
-\label{sec:orgfb3bba8}
+\label{sec:orgd7e7bb9}
 
 \renewcommand{\arraystretch}{1.8}
 
 \begin{center}
 \begin{tabular}{ll}
-TODO & TODO\\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
-TODO & \\[0pt]
+\fillin{8cm}{He turns his mind away from those phenomena, ...} & So tehi dhammehi cittaṁ paṭivāpetvā \ldots{}\\[0pt]
+\fillin{8cm}{... and, inclines his mind to the property of deathlessness.} & \ldots{} amatāya dhātuyā cittaṁ upasaṁharati.\footnotemark\\[0pt]
+\fillin{8cm}{The new bridge has been built by the carpenter.} & Navo setu kārunā kato hoti.\\[0pt]
+\fillin{8cm}{Having stayed in my brother's house yesterday, I came here early morning today.} & Ahaṁ hiyyo bhātikassa gehe vasitvā ajja pāto'va idhāgacchiṁ.\\[0pt]
+\fillin{8cm}{The deer bitten by the snake fell down and died there.} & Alagaddena daṭṭho migo tatth'eva patitvā mato.\\[0pt]
+The Buddha expounded the doctrine for abandoning of lust, anger and delusion. & \fillin{8cm}{Buddho rāgassa dosassa mohassa pahānāya dhammaṁ desesi.}\\[0pt]
+They gave ear to hear the teaching of the Buddha. & \fillin{8cm}{Te Buddhassa dhammaṁ sotuṁ sotaṁ odahiṁsu.}\\[0pt]
+Monks made an attempt to attain Arahatship. & \fillin{8cm}{Bhikkhū arahattaṁ pāpunituṁ viriyaṁ ārabhiṁsu.}\\[0pt]
+The monk went to the forest and sat down at the foot of a tree. & \fillin{8cm}{Bhikkhu araññaṁ / vanaṁ gantvā rukkhassa mūle nisīdi.}\\[0pt]
 \end{tabular}
-\end{center}
+\end{center}\footnotetext[14]{\label{orgc820fc0}MN 64, AN 9.36}
+
 
 \normalArrayStrech
 
 \subsection{Readings}
-\label{sec:orgea89144}
+\label{sec:org84ab350}
 
-\emph{Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ.} (Pc 10)
+Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ. (Pc 10)
 
-TODO
+\noindent\rule{\textwidth}{0.5pt}
 
-\subsection{Extra Challenge}
-\label{sec:org7a32c1f}
+“Kāmarāgena ḍayhāmi,\\[0pt]
+cittaṁ me pariḍayhati;\\[0pt]
+Sādhu nibbāpanaṁ brūhi,\\[0pt]
+anukampāya gotamā”ti.
+
+“Saññāya vipariyesā,\\[0pt]
+cittaṁ te pariḍayhati;\\[0pt]
+Nimittaṁ parivajjehi,\\[0pt]
+subhaṁ rāgūpasaṁhitaṁ.
+
+Saṅkhāre parato passa,\\[0pt]
+dukkhato mā ca attato;\\[0pt]
+Nibbāpehi mahārāgaṁ,\\[0pt]
+mā ḍayhittho punappunaṁ.
+
+Asubhāya cittaṁ bhāvehi,\\[0pt]
+ekaggaṁ susamāhitaṁ;\\[0pt]
+Sati kāyagatā tyatthu,\\[0pt]
+nibbidābahulo bhava.
+
+Animittañca bhāvehi,
+mānānusayamujjaha;\\[0pt]
+Tato mānābhisamayā,\\[0pt]
+upasanto carissasī”ti.
+
+(SN 8.4)
+
+\noindent\rule{\textwidth}{0.5pt}
+
+Katamo cānanda, maggo, katamā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ
+pahānāya? Idhānanda, bhikkhu upadhivivekā akusalānaṁ dhammānaṁ pahānā sabbaso
+kāyaduṭṭhullānaṁ paṭippassaddhiyā vivicceva kāmehi vivicca akusalehi dhammehi
+savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
+So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ
+viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato
+parato palokato suññato anattato samanupassati. So tehi dhammehi cittaṁ
+paṭivāpeti.
+
+So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati: ‘etaṁ
+santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo
+taṇhākkhayo virāgo nirodho nibbānan’ti.
+
+So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti; no ce āsavānaṁ khayaṁ pāpuṇāti teneva
+dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā
+opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā. Ayampi kho,
+ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya.
+
+(MN 64)
+
+\noindent\rule{\textwidth}{0.5pt}
+
+‘Paṭhamampāhaṁ, bhikkhave, jhānaṁ nissāya āsavānaṁ khayaṁ vadāmī’ti, iti kho
+panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? Idha, bhikkhave, bhikkhu vivicceva
+kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati. So yadeva tattha hoti
+rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ, te dhamme aniccato
+dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato
+samanupassati. So tehi dhammehi cittaṁ paṭivāpeti.
+
+So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati: ‘etaṁ
+santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo
+taṇhākkhayo virāgo nirodho nibbānan’ti.
+
+So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti. No ce āsavānaṁ khayaṁ
+pāpuṇāti, teneva dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ
+saṁyojanānaṁ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā
+lokā.
+
+(AN 9.36)
+
+\subsection{Extra Challenge: Reading NP 10}
+\label{sec:orgc8ef71f}
 
 Read the text of \href{https://suttacentral.net/pli-tv-bu-vb-np10/en/brahmali}{NP 10} as recited:
 
 Bhikkhuṁ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṁ pahiṇeyya\ldots{}
 
 \chapter{Appendix}
-\label{sec:org82f511f}
+\label{sec:org8299ede}
 \section{Simple Present}
-\label{sec:org8f32d17}
+\label{sec:org3f9d94a}
 
 Actions that are happening at the present moment, occurring regularly, or general truths.
 
@@ -1971,9 +2358,9 @@ karoti & karonti\\[0pt]
 \par}
 
 \section{Future Tense}
-\label{sec:orgf2e8d8a}
+\label{sec:org45c6196}
 \section{Aorist Past Tense}
-\label{sec:org555d2e4}
+\label{sec:org54b58f3}
 
 {\centering\par
 \begin{multicols}{2}
@@ -2035,12 +2422,12 @@ Some roots ending in long vowels also get the \emph{s} aorist ending. In the plu
 
 
 \section{Declension of Nouns}
-\label{sec:orgd719091}
+\label{sec:org66aeb76}
 
 \clearpage
 
 \subsection{Masculine Nouns Ending in -a (nara)}
-\label{sec:org8e6e18e}
+\label{sec:org1789887}
 
 \begin{center}
 \begin{tabular}{llll}
@@ -2058,7 +2445,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Masculine Nouns Ending in -i (aggi)}
-\label{sec:org62dc8d5}
+\label{sec:org869299c}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2074,7 +2461,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Masculine Nouns Ending in -ī (pakkhī)}
-\label{sec:org181baea}
+\label{sec:orgd07931b}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2090,7 +2477,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Masculine Nouns Ending in -u (bhikkhu)}
-\label{sec:org6a8c0bb}
+\label{sec:org7461899}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2106,7 +2493,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Neuter Nouns Ending in -a (citta)}
-\label{sec:org72a1476}
+\label{sec:org1040bf5}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2122,7 +2509,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Neuter Nouns Ending in -i}
-\label{sec:org1242112}
+\label{sec:orgf9716e8}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2138,7 +2525,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Neuter Nouns ending in -u}
-\label{sec:org223b727}
+\label{sec:org14a0d62}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2156,7 +2543,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \clearpage
 
 \subsection{Feminine Nouns Ending in -ā}
-\label{sec:org121bd36}
+\label{sec:org68fee8e}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2172,7 +2559,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Feminine Nouns ending in -i}
-\label{sec:orgcb517cd}
+\label{sec:orgf17a8f7}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2188,7 +2575,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Feminine Nouns ending in -ī}
-\label{sec:org236b337}
+\label{sec:orge1e3a42}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2204,7 +2591,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Feminine Nouns ending in -u}
-\label{sec:org5153094}
+\label{sec:org5b28e0a}
 
 \begin{center}
 \begin{tabular}{lll}
@@ -2222,7 +2609,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \clearpage
 
 \subsection{Comparison Between Masculine and Neuter Nouns Ending in -a}
-\label{sec:org088e686}
+\label{sec:org3b85b46}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2240,7 +2627,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Comparison Between Masculine and Neuter Nouns Ending in -i}
-\label{sec:org9c0eba0}
+\label{sec:org36b68c8}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2258,7 +2645,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \end{center}
 
 \subsection{Comparison Between Masculine and Neuter Nouns -u}
-\label{sec:orgbb5a589}
+\label{sec:orgd6b56a5}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2280,7 +2667,7 @@ Case & Singular & Plural & Meaning (sg.)\\[0pt]
 \clearpage
 
 \section{Declension Examples}
-\label{sec:org085b426}
+\label{sec:org9ad3e28}
 
 \begin{multicols}{3}
 {\centering\textit{\textbf{masculine -a}}\par}
@@ -2478,9 +2865,9 @@ deva & king, god & dev\textbf{ī} & queen, goddess\\[0pt]
 \end{center}
 
 \section{Irregular verb √as (to be)}
-\label{sec:org18481df}
+\label{sec:org476a475}
 \subsection{Present Tense}
-\label{sec:org784f4c7}
+\label{sec:orgeb8cf49}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2497,7 +2884,7 @@ deva & king, god & dev\textbf{ī} & queen, goddess\\[0pt]
 \end{center}
 
 \subsection{Imperative Mood}
-\label{sec:orgc715f26}
+\label{sec:org529451c}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2514,7 +2901,7 @@ deva & king, god & dev\textbf{ī} & queen, goddess\\[0pt]
 \end{center}
 
 \subsection{Aorist Past Tense}
-\label{sec:org347178d}
+\label{sec:org076cd37}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2535,9 +2922,9 @@ root: √as (to be)
 constr: \textbf{a} + √as + i → *ā*si
 
 \section{Irregular verb √hū (to be)}
-\label{sec:orgaed834c}
+\label{sec:org86bca92}
 \subsection{Present Tense}
-\label{sec:org1190763}
+\label{sec:org200985f}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2550,7 +2937,7 @@ constr: \textbf{a} + √as + i → *ā*si
 \end{center}
 
 \subsection{Imperative Mood}
-\label{sec:org9c1a4f6}
+\label{sec:orga5a8b66}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2563,7 +2950,7 @@ constr: \textbf{a} + √as + i → *ā*si
 \end{center}
 
 \subsection{Aorist Past Tense}
-\label{sec:org6faf373}
+\label{sec:org8cd8324}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2578,9 +2965,9 @@ constr: \textbf{a} + √as + i → *ā*si
 \end{center}
 
 \section{Past Participle}
-\label{sec:orge5d177c}
+\label{sec:org3714091}
 \subsection{root + ta}
-\label{sec:org5f85b8e}
+\label{sec:org57ab907}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2597,7 +2984,7 @@ jānāti & √ñā & to know & ñāta & known\\[0pt]
 \end{center}
 
 \subsection{root + ita}
-\label{sec:org1d3f770}
+\label{sec:org6e925cb}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2614,7 +3001,7 @@ yācati & √yāc & to beg & yācita & begged\\[0pt]
 \end{center}
 
 \subsection{base + ita}
-\label{sec:org405d30e}
+\label{sec:org210120e}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2632,7 +3019,7 @@ vedayati & √vid & vedaya & vedayita & experienced\\[0pt]
 \end{center}
 
 \subsection{root + na}
-\label{sec:orgeae1262}
+\label{sec:orgd652868}
 
 \begin{center}
 \begin{tabular}{lllll}
@@ -2649,7 +3036,7 @@ vikirati & √kir & to scatter & viki\textbf{ṇṇ}a & scattered\\[0pt]
 \end{center}
 
 \section{Interrogatives, Asking Questions}
-\label{sec:org6fee4c4}
+\label{sec:orgd122702}
 
 \begin{center}
 \begin{tabular}{ll}
@@ -2669,7 +3056,7 @@ kuvaṁ & where?\\[0pt]
 \end{center}
 
 \section{Negation}
-\label{sec:org09084f3}
+\label{sec:org2ae2d13}
 
 \textbf{The particle \emph{na}} can be placed before a verb:
 
@@ -2703,7 +3090,7 @@ mā kari & Don't do! Don't make!\\[0pt]
 \emph{Ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya.} (AN 8.53) \\[0pt]
 These qualities lead to attachment, not to detachment.
 \chapter{References}
-\label{sec:org09f1c5c}
+\label{sec:orgdb574ca}
 
 \begin{itemize}
 \item \href{https://sasanarakkha.github.io/study-tools/pali-class.html}{Beginner Pāli Course at SBS (sasanarakkha.github.io)}
@@ -2711,5 +3098,6 @@ These qualities lead to attachment, not to detachment.
 \item \href{https://archive.org/details/PaliGrammarCharlesDuroiselle}{A Practical Grammar of the Pāli Language by Charles Duroiselle, v4.3, 2007 (archive.org)}
 \item \href{https://archive.org/details/NewPaliCourse/}{A New Course In Reading Pali by James W. Gair, W. S. Karunatillake (archive.org)}
 \item \href{https://archive.org/details/PaliBuddhistTextsA}{Pali Buddhist Texts Explained to the Beginner by Rune E A Johansson (archive.org)}
+\item \href{https://palistudies.blogspot.com/}{Learn Pali Language (blogspot.com)}
 \end{itemize}
 \end{document}
