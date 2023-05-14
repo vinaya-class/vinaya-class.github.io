@@ -54,6 +54,12 @@ imaṁ kāsāvaṁ gahetvā
 
 uid:sn2.18/en/sujato
 
+“Do you delight, ascetic?”
+“nandasi, samaṇā”ti?
+
+“What have I gained, sir?”
+“Kiṁ laddhā, āvuso”ti?
+
 “Well then, ascetic, do you sorrow?”
 “Tena hi, samaṇa, socasī”ti?
 
@@ -571,20 +577,21 @@ Venerable, may the Ven. come and sit here.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{The elders make an effort.}            | Therā viriyaṁ ārabhanti (/begins; undertakes/).  |
-| \fillin{8cm}{They give ear.}                        | Te sotaṁ odahanti (/applies; gives/).            |
-| \fillin{8cm}{Who seeks privacy, he wants solitude.} | Yo rahāyati (seeks privacy), so vivekaṁ icchati. |
-| \fillin{8cm}{Discontent is a dauther of Māra.}      | Aratī eko māradhītaro.                           |
-| \fillin{8cm}{He gives her the cloth.}               | So tā dussaṁ (cloth) deti.                       |
-| The man eats rice.                                  | \fillin{8cm}{Naro bhattaṁ bhuñjati.}             |
-| The men are cooking.                                | \fillin{8cm}{Narā pacanti.}                      |
-| I go up to the man.                                 | \fillin{8cm}{Naraṁ upasaṅkamati.}                |
-| I see the moon.                                     | \fillin{8cm}{Candaṁ passāmi.}                    |
-| You (pl.) don't see the dogs.                       | \fillin{8cm}{Sunakhe na passatha.}               |
-| The boys are running.                               | \fillin{8cm}{Dārakā dhāvanti.}                   |
-| You are sitting here.                               | \fillin{8cm}{Idha nisīdasi.}                     |
-| She comes from there.                               | \fillin{8cm}{Sā tato āgacchati.}                 |
-| We run to the boys.                                 | \fillin{8cm}{Mayaṁ dārake dhāvāma.}              |
+| \fillin{8cm}{The elders make an effort.}            | Therā viriyaṁ ārabhanti (/begins; undertakes/).    |
+| \fillin{8cm}{They give ear.}                        | Te sotaṁ odahanti (/applies; gives/).              |
+| \fillin{8cm}{Privately, he takes a seat.}           | Raho (/ind. privately/) nisajjaṁ kappeti (/idom/). |
+| \fillin{8cm}{Who seeks privacy, he wants solitude.} | Yo rahāyati (/seeks privacy/), so vivekaṁ icchati. |
+| \fillin{8cm}{Discontent is a dauther of Māra.}      | Aratī eko māradhītaro.                             |
+| \fillin{8cm}{He gives her the cloth.}               | So tā dussaṁ (cloth) deti.                         |
+| The man eats rice.                                  | \fillin{8cm}{Naro bhattaṁ bhuñjati.}               |
+| The men are cooking.                                | \fillin{8cm}{Narā pacanti.}                        |
+| I go up to the man.                                 | \fillin{8cm}{Naraṁ upasaṅkamati.}                  |
+| I see the moon.                                     | \fillin{8cm}{Candaṁ passāmi.}                      |
+| You (pl.) don't see the dogs.                       | \fillin{8cm}{Sunakhe na passatha.}                 |
+| The boys are running.                               | \fillin{8cm}{Dārakā dhāvanti.}                     |
+| You are sitting here.                               | \fillin{8cm}{Idha nisīdasi.}                       |
+| She comes from there.                               | \fillin{8cm}{Sā tato āgacchati.}                   |
+| We run to the boys.                                 | \fillin{8cm}{Mayaṁ dārake dhāvāma.}                |
 
 #+latex: \normalArrayStrech
 
@@ -957,6 +964,12 @@ pārisuddhā ti vedissāmi.
 \begin{Puzzle}{13}{9}%
 \input{./crosswords/assets/cw-01.txt}
 \end{Puzzle}
+
+\vspace*{\baselineskip}
+
+{\centering
+\textit{(padā antā kāḷaka-caturassesu ca \sym{█} bahala-lakkhesu ca \sym{━})}
+\par}
 
 \vspace*{\baselineskip}
 

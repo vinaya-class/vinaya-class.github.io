@@ -15,6 +15,10 @@
 \usepackage{fontspec}
 \setmainfont{Linux Libertine}
 
+\newfontfamily\symbolFont{DejaVu Sans}
+
+\newcommand\sym[1]{{\symbolFont\selectfont #1}}
+
 \def\BOOK@fontSizePt{10}
 \def\BOOK@lineHeightPt{18}
 
@@ -48,7 +52,13 @@
 \input{./assets/cw-01.txt}
 \end{Puzzle}
 
-\vspace*{-\baselineskip}
+\vspace*{\baselineskip}
+
+{\centering
+\textit{(padā antā kāḷaka-caturassesu ca \sym{█} bahala-lakkhesu ca \sym{━})}
+\par}
+
+\vspace*{\baselineskip}
 
 \input{./cw-01-clues.tex}
 
