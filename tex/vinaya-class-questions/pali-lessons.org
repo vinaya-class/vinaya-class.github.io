@@ -807,68 +807,19 @@ Dasa atthavase:
 \bigskip
 
 #+begin_widecols
-([[https://suttacentral.net/pli-tv-bu-vb-ss13/pli/ms][Vin. Sg 13]]) Kuladūsakasikkhāpada \\
-/The training rule on corrupters of families/
+Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ
+vadeyyaṁ: "kusalaṁ, bhikkhave, bhāvethā"ti.
 
-... assaji-punabbasu'kā nāma kīṭāgirismiṁ āvāsikā honti alajjino pāpabhikkhū. Te evarūpaṁ anācāraṁ ācaranti ...
-
-vikālepi bhuñjanti, majjampi pivanti, mālā-gandha- vilepanampi dhārenti,
-naccantipi gāyantipi vādentipi lāsentipi,
-naccantiyāpi naccanti ... gāyantiyāpi gāyanti ... vādentiyāpi vādenti ... lāsentiyāpi lāsenti;
-aṭṭhapadepi kīḷanti, dasapadepi kīḷanti ... akkharikāyapi kīḷanti, manesikāyapi kīḷanti, yathāvajjenapi kīḷanti.
-
-... raṅgamajjhepi saṅghāṭiṁ pattharitvā naccakiṁ evaṁ vadanti -- "idha, bhagini,
-naccassū"ti, nalāṭikampi denti, vividhampi anācāraṁ ācaranti.
-
-... Vigarahi buddho bhagavā ...
-
-Kathañhi nāma te, bhikkhave, moghapurisā evarūpaṁ anācāraṁ ācarissanti?
-Netaṁ, bhikkhave, appasannānaṁ vā pasādāya pasannānaṁ vā bhiyyobhāvāya;
-atha khvetaṁ, appasannānañceva appasādāya pasannānañca ekaccānaṁ aññathattāyā"ti.
+([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.11-20]])
 
 \columnbreak
 
-/dūseti:/ (of the mind) spoils; corrupts; ruins
+ahitāya
 
-/alajjī:/ shameless; not afraid of sin
+nāhaṁ
 
-/anācāra:/ m. misconduct; wrongdoing; bad behaviour
+bhāvetha + iti → bhāvethā'ti, a + i → ā
 
-/gāyati:/ sings
-
-/vādeti:/ plays a musical instrument
-
-/lāseti:/ plays; performs; dances
-
-/aṭṭhapada:/ nt. chessboard (eight-checkers)
-
-/kīḷati:/ plays (with); has fun (with)
-
-/akkharikā:/ f. a letter-game
-
-/manesikā:/ f. thought-guessing
-
-/yathāvajja:/ nt. mimicking deformities
-
-/raṅgamajjha:/ m. centre stage
-
-/pattharati:/ spread about; spreads around
-
-/nalāṭikā:/ f. frown; funny facial expression
-
-/vividha:/ adj. various kinds of; multiple
-
-/vigarahi:/ aor. of /vigarahati/
-
-/vigarahati:/ scolds; rebukes; criticizes
-
-/atha:/ ind. but; rather; even
-
-/khvetaṁ:/ kho + evaṁ
-
-/ekacca:/ pron. certain; one of; some of them
-
-/aññathatta:/ nt. change of mind; change of opinion; lit. otherwise state [añña + thā + tta]
 #+end_widecols
 
 \clearpage
@@ -1053,11 +1004,99 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 
 #+latex: \normalArrayStrech
 
+\clearpage
+
 *** Readings
 
-Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ vadeyyaṁ: "kusalaṁ, bhikkhave, bhāvethā"ti. ([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.11-20]])
+#+begin_widecols
+([[https://suttacentral.net/pli-tv-bu-vb-ss13/pli/ms][Vin. Sg 13]]) Kuladūsakasikkhāpada \\
+/The training rule on corrupters of families/
 
-(bhāvetha + iti → bhāvethā'ti, a + i → ā)
+... assaji-punabbasu'kā nāma kīṭāgirismiṁ āvāsikā honti alajjino pāpabhikkhū. Te evarūpaṁ anācāraṁ ācaranti ...
+
+vikālepi bhuñjanti, majjampi pivanti, mālā-gandha- vilepanampi dhārenti,
+naccantipi gāyantipi vādentipi lāsentipi,
+naccantiyāpi naccanti ... gāyantiyāpi gāyanti ... vādentiyāpi vādenti ... lāsentiyāpi lāsenti;
+aṭṭhapadepi kīḷanti, dasapadepi kīḷanti ... akkharikāyapi kīḷanti, manesikāyapi kīḷanti, yathāvajjenapi kīḷanti.
+
+... raṅgamajjhepi saṅghāṭiṁ pattharitvā naccakiṁ evaṁ vadanti -- "idha, bhagini,
+naccassū"ti, nalāṭikampi denti, vividhampi anācāraṁ ācaranti.
+
+# Just then a monk who had completed the rainy-season residence in Kāsī was on his way to visit the Buddha at Sāvatthī when he arrived at Kīṭāgiri.
+
+Tena kho pana samayena aññataro bhikkhu kāsīsu vassaṁvuṭṭho sāvatthiṁ gacchanto
+bhagavantaṁ dassanāya, yena kīṭāgiri tadavasari.
+
+# In the morning he robed up, took his bowl and robe, and entered Kīṭāgiri to collect almsfood.
+
+Atha kho so bhikkhu pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya kīṭāgiriṁ
+piṇḍāya pāvisi.
+
+# He was pleasing in his conduct: in going out and coming back, in looking ahead and looking aside, in bending and stretching his arms. His eyes were lowered, and he was perfect in deportment.
+
+Pāsādikena abhikkantena paṭikkantena ālokitena vilokitena samiñjitena pasāritena
+okkhittacakkhu iriyāpathasampanno.
+
+# When people saw him, they said, “Who’s this, acting like a moron and always frowning? Who’s gonna give almsfood to him? Almsfood should be given to our Venerables Assaji and Punabbasuka, for they are gentle, congenial, pleasant to speak with, greeting one with a smile, welcoming, friendly, open, the first to speak.”
+
+Manussā taṁ bhikkhuṁ passitvā evamāhaṁsu -- "kvāyaṁ abalabalo viya mandamando viya
+bhākuṭikabhākuṭiko viya? Ko imassa upagatassa piṇḍakaṁ dassati? Amhākaṁ pana
+ayyā assajipunabbasukā saṇhā sakhilā sukhasambhāsā mihitapubbaṅgamā
+ehisvāgatavādino abbhākuṭikā uttānamukhā pubbabhāsino. Tesaṁ kho nāma piṇḍo
+dātabbo"ti.
+
+.... Anupubbena yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami ...
+
+... Vigarahi buddho bhagavā ...
+
+Kathañhi nāma te, bhikkhave, moghapurisā evarūpaṁ anācāraṁ ācarissanti?
+Netaṁ, bhikkhave, appasannānaṁ vā pasādāya pasannānaṁ vā bhiyyobhāvāya;
+atha khvetaṁ, appasannānañceva appasādāya pasannānañca ekaccānaṁ aññathattāyā"ti.
+
+\columnbreak
+
+/dūseti:/ (of the mind) spoils; corrupts; ruins
+
+/alajjī:/ shameless; not afraid of sin
+
+/anācāra:/ m. misconduct; wrongdoing; bad behaviour
+
+/gāyati:/ sings
+
+/vādeti:/ plays a musical instrument
+
+/lāseti:/ plays; performs; dances
+
+/aṭṭhapada:/ nt. chessboard (eight-checkers)
+
+/kīḷati:/ plays (with); has fun (with)
+
+/akkharikā:/ f. a letter-game
+
+/manesikā:/ f. thought-guessing
+
+/yathāvajja:/ nt. mimicking deformities
+
+/raṅgamajjha:/ m. centre stage
+
+/pattharati:/ spread about; spreads around
+
+/nalāṭikā:/ f. frown; funny facial expression
+
+/vividha:/ adj. various kinds of; multiple
+
+/vigarahi:/ aor. of /vigarahati/
+
+/vigarahati:/ scolds; rebukes; criticizes
+
+/atha:/ ind. but; rather; even
+
+/khvetaṁ:/ kho + evaṁ
+
+/ekacca:/ pron. certain; one of; some of them
+
+/aññathatta:/ nt. change of mind; change of opinion; lit. otherwise state [añña + thā + tta]
+#+end_widecols
 
 -----
 
