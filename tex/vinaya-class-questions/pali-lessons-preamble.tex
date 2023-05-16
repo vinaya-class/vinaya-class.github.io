@@ -14,13 +14,25 @@
 
 \maxtocdepth{subsection}
 
+\newenvironment{widecols}{%
+  \hspace*{-0.05\linewidth}\begin{minipage}{1.1\linewidth}%
+  \raggedright%
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{8pt}%
+  \fontsize{11}{17}\selectfont%
+  \begin{multicols}{2}%
+}{%
+  \end{multicols}%
+  \end{minipage}%
+}
+
 \usepackage{cwpuzzle}
 
 \renewcommand\PuzzleCluePre{%
   \begin{minipage}[t]{0.75\linewidth}%
 }
 
-\renewcommand\PuzzleClueFont{\fontsize{10}{17}\selectfont}
+\renewcommand\PuzzleClueFont{\fontsize{11}{17}\selectfont}
 
 % \def\PuzzleThickline{\linethickness{2pt}}
 
