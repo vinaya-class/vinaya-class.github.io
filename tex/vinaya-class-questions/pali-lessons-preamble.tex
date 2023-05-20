@@ -14,6 +14,16 @@
 
 \maxtocdepth{subsection}
 
+\newenvironment{twocols}{%
+  \raggedright%
+  \setlength{\parindent}{0pt}%
+  \setlength{\parskip}{8pt}%
+  \fontsize{11}{17}\selectfont%
+  \begin{multicols}{2}%
+}{%
+  \end{multicols}%
+}
+
 \newenvironment{widecols}{%
   \hspace*{-0.05\linewidth}\begin{minipage}{1.1\linewidth}%
   \raggedright%

@@ -29,9 +29,6 @@
 * Tasks                                                            :noexport:
 ** editing
 
-check vocabulary
-format vocab pages
-
 Vocab csv + BPC exec.
 
 Bril font for lang cheat sheets
@@ -75,42 +72,6 @@ aratī nābhikīratī”ti.
 /jīyati:/ diminishes; decreases; gets less; is lost
 
 /jīyittha:/ aor. 3rd. refl. sg. of /jīyati/
-
-** they don't neglect retreat
-
-uid:an5.73/en/sujato
-
-Furthermore, a mendicant thinks about and considers the teaching in their heart, examining it with the mind as they learned and memorized it.
-
-Puna caparaṁ, bhikkhu, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā anuvitakketi anuvicāreti manasānupekkhati.
-
-They spend their days thinking about that teaching. But they neglect retreat, and are not committed to internal serenity of heart.
-
-So tehi dhammavitakkehi divasaṁ atināmeti, riñcati paṭisallānaṁ, nānuyuñjati ajjhattaṁ cetosamathaṁ.
-
-That mendicant is called one who thinks a lot, not one who lives by the teaching.
-
-Ayaṁ vuccati, bhikkhu: ‘bhikkhu vitakkabahulo, no dhammavihārī’.
-
-** looking into eyes
-
-uid:an7.50/en/sujato
-
-# However, they giggle and play and have fun with females. …
-
-api ca kho mātugāmena saddhiṁ sañjagghati saṅkīḷati saṅkelāyati ...
-
-# they gaze into a female’s eyes. …
-
-api ca kho mātugāmassa cakkhunā cakkhuṁ upanijjhāyati pekkhati ...
-
-# They enjoy it and like it and find it satisfying.
-
-So taṁ assādeti, taṁ nikāmeti, tena ca vittiṁ āpajjati.
-
-# This is a break, taint, stain, or mar in celibacy.
-
-Idampi kho, brāhmaṇa, brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampi.
 
 ** yo pana
 
@@ -438,15 +399,31 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 
 "*Who* is doing it?" Indicates the *subject* of a sentence.
 
-| Naro nisīdati.                            | *The man* sits.                    |
-| Dārako tiṭṭhati.                           | *The boy* stands (tiṭṭhati).        |
-| Mātugāmo uṭṭhahati.                        | *The woman* stands up (uṭṭhāti).    |
-| Sīhā na dhāvanti.                         | *The lions* are not running.       |
-| Jātā mīyanti.                             | *(Those who are) born* (they) die. |
-| Mallako bhindati.                         | The cup breaks.                    |
-| Abhisatto'va nipatati, vayo.[fn:thag-118] | Like a curse, it falls, *old age*. |
+\bigskip
 
-[fn:thag-118] [[https://suttacentral.net/thag1.118/pli/ms][Thag 118]]
+#+begin_widecols
+
+| Naro nisīdati.     | *The man* sits.                   |
+| Dārako tiṭṭhati.    | *The boy* stands (/tiṭṭhati/).     |
+| Mātugāmo uṭṭhahati. | *The woman* stands up (/uṭṭhāti/). |
+| Sīhā na dhāvanti.  | *The lions* are not running.      |
+
+\columnbreak
+
+| Jātā mīyanti.     | *The born* die.   |
+| Mallako bhindati. | *The cup* breaks. |
+
+#+latex: {\centering
+
+Abhisatto'va nipatati, vayo. ([[https://suttacentral.net/thag1.118/pli/ms][Thag 118]])
+
+Like a curse, it falls, *old age*.
+
+#+latex: \par}
+
+#+end_widecols
+
+\clearpage
 
 *** Accusative Case: naraṁ -- the man (object)
 
@@ -519,8 +496,6 @@ I'm keeping well, friend, I'm getting by. I'm not tired from traveling.
 
 /Kuto ca tvaṁ, bhante, āgacchasi?/
 
-Kuto ca tvaṁ, bhikkhu, āgacchasī
-
 And where have you come from?
 
 /Atthi, bhante, Portugal janapade Sumedhārāma-vihāro nāma./
@@ -529,7 +504,7 @@ There is, Ven., in the country (of) Portugal, the monastery called Sumedhārāma
 
 /Tato ahaṁ, bhante, āgacchāmī./
 
-That's where I've come from, Ven.
+Ven., that's where I've come from.
 
 /Na ca piṇḍakena kilantosi?/
 
@@ -542,6 +517,8 @@ I had no trouble getting almsfood.
 /Idha pubbaṇhasamayaṁ Ericeiraṁ piṇḍāya pavisāmi./
 
 This morning I am entering Ericeira for alms-round.
+
+\clearpage
 
 | Good morning!                            | Supubbaṇho bhante/āvuso.                  |
 | Good morning everyone.                   | Supubbaṇho sabbesaṁ.                     |
@@ -795,7 +772,7 @@ Dasa atthavase:
 
 /samparāyika:/ adj. in the future; hereafter
 
-/appasanna:/ m. one w/o faith or confidence
+/appasanna:/ m. one without faith or confidence
 
 /pasāda:/ m. inspiration; faith; trust; confidence; lit. settling
 
@@ -804,23 +781,16 @@ Dasa atthavase:
 /anuggaha:/ m. support; help; assistance
 #+end_widecols
 
-\bigskip
+#+latex: \renewcommand{\arraystretch}{1.8}
 
-#+begin_widecols
-Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ
-vadeyyaṁ: "kusalaṁ, bhikkhave, bhāvethā"ti.
+| Ime dhammā kusalā ... hitāya sukhāya saṁvattantī'ti                        |
+| \fillin{12cm}{These things are wholesome ... lead to long-term happiness,} |
+| atha tumhe, kālāmā, upasampajja vihareyyātha. ([[https://suttacentral.net/an3.65/pli/ms][AN 3.65]])                    |
+| \fillin{12cm}{then, K., you should undertake them and abide in them...}    |
 
-([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.11-20]])
+#+latex: \normalArrayStrech
 
-\columnbreak
-
-ahitāya
-
-nāhaṁ
-
-bhāvetha + iti → bhāvethā'ti, a + i → ā
-
-#+end_widecols
+/upasampajja:/ undertaking; entering on; attaining; ger. of /upasampajjati/
 
 \clearpage
 
@@ -854,7 +824,7 @@ But we don't see any impairment in the body or deterioration of Ven. Upasena's f
 
 | Aggi uṭṭhāya (/rose up/) gahapatikassa gehaṁ (/house/) ḍahati (/burns down/). |
 | \fillin{12cm}{Fire, having rose up, burns down the householder's house.}     |
-| Sūdehi gahapatino sevakānaṁ odano pacanti.                                   |
+| Sūdehi gahapatino sevakānaṁ (/servants/) odano pacanti.                      |
 | \fillin{12cm}{The cooks cook the rice for the householder's servants.}       |
 | Corehi haritvā, gahapatino gāvo naṭṭho (/vanished/).                          |
 | \fillin{12cm}{Taken away by thieves, the householder's oxen vanished.}       |
@@ -925,6 +895,8 @@ Irregular forms:
 
 The optative generally indicates that the situation is hypothetical. It is often used to imply sense of "it would, if".
 
+The optative cam also imply a polite imperative, "it would be good if you..."
+
 #+latex: \vspace*{-\baselineskip}
 #+latex: \renewcommand{\arraystretch}{1.8}
 
@@ -932,21 +904,29 @@ The optative generally indicates that the situation is hypothetical. It is often
 | Yadā tumhe, bhaddiya, attanāva jāneyyātha... ([[https://suttacentral.net/an4.193/pli/ms][AN 4.193]]) | \fillin{8cm}{When (if) you, Bhaddiya, know this by yourself...} |
 
 #+latex: \normalArrayStrech
+#+latex: \vspace*{-0.5\baselineskip}
 
 /ābādha:/ m. illness; affliction. /saṁvattati:/ leads (to); results (in); causes
 
-The optative cam imply a polite imperative, "it would be good if you..."
+\bigskip
 
-#+latex: \enlargethispage{2\baselineskip}
-#+latex: \vspace*{-\baselineskip}
-#+latex: \renewcommand{\arraystretch}{1.8}
+#+begin_widecols
+Kusalañca hidaṁ, bhikkhave, bhāvitaṁ ahitāya dukkhāya saṁvatteyya, nāhaṁ evaṁ
+vadeyyaṁ: "kusalaṁ, bhikkhave, bhāvethā"ti.
 
-| Ime dhammā kusalā ... hitāya sukhāya saṁvattantī'ti     | \fillin{8cm}{These things are wholesome ... lead to long-term happiness,} |
-| atha tumhe, kālāmā, upasampajja vihareyyātha. ([[https://suttacentral.net/an3.65/pli/ms][AN 3.65]]) | \fillin{8cm}{then, K., you should undertake them and abide in them...}    |
+([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.11-20]])
 
-#+latex: \normalArrayStrech
+\columnbreak
 
-/upasampajja:/ undertaking; entering on; attaining; ger. of /upasampajjati/
+/hidaṁ:/ hi + idaṁ; this indeed; certainly this
+
+/ahitāya:/ dat.sg. of na + hita; unbeneficial; harmful
+
+/nāhaṁ/: na + ahaṁ
+
+bhāvetha + iti → bhāvethā'ti, a + i → ā
+
+#+end_widecols
 
 *** Optative of √as (to be) has two forms
 
@@ -1217,23 +1197,29 @@ pārisuddhā ti vedissāmi.
 | The elder goes to the village with the disciple (/sāvaka/).                 | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}            |
 | The elder gives the robe to the disciple.                                   | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}             |
 
-/īti:/ (f.) calamity; misfortune; lit. it comes [√i + ti]
+#+latex: \normalArrayStrech
+#+latex: \bigskip
+#+latex: \begin{multicols}{2}
+
+/īti:/ f. calamity; misfortune; lit. it comes [√i + ti]
 
 /vivajjati:/ avoids
 
 /vinassati:/ disappears
 
+\columnbreak
+
 /paṭikkamati:/ returns; steps back; recedes; goes away
 
-/bhūta:/ (nt.) living being; lit. become [√bhū + ta]
+/bhūta:/ nt. living being; lit. become [√bhū + ta]
 
-#+latex: \normalArrayStrech
+#+latex: \end{multicols}
 
 ** Indeclinables and Idioms
 
-#+latex: \begin{multicols}{2}
-
 *ca* follows a noun or a verb to express:
+
+#+latex: \begin{multicols}{2}
 
 *(1) and; both*
 
@@ -1251,16 +1237,32 @@ I plow and sow.
 /assā gāvo ajā eḷakā \textbf{ca}/ \\
 horses, cattle, sheep *and* goats
 
+#+latex: \columnbreak
+
 *(2) but; although; and if*
 
-na hi verena verāni,\\
-sammant'īdha kudācanaṁ,\\
-averena \textbf{ca} sammanti,\\
-esa dhammo sanantano.
+/na hi verena verāni,/ \\
+/sammant'īdha kudācanaṁ,/ \\
+/averena \textbf{ca} sammanti,/ \\
+/esa dhammo sanantano./
 
 /(Dhp 5)/
 
-#+latex: \columnbreak
+/vera:/ nt. hatred; ill-will
+
+/sammati:/ pr. pass. [samma + ti] is calmed; is appeased
+
+/kudācanaṁ:/ ind. at some/any time
+
+/esa/: pron. this; he; it
+
+/sanantana:/ adj. eternal; ancient
+
+#+latex: \end{multicols}
+
+\clearpage
+
+#+latex: \begin{multicols}{2}
 
 *vā:* follows a noun or a verb to express *either ... or*:
 
@@ -1280,29 +1282,29 @@ esa dhammo sanantano.
 
 *kiṁ nu kho:* How indeed? Why on earth?
 
+*yato ca kho:* but when; but because
+
+*api ca kho:* and yet; however; still
+
 *saddhiṁ, saha:* with, together with.
 
 *idha:* (1) here; now; in this world; (2) in this case.
 
 *pecca:* after death
 
-*puna:* again; once more
-
-*paraṁ:* after; beyond
+\columnbreak
 
 *puna caparaṁ:* idiom. and what is more; and so too [puna + ca + paraṁ]
 
-#+latex: \end{multicols}
+*puna:* again; once more
 
-#+latex: \begin{multicols}{2}
+*paraṁ:* after; beyond
 
 *yo pana bhikkhu:* idiom. a monk who;\\
 but whichever monk
 
 *yo:* pron. whoever; whatever;\\
 whichever (masc.nom.sg. of /ya/)
-
-#+latex: \columnbreak
 
 *pana:* moreover; and so; but; or; however
 
@@ -1348,6 +1350,8 @@ whichever (masc.nom.sg. of /ya/)
 /Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya.../
 
 /saṁvidhāya:/ gerund of /saṁvidahati/ [saṁ + vi + √dhā + a + ti], arranges, organises, plans
+
+\clearpage
 
 ** Gerund (e.g. bhavitvā)
 
@@ -1423,41 +1427,119 @@ aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentra
 
 #+latex: \begin{multicols}{2}
 
-/viveka:/ (m.) seclusion; discrimination
-
-/nādhigacchati:/ does not get to; does not obtain
-
-/abhijjhā:/ (f.) wanting; lit. over thinking
-
-/byāpāda:/ (m.) ill will; lit. going wrong
-
+/viveka:/ (m.) seclusion; discrimination \\
+/nādhigacchati:/ does not get to; does not obtain \\
+/abhijjhā:/ (f.) wanting; lit. over thinking \\
+/byāpāda:/ (m.) ill will; lit. going wrong \\
 /thinamiddha:/ (nt.) dullness; sloth
 
 #+latex: \columnbreak
 
-/uddhaccakukkucca:/ (nt.) restlessness; agitation
-
-/vicikicchā:/ (f.) doubt; uncertainty
-
-/aratī:/ (f.) discontent; dislike
-
+/uddhaccakukkucca:/ (nt.) restlessness; agitation \\
+/vicikicchā:/ (f.) doubt; uncertainty \\
+/aratī:/ (f.) discontent; dislike \\
 /tandī:/ (f.) laziness; tiredness
 
 #+latex: \end{multicols}
 
+#+latex: \clearpage
+
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Chandañca ruciñca ādāya voharati. (Sg 11)                       | \fillin{8cm}{He speaks with our given consent and approval.}                      |
-| Sace so coretvā idha āgacceyya, ahaṁ daṇḍeyyāmi.                | \fillin{8cm}{If, after stealing, he might come here, I may punish (him).}         |
-| So tatra gantvā idha āgacchati.                                 | \fillin{8cm}{He, having gone there, comes here.}                                  |
-| Idha nisīditvā mā rodāhi, tatra gacchāhi, gantvā bhutvā sayāhi. | \fillin{8cm}{Sitting here, don't cry, go there, having gone and eaten, lie down.} |
-| \fillin{8cm}{So tatra nisīditvā tato uṭṭhāti.}                   | After sitting down there, he stands up from there (/uṭṭhāti/).                     |
-| \fillin{8cm}{Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.}      | After staying (/vasati/) here today, tomorrow we go there.                        |
-| \fillin{8cm}{Rukkhaṁ agginā jhāpetvā masiṁ kareyya.}            | After burning (/jhāyati/) the tree with fire, they may make ash (/masi/).         |
-| \fillin{8cm}{Te idha āgantvā pacitvā gacchanti. }               | Having come here, having cooked, they go.                                         |
-| \fillin{8cm}{Tvaṁ buñjitvā pivitvā sayasi.}                     | Having eaten, having drunk, you lie down.                                         |
+| Chandañca ruciñca ādāya voharati. (Sg 11)                  | \fillin{8cm}{He speaks with our given consent and approval.} |
+| So tatra gantvā idha āgacchati.                            | \fillin{8cm}{He, having gone there, comes here.}             |
+| \fillin{8cm}{So tatra nisīditvā tato uṭṭhāti.}              | After sitting down there, he stands up from there.           |
+| \fillin{8cm}{Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.} | After staying here today, tomorrow we go there.              |
+| \fillin{8cm}{Te idha āgantvā pacitvā gacchanti. }          | Having come here, having cooked, they go.                    |
+| \fillin{8cm}{Tvaṁ buñjitvā pivitvā sayasi.}                | Having eaten, having drunk, you lie down.                    |
+
+#+latex: \hspace*{-0.05\linewidth}%
+#+latex: \begin{minipage}[c][10\baselineskip][t]{0.8\linewidth}
+
+#+latex: \vspace*{-\baselineskip}
+
+| Sace so coretvā idha āgacceyya, ahaṁ daṇḍeyyāmi.                                   |
+| \fillin{12cm}{If, after stealing, he might come here, I may punish (him).}         |
+| Idha nisīditvā mā rodāhi, tatra gacchāhi, gantvā bhutvā sayāhi.                    |
+| \fillin{12cm}{Sitting here, don't cry, go there, having gone and eaten, lie down.} |
+| After burning the tree with fire, they may make ash.                               |
+| \fillin{12cm}{Rukkhaṁ agginā jhāpetvā masiṁ kareyya.}                              |
+
+#+latex: \end{minipage}%
+#+latex: \begin{minipage}[c][10\baselineskip][t]{0.25\linewidth}
+#+latex: \raggedright
+
+/ruci:/ f. preference; approval \\
+/ādāya:/ ger. of /ādiyati/; \\
+receiving; according (to); \\
+lit. taking \\
+/uṭṭhāti:/ stands up \\
+/vasati:/ stays; dwells \\
+/jhāyati:/ burns \\
+/masi:/ m. soot; ash
+
+\vfill\null
+
+#+latex: \end{minipage}
 
 #+latex: \normalArrayStrech
+
+#+latex: \enlargethispage*{\baselineskip}
+#+latex: \bigskip
+
+#+begin_widecols
+Puna caparaṁ, bhikkhu, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā
+anuvitakketi anuvicāreti manasānupekkhati.
+
+# They spend their days thinking about that teaching. But they neglect retreat, and are not committed to internal serenity of heart.
+
+So tehi dhammavitakkehi divasaṁ atināmeti, riñcati paṭisallānaṁ, nānuyuñjati
+ajjhattaṁ cetosamathaṁ.
+
+Ayaṁ vuccati, bhikkhu: "bhikkhu vitakkabahulo, no dhammavihārī".
+
+([[https://suttacentral.net/an5.73/pli/ms][AN 5.73]])
+
+Api ca kho mātugāmena saddhiṁ sañjagghati saṅkīḷati saṅkelāyati ...
+
+Api ca kho mātugāmassa cakkhunā cakkhuṁ upanijjhāyati pekkhati ...
+
+So taṁ assādeti, taṁ nikāmeti, tena ca vittiṁ āpajjati.
+
+Idampi kho, brāhmaṇa, brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampi.
+
+([[https://suttacentral.net/an7.50/pli/ms][AN 7.50]])
+
+\columnbreak
+
+/cetasā:/ m. with/by mind; with thought \\
+/anu-:/ over; on; around \\
+/manasānupekkhati:/ mentally examines \\
+/pekkhati:/ sees; takes a look (at) \\
+/divasa:/ nt. day \\
+/atināmeti:/ (of time) passes; spends; wastes \\
+/riñcati:/ neglects; omits \\
+/paṭisallāna:/ nt. privacy; solitude; lit. sticking to oneself \\
+/anuyuñjati:/ practices; engages in; lit. yokes near \\
+/ayaṁ:/ pron. this; this person; this thing \\
+/vuccati:/ pass. of /vacati/; is said to be; is called \\
+/sañjagghati:/ laughs; jokes \\
+/saṅkīḷati:/ [saṁ + √kīḷ] playing together \\
+/saṅkelāyati:/ from /kīḷati/; has fun; amuses oneself (with) \\
+/upanijjhāyati:/ meditates (on); contemplates; reflects (on) \\
+/assādeti:/ relishes; takes pleasure (in) \\
+/nikāmeti:/ desires; longs (for) \\
+/vittiṁ āpajjati:/ idiom. finds satisfaction (in) \\
+/vitti/: f. joy; happiness; pleasure; lit. gain \\
+/āpajjati:/ gets pleasure/pain; produces; engages in \\
+/khaṇḍa:/ m. piece; chip; lit. break \\
+/chidda:/ nt. hole; crack \\
+/sabala:/ adj. blotched; stained \\
+/kammāsa:/ adj. spotted; blemished
+
+#+end_widecols
+
+\clearpage
 
 ** Infinitive (e.g. bhavituṁ)
 
@@ -1497,13 +1579,21 @@ The infinitive may be translated as "to see" / "in order to see" / "for the purp
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Ahaṁ bhuñjitvā sayituṁ (/lie down, sleep/) na icchāmi.             | \fillin{8cm}{Having eaten, I don't want to lie down.} |
-| Mayaṁ idāni atra bhutvā vapituṁ (/sow/) tahiṁ (/there/) gacchāma. | \fillin{8cm}{Now, we eat here and go there to sow.}   |
-| \fillin{8cm}{Āma, ahaṁ jānāmi, tvaṁ carituṁ icchasi.}             | Yes, I know you like to walk.                         |
-| \fillin{8cm}{Mayaṁ ketuṁ tahiṁ na gacchāma.}                      | We don't go there to buy.                             |
-| \fillin{8cm}{Mayaṁ hantuṁ na icchāma.}                             | We don't like to kill.                                |
+| Ahaṁ bhuñjitvā sayituṁ na icchāmi.                     | \fillin{8cm}{Having eaten, I don't want to lie down.} |
+| Mayaṁ idāni atra bhutvā vapituṁ tahiṁ gacchāma.       | \fillin{8cm}{Now, we eat here and go there to sow.}   |
+| \fillin{8cm}{Āma, ahaṁ jānāmi, tvaṁ carituṁ icchasi.} | Yes, I know you like to walk.                         |
+| \fillin{8cm}{Mayaṁ ketuṁ tahiṁ na gacchāma.}          | We don't go there to buy.                             |
+| \fillin{8cm}{Mayaṁ hantuṁ na icchāma.}                 | We don't like to kill.                                |
 
 #+latex: \normalArrayStrech
+
+/sayituṁ:/ lie down, sleep
+
+/vapituṁ:/ sow
+
+/tahiṁ:/ there
+
+#+latex: \clearpage
 
 ** Declensions (-a)
 *** Locative Case: nare / naramhi / narasmiṁ -- in, on, at the man
@@ -1541,15 +1631,23 @@ long or remain short.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| The lion walks *in the village.*                                     | Sīho *gāme / gāmamhi / gāmasmiṁ* carati. |
-| \fillin{8cm}{The wise men are delighted in the Buddha.}              | Viññuno Buddhe pasannā.                  |
-| \fillin{8cm}{Now rain falls, (so) don't go out.}                     | Idāni devo vassati, mā bahi gacchittha.  |
-| \fillin{8cm}{Today many men assemble in the village.}                | Ajja bahū manussā gāme sannipatanti.     |
-| Monkeys (/makkaṭa/) move about (/vicarati/) on trees.                 | \fillin{8cm}{Makkaṭā rukkhesu vicaranti.} |
-| They, having seen the disadvantage (/ādīnava/) in sensual pleasures, | \fillin{8cm}{Te kāmesu ādīnavaṁ disvā,}  |
-| go forth (/pabbajati/) in the bhikkhu-saṅgha.                         | \fillin{8cm}{bhikkhu-saṅghe pabbajanti.}  |
+| The lion walks *in the village.*                         | Sīho *gāme / gāmamhi / gāmasmiṁ* carati. |
+| \fillin{8cm}{The wise men are delighted in the Buddha.}  | Viññuno Buddhe pasannā.                  |
+| \fillin{8cm}{Now rain falls, (so) don't go out.}         | Idāni devo vassati, mā bahi gacchittha.  |
+| \fillin{8cm}{Today many men assemble in the village.}    | Ajja bahū manussā gāme sannipatanti.     |
+| Monkeys move about on trees.                             | \fillin{8cm}{Makkaṭā rukkhesu vicaranti.} |
+| They, having seen the disadvantage in sensual pleasures, | \fillin{8cm}{Te kāmesu ādīnavaṁ disvā,}  |
+| go forth in the bhikkhu-saṅgha.                           | \fillin{8cm}{bhikkhu-saṅghe pabbajanti.}  |
 
 #+latex: \normalArrayStrech
+
+/makkaṭa:/ m. monkey; ape
+
+/vicarati:/ moves about
+
+/ādīnava:/ m. danger; problem; disadvantage
+
+/pabbajati:/ goes into exile; ordains as a monk
 
 #+latex: \clearpage
 
@@ -1610,6 +1708,8 @@ Not to be confused with nominative forms:
 
 /Saṅkhāre parato passa, dukkhato mā ca attato./ ([[https://suttacentral.net/sn8.4/pli/ms][SN 8.4]])
 
+TODO add more context
+
 #+latex: \clearpage
 
 ** Pronouns
@@ -1660,24 +1760,26 @@ Possessive pronouns (genitive)
 
 | \fillin{8cm}{Like rivers full of water...}                           | Yathā vārivahā pūrā...                                       |
 | \fillin{8cm}{All the boys are crying:}                               | Sabbepime dārakā rodanti:                                    |
-| \fillin{8cm}{Give congee, give rice, give food!}                     | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā. (Pc 65)       |
+| \fillin{8cm}{Give congee, give rice, give food!}                     | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā.[fn:: Pc 65]   |
 | \fillin{8cm}{He, from the breakup of the body, from after death...}  | So, kāyassa bhedā (abl.), paraṁ maraṇā (abl.)...[fn:sn-42-3] |
-| \fillin{8cm}{(Due to the) first jhāna there is delight in solitude.} | Paṭhamena jhānena suññāgāre abhirati. (Pr 4, Pc 8)            |
+| \fillin{8cm}{(Due to the) first jhāna there is delight in solitude.} | Paṭhamena jhānena suññāgāre abhirati.[fn:: Pr 4, Pc 8]        |
 | The elder goes to the village by air.                                | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                  |
 | A bhikkhu gives to a bowl to a bhikkhu.                              | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
 | A bhikkhu walks to a village with a bhikkhunī.                       | \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}               |
 
 #+latex: \normalArrayStrech
 
-/vāri:/ (nt.) water
+/vāri:/ nt. water
 
-/vāha:/ (adj.) carrying; leading
+/vāha:/ adj. carrying; leading
 
-/pūra:/ (adj.) full (of); filled (with)
+/pūra:/ adj. full (of); filled (with)
+
+\clearpage
 
 *** Readings
 
-#+begin_quote
+#+begin_twocols
 Aggato ve pasannānaṁ, \\
 aggaṁ dhammaṁ vijānataṁ; \\
 Agge buddhe pasannānaṁ, \\
@@ -1689,12 +1791,41 @@ Agge saṅghe pasannānaṁ, \\
 puññakkhette anuttare.
 
 ([[https://suttacentral.net/an4.34/pli/ms][AN 4.34]])
-#+end_quote
 
-- /agga:/ adj. highest; supreme;
-- /pasanna/ adj. (+gen or +loc) who has faith (in); who has confidence (in); lit. settled [pa + √sad + na]
+\columnbreak
 
------
+/agga:/ adj. highest; supreme;
+
+/pasanna:/ adj. who has faith (in); who has confidence (in); lit. settled [pa + √sad + na]
+
+/vijānataṁ:/ prp. of /vijānāti/
+
+/vijānāti:/ comprehends; understands
+
+/dakkhiṇeyya:/ adj. worthy of offerings [√dakkh + iṇā + eyya]
+
+/dakkhiṇā:/ f. gift; donation
+
+/upasamati:/ becomes calm; ceases; is allayed
+
+/puññakkhetta:/ nt. field of merit [puñña + khetta]
+
+/khetta:/ nt. field; plot of land
+
+#+end_twocols
+
+\bigskip
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.                                     |
+| \fillin{12cm}{May they give gifts with conviction, may they always maintain virtue.} |
+| Bhāvanābhiratā hontu, gacchantu devatā-gatā[fn:: Dukkhappattā... chant]              |
+| \fillin{12cm}{May they delight in meditation, may they go to the devas.}             |
+
+#+latex: \normalArrayStrech
+
+\bigskip
 
 Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya... (NP 8)
 
@@ -1747,35 +1878,53 @@ mahārāja, padīpo padīpamhā saṅkanto'ti? ([[https://suttacentral.net/mil3.
 
 -----
 
-Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.
-
-\fillin{12cm}{May they give gifts with conviction, may they always maintain virtue.}
-
-Bhāvanābhiratā hontu, gacchantu devatā-gatā[fn:: Dukkhappattā... chant]
-
-\fillin{8cm}{May they delight in meditation, may they go to the devas.}
-
------
-
 Ye naṁ dadanti saddhāya, \\
 vippasannena cetasā; \\
 Tameva annaṁ bhajati, \\
 asmiṁ loke paramhi ca. ([[https://suttacentral.net/sn1.43/pli/ms][SN 1.43]])
 
-#+latex: \addtocontents{toc}{\clearpage}
-
+*** TODO Extra Challenge                                           :noexport:
 * Lesson 4
 ** Review Exercises
 
-| \fillin{8cm}{Those who, devoted, firm-minded,}                                           | Ye suppayuttā manasā daḷhena                                           |
-| \fillin{8cm}{apply themselves to Gotama's message}                                       | nikkāmino gotamasāsanamhi (gotamassa sāsanamhi)                       |
-| \fillin{8cm}{they, with no seed, no desire for growth,}                                  | Te khīṇa-bījā aviruḷhi-chandā                                          |
-| \fillin{8cm}{enlightened, go out like this flame.}                                       | Nibbanti dhīrā yathā’yam padīpo (Snp 2.1)                             |
-| \fillin{8cm}{A disciple of the fully awakened Buddha delights in the ending of craving.} | Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187, simpl.) |
-| \fillin{8cm}{To many refuges they go, to mountains and forest glades}                    | Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca (Dhp 188)                  |
-| \fillin{8cm}{They dwell detached, not grasping at anything in the world.}                | Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)             |
+#+latex: \renewcommand{\arraystretch}{1.8}
 
-/nikkāmī:/ striving (in); active (in); lit. going out [nī + √kam + *ī]
+| Ye suppayuttā manasā daḷhena                     | \fillin{8cm}{Those who, devoted, firm-minded,}          |
+| nikkāmino gotamasāsanamhi (gotamassa sāsanamhi) | \fillin{8cm}{apply themselves to Gotama's message}      |
+| ... Te khīṇa-bījā aviruḷhi-chandā                | \fillin{8cm}{They, with no seed, no desire for growth,} |
+| Nibbanti dhīrā yathā'yam padīpo (Snp 2.1)       | \fillin{8cm}{enlightened, go out like this flame.}      |
+
+#+begin_widecols
+/suppayutta:/ [su + payutta] adj. fully engaged; diligently practising \\
+/payutta:/ pp. of /payuñjati/; intent; engaged \\
+/payuñjati:/ harnesses; employs; applies \\
+/manasa:/ adj. focused on; lit. with such a mind \\
+/daḷha:/ adj. strong; firm; steady \\
+/nikkāmī:/ [nī + √kam + *ī] adj. striving (in); active (in); lit. going out \\
+/khīṇa:/ pp. of /khīyati/; consumed; destroyed \\
+/khaya:/ [√khī + *a] m. wearing away (of); destruction (of) \\
+/virūḷhi:/ f. growth; increase
+#+end_widecols
+
+| Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187, simpl.)                     |
+| \fillin{12cm}{A disciple of the fully awakened Buddha delights in the ending of craving.} |
+| Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca (Dhp 188)                                      |
+| \fillin{12cm}{To many refuges they go, to mountains and forest glades}                    |
+| Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)                                 |
+| \fillin{12cm}{They dwell detached, not grasping at anything in the world.}                |
+
+#+begin_widecols
+/ramati:/ enjoys; takes delight (in) \\
+/yanti:/ they go \\
+/pabbata:/ nt. mountain; hill \\
+/vana:/ nt. wood; forest; grove \\
+/anissita:/ pp. (+abl) of [na + nissayati]; detached (from); disengaged (from) \\
+/upādiyati:/ grasps; holds (onto); takes possession (of); lit. takes near
+#+end_widecols
+
+#+latex: \normalArrayStrech
+
+\clearpage
 
 ** Adverbs of Time
 
@@ -1837,11 +1986,27 @@ The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used i
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61) | I should not approach families intoxicated with pride. |
-| Parisuddho no kāyasamācāro bhavissati. (MN 39)                | \fillin{8cm}{Our bodily behaviour should be purified.} |
-| \fillin{8cm}{brāhmaṇā karissanti ...}                          | Brahmans will do ....                                  |
+| Parisuddho no kāyasamācāro bhavissati. (MN 39) | \fillin{8cm}{Our bodily behaviour should be purified.} |
+| \fillin{8cm}{brāhmaṇā karissanti ...}           | Brahmans will do ....                                  |
+
+\null
+
+| Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61)         |
+| \fillin{12cm}{I should not approach families intoxicated with pride.} |
+
+#+begin_widecols
+/uccāsoṇḍaṁ paggahetvā:/ idiom. arrogantly; with an attitude; lit. having raised trunk high \\
+/uccāsoṇḍā:/ [uccā + soṇḍā] f. raised trunk (of an elephant); trunk of pride
+
+\columnbreak
+
+/paggahetvā:/ ger. of /paggaṇhāti/ \\
+/paggaṇhāti:/ holds up; raises up
+#+end_widecols
 
 #+latex: \normalArrayStrech
+
+\clearpage
 
 ** Present Participle (-nt, -māna)
 
@@ -1870,50 +2035,48 @@ The present participles are declinable, they agree with the noun in gender, numb
 
 /gacchant → (nom.sg.) gacchaṁ, gacchanto (nom.pl) gacchanto, gacchantā/
 
-#+begin_quote
-dīghaṁ vā assasanto "dīghaṁ assasāmī"ti pajānāti (MN 118)
-
-Maggaṁ kho pana me gacchantassa kāyo kilanto. (AN 8.80) \\
-But while walking my body got tired.
-
 \bigskip
 
-... suvaṇṇaṁ (gold) vā chijjamānaṁ (loosen) patati. (falls) (Pr 2)
+#+begin_widecols
+/dīghaṁ vā assasanto "dīghaṁ assasāmī"ti pajānāti/ (MN 118)
 
-... gold falls after being cut loose.
-#+end_quote
+/Maggaṁ kho pana me gacchantassa kāyo kilanto./ (AN 8.80)
+
+/... suvaṇṇaṁ vā chijjamānaṁ patati./ (Pr 2)
+
+\columnbreak
+
+/kilanta:/ adj. worn out; tired \\
+/suvaṇṇa:/ nt. gold \\
+/chijjati:/ cut off; cut loose; severed \\
+/patati:/ falls
+#+end_widecols
+
+\bigskip
 
 Since the present participles are verbs, they can take an object in the accusative case:
 
-#+begin_quote
-"*abhippamodayaṁ cittaṁ* assasissāmī"ti sikkhati (MN 118)
+/"*abhippamodayaṁ cittaṁ* assasissāmī"ti sikkhati/ (MN 118)
 
-- abhippamodati → (prp.) abhippamodayanta: [abhi + pa + √mud + *aya + nta] \\
-  gladdening; pleasing;
+/abhippamodati:/ rejoices; gladdens; prp. of /abhippamodayanta:/ gladdening; pleasing
 
-No ce abhinipphādeyya, tato ce *uttariṁ vāyamamāno* taṁ cīvaraṁ abhinipphādeyya, nissaggiyaṁ pācittiyaṁ. (NP 10)
+/No ce abhinipphādeyya, tato ce *uttariṁ vāyamamāno* taṁ cīvaraṁ abhinipphādeyya, nissaggiyaṁ pācittiyaṁ./ (NP 10)
 
-- vāyamamāno: prp. of vāyamati: [vi + ā + √yam + a + ti] makes an effort (to)
+/vāyamamāno:/ prp. of /vāyamati:/ makes an effort (to)
 
-#+latex: \clearpage
+#+latex: \renewcommand{\arraystretch}{1.8}
 
-/Puriso passeyya maccha-gumbaṁ carantaṁ tiṭṭhantaṁ./ (MN 39)
+| Puriso passeyya maccha-gumbaṁ carantaṁ tiṭṭhantaṁ. (MN 39)                           |
+| \fillin{12cm}{A man could see schools of fish wandering around and remaining still.} |
+| Seyyathāpi bhikkhave makkaṭo araññe pavane caramāno... (SN 12.61)                     |
+| \fillin{12cm}{Just like, monks, a monkey roaming around in a forest wilderness...}   |
 
-- maccha-gumbaṁ (school of fish) = masc.acc.sg
-- carantaṁ = masc.acc.sg
-- tiṭṭhantaṁ = masc.acc.sg
+#+latex: \normalArrayStrech
 
-\fillin{12cm}{A man could see schools of fish wandering around and remaining still.}
+/maccha-gumba:/ m. school of fish \\
+/pavana:/ nt. woodland; forest
 
-\bigskip
-
-Seyyathāpi bhikkhave makkaṭo araññe pavane caramāno... (SN 12.61)
-
-- makkato = masc.nom.sg
-- caramāno = masc.nom.sg
-
-\fillin{12cm}{Just like, monks, a monkey roaming around in a forest wilderness...}
-#+end_quote
+\clearpage
 
 ** Adjectives
 
@@ -1933,17 +2096,20 @@ A noun may act as a qualifier predicate, and should agree with its subject in ca
 
 Adjectives as predicates should agree with the subject in gender, number and case:
 
-#+begin_quote
-/Kāmā hi citrā madhurā manoramā;/
+#+latex: \renewcommand{\arraystretch}{1.8}
 
-/citra:/ diverse, /madhura:/ sweet, lovely, /manorama:/ delightful, lit. mind pleasing [mano + rama]
+| Kāmā hi citrā madhurā manoramā;                                  |
+| \fillin{12cm}{Sensual pleasures are diverse, sweet, delightful;} |
+| aviddasū yattha sitā puthujjanā. (Thag 19.1)                     |
+| \fillin{12cm}{an ignorant ordinary person is bound to them.}     |
 
-\fillin{12cm}{Sensual pleasures are diverse, sweet, delightful;}
+#+latex: \normalArrayStrech
 
-/aviddasū yattha sitā puthujjanā./ (Thag 19.1)
+/citra:/ diverse \\
+/madhura:/ sweet, lovely \\
+/manorama:/ [mano + rama] delightful, lit. mind pleasing
 
-\fillin{12cm}{an ignorant ordinary person is bound to them.}
-#+end_quote
+\bigskip
 
 *Natthi* (there is/are not) and *musā* can be used as predicates[fn:predicate]:
 
@@ -1968,8 +2134,6 @@ Opened are the gates of the deathless for them, let the hearers show faith.
 
 /So puriso:/ that man, /te purisā:/ those men.
 
-\bigskip
-
 # Maitreya: p.36
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -1981,25 +2145,24 @@ Opened are the gates of the deathless for them, let the hearers show faith.
 | \fillin{8cm}{Why does that evil man come here?} | So pāpako puriso kasmā idhāgacchati? |
 | \fillin{8cm}{Where is she reborn?}              | Kuhiṁ sā paccājāyati?                |
 
+\null
+
+| Sace manussattaṁ āgacchati yattha yattha paccājāyati appabhogo hoti. (MN 135)              |
+| \fillin{12cm}{If he comes back to the human state, then wherever he is reborn he is poor.} |
+
 #+latex: \normalArrayStrech
 
-#+latex: \begin{multicols}{2}
+\bigskip
 
-/vaḍḍhati:/ grows
+#+begin_twocols
+/vaḍḍhati:/ grows \\
+/paccājāyati:/ pass. is born again
 
-/appabhogo:/ poor; with few assets
+\columnbreak
 
-#+latex: \columnbreak
-
+/appabhogo:/ poor; with few assets \\
 /mahābhogo:/ wealthy; with great assets
-
-/paccājāyati:/ is born again
-
-#+latex: \end{multicols}
-
-/Sace manussattaṁ āgacchati yattha yattha paccājāyati (again-born) appabhogo hoti./ (MN 135)
-
-\fillin{12cm}{If he comes back to the human state, then wherever he is reborn he is poor.}
+#+end_twocols
 
 ** Indeclinables and Idioms
 
@@ -2030,27 +2193,66 @@ time; occasion; lit. come together
 
 #+latex: \end{multicols}
 
+\clearpage
+
 ** Exercises
 *** Translate
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-\fillin{12cm}{}
+| \fillin{8cm}{My mind will rise (stand) above all worldly things.} | Sabbalokā ca me mano vuṭṭhahissati.[fn::AN 6.102] |
+| \fillin{8cm}{What are you doing while living here?}               | Tumhe idha kiṁ kurumānā viharatha?               |
+| \fillin{8cm}{The farmers sing songs in the fields.}               | Khetthesu kassakā gītāni gāyanti.                |
 
-| \fillin{8cm}{My mind will rise (stand) above all worldly things.}                  | Sabbalokā ca me mano vuṭṭhahissati.[fn::AN 6.102]                         |
-| \fillin{8cm}{What are you doing while living here?}                                | Tumhe idha kiṁ kurumānā viharatha?                                       |
-| \fillin{8cm}{The servants of the housewife eat the fruits falling from the trees.} | Rukkhehi patantāni phalāni gahapatāniyā sevakā bhuñjanti.                |
-| \fillin{8cm}{The farmers sing songs in the fields.}                                | Khetthesu kassakā gītāni gāyanti.                                        |
-| \fillin{8cm}{Men become very devoted to monks who live in a forest dwelling.}      | Araññe senāsane viharantesu bhikkūsu manussā bhiyyo pasīdanti.           |
-| Where will you stay there, after going from here?                                  | \fillin{8cm}{Tvaṁ ito gantvā tatra kuhiṁ vasissati?}                     |
-| Don't talk while eating.                                                           | \fillin{8cm}{Bhuñjantā mā sallapatha.}                                   |
-| Wealth does not follow the person who is dying.                                    | \fillin{8cm}{Dhanaṁ mīyantaṁ / marantaṁ purisaṁ na anugacchati.}        |
-| While walking up and down, he brought many small creatures to destruction.         | \fillin{8cm}{So caṅkamanto bahū khuddake pāṇino saṅghātaṁ āpādesi.}      |
-| When the road becomes safe, then we shall set out from here.                       | \fillin{8cm}{Yadā maggo khemo bhavissati, tadā mayaṁ ito nikkhamissāma.} |
+#+latex: \vspace*{-\baselineskip}
+
+| Rukkhehi patantāni phalāni gahapatāniyā sevakā bhuñjanti.                                 |
+| \fillin{12cm}{The servants of the housewife eat the fruits falling from the trees.}       |
+| Araññe senāsane viharantesu bhikkūsu manussā bhiyyo pasīdanti.                            |
+| \fillin{12cm}{Men become very devoted to monks who live in a forest dwelling.}            |
+| So caṅkamanto bahū khuddake pāṇino saṅghātaṁ āpādesi.                                     |
+| \fillin{12cm}{While walking up and down, he brought many small creatures to destruction.} |
+
+#+latex: \vspace*{-\baselineskip}
+
+| Where will you stay there, after going from here? | \fillin{8cm}{Tvaṁ ito gantvā tatra kuhiṁ vasissati?}              |
+| Don't talk while eating.                          | \fillin{8cm}{Bhuñjantā mā sallapatha.}                            |
+| Wealth does not follow the person who is dying.   | \fillin{8cm}{Dhanaṁ mīyantaṁ / marantaṁ purisaṁ na anugacchati.} |
+
+#+latex: \vspace*{-\baselineskip}
+
+| When the road becomes safe, then we shall set out from here.               |
+| \fillin{12cm}{Yadā maggo khemo bhavissati, tadā mayaṁ ito nikkhamissāma.}  |
 
 #+latex: \normalArrayStrech
 
-#+latex: \clearpage
+\bigskip
+
+#+begin_twocols
+
+/vuṭṭhahati:/ stands above; rises above \\
+/kassaka:/ m. farmer; ploughman \\
+/gīta:/ pp. of /gāyati/; nt. singing; lit. sung \\
+/phala:/ nt. fruit; nut; berry \\
+/bhiyyo:/ ind. more; greater; very \\
+/pasīdati:/ is bright; is inspired \\
+/caṅkamati:/ walks up and down \\
+/bahu:/ adj. many; much \\
+/khuddaka:/ adj. small; tiny \\
+/pāṇī:/ m. living being; lit. breather \\
+/saṅghātaṁ āpādeti:/ idiom. damages; harms; causes the death (of) \\
+/saṅghāta:/ m. striking; hurting; killing \\
+/āpādeti:/ causes; effets; produces \\
+/sallapati:/ talks; converses; chats \\
+/dhana:/ nt. wealth; riches; treasure \\
+/mīyati:/ is killed; dies \\
+/anugacchati:/ follows; goes after \\
+/nikkhamati:/ goes out; comes out; leaves \\
+/yadā ... tadā ...:/ When ... then ...
+
+#+end_twocols
+
+\clearpage
 
 *** Readings
 
@@ -2096,6 +2298,7 @@ santī āpatti āvikātabbā, \\
 
 ([[https://suttacentral.net/pli-tv-bu-pm/pli/ms][Nidāna]])
 
+*** TODO Extra Challenge                                           :noexport:
 * Lesson 5
 ** Review Exercises
 
