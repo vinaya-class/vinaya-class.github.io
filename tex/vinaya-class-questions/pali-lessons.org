@@ -1298,6 +1298,8 @@ horses, cattle, sheep *and* goats
 
 *puna:* again; once more
 
+*punappunaṁ:* repeatedly; again and again
+
 *paraṁ:* after; beyond
 
 *yo pana bhikkhu:* idiom. a monk who;\\
@@ -1680,11 +1682,6 @@ becomes /-hi/, e.g.: /Buddhehi, munīhi, senānīhi, garūhi, vidūhi/.
 
 *The suffix /-to/* forms adverbs with an ablative sense. /Buddhato/: from the Buddha. E.g.: /munito, senānito, garuto, viduto/.
 
-The particle *vinā* adds the meaning of *without*:
-
-/Buddhaṁ (acc.) vinā, Buddhena (instr.) vinā, Buddhamhā vinā (abl.):/ without
-the Buddha, apart from the Buddha.
-
 Not to be confused with nominative forms:
 
 /Saṅkhato:/ nom.sg. of /saṅkhata:/ [saṁ + √kar + ta], pp. of saṅkharoti. Created, conditioned, fabricated.\\
@@ -1693,22 +1690,57 @@ Not to be confused with nominative forms:
 # Duroselle: p.89
 # Gair: p.40
 
-| from far, from the further shore | pārato                 |
-| from near, from the near shore   | orato                  |
-| away from suffering              | \fillin{4cm}{dukkhato} |
-| from everywhere                  | \fillin{4cm}{sabbato}  |
-| from the lamp                    | \fillin{4cm}{padīpato} |
+\bigskip
+
+#+begin_widecols
+| from far, from the further shore | pārato |
+| from near, from the near shore   | orato  |
+
+\columnbreak
+
+| away from suffering | \fillin{4cm}{dukkhato} |
+| from everywhere     | \fillin{4cm}{sabbato}  |
+| from the lamp       | \fillin{4cm}{padīpato} |
+#+end_widecols
+
+\bigskip
+
+The particle *vinā* adds the meaning of *without*:
+
+/Buddhaṁ (acc.) vinā, Buddhena (instr.) vinā, Buddhamhā vinā (abl.):/ without
+the Buddha, apart from the Buddha.
 
 *The suffix /-to/* can also form indeclinable adverbs: /dukkhato/ can be translated as ablative "from suffering", or an adverb "as suffering".
+
+\bigskip
+
+#+begin_widecols
+Dveme, bhikkhave, paccayā sammādiṭṭhiyā uppādāya. Katame dve? Parato ca ghoso, yoniso ca manasikāro. \\
+([[https://suttacentral.net/an2.118-129/pli/ms][AN 2.126]])
+
+Ven. Vaṅgīsa asks Ven. Ānanda for advice (/Kāmarāgena ḍayhāmi, cittaṁ me pariḍayhati!/) who responds:
+
+Saṅkhāre parato passa, \\
+dukkhato mā ca attato; \\
+Nibbāpehi mahārāgaṁ, \\
+mā ḍayhittho punappunaṁ. ([[https://suttacentral.net/sn8.4/pli/ms][SN 8.4]])
+
+\columnbreak
 
 /parato/: (1) abl. [para + to], from far \\
 /parato/: (2) ind. as another; as alien
 
 /parato ca ghoso:/ word of another
 
-/Saṅkhāre parato passa, dukkhato mā ca attato./ ([[https://suttacentral.net/sn8.4/pli/ms][SN 8.4]])
+/ghosa:/ m. sound; voice; utterance
 
-TODO add more context
+/nibbāpeti:/ caus. of /nibbāti/; (of fire) grows cold; lit. causes to blow away
+
+/ḍayhi:/ aor.3rd. of /ḍayhati/; it was burned; it was scorched
+
+/ḍayhittho:/ aor.2nd.
+
+#+end_widecols
 
 #+latex: \clearpage
 
