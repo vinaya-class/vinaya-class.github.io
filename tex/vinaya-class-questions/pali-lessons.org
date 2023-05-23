@@ -42,11 +42,6 @@ Pali Poem
 Pali Crossword
 
 * Notes                                                            :noexport:
-** upasampada chant
-
-sabbadukkanissarananibbāna saccakirinatthāya
-imaṁ kāsāvaṁ gahetvā
-
 ** what have I lost?
 
 uid:sn2.18/en/sujato
@@ -722,15 +717,19 @@ The particles *saddhiṁ, saha* used with the instrumental case, expresses the m
 
 *"To whom/what? For whom/what?"*
 
-Singular: final /-a/ of the stem becomes /-āya/ and /-assa/.
+Singular: final /-a/ of the stem becomes /-āya/ or /-assa/.
+
+To the stems ending in /i, ī, u, ū/, the ending /-no/ or /-ssa/ are added.
 
 /Buddhāya, Buddhassa/: to or for the Buddha.
+
+Plural: /-naṁ/ is added to the noun-stem and the final vowel of the stem becomes long.
+
+/Buddhānaṁ, munīnaṁ, vidūnaṁ./
 
 #+begin_quote
 Saṅgho imaṃ kaṭhinadussaṃ āyasmato Amarassa deti. ([[https://suttacentral.net/pli-tv-kd7/pli/ms][Vin. Kd 7]])
 #+end_quote
-
-To the stems ending in /i, ī, u, ū/, the ending /-no/ and /-ssa/ are added.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
@@ -801,6 +800,10 @@ Dasa atthavase:
 *"Of whom/what? Whose?"*
 
 Singular: /-ssa/ is added to the final /-a/.
+
+Plural: /-naṁ/ is added to the noun-stem and the final vowel of the stem becomes long (same as the Dative plural).
+
+/Buddhānaṁ, munīnaṁ, vidūnaṁ./
 
 Genitive singular forms of other nouns are the same as the Dative singulars.
 
@@ -1394,22 +1397,14 @@ irregular forms.
 
 #+latex: \end{multicols}
 
-#+begin_quote
-/Mayaṁ taṁ dhammaṁ sutvā evaṁ jānāma.../ Having heard the teaching we know thus... (Morning chanting)
-
-/Atha kho aññataro brāhmaṇo yena bhagavā ten'upasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi./
-
-Then a certain Brahman approached the Blessed One. Having approached, he greeted (exchanged greetings with) the Blessed One. ([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.16]])
-#+end_quote
-
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā, sālaṁ gacchāmi.                  |
 | \fillin{12cm}{After eating the food, I rinse my bowl, clean my teeth and go to the hall.} |
+| ... yathārupe adinnādāne rājāno coraṁ gahetvā (Pr 2)                                      |
+| \fillin{12cm}{}                                                                           |
 
 #+latex: \normalArrayStrech
-
-/... yathārupe adinnādāne rājāno coraṁ gahetvā/ (Pr 2)
 
 *The suffix -ya* is also used to form gerunds. These are common with with verbs having a prefix.
 
@@ -1420,6 +1415,30 @@ Then a certain Brahman approached the Blessed One. Having approached, he greeted
 /pariyādāya:/ [pari + √ādā + ya], having taken over. Gerund of /pariyādāti:/ takes, grasps.
 
 /cittaṁ pariyādāya tiṭṭhati:/ having taken over the mind, it remains.
+
+\bigskip
+
+#+begin_widecols
+Mayaṁ taṁ dhammaṁ sutvā evaṁ jānāma...
+
+# Having heard the teaching we know thus...
+
+Atha kho aññataro brāhmaṇo yena bhagavā ten'upasaṅkami; upasaṅkamitvā bhagavatā saddhiṁ sammodi. ([[https://suttacentral.net/an2.11-20/pli/ms][AN 2.16]])
+
+# Then a certain Brahman approached the Blessed One. Having approached, he greeted (exchanged greetings with) the Blessed One.
+
+Sabbadukkha nissarana nibbāna sacchikaranatthāya, etaṁ kāsāvaṁ datvā, pabbājetha maṁ bhante, anukampaṁ upādāya.
+
+\columnbreak
+
+/sammodi:/ aor. of /sammodati/; greeted \\
+/kāsāva:/ nt. ochre robe; adj. orange color \\
+/anukampaṁ upādāya:/ idiom. lit. taking pity \\
+/anukampā:/ f. compassion; pity \\
+/upādāya:/ ger. of /upādiyati/; taking; grasping (onto); lit. taking near
+#+end_widecols
+
+#+latex: \clearpage
 
 #+begin_quote
 Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhigacchati ... tassa abhijjhāpi
@@ -1442,9 +1461,8 @@ aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentra
 /aratī:/ (f.) discontent; dislike \\
 /tandī:/ (f.) laziness; tiredness
 
-#+latex: \end{multicols}
 
-#+latex: \clearpage
+#+latex: \end{multicols}
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
