@@ -759,24 +759,16 @@ Dasa atthavase:
 
 \columnbreak
 
-/suṭṭhutā:/ f. well-being; excellence
-
-/dummaṅku:/ adj. unrepentant; obdurate; obstinate; lit. difficult to embarrass into silence [dur + maṅku]
-
-/niggaha:/ adj. holding back; restraining; arresting; lit. holding down [ni + √gah + a]
-
-/pesala:/ adj. well-behaved; good; honest
-
-/diṭṭha:/ pp. of √dis; seen; found; visible
-
-/samparāyika:/ adj. in the future; hereafter
-
-/appasanna:/ m. one without faith or confidence
-
-/pasāda:/ m. inspiration; faith; trust; confidence; lit. settling
-
-/bhiyyobhāva:/ m. growth (of); increase (of)
-
+/suṭṭhutā:/ f. well-being; excellence\\
+/dummaṅku:/ adj. unrepentant; obdurate; obstinate; lit. difficult to embarrass into silence [dur + maṅku]\\
+/niggaha:/ adj. holding back; restraining; arresting; lit. holding down [ni + √gah + a]\\
+/pesala:/ adj. well-behaved; good; honest\\
+/diṭṭha:/ pp. of √dis; seen; found; visible\\
+/samparāyika:/ adj. in the future; hereafter\\
+/pasanna:/ adj. who has faith (in); who has confidence (in); lit. settled\\
+/appasanna:/ m. one without faith or confidence\\
+/pasāda:/ m. inspiration; faith; trust; confidence; lit. settling\\
+/bhiyyobhāva:/ m. growth (of); increase (of)\\
 /anuggaha:/ m. support; help; assistance
 #+end_widecols
 
@@ -1827,45 +1819,6 @@ Possessive pronouns (genitive)
 
 \clearpage
 
-*** Readings
-
-#+begin_twocols
-Aggato ve pasannānaṁ, \\
-aggaṁ dhammaṁ vijānataṁ; \\
-Agge buddhe pasannānaṁ, \\
-dakkhiṇeyye anuttare.
-
-Agge dhamme pasannānaṁ, \\
-virāgūpasame sukhe; \\
-Agge saṅghe pasannānaṁ, \\
-puññakkhette anuttare.
-
-([[https://suttacentral.net/an4.34/pli/ms][AN 4.34]])
-
-\columnbreak
-
-/agga:/ adj. highest; supreme;
-
-/pasanna:/ adj. who has faith (in); who has confidence (in); lit. settled [pa + √sad + na]
-
-/vijānataṁ:/ prp. of /vijānāti/
-
-/vijānāti:/ comprehends; understands
-
-/dakkhiṇeyya:/ adj. worthy of offerings [√dakkh + iṇā + eyya]
-
-/dakkhiṇā:/ f. gift; donation
-
-/upasamati:/ becomes calm; ceases; is allayed
-
-/puññakkhetta:/ nt. field of merit [puñña + khetta]
-
-/khetta:/ nt. field; plot of land
-
-#+end_twocols
-
-\bigskip
-
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.                                     |
@@ -1877,11 +1830,71 @@ puññakkhette anuttare.
 
 \bigskip
 
+/rakkhati:/ protects; guards
+
+/abhirata:/ adj. pp of abhiramati; really enjoying; very fond (of)
+
+/ramati:/ enjoys; finds pleasure (in)
+
+*** Readings
+
+#+begin_widecols
+Aggato ve pasannānaṁ, \\
+aggaṁ dhammaṁ vijānataṁ; \\
+Agge buddhe pasannānaṁ, \\
+dakkhiṇeyye anuttare.
+
+Agge dhamme pasannānaṁ, \\
+virāgūpasame sukhe; \\
+Agge saṅghe pasannānaṁ, \\
+puññakkhette anuttare. ([[https://suttacentral.net/an4.34/pli/ms][AN 4.34]])
+
+Maṇḍapeyyamidaṁ, bhikkhave, brahmacariyaṁ, satthā sammukhībhūto.
+
+Tasmātiha, bhikkhave, vīriyaṁ ārabhatha appattassa pattiyā, anadhigatassa
+adhigamāya, asacchikatassa sacchikiriyāya.
+
+"Evaṁ no ayaṁ amhākaṁ pabbajjā avañjhā bhavissati saphalā saudrayā.
+
+Yesañca mayaṁ paribhuñjāma
+cīvara-piṇḍapāta-senāsana-gilānappaccayabhesajja-parikkhāraṁ tesaṁ te kārā
+amhesu mahapphalā bhavissanti mahānisaṁsā"ti.
+
+evañhi vo, bhikkhave, sikkhitabbaṁ. ([[https://suttacentral.net/sn12.22/en/sujato][SN 12.22]])
+
 Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya... (NP 8)
 
 So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya... (NP 10)
 
-------
+\columnbreak
+
+/agga:/ adj. highest; supreme;\\
+/vijānataṁ:/ prp. of /vijānāti/\\
+/vijānāti:/ comprehends; understands\\
+/dakkhiṇeyya:/ adj. worthy of offerings\\
+/dakkhiṇā:/ f. gift; donation\\
+/upasamati:/ becomes calm; ceases; is allayed\\
+/puññakkhetta:/ nt. field of merit\\
+/khetta:/ nt. field; plot of land\\
+/maṇḍapeyya:/ adj. of the best quality; lit. to be drunk like cream\\
+/maṇḍa:/ m. best part; cream\\
+/sammukha:/ adj. face to face with\\
+/patta:/ pp. of /pāpuṇāti/\\
+/pāpuṇāti:/ reaches; arrives (at)\\
+/adhigata:/ pp. of /adhigacchati/\\
+/adhigacchati:/ gets to; attains; obtains\\
+/sacchikaroti:/ knows for oneself; personally realizes\\
+/sacchi:/ adj. personal; lit. see for oneself\\
+/vañjha:/ adj. barren; fruitless; sterile; unproductive\\
+/udraya:/ adj. resulting in; producing; lit. coming up\\
+/amhesu:/ pron. 1st loc pl of ahaṁ; in us; among us\\
+/ānisaṁsa:/ m. benefit (in); good result (of)\\
+/vikappaṁ āpajjati:/ idiom. causes an alteration (to); suggests an improvement (to)\\
+/vikappa:/ m. alteration (to); improvement (to)\\
+/saññāpeti:/ convinces; persuades; lit. causes to know
+#+end_widecols
+
+\clearpage
 
 Na, bhikkhave, āyatakena gītassarena dhammo gāyitabbo. Yo gāyeyya, āpatti dukkaṭassā"ti.
 
@@ -1895,31 +1908,6 @@ Tena kho pana samayena bhikkhū sarabhaññe kukkuccāyanti. Bhagavato etamattha
 "Anujānāmi, bhikkhave, sarabhaññan"ti. ([[https://suttacentral.net/pli-tv-kd15/en/brahmali][Vin. Kd 15]])
 
 # "I allow chanting."
-
------
-
-Maṇḍapeyyamidaṁ, bhikkhave, brahmacariyaṁ, satthā sammukhībhūto.
-
-# This spiritual life is the cream, mendicants, and the Teacher is before you.
-
-Tasmātiha, bhikkhave, vīriyaṁ ārabhatha appattassa pattiyā, anadhigatassa
-adhigamāya, asacchikatassa sacchikiriyāya.
-
-# So you should rouse up energy for attaining the unattained, achieving the unachieved, and realizing the unrealized, thinking:
-
-"Evaṁ no ayaṁ amhākaṁ pabbajjā avañjhā bhavissati saphalā saudrayā.
-
-# ‘In this way our going forth will not be wasted, but will be fruitful and fertile.
-
-Yesañca mayaṁ paribhuñjāma
-cīvara-piṇḍapāta-senāsana-gilānappaccayabhesajja-parikkhāraṁ tesaṁ te kārā
-amhesu mahapphalā bhavissanti mahānisaṁsā"ti.
-
-# And our use of robes, almsfood, lodgings, and medicines and supplies for the sick shall be of great fruit and benefit for those who offered them.'
-
-evañhi vo, bhikkhave, sikkhitabbaṁ. ([[https://suttacentral.net/sn12.22/en/sujato][SN 12.22]])
-
-# That's how you should train.
 
 -----
 
@@ -2354,16 +2342,42 @@ santī āpatti āvikātabbā, \\
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{Why does that man depart now from here?}                       | Idāni kasmā so puriso ito nikkhamati?                                              |
-| \fillin{8cm}{You converse with the wise man.}                               | Tumhe paṇḍitehi saddhiṁ sallapatha.                                                |
-| \fillin{8cm}{The wise one dispels negligence by diligence.}                 | Paṇḍito appamādena pamādaṁ nudati.                                                 |
-| \fillin{8cm}{We will today climb the mountain to see the seer's hermitage.} | Mayaṁ ajja isino assamaṁ daṭṭhuṁ pabbataṁ abhiruhissāma.                           |
-| If you become lazy, you will not meditate and contemplate.                  | \fillin{8cm}{Sace tvaṁ kusīto / alaso bhaveyyāsi, na jhāyissasi nijjhāyissasi ca.} |
-| If the cooks would not cook, where should we go to eat?                     | \fillin{8cm}{Sace sūdā na paceyyuṁ, mayaṁ bhuñjituṁ kuhiṁ gaccheyyāma?}           |
-| One should defeat anger by means of non-anger.                              | \fillin{8cm}{Akkoddhena jine / jineyya kodhaṁ.}                                    |
-| We read our lessons here, but you are playing over there.                   | \fillin{8cm}{Mayaṁ idha pāṭhe paṭhāma, tumhe pana tatra kīḷatha.}                   |
+| \fillin{8cm}{Why does that man depart now from here?}       | Idāni kasmā so puriso ito nikkhamati?                            |
+| \fillin{8cm}{You converse with the wise man.}               | Tumhe paṇḍitehi saddhiṁ sallapatha.                              |
+| \fillin{8cm}{The wise one dispels negligence by diligence.} | Paṇḍito appamādena pamādaṁ nudati.                               |
+| One should defeat anger by means of non-anger.              | \fillin{8cm}{Akkoddhena jine / jineyya kodhaṁ.}                  |
+| We read our lessons here, but you are playing over there.   | \fillin{8cm}{Mayaṁ idha pāṭhe paṭhāma, tumhe pana tatra kīḷatha.} |
+
+\null
+
+| Mayaṁ ajja isino assamaṁ daṭṭhuṁ pabbataṁ abhiruhissāma.                     |
+| \fillin{12cm}{We will today climb the mountain to see the seer's hermitage.} |
+| If you become lazy, you will not meditate and contemplate.                          |
+| \fillin{12cm}{Sace tvaṁ kusīto / alaso bhaveyyāsi, na jhāyissasi nijjhāyissasi ca.} |
+| If the cooks would not cook, where should we go to eat?                             |
+| \fillin{12cm}{Sace sūdā na paceyyuṁ, mayaṁ bhuñjituṁ kuhiṁ gaccheyyāma?}           |
 
 #+latex: \normalArrayStrech
+
+\bigskip
+
+#+begin_twocols
+/nudati:/ drives out; expels; removes\\
+/jināti:/ conquers; overcomes; defeats\\
+/kodha:/ m. anger; wrath; rage; temper\\
+/isi:/ m. seer; sage\\
+/assama:/ m.  monastery; hermitage; ashram\\
+
+\columnbreak
+
+/daṭṭhuṁ:/ inf. of √dis; to see\\
+/abhiruhati:/ ascends; mounts; climbs\\
+/kusīta:/ adj. lazy; slack; apathetic\\
+/jhāyati:/ thinks; meditates\\
+/nijjhāyati:/ meditates; reflects; considers
+#+end_twocols
+
+\clearpage
 
 ** Adverbs of Place
 
@@ -2399,24 +2413,34 @@ santī āpatti āvikātabbā, \\
 
 Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi rules complicate the exact forms.
 
-| rukkho patito (pp.nom. of patati)                     | the fallen tree                                          |
-| antarāyiko dhammo vutto (pp.nom. of vacati) bhagavatā | said to be an obstacle by the Buddha                     |
-| Pubbe'bhinno mallako.                                 | The cup is already broken.                               |
-| Icchitaṃ patthitaṃ tumhaṃ khippameva samijjhatu.     | \fillin{8cm}{May your hopes and wishes succeed quickly.} |
+| rukkho patito                     | the fallen tree                      |
+| antarāyiko dhammo vutto bhagavatā | said to be an obstacle by the Buddha |
+| Pubbe'bhinno mallako.             | The cup is already broken.           |
 
-#+latex: \begin{multicols}{2}
+\null
 
-/icchati:/ wants; desires
+#+latex: \renewcommand{\arraystretch}{1.8}
 
-/pattheti:/ wishes (for)
+| Icchitaṃ patthitaṃ tumhaṃ khippameva samijjhatu.         |
+| \fillin{12cm}{May your hopes and wishes succeed quickly.} |
 
-#+latex: \columnbreak
+#+latex: \normalArrayStrech
 
-/khippaṁ:/ ind. quickly
+\bigskip
 
+#+begin_twocols
+/patito:/ pp.nom. of /patati/\\
+/vutto:/ pp.nom. of /vacati/\\
+/icchati:/ wants; desires\\
+
+\columnbreak
+
+/pattheti:/ wishes (for)\\
+/khippaṁ:/ ind. quickly\\
 /samijjhati:/ achieves; succeeds
+#+end_twocols
 
-#+latex: \end{multicols}
+\clearpage
 
 When the subject is in instrumental case, the past participle is passive.
 
@@ -2553,23 +2577,52 @@ Some verbs can take two objects as a double accusative:
 
 #+latex: \normalArrayStrech
 
+\clearpage
+
 ** Exercises
 *** Translate
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{He turns his mind away from those phenomena, ...}                                | So tehi dhammehi cittaṁ paṭivāpetvā ...                               |
-| \fillin{8cm}{... and, inclines his mind to the property of deathlessness.}                    | ... amatāya dhātuyā cittaṁ upasaṁharati.[fn::MN 64, AN 9.36]          |
-| \fillin{8cm}{The new bridge has been built by the carpenter.}                                 | Navo setu kārunā kato hoti.                                           |
-| \fillin{8cm}{Having stayed in my brother's house yesterday, I came here early morning today.} | Ahaṁ hiyyo bhātikassa gehe vasitvā ajja pāto'va idhāgacchiṁ.          |
-| \fillin{8cm}{The deer bitten by the snake fell down and died there.}                          | Alagaddena daṭṭho migo tatth'eva patitvā mato.                         |
-| The Buddha expounded the doctrine for abandoning of lust, anger and delusion.                 | \fillin{8cm}{Buddho rāgassa dosassa mohassa pahānāya dhammaṁ desesi.} |
-| They gave ear to hear the teaching of the Buddha.                                             | \fillin{8cm}{Te Buddhassa dhammaṁ sotuṁ sotaṁ odahiṁsu.}             |
-| Monks made an attempt to attain Arahatship.                                                   | \fillin{8cm}{Bhikkhū arahattaṁ pāpunituṁ viriyaṁ ārabhiṁsu.}         |
-| The monk went to the forest and sat down at the foot of a tree.                               | \fillin{8cm}{Bhikkhu araññaṁ / vanaṁ gantvā rukkhassa mūle nisīdi.}   |
-
+| So tehi dhammehi cittaṁ paṭivāpetvā ...                                                        |
+| \fillin{12cm}{He turns his mind away from those phenomena, ...}                                |
+| ... amatāya dhātuyā cittaṁ upasaṁharati.[fn::MN 64, AN 9.36]                                   |
+| \fillin{12cm}{... and, inclines his mind to the property of deathlessness.}                    |
+| Navo setu gahakārena kato hoti.                                                                |
+| \fillin{12cm}{The new bridge has been built by the carpenter.}                                 |
+| Alagaddena daṭṭho migo tatth'eva patitvā mato.                                                  |
+| \fillin{12cm}{The deer bitten by the snake fell down and died there.}                          |
+| Ahaṁ hiyyo bhātikassa gehe vasitvā ajja pāto'va idhāgacchiṁ.                                   |
+| \fillin{12cm}{Having stayed in my brother's house yesterday, I came here early morning today.} |
+| The Buddha expounded the doctrine for abandoning of lust, anger and delusion.                  |
+| \fillin{12cm}{Buddho rāgassa dosassa mohassa pahānāya dhammaṁ desesi.}                         |
+| They gave ear to hear the teaching of the Buddha.                                              |
+| \fillin{12cm}{Te Buddhassa dhammaṁ sotuṁ sotaṁ odahiṁsu.}                                     |
+| Monks made an attempt to attain Arahatship.                                                    |
+| \fillin{12cm}{Bhikkhū arahattaṁ pāpunituṁ viriyaṁ ārabhiṁsu.}                                 |
+| The monk went to the forest and sat down at the foot of a tree.                                |
+| \fillin{12cm}{Bhikkhu araññaṁ / vanaṁ gantvā rukkhassa mūle nisīdi.}                           |
 
 #+latex: \normalArrayStrech
+
+\bigskip
+
+#+begin_twocols
+/paṭivāpeti:/ withdraws; pulls back; turns away\\
+/upasaṁharati:/ focuses; concentrates; applies\\
+/setu:/ m. bridge\\
+/gahakāra:/ m. house builder; carpenter
+
+\columnbreak
+
+/alagadda:/ m. snake\\
+/daṭṭha:/ pp. of /ḍaṁsati/; bitten; stung\\
+/bhātika:/ m. brother\\
+/pāto:/ ind. early; in the morning\\
+/odahati:/ pays attention
+#+end_twocols
+
+\clearpage
 
 *** Readings
 
