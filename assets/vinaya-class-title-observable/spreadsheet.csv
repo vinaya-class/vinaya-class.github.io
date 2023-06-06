@@ -1,0 +1,228 @@
+id,num,gravity,class,chapter,cat,sub-cat,related,content
+1,Pr 1,4,Pārājika,,Right Action,Sexuality,"Sg 2, Sg 4",Engaging In Sexual Intercourse
+2,Pr 2,4,Pārājika,,Right Action,Stealing,,Stealing Something Worth 1/24 Oz. T. Of Gold Or More
+3,Pr 3,4,Pārājika,,Right Action,Killing,"Pc 20, Pc 61, Pc 62, Pc 74",Intentionally Causing The Death Of A Human Being
+4,Pr 4,4,Pārājika,,Right Livelyhood,General,"Sg 8, Pc 1, Pc 8",Falsely Claiming A Superior Human State
+5,Sg 1,3,Saṅghādisesa,,Right Action,Sexuality,,Intentionally Ejaculating
+6,Sg 2,3,Saṅghādisesa,,Right Action,Sexuality,"Pr 1, Pc 52, Pc 74",Lustfully Touching A Woman
+7,Sg 3,3,Saṅghādisesa,,Right Action,Sexuality,Pc 2,Speaking Obscenely To A Woman
+8,Sg 4,3,Saṅghādisesa,,Right Action,Sexuality,Sg 3,Ecouraging A Woman To Have Sex With A Monk
+9,Sg 5,3,Saṅghādisesa,,Right Livelyhood,General,,Arranging A Sexual Liaison
+10,Sg 6,3,Saṅghādisesa,,Right Livelyhood,Lodging,"Sg 7, Pc 10, Pc 11, Pc 19, Pc 61",Having An Oversized Hut Built For Oneself
+11,Sg 7,3,Saṅghādisesa,,Right Livelyhood,Lodging,,Building A monastery dwelling At An Inappropriate Site
+12,Sg 8,3,Saṅghādisesa,,Right speech,Lying,"Sg 9, Sg 12, Pc 1, Pc 2, Pc 12, Pc 54, Pc 64, Pc 71, Pc 76",Groundlessly Accusing A Monk Of A Pārājika
+13,Sg 9,3,Saṅghādisesa,,Right speech,Lying,Sg 8,Misleadingly Accusing A Monk Of A Pārājika
+14,Sg 10,3,Saṅghādisesa,,Communal Harmony,,,Attempting To Cause a Schism In The Saṅgha
+15,Sg 11,3,Saṅghādisesa,,Communal Harmony,,,Allying With A Schismatic Monk
+16,Sg 12,3,Saṅghādisesa,,Communal Harmony,,"Pc 12, Pc 54, Pc 71, Pc 73",Rejecting Admonishments
+17,Sg 13,3,Saṅghādisesa,,Communal Harmony,,,Criticizing A Banishment
+18,Ay 1,3,Aniyata,,Communal Harmony,,"Pc 44, Pc 45, Pc 64",Getting Accused Of Sexual Misconduct In A Secluded place
+19,Ay 2,3,Aniyata,,Communal Harmony,,"Pc 44, Pc 45, Pc 64",Getting Accused Of Sexual Misconduct In A Private Place
+20,NP 1,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Robes,NP 3,Keeping Extra Robe-Cloth Beyond Ten Days
+21,NP 2,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Robes,,Being Separated From One's Robes At Dawn
+22,NP 3,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Robes,NP 28,Keeping Robe-material Beyond 30 Days
+23,NP 4,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Action,Sexuality,"NP 5, NP 17",Getting An Unrelated Nun To Wash One's Robe
+24,NP 5,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Robes,"NP 20, Pc 25, Pc 26",Receiving Robe-Cloth From An Unrelated Nun
+25,NP 6,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Robes,"NP 7, NP 8, NP 9, NP 22, NP 26, Pc 11",Asking An Unrelated Lay Person For Robe-Cloth
+26,NP 7,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Robes,"NP 6, NP 8, NP 9, NP 22, NP 26",Receiving Excess Robe-Cloth From An Unrelated Lay Person
+27,NP 8,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Robes,"NP 6, NP 7, NP 9, NP 22, NP 26",Making Uninvited Specifications About A Robe-offering
+28,NP 9,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Robes,"NP 6, NP 7, NP 8, NP 22, NP 26",Asking Two Lay People To Combine Their Robe-funds
+29,NP 10,2,Nissaggiya Pācittiya,The Robe-Cloth Chapter,Right Livelyhood,Money,"NP 18, NP 19, NP 20, Pc 47",Excessively Pressuring A Financial Steward
+30,NP 11,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,Robes,"NP 12, NP 13, NP 14, NP 15",Making A Rug With Silk In It
+31,NP 12,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,Robes,"NP 11, NP 13, NP 14, NP 15",Making A Rug Entirely From Black Wool
+32,NP 13,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,Robes,"NP 11, NP 12, NP 14 , NP 15",Making A Rug Mostly From Black Wool
+33,NP 14,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,Robes,"NP 11, NP 12, NP 13 , NP 15",Making A New Rug for Onself Within 6 Years
+34,NP 15,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,Robes,"Pc 89, NP 11, NP 12, NP 13, NP 14",Making A Sitting-Rug Entirely Out Of New Materials
+35,NP 16,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,Others,,Carrying Wool Beyond a distance of 3 walking days 
+36,NP 17,2,Nissaggiya Pācittiya,The Silk Chapter,Right Action,Sexuality,"NP 4, NP 16",Causing An Unrelated Nun To Wash Wool
+37,NP 18,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,Money,"NP 10, NP 19, NP 20, Pc 84",Accepting Gold Or Money
+38,NP 19,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,Money,"NP 18, NP 20",Receiving Gold Or Money Through Trade
+39,NP 20,2,Nissaggiya Pācittiya,The Silk Chapter,Right Livelyhood,General,"NP 18, NP 19, Pc 1",Trading With Lay People
+40,NP 21,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,Others,,Keeping An Extra Bowl Beyond 10 Days
+41,NP 22,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,Others,,Asking For A Bowl When One's Is Still Usable
+42,NP 23,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,Medecin,"Pc 35, Pc 37, Pc 38",Keeping A Tonic For More Than 7 Days
+43,NP 24,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,Robes,"NP 6, NP 10, NP 20, NP 6",Acquiring A Rains-bathing Cloth At The Wrong Time
+44,NP 25,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Action,Stealing,,Angrily Taking Back A Robe One has offered to A Monk
+45,NP 26,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,Robes,NP 27,Having A Robe Woven With Indicated Thread
+46,NP 27,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,Robes,NP 26,Making Uninvited Specification About Robe Weaving
+47,NP 28,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,Robes,,Keeping Emergency Robe-material Beyond Robe Season
+48,NP 29,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,Robes,"NP 2, Pd 4",Leaving A Robe For More Than 6 Nights In A House
+49,NP 30,2,Nissaggiya Pācittiya,The Bowl Chapter,Right Livelyhood,General,Pc 82,Redirecting Communal Acquisitions To Oneself
+50,Pc 1,2,Pācittiya,The Lying Chapter,Right speech,Lying,"Pr 4, Sg 8, Sg 9, Pc 24, Pc 73, Pc 76",Deliberately Lying
+51,Pc 2,2,Pācittiya,The Lying Chapter,Right speech,Abusing,"Pc 3, Pc 13, Pc 54",Maliciously Insulting A Monk
+52,Pc 3,2,Pācittiya,The Lying Chapter,Right speech,Divising,"Pc 1, Pc 9, Pc 13",Maliciously Tale-bearing Towards A Monk
+53,Pc 4,2,Pācittiya,The Lying Chapter,Samana Etiquette,,,Training A Lay Person To Recite Dhamma
+54,Pc 5,2,Pācittiya,The Lying Chapter,Samana Etiquette,,"Pc 6, Pc 49",Sharing A Sleeping-area With a lay man for more than 3 nights
+55,Pc 6,2,Pācittiya,The Lying Chapter,Right Action,Sexuality,"Ay 1, Ay 2, Pc , Pc 44, Pc 45",Sharing A Sleeping-area With A Woman
+56,Pc 7,2,Pācittiya,The Lying Chapter,Right Action,Sexuality,"Ay 1, Ay 2, Pc 5, Pc 44, Pc 45",Teaching More Than 6 Sentences of Dhamma To A Woman
+57,Pc 8,2,Pācittiya,The Lying Chapter,Right Livelyhood,General,"Pr 4, Pc 1, ",Reporting Superior Human State To A Lay Person
+58,Pc 9,2,Pācittiya,The Lying Chapter,Communal Harmony,,Pc 64,Reporting A Monk's Serious Offence To A Lay Person
+59,Pc 10,2,Pācittiya,The Lying Chapter,Samana Etiquette,,,Digging Soil
+60,Pc 11,2,Pācittiya,The Living Plant Chapter,Samana Etiquette,,,Intentionally Damaging a Living Plant
+61,Pc 12,2,Pācittiya,The Living Plant Chapter,Communal Harmony,,"Pc 64, As 1, As 2, As 3, As 4, As 5, As 6, As 7",Replying Evasively Or Keeping Silence in a Saṅgha Meeting
+62,Pc 13,2,Pācittiya,The Living Plant Chapter,Communal Harmony,,"Pc 2, Pc 24, Pc 81",Criticising A Saṅgha Officer innocent of bias
+63,Pc 14,2,Pācittiya,The Living Plant Chapter,Communal Harmony,,,Departing Leaving Furniture Outdoors
+64,Pc 15,2,Pācittiya,The Living Plant Chapter,Communal Harmony,,"Pc 14, ",Departing Without Putting One's Bedding Away
+65,Pc 16,2,Pācittiya,The Living Plant Chapter,Communal Harmony,,"Pc 17, Pc 74",Encroaching On A Monk For Him To Leave
+66,Pc 17,2,Pācittiya,The Living Plant Chapter,Communal Harmony,,Pc 16,Driving Out A Monk From A Community Building
+67,Pc 18,2,Pācittiya,The Living Plant Chapter,Communal Harmony,,,Using a Bed Or Chair with unfastened legs In A Unplanked Loft
+68,Pc 19,2,Pācittiya,The Living Plant Chapter,Right Livelyhood,Lodging,"Sg 6, Sg 7",Over-building A Dwelling
+69,Pc 20,2,Pācittiya,The Living Plant Chapter,Right Action,Killing,"Pc 62, ",Pouring Out Water Containing Living Beings
+70,Pc 21,2,Pācittiya,The Exhortation Chapter,Right Action,Sexuality,"Pc 7, Pc 22, Pc 23",Unauthorisedly Exhorting Nuns
+71,Pc 22,2,Pācittiya,The Exhortation Chapter,Right Action,Sexuality,"Pc 7, Pc 21, Pc 23",Exhorting Nuns After Sundown
+72,Pc 23,2,Pācittiya,The Exhortation Chapter,Right Action,Sexuality,"Ay 1, Ay 2 , Pc 6, Pc 7, Pc 21, Pc 22, Pc 30 , Pc 44, Pc 45",Exhorting Nuns At Their Residence
+73,Pc 24,2,Pācittiya,The Exhortation Chapter,Communal Harmony,,"Pc 2, Pc 13",Wrongfully Accusing A Monk Of Exhorting Nuns For Worldly Gains
+74,Pc 25,2,Pācittiya,The Exhortation Chapter,Right Action,Sexuality,"NP 5, NP 20, NP 26",Giving Robe-Cloth To An Unrelated Nun
+75,Pc 26,2,Pācittiya,The Exhortation Chapter,Right Action,Sexuality,,Sewing A Robe For An Unrelated Nun
+76,Pc 27,2,Pācittiya,The Exhortation Chapter,Right Action,Sexuality,"Pc 28, Pc 67",Traveling With A Nun By Prior Arrangement
+77,Pc 28,2,Pācittiya,The Exhortation Chapter,Right Action,Sexuality,"Pc 27, Pc 67",Boating With A Nun By Prior Arrangement
+78,Pc 29,2,Pācittiya,The Exhortation Chapter,Right Livelyhood,Food,,Eating A Meal Arranged By A Nun
+79,Pc 30,2,Pācittiya,The Exhortation Chapter,Right Action,Sexuality,"Pc 6, Pc 45",Sitting Alone With A Nun In A Private place
+80,Pc 31,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,,Eating More Than Once In A Public Resthouse
+81,Pc 32,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,,Eating An Invitational Meal For 4 Or More Monks
+82,Pc 33,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,,Eating Before An Invitation To A Meal
+83,Pc 34,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,,Accepting More Than 3 Bowlfuls Of Provision
+84,Pc 35,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,Pc 36,Eating Again After Finishing An Invitational Meal
+85,Pc 36,2,Pācittiya,The Food Chapter,Communal Harmony,,Pc 35,Tricking A Monk Into Breaking Pc 35
+86,Pc 37,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,,Eating Between noon and dawn
+87,Pc 38,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,,Eating Food That One Is Storing
+88,Pc 39,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,Sk 37,Eating Finer Food That One Requested
+89,Pc 40,2,Pācittiya,The Food Chapter,Right Livelyhood,Food,,Eating Food That Wasn't Properly Given
+90,Pc 41,2,Pācittiya,The Naked Ascetic Chapter,Samana Etiquette,,,Giving Food To A Person Ordained In Another Religion
+91,Pc 42,2,Pācittiya,The Naked Ascetic Chapter,Samana Etiquette,,"Pc 1, Pc 2",Dismissing A Monk in order to Engage In Misbehaviour
+92,Pc 43,2,Pācittiya,The Naked Ascetic Chapter,Samana Etiquette,,"Pc 44, Pc 45, Pc 83",Intruding On A Couple During Enjoyment
+93,Pc 44,2,Pācittiya,The Naked Ascetic Chapter,Right Action,Sexuality,"Ay 1, Pc 7, Pc 30, Pc 45",Sitting With A Woman In A Secluded Place
+94,Pc 45,2,Pācittiya,The Naked Ascetic Chapter,Right Action,Sexuality,"Ay 2, Pc 30, Pc 44",Sitting Alone With A Woman in a private place
+95,Pc 46,2,Pācittiya,The Naked Ascetic Chapter,Right speech,Idling,"Pc 33, Pc 54, Pc 85",Visiting Lay Families During a Meal Invitation
+96,Pc 47,2,Pācittiya,The Naked Ascetic Chapter,Right Livelyhood,Medecin,"Pc 39, Sk 37",Excessively Requesting Medicines
+97,Pc 48,2,Pācittiya,The Naked Ascetic Chapter,Samana Etiquette,,"Pc 49, pc 50",Going To See An Active Army
+98,Pc 49,2,Pācittiya,The Naked Ascetic Chapter,Samana Etiquette,,"Pc 5, Pc 48, Pc 50",Staying With An Army More Than 3 Nights
+99,Pc 50,2,Pācittiya,The Naked Ascetic Chapter,Samana Etiquette,,"Pc 48, Pc 49",Watching Military Maneuvers With An Army
+100,Pc 51,2,Pācittiya,The Alcoholic Drink Chapter,Samana Etiquette,,,Drinking Alcohol
+101,Pc 52,2,Pācittiya,The Alcoholic Drink Chapter,Samana Etiquette,,"Sg 2, Pc 55, Pc 74, Pc 53",Intentionally Tickling A Monk
+102,Pc 53,2,Pācittiya,The Alcoholic Drink Chapter,Samana Etiquette,,,Playing In The Water
+103,Pc 54,2,Pācittiya,The Alcoholic Drink Chapter,Communal Harmony,,"Sg 12, Pc 71, Pc 73",Acting Disrespectfully When Being Admonished
+104,Pc 55,2,Pācittiya,The Alcoholic Drink Chapter,Samana Etiquette,,Pc 77,Trying To Frighten A Monk
+105,Pc 56,2,Pācittiya,The Alcoholic Drink Chapter,Samana Etiquette,,"Pc 10, Pc 11",Lighting A Fire For The Sake Of Warmth
+106,Pc 57,2,Pācittiya,The Alcoholic Drink Chapter,Samana Etiquette,,,Bathing More Frequently Than Once A Fortnight
+107,Pc 58,2,Pācittiya,The Alcoholic Drink Chapter,Right Livelyhood,Robes,,Using An Unmarked Robe
+108,Pc 59,2,Pācittiya,The Alcoholic Drink Chapter,Right Action,Stealing,,Taking And Using Robe-Cloth Under Shared Ownership
+109,Pc 60,2,Pācittiya,The Alcoholic Drink Chapter,Samana Etiquette,,"Pc 54, ","Hiding A Monk's Requisite, Even For A Joke"
+110,Pc 61,2,Pācittiya,The Animal Chapter,Right Action,Killing,"Pr 3, Pc 20, Pc 62, Pc 74",Intentionally Killing Living Beings
+111,Pc 62,2,Pācittiya,The Animal Chapter,Right Action,Killing,"Pc 20, Pc 61",Knowingly Using Water Containing Living Beings
+112,Pc 63,2,Pācittiya,The Animal Chapter,Communal Harmony,,"Pc 79, Pc 80, Pc 81",Agitating To Reopen A Properly Dealt Issue
+113,Pc 64,2,Pācittiya,The Animal Chapter,Communal Harmony,,"Sg 8, Pc 9, Pc 12",Concealing Another Monk's Serious Offence
+114,Pc 65,2,Pācittiya,The Animal Chapter,Communal Harmony,,,Ordaining Someone Less Than 20 Years Old
+115,Pc 66,2,Pācittiya,The Animal Chapter,Samana Etiquette,,,Traveling With Thieves By Prior Arrangement
+116,Pc 67,2,Pācittiya,The Animal Chapter,Right Action,Sexuality,"Pc 27, Pc 28, Pc 66",Traveling With A Woman By Prior Arrangement
+117,Pc 68,2,Pācittiya,The Animal Chapter,Communal Harmony,,"Sg 10, Sg 12, Pc 54, Pc 71",Insisting That An Obstruction Isn't An Obstruction
+118,Pc 69,2,Pācittiya,The Animal Chapter,Communal Harmony,,Pc 70,Consorting With A Suspended Monk
+119,Pc 70,2,Pācittiya,The Animal Chapter,Communal Harmony,,Pc 69,Consorting With An Expelled Monk
+120,Pc 71,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Sg 12, Pc 54, Pc 72, Pc 73",Refusing To Follow A Rule
+121,Pc 72,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Sg 12, Pc 54, pc 71",Disparaging Or Criticizing The Discipline
+122,Pc 73,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Sg 12, Pc 1, Pc 54, Pc 71",Falsely Claiming Ignorance Of The Pāṭimokkha
+123,Pc 74,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Sg 2, Pc 17, Pc 75",Anglily Striking Another Monk
+124,Pc 75,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Sg 2, Pc 74",Physically Threatening Another Monk
+125,Pc 76,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Right speech,Lying,"Sg 8, Pc 2",Falsely Accusing A Monk Of A Saṅghādisesa
+126,Pc 77,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Sg 8, Pc 2, Pc 76",Trying To Provoke Worry In Another Monk
+127,Pc 78,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,,Eavesdropping Upon Monks Who Are Quarreling
+128,Pc 79,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Sg 13, Pc 63, Pc 80, Pc 81, ",Criticizing A Legitimate And Consented Act Of The Saṅgha
+129,Pc 80,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Pc 63, Pc 79, Pc 81",Leaving A Saṅgha Meeting To Create Invalidity
+130,Pc 81,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Communal Harmony,,"Pc 13, Pc 63, Pc 79, Pc 80",Accusing A Saṅgha Of Favoritism In Distributing Robes
+131,Pc 82,2,Pācittiya,The In-Accordance-with-the-Rule Chapter,Right Livelyhood,General,NP 30,Diverting Communal Gains
+132,Pc 83,2,Pācittiya,The Valuable Chapter,Samana Etiquette,,"Pc 43, Pc 44, Pc 45",Intruding A King's Sleeping Chamber unannounced
+133,Pc 84,2,Pācittiya,The Valuable Chapter,Samana Etiquette,,"Pr 2, NP 18",Picking Up A Valuable Object
+134,Pc 85,2,Pācittiya,The Valuable Chapter,Right speech,Idling,Pc 46,Entering A Village At The Wrong Time
+135,Pc 86,2,Pācittiya,The Valuable Chapter,Right Livelyhood,Others,,Making An Ivory Needle-case
+136,Pc 87,2,Pācittiya,The Valuable Chapter,Right Livelyhood,Lodging,,Making An Oversized Bed Or Seat
+137,Pc 88,2,Pācittiya,The Valuable Chapter,Right Livelyhood,Lodging,,Making A Bed Or Seat Upholstered With Cotton
+138,Pc 89,2,Pācittiya,The Valuable Chapter,Right Livelyhood,Robes,,Making An Oversized Sitting-cloth
+139,Pc 90,2,Pācittiya,The Valuable Chapter,Right Livelyhood,Robes,,Making An Oversized Skin-eruption Cloth
+140,Pc 91,2,Pācittiya,The Valuable Chapter,Right Livelyhood,Robes,NP 24,Making An Oversized Rains-bathing Cloth
+141,Pc 92,2,Pācittiya,The Valuable Chapter,Right Livelyhood,Robes,,Making An Oversized Robe
+142,Pd 1,2,Patidesanīya,,Right Livelyhood,Food,,Eating Food Received From An Unrelated Nun
+143,Pd 2,2,Patidesanīya,,Right Livelyhood,Food,"Pc 29, Pd 1",Eating A Meal Directed By A Nun
+144,Pd 3,2,Patidesanīya,,Right Livelyhood,Food,,Receiving Food From Overly Generous Lay Supporters
+145,Pd 4,2,Patidesanīya,,Right Livelyhood,Food,NP 29,Receiving Food In A Dangerous Forest
+146,Sk 1,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Not Wearing The Lower Robe Wrapped Around Evenly
+147,Sk 2,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Not Wearing The Upper Robe Wrapped Around Evenly
+148,Sk 3,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Not Well Covered In Inhabited Areas
+149,Sk 4,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Not Well Covered In Inhabited Areas
+150,Sk 5,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Unrestrained In Inhabited Areas
+151,Sk 6,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Unrestrained In Inhabited Areas
+152,Sk 7,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Looking Around In Inhabited Areas
+153,Sk 8,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Looking Around In Inhabited Areas
+154,Sk 9,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going With Robes Hitched Up In Inhabited Areas
+155,Sk 10,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting With Robe Hitched Up In Inhabited Areas
+156,Sk 11,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Laughing Loudly In Inhabited Areas
+157,Sk 12,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Laughing Loudly In Inhabited Areas
+158,Sk 13,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Speaking Loudly In Inhabited Areas
+159,Sk 14,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Speaking Loudly In Inhabited Areas
+160,Sk 15,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Swinging The Body In Inhabited Areas
+161,Sk 16,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Swinging The Body In Inhabited Areas
+162,Sk 17,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Swinging The Arms In Inhabited Areas
+163,Sk 18,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Swinging The Arms In Inhabited Areas
+164,Sk 19,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Swinging The Head In Inhabited Areas
+165,Sk 20,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Swinging The Head In Inhabited Areas
+166,Sk 21,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going hands on hips In Inhabited Areas
+167,Sk 22,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting hands on hips In Inhabited Areas
+168,Sk 23,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Head Covered In Inhabited Areas
+169,Sk 24,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Head Covered In Inhabited Areas
+170,Sk 25,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Going Tiptoeing Or Walking On The Heels In Inhabited Areas
+171,Sk 26,1,Sekhiya,Proper Behavior,Samana Etiquette,,,Sitting Clasping The Knees In Inhabited Areas
+172,Sk 27,1,Sekhiya,Food,Food,,,Receiving Almsfood Unappreciatively
+173,Sk 28,1,Sekhiya,Food,Food,,,Receiving Almsfood Not Focus On The Bowl
+174,Sk 29,1,Sekhiya,Food,Food,,,Receiving Almsfood With Curry Out Of Proportion
+175,Sk 30,1,Sekhiya,Food,Food,,,Receiving Almsfood Exceeding The Rim Of The Bowl
+176,Sk 31,1,Sekhiya,Food,Food,,,Eating Almsfood Unappreciatively
+177,Sk 32,1,Sekhiya,Food,Food,,,Eating Almsfood Not Focus On The Bowl
+178,Sk 33,1,Sekhiya,Food,Food,,,Eating Almsfood Unmethodically
+179,Sk 34,1,Sekhiya,Food,Food,,,Eating Almsfood With Curry Out Of Proportion
+180,Sk 35,1,Sekhiya,Food,Food,,,Eating Almsfood By Taking Mouthfuls From A Heap
+181,Sk 36,1,Sekhiya,Food,Food,,,Hiding Curry And Food With Rice In Order To Get More
+182,Sk 37,1,Sekhiya,Food,Food,,Pc 39,Eating Rice Or Curry That Was Requested For Oneself
+183,Sk 38,1,Sekhiya,Food,Food,,,Looking At Another's Bowl Intending On Finding Fault
+184,Sk 39,1,Sekhiya,Food,Food,,,Eating Taking Extra Large Mouthful
+185,Sk 40,1,Sekhiya,Food,Food,,,Eating Not Making A Rounded Mouthful
+186,Sk 41,1,Sekhiya,Food,Food,,,Opening The Mouth Before Bringing A Mouthful To It
+187,Sk 42,1,Sekhiya,Food,Food,,,Pressing The Hand Against The Mouth While Eating
+188,Sk 43,1,Sekhiya,Food,Food,,,Speaking With A Mouth Full Of Food
+189,Sk 44,1,Sekhiya,Food,Food,,,Eating From Lifted Balls Of Food
+190,Sk 45,1,Sekhiya,Food,Food,,,Eating Nibbling At a Mouthfuls Of Food
+191,Sk 46,1,Sekhiya,Food,Food,,,Eating Stuffing Out The Cheeks
+192,Sk 47,1,Sekhiya,Food,Food,,,Eating Shaking Food Off The Hands
+193,Sk 48,1,Sekhiya,Food,Food,,,Eating Scattering Lumps Of Rice About
+194,Sk 49,1,Sekhiya,Food,Food,,,Eating Sticking Out The Tongue
+195,Sk 50,1,Sekhiya,Food,Food,,,Eating Smacking The Lips
+196,Sk 51,1,Sekhiya,Food,Food,,,Eating Making A Slurping Sound
+197,Sk 52,1,Sekhiya,Food,Food,,,Eating Licking The Hands
+198,Sk 53,1,Sekhiya,Food,Food,,,Eating Licking The Bowl
+199,Sk 54,1,Sekhiya,Food,Food,,,Eating Licking The Lips
+200,Sk 55,1,Sekhiya,Food,Food,,,Accepting A Water Vessel With A Hand Soiled By Food
+201,Sk 56,1,Sekhiya,Food,Food,,,Throwing Away Washing Up Water In Inhabited Areas
+202,Sk 57,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Holding An Umbrella
+203,Sk 58,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Holding A Staff
+204,Sk 59,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Holding A Blade
+205,Sk 60,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Holding A Weapon
+206,Sk 61,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Wearing Shoes
+207,Sk 62,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Wearing Sandals
+208,Sk 63,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person In A Vehicle
+209,Sk 64,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Lying Down
+210,Sk 65,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Sitting Clasping The Knees
+211,Sk 66,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Whose Head Is Wrapped
+212,Sk 67,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,Teaching Dhamma To A Person Whose Head Is Covered
+213,Sk 68,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,"Sitting On The Ground, Teaching Dhamma To A Person Standing"
+214,Sk 69,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,"Sitting On A Low Seat, Teaching Dhamma To A Person On A High Seat"
+215,Sk 70,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,"Standing, Teaching Dhamma To A Person Who Is Sitting"
+216,Sk 71,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,"Walking Behind, Teaching Dhamma To A Person Walking Ahead"
+217,Sk 72,1,Sekhiya,Teaching Dhamma,Teaching Dhamma,,,"Walking Beside A Path, Teaching Dhamma To A Person On A Path"
+218,Sk 73,1,Sekhiya,Miscellaneous,Miscellaneous,,,Defecating Or Urinating While Standing
+219,Sk 74,1,Sekhiya,Miscellaneous,Miscellaneous,,,"Defecating, Urinating Or Spitting On Living Crops"
+220,Sk 75,1,Sekhiya,Miscellaneous,Miscellaneous,,,"Defecating, Urinating Or Spitting In Water"
+221,As 1,1,Adhikarana-samatha,,Communal Harmony,,,A Face-to-face Verdict Should Be Given
+222,As 2,1,Adhikarana-samatha,,Communal Harmony,,,A Verdict Based On Memory May Be Given
+223,As 3,1,Adhikarana-samatha,,Communal Harmony,,,A Verdict Of Past Insanity May Be Given
+224,As 4,1,Adhikarana-samatha,,Communal Harmony,,,Acting In Accordance With What Is Admitted
+225,As 5,1,Adhikarana-samatha,,Communal Harmony,,,Acting In Accordance With The Majority
+226,As 6,1,Adhikarana-samatha,,Communal Harmony,,,Acting For A Monk's Further-punishment
+227,As 7,1,Adhikarana-samatha,,Communal Harmony,,,Covering Over As With Grass
