@@ -1,7 +1,7 @@
 
 <div class="center">
 
-![Vinaya Class](./includes/figures/vinaya-class-title.png)
+![Vinaya Class](./includes/figures/vinaya-class-title.w600.png)
 
 <https://vinaya-class.github.io>
 

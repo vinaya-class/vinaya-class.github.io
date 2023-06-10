@@ -1,7 +1,7 @@
 #+LATEX_CLASS: memoir
 #+LATEX_HEADER: \input{./pali-lessons-preamble.tex}
 #+LANGUAGE: en_GB
-#+OPTIONS: toc:nil tasks:nil ':t H:4 author:nil
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{}
 #+TITLE: Pali Lessons
 #+AUTHOR: The Bhikkhu Saṅgha
 
@@ -42,32 +42,6 @@ Pali Poem
 Pali Crossword
 
 * Notes                                                            :noexport:
-** what have I lost?
-
-uid:sn2.18/en/sujato
-
-“Do you delight, ascetic?”
-“nandasi, samaṇā”ti?
-
-“What have I gained, sir?”
-“Kiṁ laddhā, āvuso”ti?
-
-“Well then, ascetic, do you sorrow?”
-“Tena hi, samaṇa, socasī”ti?
-
-“What have I lost, sir?”
-“Kiṁ jīyittha, āvuso”ti?
-
-How does discontent not
-Kathaṁ taṁ ekamāsīnaṁ,
-
-overwhelm you as you sit alone?”
-aratī nābhikīratī”ti.
-
-/jīyati:/ diminishes; decreases; gets less; is lost
-
-/jīyittha:/ aor. 3rd. refl. sg. of /jīyati/
-
 ** yo pana
 
 tena kho pana samayena āyasmā mahākassapo ...
@@ -475,7 +449,7 @@ The Buddha was wandering in the land of the Kosalans...
 
 #+latex: \normalArrayStrech
 
-*** Extra Challenge: Pāli Chat
+*** Extra Challenge: Pāli Chat                                     :noexport:
 
 /Bhante, ayyo āgacchatu, idha nisīdatu./
 
@@ -970,14 +944,39 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| TODO | \fillin{8cm}{TODO} |
-|      | \fillin{8cm}{}     |
-|      | \fillin{8cm}{}     |
-|      | \fillin{8cm}{}     |
-|      | \fillin{8cm}{}     |
-|      | \fillin{8cm}{}     |
+| Do you delight, ascetic?                  | \fillin{8cm}{Nandasi, samaṇa?}         |
+| \fillin{8cm}{What have I gained, friend?} | Kiṁ laddhā, āvuso?                    |
+| Well then, ascetic, do you sorrow?        | \fillin{8cm}{Tena hi, samaṇa, socasi?} |
+| \fillin{8cm}{What have I lost, friend}    | Kiṁ jīyittha, āvuso?                  |
+
+\null
+
+| Kathaṁ tvaṁ anagho bhikkhu, kathaṁ nandī na vijjati?                              |
+| \fillin{12cm}{How are you untroubled, mendicant? How is delight not found in you?} |
+| Kathaṁ taṁ ekamāsīnaṁ, aratī nābhikīrati?                                         |
+| \fillin{12cm}{How does discontent not overwhelm you as you sit alone?}             |
 
 #+latex: \normalArrayStrech
+
+\bigskip
+
+#+begin_twocols
+"Aghajātassa ve nandī,\\
+nandījātassa ve aghaṁ;\\
+Anandī anagho bhikkhu,\\
+evaṁ jānāhi āvuso"ti.
+
+([[https://suttacentral.net/sn2.18/pli/ms][SN 2.18]])
+
+\columnbreak
+
+/jīyittha:/ aor. 3rd. refl. sg. of /jīyati/\\
+/jīyati:/ diminishes; decreases; gets less; is lost\\
+/kathaṁ:/ ind. How?\\
+/anagha:/ [na + agha] adj. untroubled; carefree; problem-free\\
+/agha:/ nt. trouble; misfortune; pain; misery\\
+/ve:/ ind. indeed; truly; really
+#+end_twocols
 
 \clearpage
 
@@ -1073,7 +1072,7 @@ atha khvetaṁ, appasannānañceva appasādāya pasannānañca ekaccānaṁ añ�
 /aññathatta:/ nt. change of mind; change of opinion; lit. otherwise state [añña + thā + tta]
 #+end_widecols
 
------
+\clearpage
 
 Yo pana bhikkhu sañcicca pāṇaṁ jīvitā voropeyya, pācittiyaṁ. ([[https://suttacentral.net/pli-tv-bu-vb-pc61/pli/ms][Pc 61]])
 
@@ -1147,7 +1146,7 @@ pārisuddhā ti vedissāmi.
 
 \clearpage
 
-*** Extra Challenge: Crossword
+*** Extra Challenge: Crossword                                     :noexport:
 
 #+begin_export latex
 \begin{Puzzle}{13}{9}%
@@ -2699,7 +2698,7 @@ lokā.
 
 (AN 9.36)
 
-*** Extra Challenge: Reading NP 10
+*** Extra Challenge: Reading NP 10                                 :noexport:
 
 Read the text of [[https://suttacentral.net/pli-tv-bu-vb-np10/en/brahmali][NP 10]] as recited:
 

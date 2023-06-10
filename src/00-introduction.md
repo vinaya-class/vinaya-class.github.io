@@ -13,7 +13,7 @@
     pain, the first offender
 -   Common non-offenses: unknowingly, unthinkingly, unintentionally
 -   4 Great Standards to judge modern cases
--   Min. 4 bhikkhus for Sangha actions, decisons and Patimokkha
+-   Min. 4 bhikkhus for Sangha actions, decisons and Pāṭimokkha
 -   Min. 5 bhikkhus for ordination and Kaṭhina
 -   Ordination requires min. 5 bhikkhus
 -   Disrobe at free will but follow the correct procedure
@@ -167,6 +167,16 @@ whirled about, or destroyed by the wind. Why is that? Because they are held
 together by a string."
 
 ([PTS Vin. 3.1–3.40](https://suttacentral.net/pli-tv-bu-vb-pj1/en/brahmali))
+
+"Āvuso, kiṃ paṭhamaṃ saṅgāyāma, dhammaṃ vā vinayaṃ vā"ti? Bhikkhū āhaṃsu --
+"Bhante mahākassapa, **vinayo nāma buddhasāsanassa āyu**, vinaye ṭhite sāsanaṃ
+ṭhitaṃ hoti, tasmā paṭhamaṃ vinayaṃ saṅgāyāmā"ti.
+
+Friends, what should we chant first, the Dhamma or Vinaya? The monks said: Ven.
+Mahākassapa, the Vinaya is truly the life of the Buddha's message, while the
+Vinaya remains the messages remains, therefore let's chant the Vinaya first.
+
+(/Pārājikakaṇḍa-aṭṭhakathā/, Discussion of the First Council)
 
 If there is some obstacle to [the practice of the training rules], due to time
 and place, the rules should be upheld indirectly and not given up entirely, for
