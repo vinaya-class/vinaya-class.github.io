@@ -158,6 +158,10 @@ Knowingly eating un-kappied seeds is dukkaṭa.
 
 **Note:** Pc 10 and Pc 11 prevents bhikkhus from engaging in agriculture, which is probably part of the intended results, although not their direct origin.
 
+<!-- latex
+\clearpage
+-->
+
 ## Notes: War and Peace
 
 - [The Trolley Problem](https://en.wikipedia.org/wiki/Trolley_problem), "Should you kill one person to save five?"
@@ -219,9 +223,25 @@ Violence even 'for the good cause' has an unpredictable outcome, and lasting
 peace has to rely on trust. He avoids making a clear statement about killing
 human beings.
 
+- [Slaughterbots: fictional short film as a warning, youtube.com](https://www.youtube.com/watch?v=HipTO_7mUOw) (2017 Nov)
+
+<https://autonomousweapons.org/>
+
 - [Autonomous drones attacked troops in Libya without human control](https://www.rt.com/news/525111-libya-killer-drone-attack/) (2021 May)
 
 > A UN report found that autonomous drones armed with explosive devices may have
 > “hunted down” fleeing rebel fighters in Libya last year. If true, the report
 > chronicles the world’s first true robot-on-human attack.
+
+- [Drone advances in Ukraine could bring dawn of killer robots](https://apnews.com/article/russia-ukraine-war-drone-advances-6591dc69a4bf2081dcdd265e1c986203) (2023 Jan)
+
+## Notes: Euthanasia
+
+- [Terry Pratchett: my case for a euthanasia tribunal, theguardian.com](https://www.theguardian.com/society/2010/feb/02/terry-pratchett-assisted-suicide-tribunal) (2010 Feb)
+
+- [David Goodall ends his life at 104 with a final powerful statement on euthanasia, abc.net.au](https://www.abc.net.au/news/2018-05-10/david-goodall-ends-life-in-a-powerful-statement-on-euthanasia/9742528) (2018 May)
+
+- ['Disturbing': Experts troubled by Canada’s euthanasia laws, apnews.com](https://apnews.com/article/covid-science-health-toronto-7c631558a457188d2bd2b5cfd360a867) (2022 Aug)
+
+- [How Canada’s Assisted-Suicide Law Went Wrong, theatlantic.com](https://www.theatlantic.com/magazine/archive/2023/06/canada-legalized-medical-assisted-suicide-euthanasia-death-maid/673790/) (2023 May)
 

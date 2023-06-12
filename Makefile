@@ -1,4 +1,4 @@
-all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf vinaya-class-zip
+all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf pali-lessons-pdf vinaya-class-zip
 
 dist:
 	./scripts/dist.sh
@@ -13,16 +13,16 @@ vinaya-class-notes-pdf:
 	./scripts/compile_tex.sh ./tex/vinaya-class-notes/vinaya-class-notes.tex
 
 vinaya-class-questions-A-pdf:
-	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-A.tex
+	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-A.tex
 
 vinaya-class-questions-B-pdf:
-	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-B.tex
+	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-B.tex
 
 vinaya-class-questions-A-answerkey-pdf:
-	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-A-answerkey.tex
+	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-A-answerkey.tex
 
 vinaya-class-questions-B-answerkey-pdf:
-	./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-B-answerkey.tex
+	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/vinaya-class-questions-B-answerkey.tex
 
 chanting-refcard-pdf:
 	./scripts/compile_tex.sh ./tex/chanting-refcard/chanting-refcard.tex
@@ -45,6 +45,13 @@ sanghadisesa-procedure-pdf:
 
 robe-keeping-pdf:
 	./scripts/compile_tex.sh ./tex/robe-keeping/robe-keeping.tex
+
+pali-lessons-pdf:
+	cd tex/vinaya-class-questions && \
+	make export-pali-lessons && \
+	cd ../.. && \
+	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-lessons.tex && \
+	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-lessons-answerkey.tex
 
 vinaya-class-zip:
 	cd src/includes/docs && zip vinaya-class.zip *.pdf

@@ -1,8 +1,14 @@
 \documentclass[11pt]{memoir}
 
-\usepackage[forpaper, nosolutions]{eqexam}
+\usepackage{answerkey-env}
 
-\usepackage[nosolutions]{vinaya-class-questions}
+\ifanswerkey
+    \usepackage[forcolorpaper, answerkey]{eqexam}
+    \usepackage{vinaya-class-questions}
+\else
+    \usepackage[forcolorpaper, nosolutions]{eqexam}
+    \usepackage[nosolutions]{vinaya-class-questions}
+\fi
 
 \begin{document}
 

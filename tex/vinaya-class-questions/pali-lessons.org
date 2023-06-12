@@ -174,7 +174,7 @@ Other nouns end in /-i, -ī, -u, -ū/.
 
 *Word order* in the simplest case is Subject-Object-Verb, but since the case indicates the role of a noun, word order is often altered for emphasis.
 
-| Sūdo /(nom.sg.)/ bhattaṁ /(acc.)/ pacati /(3rd.sg.)/. | Dārakā /(nom.sg.)/ bhojanīyaṁ /(acc.)/ bhuñjanti /(3rd.pl.)/. |
+| Sūdo /(nom.sg.)/ bhattaṁ /(acc.)/ pacati /(3rd.sg.)/. | Dārakā /(nom.pl.)/ bhojanīyaṁ /(acc.)/ bhuñjanti /(3rd.pl.)/. |
 | The chef cooks the rice.                              | The boys eat the food.                                        |
 
 The *subject* and *verb* must agree in number: /Sakuṇā ākāse uḍḍenti/ (Birds fly in the sky).
@@ -235,8 +235,10 @@ Pronouns take on the person and number of the noun they represent.
 
 A relative sentence begins with a relative clause, followed by a demonstrative:
 
-| /yo/   | /gilānaṃ/ | /upaṭṭhāti/ | /so/ | /maṃ/ | /upaṭṭhāti/ |
-| he who | ill       | attends    | he   | me    | attends    |
+| /yo/   | /gilānaṃ/ | /upaṭṭhāti/ |
+| he who | ill       | attends    |
+| /so/   | /maṃ/     | /upaṭṭhāti/ |
+| he     | to me     | attends    |
 
 #+latex: \bigskip
 

@@ -21,6 +21,8 @@ Individual files:
 - [vinaya-class-questions-A-answerkey.pdf](./includes/docs/vinaya-class-questions-A-answerkey.pdf)
 - [vinaya-class-questions-B.pdf](./includes/docs/vinaya-class-questions-B.pdf)
 - [vinaya-class-questions-B-answerkey.pdf](./includes/docs/vinaya-class-questions-B-answerkey.pdf)
+- [pali-lessons.pdf](./includes/docs/pali-lessons.pdf)
+- [pali-lessons-answerkey.pdf](./includes/docs/pali-lessons-answerkey.pdf)
 - [chanting-refcard.pdf](./includes/docs/chanting-refcard.pdf)
 - [chanting-refcard-4on1.pdf](./includes/docs/chanting-refcard-4on1.pdf)
 - [vinayakamma-chart.pdf](./includes/docs/vinayakamma-chart.pdf)
@@ -73,6 +75,18 @@ class, discussing the possible solutions.
 [vinaya-class-questions-B.pdf](./includes/docs/vinaya-class-questions-B.pdf)
 
 [vinaya-class-questions-B-answerkey.pdf](./includes/docs/vinaya-class-questions-B-answerkey.pdf)
+
+## Pāli Lessons
+
+These lessons can be included during a Vinaya study period. The material focues on the language forms used in the Pāṭimokkha, and introduces Pāli readings from the rules and examples from the daily chants which bhikkhus have already memorized.
+
+One lesson may take more than one session to study with a group. Someone familiar with the language may explain the grammar points, while the others may take turns in solving the exercises.
+
+[pali-lessons.pdf](./includes/docs/pali-lessons.pdf)
+
+[pali-lessons-answerkey.pdf](./includes/docs/pali-lessons-answerkey.pdf)
+
+[![Pali Lessons](./includes/docs/pali-lessons-thumb.png)](./includes/docs/pali-lessons.pdf)
 
 ## Chanting Refcard
 

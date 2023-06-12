@@ -28,6 +28,11 @@ Items she is wearing are direct contact.
 Indirect contact:
 
 -   touching a item which she is holding: thullaccaya
+
+<!-- latex
+\columnbreak
+-->
+
 -   touching her with an item one is holding: thullaccaya
 -   item to item: dukkaṭa
 -   tossing: dukkaṭa

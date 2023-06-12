@@ -1,8 +1,17 @@
 \documentclass[11pt]{memoir}
 
-\usepackage[forpaper, nosolutions]{eqexam}
+\usepackage{answerkey-env}
 
-\usepackage[nosolutions]{vinaya-class-questions}
+% NOTE: when using 'nosolutions', use the option after 'answerkey', otherwise
+% the answers are not shown.
+
+\ifanswerkey
+    \usepackage[forcolorpaper, answerkey]{eqexam}
+    \usepackage{vinaya-class-questions}
+\else
+    \usepackage[forcolorpaper, nosolutions]{eqexam}
+    \usepackage[nosolutions]{vinaya-class-questions}
+\fi
 
 \begin{document}
 

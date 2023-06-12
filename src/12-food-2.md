@@ -222,6 +222,10 @@ It is nonetheless bad manners to eat so much at breakfast to not be able to eat 
 
 If the donors are not informed, very light food is still allowed, such as drinking thin rice porridge.
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 34, More than three bowlfuls
 
 Origin: some bhikkhus don't know moderation in accepting cakes as provisions from faithful supporters.

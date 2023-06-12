@@ -1,12 +1,12 @@
 \makeatletter
 
-\newif\ifanswerkey
-\answerkeytrue
+\usepackage{answerkey-env}
+
 \ifanswerkey
-  \usepackage[forpaper, answerkey]{eqexam}
+  \usepackage[forcolorpaper, answerkey]{eqexam}
   \usepackage{vinaya-class-questions}
 \else
-  \usepackage[forpaper, nosolutions]{eqexam}
+  \usepackage[forcolorpaper, nosolutions]{eqexam}
   \usepackage[nosolutions]{vinaya-class-questions}
 \fi
 

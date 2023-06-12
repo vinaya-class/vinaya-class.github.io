@@ -41,6 +41,10 @@ Breaking a promise is *dukkaṭa* (not following software or website TOS (Terms 
 
 **Effort:** snatching back or having someone to snatch it back.
 
+<!-- latex
+\begin{multicols}{2}
+-->
+
 Dukkaṭa for:
 
 -   giving the command
@@ -48,11 +52,19 @@ Dukkaṭa for:
 -   snatching from a *non-bhikkhu*
 -   hinting with anger
 
+<!-- latex
+\columnbreak
+-->
+
 **Non-offenses:**
 
 -   recipient returns the robe on his own accord
 -   donor takes it back on trust
 -   hinting without anger
+
+<!-- latex
+\end{multicols}
+-->
 
 ## Pc 59, Using cloth or bowl under shared ownership
 

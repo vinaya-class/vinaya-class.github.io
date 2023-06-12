@@ -69,7 +69,7 @@ the extreme offenses against the training.
 
 ![Introduction](./includes/mindmaps/introduction.png)
 
-*NOTE:* Five years of *nissaya* (dependence on a teacher) after ordination is
+Five years of *nissaya* (dependence on a teacher) after ordination is
 integral to the training.
 
 In the monasteries of the Thai tradition, the upajjhāya should fill out and give
@@ -121,10 +121,14 @@ that is **allowable**.
 "Now, Ananda, if it occurs to any of you -- 'The teaching has lost its
 authority; we are without a Teacher' -- do not view it in that way. Whatever
 Dhamma and Vinaya I have pointed out and formulated for you, that will be your
-Teacher when I am gone." (DN 16)
+Teacher when I am gone."
+
+([DN 16](https://suttacentral.net/dn16/en/sujato))
 
 "The non-doing of all evil, the performance of what is skillful, and the
-purification of one's mind: This is the Buddhas' message." (Dhp 183)
+purification of one's mind: This is the Buddhas' message."
+
+(Dhp 183)
 
 "On one occasion the Blessed One was living in Vesali, in the Great
 Wood. Then a certain Vajjian bhikkhu went to him... and said: 'Venerable
@@ -143,7 +147,7 @@ mind, and heightened discernment will be abandoned. You -- with the
 abandoning of passion... aversion... delusion -- will not do anything
 unskilful or engage in any evil.'"
 
-(AN 3.85)
+([AN 3.84](https://suttacentral.net/an3.84/en/sujato))
 
 "'Bhikkhus, this recitation of more than 150 training rules comes every
 fortnight, in reference to which sons of good families desiring the goal
@@ -151,7 +155,7 @@ train themselves. There are these three trainings under which all that
 is gathered. Which three? The training in heightened virtue, the
 training in heightened mind, the training in heightened discernment...."
 
-(AN 3.88)
+([AN 3.88](https://suttacentral.net/an3.88/en/sujato))
 
 "There are these two bright qualities that safeguard the world. Which two?
 Conscience & concern for the results of unskillful actions (*hiri-ottappa*)."
@@ -168,6 +172,17 @@ together by a string."
 
 ([PTS Vin. 3.1–3.40](https://suttacentral.net/pli-tv-bu-vb-pj1/en/brahmali))
 
+If there is some obstacle to [the practice of the training rules], due to time
+and place, the rules should be upheld indirectly and not given up entirely, for
+otherwise there will be no principles (for discipline). A community without
+principles for discipline cannot last long...
+
+(Entrance to the Vinaya, Vol I., p.230)
+
+<!-- latex
+\clearpage
+-->
+
 "Āvuso, kiṃ paṭhamaṃ saṅgāyāma, dhammaṃ vā vinayaṃ vā"ti? Bhikkhū āhaṃsu --
 "Bhante mahākassapa, **vinayo nāma buddhasāsanassa āyu**, vinaye ṭhite sāsanaṃ
 ṭhitaṃ hoti, tasmā paṭhamaṃ vinayaṃ saṅgāyāmā"ti.
@@ -176,29 +191,31 @@ Friends, what should we chant first, the Dhamma or Vinaya? The monks said: Ven.
 Mahākassapa, the Vinaya is truly the life of the Buddha's message, while the
 Vinaya remains the messages remains, therefore let's chant the Vinaya first.
 
-(/Pārājikakaṇḍa-aṭṭhakathā/, Discussion of the First Council)
-
-If there is some obstacle to [the practice of the training rules], due to time
-and place, the rules should be upheld indirectly and not given up entirely, for
-otherwise there will be no principles (for discipline). A community without
-principles for discipline cannot last long...
-
-(Entrance to the Vinaya, I.230)
-
-<!-- latex
-\clearpage
--->
+([Vin-a 1, bāhiranidānakathā, paṭhamamahāsaṅgītikathā, para. 28](https://www.digitalpalireader.online/_dprhtml/index.html?loc=v.0.1.0.0.1.0.a&query=vinayo%20n%C4%81ma%20buddhas%C4%81sanassa%20%C4%81yu&para=28), Discussion of the First Council)
 
 ## Overview of the rules
+
+<!-- latex
+\begin{multicols}{2}
+-->
 
 - 4 Pārājika: defeat
 - 13 Saṅghādisesa: involving community actions
 - 2 Aniyata: indefinite result
 - 30 Nissaggiya Pācittiya: entailing forfeiture
+
+<!-- latex
+\columnbreak
+-->
+
 - 92 Pācittiya: to be confessed
 - 4 Pāṭidesaniya: to be acknowledged
 - 75 Sekhiya: etiquette to be trained in
 - 8 Adhikaraṇa-samatha: means of settling issues
+
+<!-- latex
+\end{multicols}
+-->
 
 ## Hierarchy of Views
 
@@ -219,23 +236,24 @@ European Elders Council, or the Mahathera Samakorn in Thailand fit in?
 
 ## Reference books
 
-**Vinaya Mukha, Somdet Phra Mahā Samaṇa Chao, 1916 (1st Ed)**
+**Vinaya Mukha, Somdet Phra Mahā Samaṇa Chao (1st Ed. in 1916)**
 
 A guide to the Vinaya written in Thai, first English edition published in 1969.
 It is still used as the official textbook on Vinaya for the examinations run by
 the Thai Council of Elders, and taken as authoritative through much of Thailand.
 
-**The Book of Discipline, I.B. Horner, 1938 (1st Ed)**
+**The Book of Discipline, I.B. Horner (1st Ed. in 1938)**
 
 - Vol. 1-3: Suttavibhaṅga -- Pāṭimokkha rules and origin stories
 - Vol. 4: Mahāvagga -- rules of conduct and etiquette
 - Vol. 5: Cullavagga -- elaboration of etiquette and duties
 - Vol. 6: Parivāra -- summaries and analysis of rules
 
-**The Buddhist Monastic Code, Ṭhānissaro Bhikkhu, 1994 (1st Ed)**
+<!-- latex
+\enlargethispage*{\baselineskip}
+-->
 
-- Vol. 1: The Pāṭimokkha Rules
-- Vol. 2: The Khandhaka Rules
+**The Buddhist Monastic Code, Ṭhānissaro Bhikkhu (1st Ed. in 1994)**
 
-**The Concise Buddhist Monastic Code, Bhikkhu Anon, 2015 (1st Ed)**
+**The Concise Buddhist Monastic Code, Bhikkhu Anon (1st Ed. in 2015)**
 

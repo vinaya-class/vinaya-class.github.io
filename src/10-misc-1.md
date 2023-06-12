@@ -33,7 +33,11 @@ are *dukkata*.
 Critical or joking remarks on the ten topics, when not meant as an
 insult, are *dubbhasita*.
 
-Dubbhasita could be translated as *bad joke* or *malicios speech*.
+Dubbhasita could be translated as *bad joke* or *malicious speech*.
+
+<!-- latex
+\columnbreak
+-->
 
 Indirect- or insinuating remarks, if meant as an insult, are *dukkata*.
 
@@ -62,6 +66,10 @@ False tale-bearing is Pc 1.
 
 Not an offense: informing the abbot about a difficult situation, hoping for a
 good outcome, not for causing a rift.
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 46, Visiting families without informing
 
@@ -132,10 +140,6 @@ thus."
 
 ## Pc 56, Lighting a fire
 
-<!-- latex
-\begin{multicols}{2}
--->
-
 Lighting a fire, or getting it lit, when one is not ill for warming
 oneself, unless there is a suitable reason.
 
@@ -148,6 +152,10 @@ before lighting a fire.
 
 Lighting a fire in the sauna is not an offense.
 
+<!-- latex
+\enlargethispage{\baselineskip}
+-->
+
 There is no offense for lighting a for a purpose other than warming oneself,
 such as boiling water or burning dead leaves or firing a bowl.
 
@@ -158,14 +166,9 @@ Can also light a fire where the ground is burnt already, such as a burning area.
 
 Put down rocks, put the tin can on the rocks.
 
-
 Note: disadvantes of a bonfire.
 
 Running the heater needlessly: wastefulness.
-
-<!-- latex
-\end{multicols}
--->
 
 ## Pc 57, Bathing in the middle Ganges Valley
 

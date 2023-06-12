@@ -110,6 +110,10 @@ Spreading stories. Saying something which may be false, but you believe it to be
 
 Discuss reporting on offenses.
 
+<!-- latex
+\clearpage
+-->
+
 ## Sg 9, Distorting evidence
 
 It could be done by finding a statement which will be misinterpreted, but one can maintain it to be true. E.g. quoting out of context is creating a false pretext.
