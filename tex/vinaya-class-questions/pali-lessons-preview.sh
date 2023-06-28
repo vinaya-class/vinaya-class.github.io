@@ -1,11 +1,17 @@
 #!/usr/bin/env bash
 
+if [[ "$ANSWERKEY" != "TRUE" ]]; then
+    target="pali-lessons"
+else
+    target="pali-lessons-answerkey"
+fi
+
 while true; do
     inotifywait -qr -e modify pali-lessons.org
 
-    if make pali-lessons; then
-        notify-send -t 5000 "OK: pali-lessons"
+    if make $target; then
+        notify-send -t 5000 "OK: $target"
     else
-        notify-send --urgency=critical "FAILURE: pali-lessons"
+        notify-send --urgency=critical "FAILURE: $target"
     fi
 done

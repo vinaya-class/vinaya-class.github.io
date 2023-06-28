@@ -6,8 +6,13 @@ all: vinaya-class-questions-A.pdf vinaya-class-questions-B.pdf vinaya-class-ques
 
 pali-lessons: export-pali-lessons pali-lessons.pdf
 
+pali-lessons-answerkey: export-pali-lessons pali-lessons-answerkey.pdf
+
 pali-lessons-preview:
-	./pali-lessons-preview.sh
+	ANSWERKEY=FALSE ./pali-lessons-preview.sh
+
+pali-lessons-answerkey-preview:
+	ANSWERKEY=TRUE ./pali-lessons-preview.sh
 
 export-pali-lessons:
 	emacs --batch -L -l 'pali-lessons.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'

@@ -451,7 +451,9 @@ The Buddha was wandering in the land of the Kosalans...
 
 #+latex: \normalArrayStrech
 
-*** Extra Challenge: Pāli Chat                                     :noexport:
+\clearpage
+
+*** Extra Challenge: Pāli Chat
 
 /Bhante, ayyo āgacchatu, idha nisīdatu./
 
@@ -489,46 +491,169 @@ I had no trouble getting almsfood.
 
 This morning I am entering Ericeira for alms-round.
 
+\bigskip
+
+#+begin_widecols
+
+| Good morning Ven. Sir!       | Supubbaṇho bhante.          |
+| Good morning everyone.       | Supubbaṇho sabbesaṁ.       |
+| Thank you.                   | Anumodāmi.                 |
+| (See you) tomorrow.          | Suve.                      |
+| (Sorry,) I'll make amends.   | Paṭikarissāmi.              |
+| I feel sorry.                | Kāruññaṁ.                  |
+| (for your situation)         |                            |
+| Yes.                         | Āma / Evaṁ bhante.         |
+| No.                          | No hetaṁ, bhante.          |
+| Never mind (leave it aside). | Tiṭṭhatu, bhante.           |
+| It is hot today.             | Ajj'āccuṇhaṃ.              |
+|                              | [ajja (ind.) + ati  + uṇha] |
+| It is cold today.            | Ajj'ātisītaṁ.              |
+
+\columnbreak
+
+| Excuse me!           | Okāsa, bhante.        |
+| Welcome here.        | Svāgataṁ.             |
+| Please sit.          | Nisīdatha.            |
+| Wait (stay) here.    | Ettheva tiṭṭha.        |
+| I don't understand.  | Na pajānāmi.          |
+| Why is that?         | Taṁ kissa hetu?       |
+| Where is the market? | Kattha antarāpaṇo?     |
+| What do you think?   | Taṁ kiṁ maññasi?      |
+| How can I help (do)? | Kinti karomi?         |
+| What is your name?   | Kinnāmosi?            |
+| My name is ...       | Ahaṁ bhante ... nāma. |
+
+#+end_widecols
+
 \clearpage
 
-| Good morning!                            | Supubbaṇho bhante/āvuso.                  |
-| Good morning everyone.                   | Supubbaṇho sabbesaṁ.                     |
-| Thank you.                               | Anumodāmi.                               |
-| I (we) must go.                          | Handa dāni mayaṁ gacchāma.               |
-| Go at your convenience.                  | Yassadāni tvaṁ kālaṁ maññasī.            |
-| See you tomorrow.                        | Suve.                                    |
-| (Sorry,) I'll make amends.               | Paṭikarissāmi.                            |
-| I feel sorry (for your situation).       | Kāruññaṁ.                                |
-| Yes.                                     | Āma, bhante.                             |
-| No.                                      | No hetaṁ, bhante.                        |
-| Never mind (leave it aside).             | Tiṭṭhatu, bhante.                         |
-| Excuse me!                               | Okāsa, bhante.                           |
-| Welcome here.                            | Svāgataṁ.                                |
-| Please sit.                              | Nisīdatha.                               |
-| How are you? (I hope you are enduring.)  | Kacci te bhante khamanīyaṁ?              |
-| I hope you all are well.                 | Kacci vo khamanīyaṁ.                     |
-| I am alright.                            | Khamanīyaṁ me, āvuso.                    |
-| I am not well.                           | Na me, bhante, khamanīyaṁ.               |
-| I don't understand.                      | Na pajānāmi.                             |
-| Why is that?                             | Taṁ kissa hetu?                          |
-| It is hot today.                         | Ajj'āccuṇhaṃ [ajja (ind.) + ati  + uṇha] |
-| It is cold today.                        | Ajj'ātisītaṁ.                            |
-| Where is the market?                     | Kattha / Kuhiṁ antarāpaṇo?               |
-| What is your name?                       | Kinnāmosi?                               |
-| My name is ...                           | Ahaṁ bhante ... nāma.                    |
-| What is your preceptor's name?           | Ko nāma te upajjhāyo?                    |
-| My preceptor's name is Ven. ...          | Upajjhāyo me bhante āyasmā ... nāma.     |
-| aṇha (m.)                                 | day                                      |
-| sāya (nt.)                               | night                                    |
-| samaya (m.)                              | time; occasion                           |
-| supubbaṇha [su + pubba + aṇha]            | good morning                             |
-| pubbaṇhasamayaṁ                          |                                          |
-| sumajjhanhika [su + majjha + anha + ika] | good midday                              |
-| majjhanhikasamayaṁ                       |                                          |
-| susāyanha [su + sāya + anha]             | good evening                             |
-| sāyanhasamayaṁ                           |                                          |
+#+latex: \renewcommand{\arraystretch}{1.8}
 
-([[https://suttacentral.net/an3.155/en/sujato][AN 3.155, Morning]])
+| What is your preceptor's name?  | Ko nāma te upajjhāyo?                |
+| My preceptor's name is Ven. ... | Upajjhāyo me bhante āyasmā ... nāma. |
+| I hope you are well (enduring)? | Kacci te bhante khamanīyaṁ?   |
+| I hope you all are well.        | Kacci vo khamanīyaṁ.          |
+| I am alright.                   | Khamanīyaṁ me, āvuso.         |
+| I am not well.                  | Na me, bhante, khamanīyaṁ.    |
+| I (we) must go.                 | Handa dāni mayaṁ gacchāma.    |
+| Go at your convenience.         | Yassadāni tvaṁ kālaṁ maññasī. |
+
+#+latex: \normalArrayStrech
+
+#+begin_widecols
+
+| day             | aṇha (m.)                      |
+| night           | sāya (nt.)                    |
+| time; occasion  | samaya (m.)                   |
+| good morning    | supubbaṇha                     |
+|                 | [su + pubba + aṇha]            |
+|                 | pubbaṇhasamayaṁ               |
+| good midday     | sumajjhanhika                 |
+|                 | [su + majjha + anha + ika]    |
+|                 | majjhanhikasamayaṁ            |
+| good evening    | susāyanha [su + sāya + anha]  |
+|                 | sāyanhasamayaṁ                |
+| hot             | uṇha (adj.)                    |
+| cold            | sīta (adj.)                   |
+| drink; beverage | pāna (nt.)                    |
+| water           | udaka (nt.)                   |
+| hot water       | uṇhodaka (nt.) [uṇha + udaka]  |
+| cold water      | sītodaka (nt.) [sīta + udaka] |
+
+\columnbreak
+
+| feels; experiences       | vedayati              |
+| desires; wants           | icchati               |
+| speaks                   | bhāsati               |
+| takes                    | harati                |
+| brings                   | āharati               |
+| will bring               | āharissati            |
+| speaks                   | bhāsati               |
+| thought; reflection      | vitakka (m.)          |
+| agreeable; nice          | piyarūpa (adj.)       |
+| right here               | ettheva [ettha + eva] |
+| goal; purpose; want      | attha (m.)            |
+| always                   | sabbadā (ind.)        |
+| ever; sometime           | kadāci (ind.)         |
+| never                    | na kadāci (idiom)     |
+| next; after              | para (adj.)           |
+| master; gentleman        | ayya (m.)             |
+| long road; journey       | addhāna (nt.)         |
+| guest                    | āgata (m.)            |
+| coming; arrival          | āgata (nt.)           |
+| helpful; useful          | upakāra (adj.)        |
+| healthy; well; lit. able | kallaka (adj.)        |
+
+#+end_widecols
+
+References:
+
+- [[https://suttacentral.net/an3.155/en/sujato][AN 3.155, Morning]]
+- [[https://suttacentral.net/pli-tv-kd8/en/brahmali][Kd 8, Sec. 18: The account of Visākhā]]
+
+\clearpage
+
+**** Conversation 1
+
+(\textbf{[A]} is senior, \textbf{[B]} is junior)
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| \textbf{[A]} Good morning friend! Are you well?                       |
+| \fillin{12cm}{Supubbaṇho āvuso. Kacci te khamanīyaṁ?}                 |
+| \textbf{[B]} I am not well, Sir. I feel cold.                         |
+| \fillin{12cm}{Na me, bhante, khamanīyaṁ. Sītaṁ vedayāmi.}             |
+| \textbf{[A]} Tomorrow will be hot. Do you want a hot drink?           |
+| \fillin{12cm}{Suve uṇhaṁ bhavissati. Pānaṁ uṇhaṁ icchasi?}            |
+| \textbf{[B]} A cup with hot water is a good idea (agreeable thought). |
+| \fillin{12cm}{Mallako uṇhodakassa vitakkaṁ piyarūpaṁ.}                |
+| \textbf{[A]} Right here friend. Do you come from the country Spain?   |
+| \fillin{12cm}{Etthevaṁ āvuso. Spain janapadasmā āgacchasi?}           |
+| \textbf{[B]} No Sir. I come from the country ...                      |
+| \fillin{12cm}{No hetaṁ, bhante. ... janapadasmā āgacchāmi.}           |
+| \textbf{[B]} And where do you live Sir?                               |
+| \fillin{12cm}{Katthañca vasatha bhante?}                              |
+| \textbf{[A]} I live in Norway. There it is always cold.               |
+| \fillin{12cm}{Norway janapade vasāmi. Tatra sītaṁ sabbadā.}           |
+| \textbf{[A]} I must go now. (See you) next week.                      |
+| \fillin{12cm}{Handa dāni ahaṁ gacchāmi. Parasatta.}                   |
+| \textbf{[B]} Go at your convenience.                                  |
+| \fillin{12cm}{Yassadāni tumhe kālaṁ maññatha.}                        |
+
+#+latex: \normalArrayStrech
+
+\clearpage
+
+**** Conversation 2
+
+(\textbf{[A]} is junior, \textbf{[B]} is senior)
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| \textbf{[A]} Welcome, Sir! May the master come here. I hope you are not tired?        |
+| \fillin{12cm}{Svāgataṁ bhante. Ayyo idha āgacchatu. Kaccisi appakilamathena?}         |
+| \textbf{[B]} Thank you friend, I am tired from coming on the journey.                 |
+| \fillin{12cm}{Anumodāmi āvuso. Kilamathena addhānaṁ āgato.}                           |
+| \textbf{[A]} Why is that? Today is not hot.                                           |
+| \fillin{12cm}{Taṁ kissa hetu? Na ajj'āccuṇhaṃ.}                                       |
+| \textbf{[B]} Having walked for alms, having received a lot of food, my bowl is heavy. |
+| \fillin{12cm}{Piṇḍāya caritvā, bahu khādanīyaṁ paṭiggahetvā, pattaṁ me garuṁ.}        |
+| \textbf{[A]} Please sit here. Where does the master go for alms?                      |
+| \fillin{12cm}{Idha nisīdatha. Kuhiṁ piṇḍāya ayyo gacchati?}                           |
+| \textbf{[B]} In the town called Ericeira, there is the market. I go there for alms.   |
+| \fillin{12cm}{Gāme Ericeira nāmo, atthi antarāpaṇo. Tatra piṇḍāya gacchāmi.}           |
+| \textbf{[A]} How can I help (do), Sir?                                                |
+| \fillin{12cm}{Kinti karomi bhante?}                                                   |
+| \textbf{[B]} Having taken my bowl, the alms should be shared with the bhikkhus.       |
+| \fillin{12cm}{Pattaṁ me gahetvā, piṇḍaṁ bhikkhūhi saddhiṁ saṁvibhajitabbaṁ.}         |
+| \textbf{[A]} Please say if, Sir, (you are with) a want for water.                     |
+| \fillin{12cm}{Bhāseyya, sace te bhante, udakena attho.}                               |
+| \textbf{[B]} A cup with cold water will be refreshing (healthy).                      |
+| \fillin{12cm}{Mallako sītodakassa kallakassa (kallakāya) bhavissati.}                 |
+| \textbf{[A]} Wait here Sir, I will bring it to you.                                   |
+| \fillin{12cm}{Ettheva tiṭṭha bhante, ettheva te āharissāmi.}                           |
+
+#+latex: \normalArrayStrech
 
 * Lesson 2
 ** Review Exercises
