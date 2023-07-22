@@ -2,6 +2,8 @@
 
 [Vinaya Class](00-vinaya-class.md)
 
+[Pāli Lessons](00-pali-lessons.md)
+
 [Introduction](00-introduction.md)
 
 - [Killing and Harming](01-killing-and-harming.md)

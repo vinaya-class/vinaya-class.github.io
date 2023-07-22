@@ -1,0 +1,595 @@
+#+title: Lesson 1: Pāli Chat
+#+sidebar: lesson-1-extra-pali-chat-vocab.org
+
+* 1 Greetings: Getting By
+** 1.1
+
+May he come here. (imperative)
+
+*** Answer
+
+#+begin_quote
+Idha āgacchatu.
+#+end_quote
+
+** 1.2
+
+May the master come here. (imperative)
+
+*** Answer
+
+#+begin_quote
+Ayyo idha āgacchatu.
+#+end_quote
+
+** 1.3
+
+Venerable, may the master come and sit here.
+
+*** Answer
+
+#+begin_quote
+Bhante, ayyo āgacchatu, idha nisīdatu.
+#+end_quote
+
+** 1.4
+
+I hope you're keeping well Ven., I hope you're getting by?
+
+*** Answer
+
+#+begin_quote
+Kacci, bhante, khamanīyaṁ kacci yāpanīyaṁ?
+#+end_quote
+
+* 2 Greetings: Tired from Travelling
+** 2.1
+
+I hope you are with little fatigue?
+
+*** Answer
+
+#+begin_quote
+Kacci'si appakilamathena?
+#+end_quote
+
+** 2.2
+
+I hope you're with little fatigue from traveling?
+
+*** Answer
+
+#+begin_quote
+Kacci'si appakilamathena addhānaṁ āgato?
+#+end_quote
+
+** 2.3
+
+I'm keeping well, friend, I'm getting by.
+
+*** Answer
+
+#+begin_quote
+(Ahaṁ) Khamanīyaṁ, āvuso, yāpanīyaṁ.
+#+end_quote
+
+** 2.4
+
+... and I'm not tired, friend, from traveling.
+
+*** Answer
+
+#+begin_quote
+... appakilamathena cāhaṁ [ca ahaṁ], āvuso, addhānaṁ āgato.
+#+end_quote
+
+** 2.5
+
+I am tired. (Me tired I am '~√as~')
+
+*** Answer
+
+#+begin_quote
+Ahaṁ kilantosmi. [kilanto + asmi]
+#+end_quote
+
+** 2.6
+
+And where from, you Ven., have you come?
+
+*** Answer
+
+#+begin_quote
+Kuto ca tvaṁ bhante, āgacchasi?
+#+end_quote
+
+** 2.7
+
+There is, Ven., in the country (of) Portugal, the monastery called Sumedhārāma.
+
+*** Answer
+
+#+begin_quote
+Atthi, bhante, Portugal janapade Sumedhārāma-vihāro nāma.
+#+end_quote
+
+** 2.8
+
+That's where I, Ven., am coming from.
+
+*** Answer
+
+#+begin_quote
+Tato ahaṁ, bhante, āgacchāmī.
+#+end_quote
+
+* 3 Greetings: Almsfood
+** 3.1
+
+Have you not had trouble? (not tired/weary you are '√as')
+
+*** Answer
+
+#+begin_quote
+Na kilantosi?
+#+end_quote
+
+** 3.2
+
+And have you not had trouble getting almsfood?
+(And not, with the almsfood, you are tired?)
+
+*** Answer
+
+#+begin_quote
+Na ca piṇḍakena kilantosi?
+#+end_quote
+
+** 3.3
+
+I had no trouble getting almsfood. (tired I am '√as')
+
+*** Answer
+
+#+begin_quote
+Na ca piṇḍakena kilantomhi.
+#+end_quote
+
+** 3.4
+
+I am entering the town Ericeira.
+
+*** Answer
+
+#+begin_quote
+Ericeira-nigamaṁ pavisāmi.
+#+end_quote
+
+** 3.5
+
+This morning
+
+*** Answer
+
+#+begin_quote
+Idha pubbaṇhasamayaṁ
+#+end_quote
+
+** 3.6
+
+This morning I am entering the town Ericeira for alms-round.
+
+*** Answer
+
+#+begin_quote
+Idha pubbaṇhasamayaṁ Ericeira-nigamaṁ piṇḍāya pavisāmi.
+#+end_quote
+
+*** TODO Notes
+
+pubbanha samayaṁ
+both parts in the same case
+
+black bird
+
+* 4 Phrases
+** 4.1
+
+I don't understand.
+
+*** Answer
+
+#+begin_quote
+Na pajānāmi.
+#+end_quote
+
+** 4.2
+
+Where is the market?
+
+*** Answer
+
+#+begin_quote
+Kattha antarāpaṇo?
+#+end_quote
+
+** 4.3
+
+What do you think?
+
+*** Answer
+
+#+begin_quote
+Taṁ kiṁ maññasi?
+#+end_quote
+
+** 4.4
+
+How can I help (do)?
+
+*** Answer
+
+#+begin_quote
+Kinti karomi?
+#+end_quote
+
+** 4.5
+
+What is your name?
+
+*** Answer
+
+#+begin_quote
+Kinnāmosi?
+#+end_quote
+
+** 4.6
+
+My name is ...
+
+*** Answer
+
+#+begin_quote
+Ahaṁ bhante ... nāma.
+#+end_quote
+
+** 4.7
+
+What is your preceptor's name?
+
+*** Answer
+
+#+begin_quote
+Ko nāma te upajjhāyo?
+#+end_quote
+
+** 4.8
+
+My preceptor's name is Ven. ...
+
+*** Answer
+
+#+begin_quote
+Upajjhāyo me bhante āyasmā ... nāma.
+#+end_quote
+
+** 4.9
+
+I hope you are well (enduring)?
+
+*** Answer
+
+#+begin_quote
+Kacci te bhante khamanīyaṁ?
+#+end_quote
+
+** 4.10
+
+I hope you all are well.
+
+*** Answer
+
+#+begin_quote
+Kacci vo khamanīyaṁ.
+#+end_quote
+
+** 4.11
+
+I am alright.
+
+*** Answer
+
+#+begin_quote
+Ahaṁ khamanīyo / Khamanīyaṁ me.
+#+end_quote
+
+** 4.12
+
+I am not well.
+
+*** Answer
+
+#+begin_quote
+Na me, bhante, khamanīyaṁ.
+#+end_quote
+** 4.13
+
+Right now where are you?
+
+*** Answer
+
+#+begin_quote
+Idāni katthañca hosi?
+#+end_quote
+
+** 4.14
+
+Are you at your mother and father's house?
+
+*** Answer
+
+#+begin_quote
+Api nu Idāni mātāpitūgāraṁ / -garamhi / -gare viharasi?
+#+end_quote
+
+* 5 Conversation 1
+** 5.1
+
+Good morning friend! Are you well?
+
+*** Answer
+
+#+begin_quote
+Suppabhātaṁ āvuso. Kacci te khamanīyaṁ?
+#+end_quote
+
+** 5.2
+
+I am not well, Sir. I feel cold.
+
+*** Answer
+
+#+begin_quote
+Na me, bhante, khamanīyaṁ. Sītaṁ vedayāmi / paṭisaṁvediyāmi.
+#+end_quote
+
+** 5.3
+
+Tomorrow will be hot. Do you want a hot drink?
+
+*** Answer
+
+#+begin_quote
+Suve uṇhaṁ bhavissati. Uṇhapānaṁ icchasi?
+#+end_quote
+
+** 5.4
+
+A cup with hot water is a good idea (agreeable thought).
+
+*** Answer
+
+#+begin_quote
+Mallako uṇhodakassa vitakkaṁ piyarūpaṁ.
+
+Uṇhodaka'mallako vitakko piyarūpo (hoti).
+#+end_quote
+
+*** TODO Notes
+
+(Uṇhodaka'mallako: genitive tapparusa modifying a kamadariya)
+
+Duroselle
+DPR cheat-sheet
+
+** 5.5
+
+Right here friend. Do you come from the country Spain?
+
+*** Answer
+
+#+begin_quote
+Etthevaṁ / Etthāyaṁ āvuso. Spain janapadasmā āgacchasi?
+#+end_quote
+
+** 5.6
+
+No Sir. I come from the country ...
+
+*** Answer
+
+#+begin_quote
+No hetaṁ, bhante. ... janapadasmā āgacchāmi.
+#+end_quote
+
+*** TODO how to respond negatively without 'no hetaṁ'?
+** 5.7
+
+And where do you live Sir?
+
+*** Answer
+
+#+begin_quote
+Katthañca vasatha / viharatha bhante?
+#+end_quote
+
+** 5.8
+
+I live in Norway. There it is always cold.
+
+*** Answer
+
+#+begin_quote
+Norway janapade vasāmi. Tatra sītaṁ sabbadā.
+#+end_quote
+
+** 5.9
+
+Is is hot in ... country?
+
+*** Answer
+
+#+begin_quote
+Api nu ... janapade uṇho?
+#+end_quote
+
+** 5.10
+
+Here in the morning it is cold, and in the daytime is it hot.
+
+*** Answer
+
+#+begin_quote
+Idha pubbaṇhasamaye ca sīto hoti, majjhanhikasamaye ca uṇho hoti.
+#+end_quote
+
+** 5.11
+
+I must go now. Bye for a week.
+
+*** Answer
+
+#+begin_quote
+Handa dāni ahaṁ gacchāmi. (Anantaraṁ) sattāhaṁ.
+#+end_quote
+
+** 5.12
+
+Go at your convenience.
+
+*** Answer
+
+#+begin_quote
+Yassadāni tumhe kālaṁ maññatha.
+#+end_quote
+
+* 6 Conversation 2
+** 6.1
+
+Welcome, Sir! May the master come here. I hope you are not tired?       
+
+*** Answer
+
+#+begin_quote
+Svāgataṁ bhante. Ayyo idha āgacchatu. Kacci'si appakilamathena?
+#+end_quote
+
+** 6.2
+
+Thank you friend, I am tired from coming on the journey.
+
+*** Answer
+
+#+begin_quote
+Anumodāmi āvuso. Kilamathena addhānaṁ āgato.
+#+end_quote
+
+** 6.3
+
+Why is that? Today is not hot.
+
+*** Answer
+
+#+begin_quote
+Taṁ kissa hetu? Na ajj'āccuṇhaṃ / ajjūṇho.
+#+end_quote
+
+** 6.4
+
+Having walked for alms, having received a lot of food, my bowl is heavy.
+
+*** Answer
+
+#+begin_quote
+Piṇḍāya caritvā / gatvā, bahu khādanīyaṁ paṭiggahetvā / labbhitvā, me patto garo.
+#+end_quote
+
+** 6.5
+
+I got more food than Ven. Kovilo. I will share with him.
+
+*** Answer
+
+#+begin_quote
+Kovilā atirekataraṁ āhāraṁ labbhāmi. Ahaṁ tena vibhajissāmi.
+#+end_quote
+
+** 6.6
+
+Please sit here. Where does the master go for alms?
+
+*** Answer
+
+#+begin_quote
+Ettheva / Idha nisīdatha. Kuhiṁ / Kathaṁ piṇḍāya ayyo gacchatha?
+#+end_quote
+
+** 6.6
+
+In the town called Ericeira, there is the market. I go there for alms.
+
+*** Answer
+
+#+begin_quote
+Gāme / nigame Ericeira nāmo, atthi antarāpaṇo. Tatra piṇḍāya gacchāmi.
+#+end_quote
+
+** 6.7
+
+How can I help (do), Sir?
+
+*** Answer
+
+#+begin_quote
+Kinti karomi bhante?
+#+end_quote
+
+** 6.8
+
+What can I do for you, Sir?
+
+*** Answer
+
+#+begin_quote
+Kiṁ tuyhaṁ karomi, bhante?
+#+end_quote
+
+** 6.9
+
+Having taken my bowl, the alms should be shared with the bhikkhus.
+
+*** Answer
+
+#+begin_quote
+Me pattaṁ gahetvā / ādāya, piṇḍaṁ bhikkhūhi saddhiṁ saṁvibhajitabbaṁ.
+#+end_quote
+
+** 6.10
+
+If you want water, please tell me Sir.
+
+*** Answer
+
+#+begin_quote
+Sace udakaṁ icchasi, vadetha me bhante.
+#+end_quote
+
+** 6.11
+
+A cup of cold water will be refreshing (healthy).
+
+*** Answer
+
+#+begin_quote
+Sītodakamallako kallako bhavissati.
+#+end_quote
+
+** 6.12
+
+Wait right here Sir, I will bring (it to you).
+
+*** Answer
+
+#+begin_quote
+Ettheva bhante, tiṭṭha / tiṭṭhatha. (Taṁ taṁ) āharissāmi.
+#+end_quote

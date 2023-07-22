@@ -6,7 +6,8 @@ all: vinaya-class-questions-A.pdf vinaya-class-questions-B.pdf vinaya-class-ques
 
 pali-lessons: export-pali-lessons pali-lessons.pdf
 
-pali-lessons-answerkey: export-pali-lessons pali-lessons-answerkey.pdf
+pali-lessons-answerkey: export-pali-lessons
+	ANSWERKEY=TRUE make pali-lessons-answerkey.pdf
 
 pali-lessons-preview:
 	ANSWERKEY=FALSE ./pali-lessons-preview.sh

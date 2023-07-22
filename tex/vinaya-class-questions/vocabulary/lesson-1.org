@@ -1,0 +1,303 @@
+# -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
+#+title: Vocabulary: Lesson 1
+
+Decks:
+
+Pāli Lessons::Lesson 1::1. Vocabulary
+
+Pāli Lessons::Lesson 1::2. Extra Challenge
+
+* Lesson 1
+** Vocabulary
+
+| a cook                                                                  | sūda (m.)                                        |
+| rice                                                                    | bhatta (m.)                                      |
+| he cooks                                                                | pacati                                           |
+| The chef cooks the rice.                                                | Sūdo bhattaṁ pacati.                             |
+| boy                                                                     | dāraka (m.)                                      |
+| food (lit. an enjoyable)                                                | bhojanīya (m.)                                   |
+| eats; enjoys                                                            | bhuñjati                                         |
+| The boys eat the food.                                                  | Dārakā bhojanīyaṁ bhuñjanti.                     |
+| bird                                                                    | sakuṇa (m.)                                       |
+| sky                                                                     | ākāsa (m.)                                       |
+| flies up; files off; flies away                                         | uḍḍayati                                          |
+| Birds fly in the sky.                                                   | Sakuṇā ākāse uḍḍayanti.                           |
+| horse                                                                   | seta (m.)                                        |
+| white                                                                   | assa (adj.)                                      |
+| here                                                                    | idha (ind.)                                      |
+| there                                                                   | tattha / tatra (ind.)                            |
+| from there                                                              | tato (ind.)                                      |
+| now                                                                     | idāni (ind.)                                     |
+| before                                                                  | pubbe (ind.)                                     |
+| after                                                                   | pacchā (ind.)                                    |
+| heavenly being; a god                                                   | deva (m.)                                        |
+| form                                                                    | rūpa (nt.)                                       |
+| feeling                                                                 | vedanā (f.)                                      |
+| I (pron.)                                                               | ahaṁ                                             |
+| we                                                                      | mayaṁ                                            |
+| you (sg.)                                                               | tvaṁ                                             |
+| you (pl.)                                                               | tumhe                                            |
+| he                                                                      | so, sa (m.)                                      |
+| they (m.)                                                               | te (m.)                                          |
+| it                                                                      | taṁ, tad (nt.)                                   |
+| they (nt.)                                                              | tāni (nt.)                                       |
+| she (f.)                                                                | sā (f.)                                          |
+| they (f.)                                                               | tā, tāyo (f.)                                    |
+| he who (m.nom.)                                                         | yo (m.)                                          |
+| to me                                                                   | maṁ                                              |
+| speaks                                                                  | bhāsati                                          |
+| She speaks to him/them.                                                 | Sā taṃ bhāsati.                                  |
+| sick; ill; unwell                                                       | gilāna (adj.)                                    |
+| attends                                                                 | upaṭṭhāti                                         |
+| he who attends to the ill                                               | yo gilānaṃ upaṭṭhāti                              |
+| he attends to me                                                        | so maṃ upaṭṭhāti                                  |
+| hatred; hostility                                                       | vera (nt.)                                       |
+| friendliness; lit. non-hatred                                           | avera (nt.)                                      |
+| knows                                                                   | jānati                                           |
+| I don't know.                                                           | Na jānāmi.                                       |
+| does                                                                    | karoti                                           |
+| you did (irregular)                                                     | akāsi                                            |
+| Don't you do!                                                           | Mā akāsi!                                        |
+| goes                                                                    | gacchati                                         |
+| comes                                                                   | āgacchati                                        |
+| Do you go?                                                              | Api nu / Kiṁ gacchasi?                           |
+| What is your name?                                                      | Kiṁ nāmo si?                                     |
+| man                                                                     | nara (m.)                                        |
+| runs                                                                    | dhāvati                                          |
+| walks                                                                   | carati                                           |
+| chews                                                                   | khādati                                          |
+| sees                                                                    | passati                                          |
+| recites                                                                 | uddisati                                         |
+| gives                                                                   | deti                                             |
+| informs                                                                 | āroceti                                          |
+| confesses                                                               | āvikaroti                                        |
+| I am (√as)                                                              | asmi                                             |
+| we are (√as)                                                            | asma                                             |
+| you are (√as)                                                           | asi                                              |
+| you all are (√as)                                                       | attha                                            |
+| he is (√as)                                                             | atthi                                            |
+| they are (√as)                                                          | santi                                            |
+| this; he; it                                                            | esa (pron.)                                      |
+| not this I am                                                           | n'eso'ham'asmi [na + eso + ahaṁ + asmi]          |
+| I am (√hū)                                                              | homi                                             |
+| we are (√hū)                                                            | homa                                             |
+| you are (√hū)                                                           | hosi                                             |
+| you all are (√hū)                                                       | hotha                                            |
+| he is (√hū)                                                             | hoti                                             |
+| they are (√hū)                                                          | honti                                            |
+| sits                                                                    | nisīdati                                         |
+| stands                                                                  | tiṭṭhati                                          |
+| gets up; gets out; arouses oneself; lit. stands up                      | uṭṭhahati; uṭṭhāti                                 |
+| The man sits.                                                           | Naro nisīdati.                                   |
+| The boy stands.                                                         | Dārako tiṭṭhati.                                  |
+| The woman stands up.                                                    | Mātugāmo uṭṭhahati.                               |
+| lion                                                                    | sīha (m.)                                        |
+| The lions are not running.                                              | Sīhā na dhāvanti.                                |
+| (is) born                                                               | jāyati                                           |
+| the born                                                                | jāta (pp. of jāyati)                             |
+| dies                                                                    | mīyati                                           |
+| The born die.                                                           | Jātā mīyanti.                                    |
+| bowl; cup                                                               | mallaka (m.)                                     |
+| breaks; splits; shatters                                                | bhindati                                         |
+| The cup breaks.                                                         | Mallako bhindati.                                |
+| old age; growing old; decay                                             | jara (m.) [√jar + a]                             |
+| disintegration; decay; old age; lit. going away                         | vaya (m.) [vi + √i + *a]                         |
+| falls                                                                   | nipatati                                         |
+| Old age falls.                                                          | Vayo nipatati.                                   |
+| requisite; everyday item                                                | parikkhāra (m.)                                  |
+| practices; engages (in)                                                 | paṭisevati                                        |
+| I use the requisite.                                                    | Parikkhāraṁ paṭisevāmi.                          |
+| seed; germ                                                              | bīja (nt.)                                       |
+| The birds eat the seeds.                                                | Sakuṇā bījāni bhuñjanti.                          |
+| dog                                                                     | sunakha (m.)                                     |
+| cat                                                                     | biḷāra (m.)                                       |
+| The lion doesn't see the dogs.                                          | Sīho sunakhe na passati.                         |
+| moon                                                                    | canda (m.)                                       |
+| barks                                                                   | bhussati                                         |
+| The dogs are barking at the moon.                                       | Sunakhā candaṁ bhussanti.                        |
+| disciple; pupil; follower                                               | sāvaka (m.)                                      |
+| The disciple eats the lion.                                             | Sāvako sīhaṁ khādati.                            |
+| The lion eats the disciple.                                             | Sīho sāvakaṁ khādati.                            |
+| fills up                                                                | paripūreti                                       |
+| ocean                                                                   | sāgara (m.)                                      |
+| They fill up the ocean.                                                 | Paripūrenti sāgaraṁ.                             |
+| root (of a tree); base; foot                                            | mūla (nt.)                                       |
+| The māluva-seed falls at the base of sal trees.                         | Māluvābījaṁ sālamūle nipatati.                   |
+| walking tour; walking journey                                           | cārikā (f.)                                      |
+| wanders on tour; walks about                                            | cārikaṁ carati (idiom.)                          |
+| The Buddha was wandering in the land of the Kosalans...                 | Bhagavā kosalesu cārikaṁ carati...               |
+| elder; senior monk                                                      | thera (m.)                                       |
+| The elder is going on a walk.                                           | Thero cārikaṁ carati.                            |
+| layman; male lay follower                                               | upāsaka (m.)                                     |
+| laywoman; female lay follower                                           | upāsikā (f.)                                     |
+| village; hamlet                                                         | gāma (m.)                                        |
+| The layman doesn't go to the village.                                   | Upāsako gāmaṁ na gacchati.                       |
+| approaches; goes to; visits                                             | upasaṅkamati                                      |
+| We go up to the layman.                                                 | Upāsakaṁ upasaṅkamāma.                           |
+| granary; treasury; storehouse                                           | koṭṭhāgāra (nt.)                                  |
+| The men run to the barn.                                                | Narā koṭṭhāgāraṁ dhāvanti.                        |
+| tree                                                                    | rukkha (m.)                                      |
+| The birds fly to the sal trees.                                         | Sakuṇā sālarukkhe uḍḍayanti.                      |
+| dwelling; building; house                                               | agāra (nt.)                                      |
+| enters; goes into                                                       | pavisati                                         |
+| We enter the hut.                                                       | Agāraṁ pavisāma.                                 |
+| community; monastic order                                               | Saṅgha (m.)                                       |
+| observance day                                                          | uposatha (m.)                                    |
+| The Sangha performs the uposatha.                                       | Saṅgho uposathaṁ karoti.                         |
+| offence; transgression                                                  | āpatti (f.)                                      |
+| He confesses the offense.                                               | Āpattiṁ āvikaroti.                               |
+| empty of; devoid of; without                                            | suñña (adj.)                                     |
+| empty dwelling                                                          | suññāgāra (nt.)                                  |
+| I enter the empty hut.                                                  | Suññāgāraṁ pavisāmi.                             |
+| We go to the roots of trees.                                            | Rukkhamūle gacchāma.                             |
+| The 4 foundations of mindfulness fulfil the 7 factors of enlightenment. | Cattāro satipaṭṭhānā satta bojjhaṅge paripūrenti. |
+| The dogs are barking at the cats.                                       | Sunakhā biḷāre bhussanti.                         |
+
+** Extra Challenge
+
+| master; gentleman; sir                                                                      | ayya (m.)                                                                           |
+| May he come here. (imperative)                                                              | Idha āgacchatu.                                                                     |
+| May the master come here. (imperative)                                                      | Ayyo idha āgacchatu.                                                                |
+| Venerable, may the master come and sit here.                                                | Bhante, ayyo āgacchatu, idha nisīdatu.                                              |
+| I hope; I trust                                                                             | kacci (ind.)                                                                        |
+| I hope you are...                                                                           | kacci'si [kacci + asi]                                                              |
+| bearable; tolearable                                                                        | khamanīya (adj.)                                                                    |
+| able to keep going; sustainable                                                             | yāpanīya (adj.)                                                                     |
+| I hope you're keeping well Ven., I hope you're getting by?                                  | Kacci, bhante, khamanīyaṁ kacci yāpanīyaṁ?                                          |
+| few; not much                                                                               | appa (adj.)                                                                         |
+| fatigue; tiredness                                                                          | kilamatha (m.)                                                                      |
+| worn out; tired                                                                             | kilanta (adj)                                                                       |
+| little fatigue; little tiredness                                                            | appakilamatha (m.)                                                                  |
+| long road; journey                                                                          | addhāna (nt.)                                                                       |
+| coming; arrival                                                                             | āgata (nt.)                                                                         |
+| I hope you are with little fatigue?                                                         | Kacci'si appakilamathena?                                                           |
+| from travelling (from going on the journey)                                                 | addhānaṁ āgato                                                                      |
+| I hope you're with little fatigue from traveling?                                           | Kacci'si appakilamathena addhānaṁ āgato?                                            |
+| I'm keeping well, friend, I'm getting by.                                                   | Khamanīyaṁ, āvuso, yāpanīyaṁ.                                                       |
+| ... and I'm not tired, friend, from traveling.                                              | ... appakilamathena cāhaṁ [ca ahaṁ], āvuso, addhānaṁ āgato.                        |
+| I am tired. (Me tired I am '√as')                                                           | Ahaṁ kilantosmi. [kilanto + asmi]                                                   |
+| where? from where?                                                                          | kuto (ind.)                                                                         |
+| And where from, you Ven., have you come?                                                    | Kuto ca tvaṁ bhante, āgacchasi?                                                     |
+| country; province; area                                                                     | janapada (m.)                                                                       |
+| There is, Ven., in the country (of) Portugal, the monastery called Sumedhārāma.             | Atthi, bhante, Portugal janapade Sumedhārāma-vihāro nāma.                           |
+| There is, Ven., in the country (of) America, the monastery called Clear Mountain.           | Atthi, bhante, America janapade Pasannagiri-vihāro nāma.                            |
+| That's where I, Ven., am coming from.                                                       | Tato ahaṁ, bhante, āgacchāmī.                                                       |
+| (1) ball; lump (2) bit of food                                                              | piṇḍa (m.)                                                                           |
+| alms food; lit. lump-like thing                                                             | piṇḍaka (m.)                                                                         |
+| (1) fall (2) drop; dropping; lit. made to drop                                              | pāta (m.)                                                                           |
+| alms food; lit. lump dropping                                                               | piṇḍapāta (m.)                                                                       |
+| Have you not had trouble? (not tired/weary you are '√as')                                   | Na kilantosi?                                                                       |
+| And have you not had trouble getting almsfood? (And not, with the almsfood, you are tired?) | Na ca piṇḍakena kilantosi?                                                           |
+| I had no trouble getting almsfood. (tired I am '√as')                                       | Na ca piṇḍakena kilantomhi.                                                          |
+| town; market town                                                                           | nigama (m.)                                                                         |
+| I am entering the town Ericeira.                                                            | Ericeiraṁ pavisāmi.                                                                 |
+| day                                                                                         | aṇha (m.)                                                                            |
+| night                                                                                       | sāya (nt.)                                                                          |
+| time; occasion                                                                              | samaya (m.)                                                                         |
+| morning-time                                                                                | pubbaṇhasamaya (m.)                                                                  |
+| day-time                                                                                    | majjhanhikasamaya (m.)                                                              |
+| evening-time                                                                                | sāyanhasamaya (m.)                                                                  |
+| This morning I am entering the town Ericeira for alms-round.                                | Idha pubbaṇhasamayaṁ Ericeira-nigamaṁ piṇḍāya pavisāmi.                             |
+| Good morning (daybreak) Ven. Sir!                                                           | Suppabhātaṁ bhante.                                                                 |
+| Good morning everyone.                                                                      | Suppabhātaṁ sabbesaṁ.                                                               |
+| Thank you.                                                                                  | Anumodāmi.                                                                          |
+| (See you) tomorrow.                                                                         | Suve.                                                                               |
+| (Sorry,) I'll make amends.                                                                  | Paṭikarissāmi.                                                                       |
+| I feel sorry.                                                                               | Kāruññaṁ.                                                                           |
+| Yes.                                                                                        | Āma / Evaṁ bhante.                                                                  |
+| No.                                                                                         | No hetaṁ, bhante.                                                                   |
+| Never mind (leave it aside).                                                                | Tiṭṭhatu, bhante.                                                                    |
+| It is hot today.                                                                            | Ajj'āccuṇhaṃ. [ajja (ind.) + ati  + uṇha]                                           |
+| It is cold today.                                                                           | Ajj'ātisītaṁ.                                                                       |
+| Excuse me!                                                                                  | Okāsa, bhante.                                                                      |
+| Welcome here.                                                                               | Svāgataṁ.                                                                           |
+| Please sit.                                                                                 | Nisīdatha.                                                                          |
+| Wait (stay) here. / May you wait here.                                                      | Ettheva tiṭṭha / tiṭṭhatha.                                                           |
+| knows; understands                                                                          | jānāti                                                                              |
+| knows clearly; understands; distinguishes                                                   | pajānāti                                                                            |
+| I don't understand.                                                                         | Na pajānāmi.                                                                        |
+| Why is that?                                                                                | Taṁ kissa hetu?                                                                     |
+| Where?                                                                                      | kattha (ind.)                                                                       |
+| market; bazaar; market place                                                                | antarāpaṇa (m.)                                                                      |
+| Where is the market?                                                                        | Kattha antarāpaṇo?                                                                   |
+| thinks; presumes; supposes                                                                  | maññati                                                                             |
+| What do you think?                                                                          | Taṁ kiṁ maññasi?                                                                    |
+| How?                                                                                        | kinti (ind.)                                                                        |
+| How can I help (do)?                                                                        | Kinti karomi?                                                                       |
+| What is your name?                                                                          | Kinnāmosi?                                                                          |
+| My name is ...                                                                              | Ahaṁ bhante ... nāma.                                                               |
+| What is your preceptor's name?                                                              | Ko nāma te upajjhāyo?                                                               |
+| My preceptor's name is Ven. ...                                                             | Upajjhāyo me bhante āyasmā ... nāma.                                                |
+| I hope you are well (enduring)?                                                             | Kacci te bhante khamanīyaṁ?                                                         |
+| I hope you all are well.                                                                    | Kacci vo khamanīyaṁ.                                                                |
+| I am alright.                                                                               | Ahaṁ khamanīyo / Khamanīyaṁ me.                                                     |
+| I am not well.                                                                              | Na me, bhante, khamanīyaṁ.                                                          |
+| And where are you now?                                                                      | Idāni katthañca hosi?                                                               |
+| Are you at your mother and father's house?                                                  | Api nu Idāni mātāpitūgāraṁ / -garamhi / -gare viharasi?                             |
+| I (we) must go.                                                                             | Handa dāni mayaṁ gacchāma.                                                          |
+| Go at your convenience.                                                                     | Yassadāni tvaṁ kālaṁ maññasī.                                                       |
+| sunrise; dawn; daybreak                                                                     | pabhāta (nt.)                                                                       |
+| good morning                                                                                | suppabhāta [su + pabhāta]                                                           |
+| good midday                                                                                 | sumajjhanhika [su + majjha + anha + ika]                                            |
+| good evening                                                                                | susāyanha [su + sāya + anha]                                                        |
+| hot                                                                                         | uṇha (adj.)                                                                          |
+| cold                                                                                        | sīta (adj.)                                                                         |
+| drink; beverage                                                                             | pāna (nt.)                                                                          |
+| water                                                                                       | udaka (nt.)                                                                         |
+| hot water                                                                                   | uṇhodaka (nt.) [uṇha + udaka]                                                        |
+| cold water                                                                                  | sītodaka (nt.) [sīta + udaka]                                                       |
+| feels; experiences; senses; lit. causes to know                                             | vedayati                                                                            |
+| desires; wants                                                                              | icchati                                                                             |
+| greater (than); more (than)                                                                 | atirekatara                                                                         |
+| food; fuel; sustenance                                                                      | āhāra (m.)                                                                          |
+| (1) analyses; dissects (2) divides; distributes; shares                                     | vibhajati                                                                           |
+| immediately after that; with no interval                                                    | anantaraṁ (ind.)                                                                    |
+| for a week; for seven days                                                                  | sattāhaṁ (ind.)                                                                     |
+| takes                                                                                       | harati                                                                              |
+| brings                                                                                      | āharati                                                                             |
+| will bring                                                                                  | āharissati                                                                          |
+| (1) takes; grasps; embraces (2) steals; takes (3) obeys; follows; accepts; lit. takes       | ādiyati                                                                             |
+| (1) taking; grasping; embracing (2) receiving; accepting                                    | ādāya (ger. of ādiyati)                                                             |
+| thought; reflection                                                                         | vitakka (m.)                                                                        |
+| agreeable; nice                                                                             | piyarūpa (adj.)                                                                     |
+| right here                                                                                  | ettheva [ettha + eva]                                                               |
+| goal; purpose; want                                                                         | attha (m.)                                                                          |
+| always                                                                                      | sabbadā (ind.)                                                                      |
+| ever; sometime                                                                              | kadāci (ind.)                                                                       |
+| never                                                                                       | na kadāci (idiom)                                                                   |
+| next; after                                                                                 | para (adj.)                                                                         |
+| master; gentleman                                                                           | ayya (m.)                                                                           |
+| long road; journey                                                                          | addhāna (nt.)                                                                       |
+| guest                                                                                       | āgata (m.)                                                                          |
+| coming; arrival                                                                             | āgata (nt.)                                                                         |
+| helpful; useful                                                                             | upakāra (adj.)                                                                      |
+| healthy; well; lit. able                                                                    | kallaka (adj.)                                                                      |
+| gets; receives; obtains                                                                     | labhati                                                                             |
+| is received; is obtained                                                                    | labbhati (pass. of labhati)                                                         |
+| Good morning friend! Are you well?                                                          | Suppabhātaṁ āvuso. Kacci te khamanīyaṁ?                                             |
+| I am not well, Sir. I feel cold.                                                            | Na me, bhante, khamanīyaṁ. Sītaṁ vedayāmi / paṭisaṁvediyāmi.                        |
+| Tomorrow will be hot. Do you want a hot drink?                                              | Suve uṇhaṁ bhavissati. Pānaṁ uṇhaṁ icchasi?                                         |
+| A cup with hot water is a good idea (agreeable thought).                                    | Mallako uṇhodakassa vitakkaṁ piyarūpaṁ. / Uṇhodaka'mallako vitakko piyarūpo (hoti). |
+| Right here friend. Do you come from the country Spain?                                      | Etthevaṁ āvuso. Spain janapadasmā āgacchasi?                                        |
+| No Sir. I come from the country ...                                                         | No hetaṁ, bhante. ... janapadasmā āgacchāmi.                                        |
+| And where do you live Sir?                                                                  | Katthañca vasatha bhante?                                                           |
+| I live in Norway. There it is always cold.                                                  | Norway janapade vasāmi. Tatra sītaṁ sabbadā.                                        |
+| Is is hot in ... country?                                                                   | Api nu ... janapade uṇho?                                                            |
+| Here in the morning it is cold, and in the daytime is it hot.                               | Idha pubbaṇhasamaye ca sīto hoti, majjhanhikasamaye ca uṇho hoti.                    |
+| I must go now. Bye for a week.                                                              | Handa dāni ahaṁ gacchāmi. (Anantaraṁ) sattāhaṁ.                                    |
+| Go at your convenience.                                                                     | Yassadāni tumhe kālaṁ maññatha.                                                     |
+| Be heedful! (i.e. take care!)                                                               | Appamādosi!                                                                         |
+| Welcome, Sir! May the master come here. I hope you are not tired?                           | Svāgataṁ bhante. Ayyo idha āgacchatu. Kacci'si appakilamathena?                     |
+| Thank you friend, I am tired from coming on the journey.                                    | Anumodāmi āvuso. Kilamathena addhānaṁ āgato.                                        |
+| Why is that? Today is not hot.                                                              | Taṁ kissa hetu? Na ajj'āccuṇhaṃ / ajjūṇho.                                          |
+| Having walked for alms, having received a lot of food, my bowl is heavy.                    | Piṇḍāya caritvā / gatvā, bahu khādanīyaṁ paṭiggahetvā / labbhitvā, me patto garo.    |
+| I got more food than Ven. Kovilo. I will share with him.                                    | Kovilā atirekataraṁ āhāraṁ labbhāmi. Ahaṁ tena vibhajissāmi.                       |
+| Please sit here. Where does the master go for alms?                                         | Ettheva / Idha nisīdatha. Kuhiṁ / Kathaṁ piṇḍāya ayyo gacchatha?                    |
+| In the town called Ericeira, there is the market. I go there for alms.                      | Gāme Ericeira nāmo, atthi antarāpaṇo. Tatra piṇḍāya gacchāmi.                        |
+| How can I help (do), Sir?                                                                   | Kinti karomi bhante?                                                                |
+| What can I do for you, Sir?                                                                 | Kiṁ tuyhaṁ karomi, bhante?                                                          |
+| should be shared with                                                                       | saddhiṁ saṁvibhajitabbaṁ                                                           |
+| Having taken my bowl, the alms should be shared with the bhikkhus.                          | Me pattaṁ gahetvā / ādāya, piṇḍaṁ bhikkhūhi saddhiṁ saṁvibhajitabbaṁ.              |
+| If you want water, please tell me Sir.                                                      | Bhāseyya, sace te bhante, udakena attho.                                            |
+| A cup of cold water will be refreshing (healthy).                                           | Sītodakamallako kallako bhavissati.                                                 |
+| Wait right here Sir, I will bring (it to you).                                              | Ettheva bhante, tiṭṭha / tiṭṭhatha. (Taṁ taṁ) āharissāmi.                            |

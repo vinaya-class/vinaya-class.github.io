@@ -1,4 +1,4 @@
-all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf pali-lessons-pdf vinaya-class-zip
+all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf pali-lessons-pdf pali-lessons-anki-deck vinaya-class-zip
 
 dist:
 	./scripts/dist.sh
@@ -53,5 +53,8 @@ pali-lessons-pdf:
 	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-lessons.tex && \
 	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-lessons-answerkey.tex
 
+pali-lessons-anki-deck:
+	cp tex/vinaya-class-questions/vocabulary/exported/pali-lessons.apkg src/includes/docs/pali-lessons.apkg
+
 vinaya-class-zip:
-	cd src/includes/docs && zip vinaya-class.zip *.pdf
+	cd src/includes/docs && zip vinaya-class.zip *.pdf *.apkg

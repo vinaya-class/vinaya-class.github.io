@@ -1,0 +1,259 @@
+#+title: Lesson 1: Pāli Chat Vocabulary
+
+* Vocabulary
+** Getting By
+
+he comes
+~āgacchati~
+
+master; gentleman; sir
+~ayya (m.)~
+
+I hope; I trust
+~kacci (ind.)~
+
+I hope you are...
+~kacci'si [kacci + asi]~
+
+bearable; tolearable
+~khamanīya (adj.)~
+
+able to keep going; sustainable
+~yāpanīya (adj.)~
+
+** Tired from Travelling
+
+few; not much
+~appa (adj.)~
+
+fatigue; tiredness
+~kilamatha (m.)~
+
+worn out; tired
+~kilanta (adj)~
+
+little fatigue; little tiredness
+~appakilamatha (m.)~
+
+long road; journey
+~addhāna (nt.)~
+
+coming; arrival
+~āgata (nt.)~
+
+from travelling (from going on the journey)
+~addhānaṁ āgato~
+
+I am '√as'
+~asmi~
+
+where? from where?
+~kuto (ind.)~
+
+country; province; area
+~janapada (m.)~
+
+** Almsfood
+
+(1) ball; lump (2) bit of food
+~piṇḍa (m.)~
+
+alms food
+~piṇḍaka (m.)~
+
+enters
+~pavisati~
+
+town
+~nigama (m.)~
+
+day
+~aṇha (m.)~
+
+time; occasion
+~samaya (m.)~
+
+morning-time
+~pubbaṇhasamaya (m.)~
+
+day-time
+~majjhanhikasamaya (m.)~
+
+evening-time
+~sāyanhasamaya (m.)~
+
+** Phrases
+
+Good morning Ven. Sir!
+~Supubbaṇho bhante.~
+
+Good morning everyone.
+~Supubbaṇho sabbesaṁ.~
+
+Thank you.
+~Anumodāmi.~
+
+(See you) tomorrow.
+~Suve.~
+
+(Sorry,) I'll make amends.
+~Paṭikarissāmi.~
+
+I feel sorry.
+~Kāruññaṁ.~
+
+Yes.
+~Āma / Evaṁ bhante.~
+
+No.
+~No hetaṁ, bhante.~
+
+Never mind (leave it aside).
+~Tiṭṭhatu, bhante.~
+
+It is hot today.
+~Ajj'āccuṇhaṃ. [ajja (ind.) + ati  + uṇha]~
+
+It is cold today.
+~Ajj'ātisītaṁ.~
+
+Excuse me!
+~Okāsa, bhante.~
+
+Welcome here.
+~Svāgataṁ.~
+
+Please sit.
+~Nisīdatha.~
+
+Wait (stay) here.
+~Ettheva tiṭṭha.~
+
+knows; understands; distinguishes
+~pajānāti~
+
+Why is that?
+~Taṁ kissa hetu?~
+
+Where?
+~kattha (ind.)~
+
+market; bazaar; market place
+~antarāpaṇa (m.)~
+
+thinks; presumes; supposes
+~maññati~
+
+How?
+~kinti (ind.)~
+
+I (we) must go.
+~Handa dāni mayaṁ gacchāma.~
+
+Go at your convenience.
+~Yassadāni tvaṁ kālaṁ maññasī.~
+
+** Coversation 1 & 2
+
+sunrise; dawn; daybreak
+~pabhāta (nt.) [pa + √bhā + ta]~
+
+good morning
+~suppabhāta [su + pabhāta]~
+
+good midday
+~sumajjhanhika [su + majjha + anha + ika]~
+
+good evening
+~susāyanha [su + sāya + anha]~
+
+hot
+~uṇha (adj.)~
+
+cold
+~sīta (adj.)~
+
+drink; beverage
+~pāna (nt.)~
+
+water
+~udaka (nt.)~
+
+hot water
+~uṇhodaka (nt.) [uṇha + udaka]~
+
+cold water
+~sītodaka (nt.) [sīta + udaka]~
+
+feels; experiences; senses; lit. causes to know
+~vedayati~
+
+desires; wants
+~icchati~
+
+greater (than); more (than)
+~atirekatara~
+
+food; fuel; sustenance
+~āhāra (m.)~
+
+(1) analyses; dissects
+(2) divides; distributes; shares
+~vibhajati~
+
+immediately after that; with no interval
+~anantaraṁ (ind.)~
+
+for a week; for seven days
+~sattāhaṁ (ind.)~
+
+takes
+~harati~
+
+brings
+~āharati~
+
+will bring
+~āharissati~
+
+thought; reflection
+~vitakka (m.)~
+
+agreeable; nice
+~piyarūpa (adj.)~
+
+right here
+~ettheva [ettha + eva]~
+
+goal; purpose; want
+~attha (m.)~
+
+always
+~sabbadā (ind.)~
+
+ever; sometime
+~kadāci (ind.)~
+
+never
+~na kadāci (idiom)~
+
+next; after
+~para (adj.)~
+
+master; gentleman
+~ayya (m.)~
+
+long road; journey
+~addhāna (nt.)~
+
+guest
+~āgata (m.)~
+
+coming; arrival
+~āgata (nt.)~
+
+helpful; useful
+~upakāra (adj.)~
+
+healthy; well; lit. able
+~kallaka (adj.)~
