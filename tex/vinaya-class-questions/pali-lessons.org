@@ -33,6 +33,13 @@
 Vocab csv + BPC exec.
 
 Bril font for lang cheat sheets
+** idiomatic negative response
+
+[[mu4e:msgid:871qgxbg12.fsf@sumedharama.pt][idomatic negative responses in Pali]]
+
+Sāriputta, you should not regard it so.
+
+Na kho panetaṁ, sāriputta, evaṁ daṭṭhabbaṁ. (MN 12)
 
 ** publish only before classes
 
@@ -569,7 +576,7 @@ There are flies in the kitchen.
 | There is, Ven., in the country (of) Portugal, the monastery called Sumedhārāma. |
 | \fillin{12cm}{Atthi, bhante, Portugal janapade Sumedhārāma-vihāro nāma.}        |
 | That's where I, Ven., am coming from.                                           |
-| \fillin{12cm}{Tato ahaṁ, bhante, āgacchāmī.}                                    |
+| \fillin{12cm}{Tato ahaṁ, bhante, āgacchāmi.}                                    |
 
 #+latex: \normalArrayStrech
 
@@ -610,8 +617,8 @@ There are flies in the kitchen.
 
 **** Phrases
 
-| Good morning Ven. Sir!            | Supubbaṇho bhante.                         |
-| Good morning everyone.            | Supubbaṇho sabbesaṁ.                      |
+| Good morning (daybreak) Ven. Sir! | Suppabhātaṁ bhante.                       |
+| Good morning everyone.            | Suppabhātaṁ sabbesaṁ.                     |
 | Thank you.                        | Anumodāmi.                                |
 | (See you) tomorrow.               | Suve.                                     |
 | (Sorry,) I'll make amends.        | Paṭikarissāmi.                             |
@@ -716,7 +723,7 @@ There are flies in the kitchen.
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | \textbf{[A]} Good morning friend! Are you well?                                                    |
-| \fillin{12cm}{Suppabhātaṁ āvuso. Kacci te khamanīyaṁ?}                                             |
+| \fillin{12cm}{Suppabhātaṁ āvuso. Kacci si khamanīyaṁ?}                                             |
 | \textbf{[B]} I am not well, Sir. I feel cold.                                                      |
 | \fillin{12cm}{Na me, bhante, khamanīyaṁ. Sītaṁ vedayāmi / paṭisaṁvediyāmi.}                        |
 | \textbf{[A]} Tomorrow will be hot. Do you want a hot drink?                                        |

@@ -34,7 +34,7 @@ Pāli Lessons::Lesson 2::1. Vocabulary
 | He gives her the cloth.                                                          | So tā dussaṁ deti.                                    |
 | The man eats rice.                                                               | Naro bhattaṁ bhuñjati.                                |
 | The men are cooking.                                                             | Narā pacanti.                                         |
-| I go up to the man.                                                              | Naraṁ upasaṅkamati.                                   |
+| I go up to the man.                                                              | Naraṁ upasaṅkamāmi.                                   |
 | I see the moon.                                                                  | Candaṁ passāmi.                                       |
 | You (pl.) don't see the dogs.                                                    | Sunakhe na passatha.                                  |
 | The boys are running.                                                            | Dārakā dhāvanti.                                      |
