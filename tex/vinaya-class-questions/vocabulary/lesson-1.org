@@ -22,8 +22,8 @@ Pāli Lessons::Lesson 1::2. Extra Challenge
 | sky                                                                     | ākāsa (m.)                                       |
 | flies up; files off; flies away                                         | uḍḍayati                                          |
 | Birds fly in the sky.                                                   | Sakuṇā ākāse uḍḍayanti.                           |
-| horse                                                                   | seta (m.)                                        |
-| white                                                                   | assa (adj.)                                      |
+| horse                                                                   | assa (m.)                                        |
+| white                                                                   | seta (adj.)                                      |
 | here                                                                    | idha (ind.)                                      |
 | there                                                                   | tattha / tatra (ind.)                            |
 | from there                                                              | tato (ind.)                                      |

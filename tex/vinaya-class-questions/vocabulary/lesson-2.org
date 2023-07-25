@@ -29,12 +29,13 @@ Pāli Lessons::Lesson 2::1. Vocabulary
 | death personified                                                                | māra (m.)                                             |
 | daughter                                                                         | dhītar (f.)                                           |
 | daughter of Māra                                                                 | māradhītar (f.)                                       |
-| Discontent is a dauther of Māra.                                                 | Aratī eko māradhītaro.                                |
+| Discontent is a dauther of Māra.                                                 | Aratī ekā māradhītarā.                                |
 | cloth; garments                                                                  | dussa (nt.)                                           |
-| He gives her the cloth.                                                          | So tā dussaṁ deti.                                    |
+| to/for her; to/for that                                                          | tassā (f.dat.sg.pron.) [ta + ssā]                     |
+| He gives her the cloth.                                                          | So tassā dussaṁ deti.                                 |
 | The man eats rice.                                                               | Naro bhattaṁ bhuñjati.                                |
 | The men are cooking.                                                             | Narā pacanti.                                         |
-| I go up to the man.                                                              | Naraṁ upasaṅkamāmi.                                   |
+| General Sīha goes up to the Buddha.                                              | Sīho Senāpati yena bhagavā ten'upasaṅkamati.           |
 | I see the moon.                                                                  | Candaṁ passāmi.                                       |
 | You (pl.) don't see the dogs.                                                    | Sunakhe na passatha.                                  |
 | The boys are running.                                                            | Dārakā dhāvanti.                                      |
@@ -164,11 +165,13 @@ Pāli Lessons::Lesson 2::1. Vocabulary
 | Fire, having rose up, burns down the householder's house.                        | Aggi uṭṭhāya gahapatikassa gehaṁ ḍahati.               |
 | servant; attendant                                                               | sevaka (m.)                                           |
 | rice; boiled rice; food; lit. wet stuff; boiled in water                         | odana (m.)                                            |
-| The cooks cook the rice for the householder's servants.                          | Sūdehi gahapatino sevakānaṁ odano pacanti.            |
+| The cooks cook the rice for the householder's servants.                          | Sūdehi gahapatino sevakānaṁ odanaṁ pacanti.           |
 | thief; robber                                                                    | cora (m.)                                             |
 | carries; carries away; takes away                                                | harati                                                |
 | cattle; oxen                                                                     | gāvo (m.) [go + āvo]                                  |
-| Taken away by thieves, the householder's oxen vanished.                          | Corehi haritvā, gahapatino gāvo naṭṭho.                |
+| hits; beats; stabs                                                               | hanati                                                |
+| is hurt; is killed; is slaughtered                                               | haññati (pr. pass. of hanati)                         |
+| Taken away by thieves, the householder's oxen are slaughtered.                   | Corehi haritvā, gahapatino gāvo haññanti.             |
 | sun; lit. shining                                                                | suriya (m.)                                           |
 | light; brightness; clarity                                                       | āloka (m.)                                            |
 | blind person; lit. dark                                                          | andha (m.)                                            |
@@ -183,7 +186,7 @@ Pāli Lessons::Lesson 2::1. Vocabulary
 | We don't see the change of the body of the man.                                  | Na passāma manussassa kāyassa vipariṇāmaṁ.            |
 | beyond; across; over                                                             | pāraṁ (ind.)                                          |
 | By means of the Teaching, men go to the far shore.                               | Manussā dhammena pāraṁ gacchanti.                     |
-| The man's oxen were lost / vanished.                                             | Purisassa goṇo / gāvo naṭṭho.                          |
+| The man's oxen are slaughtered.                                                  | Purisassa goṇo / gāvo haññanti.                        |
 | beggar; mendicant                                                                | yācaka (m.)                                           |
 | eaten; consumed                                                                  | khādito (pp. of khādati)                              |
 | Rice cooked by the cook was eaten by the beggar's dog.                           | Sūdena pacito odano yācakassa sunakhena khādito.      |

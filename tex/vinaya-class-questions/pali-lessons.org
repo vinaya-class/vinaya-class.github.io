@@ -814,21 +814,21 @@ There are flies in the kitchen.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{The elders make an effort.}            | Therā viriyaṁ ārabhanti (/begins; undertakes/).    |
-| \fillin{8cm}{They give ear.}                        | Te sotaṁ odahanti (/applies; gives/).              |
-| \fillin{8cm}{Privately, he takes a seat.}           | Raho (/ind. privately/) nisajjaṁ kappeti.          |
-| \fillin{8cm}{Who seeks privacy, he wants solitude.} | Yo rahāyati (/seeks privacy/), so vivekaṁ icchati. |
-| \fillin{8cm}{Discontent is a dauther of Māra.}      | Aratī eko māradhītaro.                             |
-| \fillin{8cm}{He gives her the cloth.}               | So tā dussaṁ (/cloth/) deti.                       |
-| The man eats rice.                                  | \fillin{8cm}{Naro bhattaṁ bhuñjati.}               |
-| The men are cooking.                                | \fillin{8cm}{Narā pacanti.}                        |
-| I go up to the man.                                 | \fillin{8cm}{Naraṁ upasaṅkamati.}                  |
-| I see the moon.                                     | \fillin{8cm}{Candaṁ passāmi.}                      |
-| You (pl.) don't see the dogs.                       | \fillin{8cm}{Sunakhe na passatha.}                 |
-| The boys are running.                               | \fillin{8cm}{Dārakā dhāvanti.}                     |
-| You are sitting here.                               | \fillin{8cm}{Idha nisīdasi.}                       |
-| She comes from there.                               | \fillin{8cm}{Sā tato āgacchati.}                   |
-| We run to the boys.                                 | \fillin{8cm}{Mayaṁ dārake dhāvāma.}                |
+| \fillin{8cm}{The elders make an effort.}            | Therā viriyaṁ ārabhanti (/begins; undertakes/).           |
+| \fillin{8cm}{They give ear.}                        | Te sotaṁ odahanti (/applies; gives/).                     |
+| \fillin{8cm}{Privately, he takes a seat.}           | Raho (/ind. privately/) nisajjaṁ kappeti.                 |
+| \fillin{8cm}{Who seeks privacy, he wants solitude.} | Yo rahāyati (/seeks privacy/), so vivekaṁ icchati.        |
+| \fillin{8cm}{Discontent is a dauther of Māra.}      | Aratī ekā māradhītarā.                                    |
+| \fillin{8cm}{He gives her the cloth.}               | So tassā dussaṁ (/cloth/) deti.                           |
+| The man eats rice.                                  | \fillin{8cm}{Naro bhattaṁ bhuñjati.}                      |
+| The men are cooking.                                | \fillin{8cm}{Narā pacanti.}                               |
+| General Sīha goes up to the Buddha.                 | \fillin{8cm}{Sīho Senāpati yena bhagavā ten'upasaṅkamati.} |
+| I see the moon.                                     | \fillin{8cm}{Candaṁ passāmi.}                             |
+| You (pl.) don't see the dogs.                       | \fillin{8cm}{Sunakhe na passatha.}                        |
+| The boys are running.                               | \fillin{8cm}{Dārakā dhāvanti.}                            |
+| You are sitting here.                               | \fillin{8cm}{Idha nisīdasi.}                              |
+| She comes from there.                               | \fillin{8cm}{Sā tato āgacchati.}                          |
+| We run to the boys.                                 | \fillin{8cm}{Mayaṁ dārake dhāvāma.}                       |
 
 #+latex: \normalArrayStrech
 
@@ -839,6 +839,10 @@ There are flies in the kitchen.
 /nisajjaṁ kappeti:/ idiom. takes a seat (on); sits down (in); lit. prepares a sitting place
 
 /kappati:/ [√kapp + a + ti]: it is suitable (for); it is proper (for); it is fitting (for); it is allowable
+
+/tassā:/ f.dat.sg.pron. to/for her; to/for that [ta + ssā]
+
+/yena ... ten'upasaṅkamati/: (idiom) wherever ... he approaches (him/it)
 
 #+latex: \clearpage
 
@@ -1073,20 +1077,23 @@ But we don't see any impairment in the body or deterioration of Ven. Upasena's f
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Aggi uṭṭhāya (/rose up/) gahapatikassa gehaṁ (/house/) ḍahati (/burns down/). |
-| \fillin{12cm}{Fire, having rose up, burns down the householder's house.}     |
-| Sūdehi gahapatino sevakānaṁ (/servants/) odano pacanti.                      |
-| \fillin{12cm}{The cooks cook the rice for the householder's servants.}       |
-| Corehi haritvā, gahapatino gāvo naṭṭho (/vanished/).                          |
-| \fillin{12cm}{Taken away by thieves, the householder's oxen vanished.}       |
-| Suriyassa ālokena andhakāro (/darkness/) apagato (/lit. gone away/).         |
-| \fillin{12cm}{The darkness was dispelled by the sun's light.}                |
+| Aggi uṭṭhāya (/rose up/) gahapatikassa gehaṁ (/house/) ḍahati (/burns down/).  |
+| \fillin{12cm}{Fire, having rose up, burns down the householder's house.}      |
+| Sūdehi gahapatino sevakānaṁ (/servants/) odanaṁ pacanti.                      |
+| \fillin{12cm}{The cooks cook the rice for the householder's servants.}        |
+| Corehi haritvā, gahapatino gāvo (/acc.pl.irreg./) haññanti (/slaughtered/).   |
+| \fillin{12cm}{Taken away by thieves, the householder's oxen are slaughtered.} |
+| Suriyassa ālokena andhakāro (/darkness/) apagato (/lit. gone away/).          |
+| \fillin{12cm}{The darkness was dispelled by the sun's light.}                 |
 
-\null
+#+latex: \enlargethispage{\baselineskip}
+
+/hanati:/ hits; beats; stabs \\
+/haññati:/ pr. pass. of /hanati/; is hurt; is killed; is slaughtered
 
 | We don't see the change of the body of the man.    | \fillin{8cm}{Na passāma manussassa kāyassa vipariṇāmaṁ.} |
 | By means of the Teaching, men go to the far shore. | \fillin{8cm}{Manussā dhammena pāraṁ gacchanti.}          |
-| The man's oxen were lost / vanished.               | \fillin{8cm}{Purisassa goṇo / gāvo naṭṭho.}               |
+| The man's oxen are slaughtered.                    | \fillin{8cm}{Purisassa goṇo / gāvo haññanti.}             |
 | Rice cooked by the cook was eaten (/khādito/)      | \fillin{8cm}{Sūdena pacito odano}                        |
 | by the beggar's (/yācaka/) dog.                    | \fillin{8cm}{yācakassa sunakhena khādito.}               |
 
