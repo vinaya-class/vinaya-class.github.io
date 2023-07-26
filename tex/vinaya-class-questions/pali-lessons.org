@@ -1231,14 +1231,55 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 ** Exercises
 *** Translate
 
+#+begin_twocols
+
+/anujānāti:/ allows (to); permits (to) \\
+/kaṇājaka:/ nt. congee; gruel; rice porridge \\
+/kañjiya:/ nt. rice water; congee
+
+\columnbreak
+
+/accha:/ adj. clean; clear; transparent \\
+/acchakañjiyā:/ f. rice gruel; rice water \\
+/yūsa:/ m. soup; broth \\
+/akaṭayūsa:/ m. untreated soup; bean broth
+
+#+end_twocols
+
 #+latex: \renewcommand{\arraystretch}{1.8}
+
+| He needed rice water (clear congee). | Acchakañjiyā attho hoti.[fn:mv-kd6]                |
+| Bhikkhus, I allow rice water.        | "Anujānāmi, bhikkhave, acchakañjin"ti.             |
+| He needed bean broth.                | \fillin{8cm}{Akaṭayūsena attho hoti.}               |
+| Bhikkhus, I allow bean broth.        | \fillin{8cm}{"Anujānāmi, bhikkhave, akaṭayūsan"ti.} |
+
+#+begin_twocols
+
+/nandati:/ is happy (with); delights (in); likes; enjoys \\
+/socati:/ sorrows; grieves; mourns \\
+/laddhā:/ (abs. of labhati) having got; having obtained \\
+/tena hi:/ in that case; if that's so
+
+\columnbreak
+
+/kathaṁ:/ ind. How? \\
+/jīyati:/ diminishes; decreases; gets less; is lost \\
+/jīyittha:/ was lost (aor. 3rd. refl. sg. of /jīyati/)
+
+#+end_twocols
 
 | Do you delight, ascetic?                  | \fillin{8cm}{Nandasi, samaṇa?}         |
 | \fillin{8cm}{What have I gained, friend?} | Kiṁ laddhā, āvuso?                    |
 | Well then, ascetic, do you sorrow?        | \fillin{8cm}{Tena hi, samaṇa, socasi?} |
 | \fillin{8cm}{What have I lost, friend?}   | Kiṁ jīyittha, āvuso?                  |
 
-\null
+\clearpage
+
+/agha:/ nt. trouble; misfortune; pain; misery \\
+/anagha:/ adj. [na + agha] untroubled; carefree \\
+/vijjati:/ exists (in); is found (in); is present (in) \\
+/ve:/ ind. indeed; truly; really
+
 
 | Kathaṁ tvaṁ anagho bhikkhu, kathaṁ nandī na vijjati?                              |
 | \fillin{12cm}{How are you untroubled, mendicant? How is delight not found in you?} |
@@ -1249,23 +1290,14 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 
 \bigskip
 
-#+begin_twocols
+#+begin_quote
 "Aghajātassa ve nandī,\\
 nandījātassa ve aghaṁ;\\
 Anandī anagho bhikkhu,\\
 evaṁ jānāhi āvuso"ti.
 
 ([[https://suttacentral.net/sn2.18/pli/ms][SN 2.18]])
-
-\columnbreak
-
-/jīyittha:/ aor. 3rd. refl. sg. of /jīyati/\\
-/jīyati:/ diminishes; decreases; gets less; is lost\\
-/kathaṁ:/ ind. How?\\
-/anagha:/ [na + agha] adj. untroubled; carefree; problem-free\\
-/agha:/ nt. trouble; misfortune; pain; misery\\
-/ve:/ ind. indeed; truly; really
-#+end_twocols
+#+end_quote
 
 \clearpage
 
@@ -2149,7 +2181,7 @@ Possessive pronouns (genitive)
 | \fillin{8cm}{He, from the breakup of the body, from after death...}  | So, kāyassa bhedā (abl.), paraṁ maraṇā (abl.)...[fn:sn-42-3] |
 | \fillin{8cm}{(Due to the) first jhāna there is delight in solitude.} | Paṭhamena jhānena suññāgāre abhirati.[fn:: Pr 4, Pc 8]        |
 | The elder goes to the village by air.                                | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                  |
-| A bhikkhu gives to a bowl to a bhikkhu.                              | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
+| A bhikkhu gives a bowl to a bhikkhu.                                 | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
 | A bhikkhu walks to a village with a bhikkhunī.                       | \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}               |
 
 #+latex: \normalArrayStrech
@@ -3798,3 +3830,5 @@ Here's Ven. Buddhadatta's classic https://dhamma.ru/paali/aids_to_pali_conversat
 [fn:vatthebhi] The only occurrence of vatth\textbf{ebhi}, normally it's vatth\textbf{ehi}.
 
 [fn:predicate] A predicate is any word or phrase which describes its subject.
+
+[fn:mv-kd6] [[https://suttacentral.net/pli-tv-kd6/en/brahmali][Mv. Kd 6]], Mahāvagga, The chapter on medicines (/Bhesajjakkhandhaka/)

@@ -204,6 +204,17 @@ Pāli Lessons::Lesson 2::1. Vocabulary
 | death; dying                                                                     | maraṇa (nt.)                                           |
 | we could be; we may be (√as)                                                     | assāma (opt. pl. of assa)                             |
 | If only we could not be of the nature to die!                                    | Aho vata mayaṁ na maraṇadhammā assāma!                |
+| congee; sour gruel; rice husk porridge                                           | kaṇājaka (nt.)                                         |
+| (1) rice water; congee (2) glue; sticky stuff                                    | kañjiya (nt.)                                         |
+| clean; clear; transparent                                                        | accha (adj.)                                          |
+| rice gruel; rice water                                                           | acchakañjiyā (f.)                                     |
+| soup; broth                                                                      | yūsa (m.)                                             |
+| untreated soup; bean broth                                                       | akaṭayūsa (m.)                                         |
+| allows (to); permits (to)                                                        | anujānāti                                             |
+| He needed rice water (clear congee).                                             | Acchakañjiyā attho hoti.                              |
+| Bhikkhus, I allow rice water (clear congee).                                     | "Anujānāmi, bhikkhave, acchakañjin"ti.                |
+| He needed bean broth.                                                            | Akaṭayūsena attho hoti.                                |
+| Bhikkhus, I allow bean broth.                                                    | "Anujānāmi, bhikkhave, akaṭayūsan"ti.                  |
 | pleasure; enjoyment; relish; delight                                             | nandi (f.)                                            |
 | is happy (with); delights (in); likes; enjoys                                    | nandati                                               |
 | ascetic; renunciant; holy man; monk; recluse; lit. who makes an effort; calm one | samaṇa (m.) [√sam + aṇa]                               |

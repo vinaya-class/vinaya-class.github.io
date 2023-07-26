@@ -172,3 +172,88 @@ Pāli Lessons::Lesson 3::1. Vocabulary
 | blotched; stained                                                                  | sabala (adj.)                                                            |
 | spotted; blemished                                                                 | kammāsa (adj.)                                                           |
 | on the holy life a defect, crack, stain, blemish                                   | brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampi                  |
+| to stay (infinitive)                                                               | vasituṁ                                                                  |
+| to see (infinitive)                                                                | passituṁ                                                                 |
+| asks; enquires; questions                                                          | pucchati                                                                 |
+| to ask; to question (infinitive)                                                   | pucchituṁ                                                                |
+| He wishes to stay here.                                                            | So idha vasituṁ icchati.                                                 |
+| forest; wood; wilds; wilderness                                                    | arañña (nt.)                                                             |
+| I will go to the forest to see the Buddha.                                         | Ahaṁ buddhaṁ passituṁ araññaṁ gacchissāmi.                              |
+| lies down; rests; sleeps                                                           | sayati                                                                   |
+| to lie down; to sleep                                                              | sayituṁ                                                                  |
+| Having eaten, I don't want to lie down.                                            | Ahaṁ bhuñjitvā sayituṁ na icchāmi.                                       |
+| here; in this place                                                                | atra (ind.)                                                              |
+| there; in that place                                                               | tahiṁ (ind.)                                                             |
+| having eaten                                                                       | bhutvā (abs. of bhuñjati)                                                |
+| Now, we eat here and go there to sow.                                              | Mayaṁ idāni atra bhutvā vapituṁ tahiṁ gacchāma.                         |
+| Yes, I know you like to walk.                                                      | Āma, ahaṁ jānāmi, tvaṁ carituṁ icchasi.                                 |
+| buys; purchases                                                                    | kiṇāti                                                                    |
+| to buy                                                                             | ketuṁ / kiṇituṁ                                                          |
+| We don't go there to buy.                                                          | Mayaṁ ketuṁ tahiṁ na gacchāma.                                          |
+| We don't like to kill.                                                             | Mayaṁ hantuṁ na icchāma.                                                 |
+| The lion walks in the village.                                                     | Sīho gāme / gāmamhi / gāmasmiṁ carati.                                   |
+| The wise men are delighted in the Buddha.                                          | Viññuno Buddhe pasannā.                                                  |
+| externally; outside                                                                | bahi (ind.)                                                              |
+| rains                                                                              | vassati                                                                  |
+| Now rain falls, (so) don't go out.                                                 | Idāni devo vassati, mā bahi gacchittha.                                  |
+| many; much; a lot (of); great; large                                               | bahu (adj.) [√bah + u]                                                   |
+| many people; many things; a lot                                                    | bahū (m.pl. of bahu)                                                     |
+| gathers together; assembles; lit. falls together                                   | sannipatati                                                              |
+| Today many men assemble in the village.                                            | Ajja bahū manussā gāme sannipatanti.                                     |
+| monkey; ape                                                                        | makkaṭa (m.)                                                              |
+| moves about; wanders about                                                         | vicarati                                                                 |
+| Monkeys move about on trees.                                                       | Makkaṭā rukkhesu vicaranti.                                               |
+| They, having seen the disadvantage in sensual pleasures, ...                       | Te kāmesu ādīnavaṁ disvā, ...                                            |
+| They go forth in the bhikkhu-saṅgha.                                                | Te bhikkhu-saṅghe pabbajanti.                                             |
+| (1) danger; problem (2) disadvantage; drawback                                     | ādīnava (m.)                                                             |
+| goes forth (ordains as monk); lit. goes into exile                                 | pabbajati                                                                |
+| (1) puts together; composes; fabricates (2) restores                               | saṅkharoti                                                                |
+| created, conditioned, fabricated; lit. put together                                | saṅkhata (pp. of saṅkharoti) [saṁ + √kar + ta]                           |
+| passes over to, shifts, transmigrates                                              | saṅkamati                                                                 |
+| moved over, shifted, transferred                                                   | saṅkanta (pp. of saṅkamati) [saṁ + √kam + ta]                            |
+| far side; far shore                                                                | pāra (nt.)                                                               |
+| from far, from the further shore                                                   | pārato / parato (abl.) [para + to]                                       |
+| as another; as alien                                                               | parato (ind.)                                                            |
+| near side; near shore                                                              | ora (nt.) / apāra (nt.)                                                  |
+| from near, from the near shore                                                     | orato / apārato                                                          |
+| lamp; light; lighting                                                              | padīpa (m.)                                                              |
+| (1) sound; voice; utterance (2) rumour; report (3) cry; shout                      | ghosa (m.)                                                               |
+| hearing from another person; word of another                                       | parato ca ghoso (idiom)                                                  |
+| properly; prudently; thoroughly; lit. to the source                                | yoniso (ind.) [yoni + so]                                                |
+| attention; bringing-to-mind; observation; lit. making in mind                      | manasikāra (m.) [manasi + kāra]                                          |
+| paying proper attention; wise reflection; lit. attention to the source             | yoniso manasikāra (idiom)                                                |
+| appears; arises; takes place                                                       | uppajjati                                                                |
+| arising; appearing                                                                 | uppāda (m., from uppajjati)                                              |
+| (1) completely; fully (2) perfecly; rightly; correctly                             | sammā (ind.)                                                             |
+| view; belief; opinion                                                              | diṭṭhi (f.)                                                               |
+| right view; correct outlook                                                        | sammādiṭṭhi (f.)                                                          |
+| (1) support; requisite; necessity (2) cause; reason; condition (for)               | paccaya (m.)                                                             |
+| two conditions for the arising of right view                                       | dve paccayā sammādiṭṭhiyā uppādāya                                        |
+| completely cooled; lit. blows away                                                 | nibbāti                                                                  |
+| (of fire) grows cold; lit. causes to blow away                                     | nibbāpeti (caus. of nibbāti)                                             |
+| Cool down / blow away the great passion!                                           | Nibbāpehi mahārāgaṁ!                                                     |
+| water (stream)                                                                     | vāri (nt.)                                                               |
+| carrying; leading                                                                  | vāha (adj.)                                                              |
+| carrying water (e.g. stream)                                                       | vārivaha (adj.)                                                          |
+| full (of); filled (with)                                                           | pūra (adj.)                                                              |
+| Like rivers full of water...                                                       | Yathā vārivahā pūrā...                                                   |
+| All the boys are crying.                                                           | Sabbepime dārakā rodanti.                                                |
+| rice gruel; congee                                                                 | yāgu (f.)                                                                |
+| Give congee, give rice, give food!                                                 | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā!                           |
+| (1) death (2) schism; split; lit. breakup                                          | bheda (m.)                                                               |
+| He, from the breakup of the body, from after death...                              | So, kāyassa bhedā, paraṁ maraṇā ...                                      |
+| enjoys; delights (in); takes pleasure (in)                                         | abhiramati                                                               |
+| really enjoying; very fond (of)                                                    | abhirata (adj. pp. of abhiramati)                                        |
+| enjoys; finds pleasure (in)                                                        | ramati                                                                   |
+| first (1st); prime                                                                 | paṭhama (ord.)                                                            |
+| meditative calm; lit. meditating                                                   | jhāna (nt.)                                                              |
+| (Due to the) first jhāna there is delight in solitude.                             | Paṭhamena jhānena suññāgāre abhirati.                                     |
+| The elder goes to the village by air.                                              | Thero ākāsena gāmaṁ gacchati.                                            |
+| A bhikkhu gives a bowl to a bhikkhu.                                               | bhikkhu bhikkhussa pattaṁ deti                                           |
+| A bhikkhu walks to a village with a bhikkhunī.                                     | bhikkhu bhikkhuniyā gāmaṁ carati                                         |
+| protects; guards                                                                   | rakkhati                                                                 |
+| (1) ethical/moral conduct; virtue (2) behaviour; habit                             | sīla (nt.)                                                               |
+| (1) giving; offering; generosity (2) alms; gift                                    | dāna (nt.)                                                               |
+| (1) faith; belief (2) confidence (3) romantic devotion; lit. putting heart         | saddhā (f.)                                                              |
+| May they give gifts with conviction, may they always maintain virtue.              | Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.                         |
+| May they delight in meditation, may they go to the devas.                          | Bhāvanābhiratā hontu, gacchantu devatā-gatā.                             |
