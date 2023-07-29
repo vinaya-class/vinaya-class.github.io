@@ -95,7 +95,7 @@ Pāli Lessons::Lesson 2::1. Vocabulary
 | He wanders about with a woman.                                                   | Mātugāmena saddhiṃ cārikaṁ carati.                    |
 | skin                                                                             | taca (m.)                                             |
 | covers up; wraps over                                                            | onandhati                                             |
-| enveloped (with); wrapped (with)                                                 | onaddha (pp. of onadhati)                             |
+| enveloped (with); wrapped (with)                                                 | onaddha (pp. of onandhati)                            |
 | cloth; clothes; robe                                                             | vattha (nt.)                                          |
 | shines (in); looks beautiful (in)                                                | sobhati                                               |
 | A bone covered with skin; it looks beautiful with clothes.                       | Aṭṭhi tacena onaddhaṁ, saha vatthebhi sobhati.         |

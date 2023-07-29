@@ -2307,7 +2307,6 @@ asmiṁ loke paramhi ca. ([[https://suttacentral.net/sn1.43/pli/ms][SN 1.43]])
 | ... Te khīṇa-bījā aviruḷhi-chandā                | \fillin{8cm}{They, with no seed, no desire for growth,} |
 | Nibbanti dhīrā yathā'yam padīpo (Snp 2.1)       | \fillin{8cm}{enlightened, go out like this flame.}      |
 
-#+begin_widecols
 /suppayutta:/ [su + payutta] adj. fully engaged; diligently practising \\
 /payutta:/ pp. of /payuñjati/; intent; engaged \\
 /payuñjati:/ harnesses; employs; applies \\
@@ -2317,23 +2316,20 @@ asmiṁ loke paramhi ca. ([[https://suttacentral.net/sn1.43/pli/ms][SN 1.43]])
 /khīṇa:/ pp. of /khīyati/; consumed; destroyed \\
 /khaya:/ [√khī + *a] m. wearing away (of); destruction (of) \\
 /virūḷhi:/ f. growth; increase
-#+end_widecols
 
 | Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187, simpl.)                     |
 | \fillin{12cm}{A disciple of the fully awakened Buddha delights in the ending of craving.} |
-| Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca (Dhp 188)                                      |
-| \fillin{12cm}{To many refuges they go, to mountains and forest glades}                    |
+| Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca. (Dhp 188)                                     |
+| \fillin{12cm}{To many refuges they go, to mountains and forest glades.}                   |
 | Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)                                 |
 | \fillin{12cm}{They dwell detached, not grasping at anything in the world.}                |
 
-#+begin_widecols
 /ramati:/ enjoys; takes delight (in) \\
 /yanti:/ they go \\
 /pabbata:/ nt. mountain; hill \\
 /vana:/ nt. wood; forest; grove \\
-/anissita:/ pp. (+abl) of [na + nissayati]; detached (from); disengaged (from) \\
+/anissita:/ pp. of [na + nissayati]; detached (from); disengaged (from) \\
 /upādiyati:/ grasps; holds (onto); takes possession (of); lit. takes near
-#+end_widecols
 
 #+latex: \normalArrayStrech
 
@@ -2399,8 +2395,9 @@ The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used i
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Parisuddho no kāyasamācāro bhavissati. (MN 39) | \fillin{8cm}{Our bodily behaviour should be purified.} |
-| \fillin{8cm}{brāhmaṇā karissanti ...}           | Brahmans will do ....                                  |
+| Parisuddho no kāyasamācāro bhavissati. (MN 39) | \fillin{8cm}{Our bodily behaviour should be purified.}  |
+| \fillin{8cm}{brāhmaṇā karissanti ...}           | Brahmans will do ....                                   |
+| Sādhu suṭṭhu bhante saṃvarissāmi.               | \fillin{8cm}{Well indeed, Sir., I shall be restrained.} |
 
 \null
 
