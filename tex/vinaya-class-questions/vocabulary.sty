@@ -1,0 +1,89 @@
+\ProvidesPackage{vocabulary}
+
+\usepackage[british]{babel}
+
+\renewcommand\britishhyphenmins{{3}{3}}
+
+\hyphenation{thulla-caya sangha-disesa sangha-kamma}
+
+\usepackage{fontspec}
+\defaultfontfeatures{ Ligatures={TeX}, Path = {../fonts/}, }
+\setmainfont[
+  SmallCapsFeatures = { LetterSpace = 0.2 },
+  ItalicFont = Crimson-Italic.otf,
+  BoldFont = Crimson-Bold.otf,
+  BoldItalicFont = Crimson-BoldItalic.otf,
+]{Crimson-Roman.otf}
+
+\usepackage{xcolor}
+\usepackage[normalem]{ulem}
+
+\usepackage{longtable}
+\usepackage{booktabs}
+
+\usepackage{hyperxmp}
+\usepackage{hyperref}
+
+\definecolor{textbody}{gray}{0}
+
+\midsloppy
+
+\def\BOOK@apt{11}
+\def\BOOK@bpt{15}
+
+\renewcommand{\normalsize}{%
+  \@setfontsize\normalsize\BOOK@apt\BOOK@bpt
+  \abovedisplayskip 11\p@ \@plus3\p@ \@minus6\p@
+  \abovedisplayshortskip \z@ \@plus3\p@
+  \belowdisplayshortskip 6.5\p@ \@plus3.5\p@ \@minus3\p@
+  \belowdisplayskip \abovedisplayskip
+  \color{textbody}
+  \let\@listi\@listI}
+\normalsize
+
+\setlength{\parskip}{5pt}
+\setlength{\parindent}{0pt}
+
+\settrims{0pt}{0pt}
+\setlrmarginsandblock{10mm}{*}{1}
+\setulmarginsandblock{10mm}{12mm}{*}
+\setheadfoot{0pt}{0pt}
+\setheaderspaces{*}{0pt}{*}
+\checkandfixthelayout
+
+\openany
+
+% Make the chapter style look like the sub-section level of the original document.
+
+\makechapterstyle{vocabulary-chapter}{%
+  \chapterstyle{default}
+  \renewcommand*{\chapterheadstart}{}
+  \renewcommand*{\printchaptername}{}
+  \renewcommand*{\chapternamenum}{}
+  \renewcommand*{\printchapternum}{}
+  \renewcommand*{\afterchapternum}{}
+  \renewcommand*{\printchaptertitle}[1]{
+    \normalfont
+    \memRTLraggedright
+    {\bfseries\itshape\uline{##1}}%
+  }
+  \renewcommand*{\afterchaptertitle}{}
+}
+
+\chapterstyle{vocabulary-chapter}
+
+\addtodef{\frontmatter}{}{\chapterstyle{vocabulary-chapter}}
+\addtodef{\mainmatter}{}{\chapterstyle{vocabulary-chapter}}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+
+\pagestyle{empty}
+
+\aliaspagestyle{chapter}{empty}
+
+\usepackage[final,babel=true]{microtype}
+
+\newcommand{\normalArrayStrech}{\renewcommand{\arraystretch}{1.2}}
+\normalArrayStrech
+

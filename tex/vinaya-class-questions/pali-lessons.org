@@ -193,7 +193,6 @@ woman
 
 bhamakāra: masc. turner; lathe operator [bhama + kāra]
 * Lesson 1
-** [[file:vocabulary/lesson-1.org][Vocabulary]]                                                      :noexport:
 ** Language Notes
 
 The *gender of a noun* is either masculine, feminine or neuter.
@@ -785,7 +784,11 @@ There are flies in the kitchen.
 
 #+latex: \normalArrayStrech
 
+#+begin_export latex
 \clearpage
+\thispagestyle{empty}
+\includepdf[pages=-, angle=-90, nup=1x2]{./vocabulary-lesson-1.pdf}
+#+end_export
 
 ***** References                                                   :noexport:
 

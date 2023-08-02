@@ -46,6 +46,9 @@ sanghadisesa-procedure-pdf:
 robe-keeping-pdf:
 	./scripts/compile_tex.sh ./tex/robe-keeping/robe-keeping.tex
 
+pali-vocabulary-pdf:
+	cd tex/vinaya-class-questions && make pali-vocabulary
+
 pali-lessons-pdf:
 	cd tex/vinaya-class-questions && \
 	make export-pali-lessons && \
@@ -54,7 +57,7 @@ pali-lessons-pdf:
 	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-lessons-answerkey.tex
 
 pali-lessons-anki-deck:
-	cp tex/vinaya-class-questions/vocabulary/exported/pali-lessons.apkg src/includes/docs/pali-lessons.apkg
+	cp tex/vinaya-class-questions/exported/pali-lessons.apkg src/includes/docs/pali-lessons.apkg
 
 vinaya-class-zip:
 	cd src/includes/docs && zip vinaya-class.zip *.pdf *.apkg
