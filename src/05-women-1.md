@@ -66,7 +66,7 @@ Origin: Ven. Anuruddha stays at the house of a wealthy woman for a night. She ap
 
 **Effort:** in the instant one lies down in the same dwelling when a woman is lying down.
 
-Same dwelling: one 'enclosure'. Technically the same walls and roof, but one may consider variations (private hospital rooms).
+Same dwelling: one 'enclosure'. Technically the same walls and roof, but one may consider variations, such as a private room with a lockable door.
 
 Intention is not a factor, pacittiya even if the bhikkhu doesn't know about the woman.
 
@@ -81,6 +81,10 @@ Origin: Ven. Upananda sat down with the wife of a friend on a private and concea
 The bhikkhu sits with a woman at a secluded place, private to the eye and ear, without another man present, aiming at privacy. Secluded enough for pārājika.
 
 **Effort:** sitting or lying down at the same place, even if not the same seat.
+
+**Teaching-related meetings:** The bhikkhu may be asked to discuss Dhamma questions, but he may be influenced by the intimacy of the situation. Respect for the Dhamma is recommended by arranging a proper occasion with a chaperon present.
+
+**Work-related meetings:** An online one-to-one meeting with a woman (Zoom, etc.) technically may not fulfill the factors, but one may consider letting another bhikkhu know. If the meeting is for the right reasons, there should be no reason why one wouldn't let another bhikkhu know about it.
 
 ### Non-offenses
 

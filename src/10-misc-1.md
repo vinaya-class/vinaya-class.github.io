@@ -31,9 +31,9 @@ The ten topics of abuse (*akkosa-vattu*) are *pacittiya*, other topics
 are *dukkata*.
 
 Critical or joking remarks on the ten topics, when not meant as an
-insult, are *dubbhasita*.
+insult, are *dubbhāsita*.
 
-Dubbhasita could be translated as *bad joke* or *malicious speech*.
+Dubbhāsita could be translated as *bad joke* or *malicious speech*.
 
 <!-- latex
 \columnbreak

@@ -31,6 +31,15 @@ Smuggling is *pārājika* (undeclared taxable items at customs).
 
 Breaking a promise is *dukkaṭa* (not following software or website TOS (Terms of Service) or EULA (End User License Agreement)).
 
+Borrowing an item has to imply that one is intending to return it.
+
+Taking an item on trust:
+
+1. If the other has given explicit permission ('Whatever is mine, you are welcome to take and use it at any time.')
+2. Having known each other for a long time, having shared items in the past, one may understand that the other bhikkhu *will be happy* if one takes it.
+
+Breaking an item (accidentally or intentionally) doesn't fulfil Effort. When accidentally breaking community property, it is good practice that a bhikkhu should try to replace it when they are given *pavarana* to ask.
+
 ## NP 25, Snatching back robe-cloth
 
 **Object:** a piece of robe-cloth, at least 4x8 fingerbreadth.

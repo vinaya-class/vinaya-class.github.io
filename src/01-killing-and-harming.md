@@ -25,6 +25,10 @@ There is a distinction between recommending an action something which *causes de
 
 Turning off life-support equipment: if the ill person stated their position on it beforehand, the doctors may be simply following his instruction.
 
+When discussing topics around Pr 3, it is a good starting point if the bhikkhu clarifies his position (i.e. that he is pārājika is he recommends death), to prevent lay people interpreting his words as hinting.
+
+A bhikkhu is technically allowed to report that a terminally ill person had said 'he wants to die', but one should be cautions. People may interpret it that he is recommending death, and also, the person might have changed his mind since that time.
+
 Giving permission to the doctor to turn off the equipment is still not pārājika (not cutting off life, it ends on its own), although one might live with a doubtful heart afterward.
 
 > "If consciousness were not to descend into the mother's womb, would name-and-form take shape in the womb?" "No, lord."
@@ -44,6 +48,10 @@ Doesn't include animals smaller than visible to the naked eye. Doesn't include a
 Origin: Ven. Udāyin is killing crows by shooting them with arrows, cutting their heads off and putting them in a row on a stake. The Buddha scolds him, "How can you, foolish man, intentionally deprive a living thing of life? ..." ([Vibh. Pc 61](https://suttacentral.net/pli-tv-bu-vb-pc61/en/horner))
 
 Mercy killing by the owner, or euthanasia practices by vets fulfil effort. Having a pet means responsibility.
+
+An alternative possibility for example to crush morphine pills, dissolve in water and feed it to the animal when it is in pain.
+
+The local Animal Rights group may force the owner to allow the animal to be taken away and euthanised.
 
 Acting in doubt, going ahead anyway is dukkaṭa. Such as when the bhikkhu thinks that cleaning an item may or may not kill living beings. Trying carefully not to kill insects while cleaning is not an offense.
 
@@ -141,6 +149,8 @@ A specific command would be an offense ("dig a hole here"), but an indication ("
 To 'kappi' fruit is about the feelings of the donor, not killing the fruit or transfering kamma.
 
 Knowingly eating un-kappied seeds is dukkaṭa.
+
+Lighting a fire on the ground (*Pc 56*), it can damage or kill the plants and creatures living there.
 
 **Non-offenses:**
 
