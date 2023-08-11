@@ -126,6 +126,15 @@
 \setheaderspaces{*}{15pt}{*}
 \checkandfixthelayout
 
+\newcommand*\cleartonewsheet{%
+  \clearpage%
+  \ifodd\value{page}%
+    \thispagestyle{empty}%
+    \hbox{}%
+    \newpage%
+  \fi%
+}
+
 \newcommand*{\problemDivide}{\rule{\linewidth}{0.4pt}}
 
 \setsecnumdepth{part}
@@ -230,6 +239,10 @@
 
 \aliaspagestyle{normalpage}{toprule}
 \aliaspagestyle{chapter}{chapterpage}
+
+\newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
+\newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}
 
 \pagestyle{normalpage}
 

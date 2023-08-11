@@ -1,0 +1,308 @@
+# -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
+#+TITLE: Pāli Cheatsheet
+#+AUTHOR: The Bhikkhu Saṅgha
+#+LATEX_CLASS: memoir
+#+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \input{./vocabulary-preamble.tex}
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t title:nil num:2 ^:{} creator:nil timestamp:nil html-postamble:nil
+#+HTML_HEAD_EXTRA: <style> h1, h2, h3, h4, h5, h6 { font-family: 'Spectral'; font-weight: normal; margin-top: 0em; margin-bottom: 0.5em; } h2, h3 { font-size: 1.2em; text-decoration: underline; } table { border-color: white; } </style>
+
+* Pāli Cheatsheet
+** Masculine and Neuter Nouns Ending in -a
+
+|         | *masc.sg.-a*                                      | *nt.sg.-a*                                           | *masc.pl.-a*     | *nt.pl.-a*                       |
+|---------+---------------------------------------------------+------------------------------------------------------+------------------+----------------------------------|
+| 1. nom  | nar\textbf{o}                                     | citt\textbf{aṁ}                                      | nar\textbf{ā}    | citt\textbf{ā}, citt\textbf{āni} |
+| 2. acc  | nar\textbf{aṁ}                                    | citt\textbf{aṁ}                                      | nar\textbf{e}    | citt\textbf{e}, citt\textbf{āni} |
+| 3. inst | nar\textbf{ena}                                   | citt\textbf{ena}                                     | nar\textbf{ehi}  | citt\textbf{ehi}                 |
+| 4. dat  | nar\textbf{āya}, nar\textbf{assa}                 | citt\textbf{āya}, citt\textbf{assa}                  | nar\textbf{ānaṁ} | citt\textbf{ānaṁ}                |
+| 5. abl  | nar\textbf{ā}, nar\textbf{amhā}, nar\textbf{asmā} | citt\textbf{ā}, citt\textbf{amhā}, citt\textbf{asmā} | nar\textbf{ehi}  | citt\textbf{ehi}                 |
+| 6. gen  | nar\textbf{assa}                                  | citt\textbf{assa}                                    | nar\textbf{ānaṁ} | citt\textbf{ānaṁ}                |
+| 7. loc  | nar\textbf{e} nar\textbf{amhi} nar\textbf{asmiṁ}  | citt\textbf{e} citt\textbf{amhi} citt\textbf{asmiṁ}  | nar\textbf{esu}  | citt\textbf{esu}                 |
+| 8. voc  | nar\textbf{a}, nar\textbf{ā}                      | citt\textbf{a} citt\textbf{ā}                        | nar\textbf{ā}    | citt\textbf{āni}                 |
+
+** Masculine and Neuter Nouns Ending in -u
+
+|         | *masc.sg.*                               | *nt.sg.*                         | *masc.pl.*                            | *nt.pl.*                     |
+|---------+------------------------------------------+----------------------------------+---------------------------------------+------------------------------|
+| 1. nom  | bhikkh\textbf{u}                         | āy\textbf{uṁ}                    | bhikkh\textbf{ū}, bhikkh\textbf{avo}  | āy\textbf{ū}, āy\textbf{ūni} |
+| 2. acc  | bhikkh\textbf{uṁ}                        | āy\textbf{uṁ}                    | bhikkh\textbf{ū}, bhikkh\textbf{avo}  | āy\textbf{ū}, āy\textbf{ūni} |
+| 3. inst | bhikkh\textbf{unā}                       | āy\textbf{unā}                   | bhikkh\textbf{ūhi}                    | āy\textbf{ūhi}               |
+| 4. dat  | bhikkh\textbf{uno}, bhikkh\textbf{ussa}  | āy\textbf{uno}, āy\textbf{ussa}  | bhikkh\textbf{ūnaṁ}                   | āy\textbf{ūnaṁ}              |
+| 5. abl  | bhikkh\textbf{unā}, bhikkh\textbf{umhā}, | āy\textbf{unā}, āy\textbf{umhā}, | bhikkh\textbf{ūhi}                    | āy\textbf{ūhi}               |
+|         | bhikkh\textbf{usmā}                      | āy\textbf{usmā}                  |                                       |                              |
+| 6. gen  | bhikkh\textbf{uno}, bhikkh\textbf{ussa}  | āy\textbf{uno}, āy\textbf{ussa}  | bhikkh\textbf{ūnaṁ}                   | āy\textbf{ūnaṁ}              |
+| 7. loc  | bhikkh\textbf{umhi} bhikkh\textbf{usmiṁ} | āy\textbf{umhi} āy\textbf{usmiṁ} | bhikkh\textbf{ūsu}                    | āy\textbf{ūsu}               |
+| 8. voc  | bhikkh\textbf{u}                         | āy\textbf{u}                     | bhikkh\textbf{ū}, bhikkh\textbf{avo}, | āy\textbf{ū}, āy\textbf{ūni} |
+|         |                                          |                                  | bhikkh\textbf{ave}                    |                              |
+
+** Feminine Nouns Ending in -ā and -i
+
+|         | *fem.sg.-ā*                           | *fem.sg.-i*                         | *fem.pl.-ā*                        | *fem.pl.-i*                        |
+|---------+---------------------------------------+-------------------------------------+------------------------------------+------------------------------------|
+| 1. nom  | vedan\textbf{ā}                       | bhūm\textbf{i}                      | vedan\textbf{ā}, vedan\textbf{āyo} | bhūm\textbf{ī}, bhūm\textbf{iyo}   |
+| 2. acc  | vedan\textbf{aṁ}                      | bhūm\textbf{iṁ}                     | vedan\textbf{ā}, vedan\textbf{āyo} | bhūm\textbf{ī}, bhūm\textbf{iyo}   |
+| 3. inst | vedan\textbf{āya}                     | bhūm\textbf{iyā}                    | vedan\textbf{āhi}                  | bhūm\textbf{īhi}                   |
+| 4. dat  | vedan\textbf{āya}                     | bhūm\textbf{iyā}                    | vedan\textbf{ānaṁ}                 | bhūm\textbf{īnaṁ}                  |
+| 5. abl  | vedan\textbf{āya}                     | bhūm\textbf{iyā}                    | vedan\textbf{āhi}                  | bhūm\textbf{īhi}                   |
+| 6. gen  | vedan\textbf{āya}                     | bhūm\textbf{iyā}                    | vedan\textbf{ānaṁ}                 | bhūm\textbf{īnaṁ}                  |
+| 7. loc  | vedan\textbf{āya}, vedan\textbf{āyaṁ} | bhūm\textbf{iyā}, bhūm\textbf{iyaṁ} | vedan\textbf{āsu}                  | bhūm\textbf{isu}, bhūm\textbf{īsu} |
+| 8. voc  | vedan\textbf{e}                       | bhūm\textbf{i}                      | vedan\textbf{ā}, vedan\textbf{āyo} | bhūm\textbf{ī}, bhūm\textbf{iyo}   |
+
+\clearpage
+
+** Simple Present
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Verbal terminations:
+
+|       | *sg.* | *pl.*   |
+| *1st* | -mi   | -ma     |
+| *2nd* | -si   | -tha    |
+| *3rd* | -ti   | -(a)nti |
+
+The base is obtained by removing the 3rd.sg. termination /-ti/ from the conjugated form.
+
+#+latex: \columnbreak
+
+Root: /√dhāv/ (to run), base: /dhāva/
+
+|       | *sg.*   | *pl.*    |
+| *1st* | dhāvāmi | dhāvāma  |
+| *2nd* | dhāvasi | dhāvatha |
+| *3rd* | dhāvati | dhāvanti |
+
+The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+** Future Tense
+
+The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used instead.
+
+| *sg.*               |             | *pl.*                |                 |
+| bhav\textbf{issāmi} | I will be   | bhav\textbf{issāma}  | we will be      |
+| bhav\textbf{issasi} | you will be | bhav\textbf{issatha} | you all will be |
+| bhav\textbf{issati} | he will be  | bhav\textbf{issanti} | they will be    |
+
+** Aorist Past Tense
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Verbal terminations:
+
+|       | *sg.*  | *pl.*            |
+| *1st* | -iṁ    | -(i)mhā, -(i)mha |
+| *2nd* | -o, -i | -(i)ttha         |
+| *3rd* | -i     | -(i)ṁsu, -uṁ     |
+
+#+latex: \columnbreak
+
+Root: /√dhāv/ (to run), base: /dhāva/
+
+|       | *sg.*          | *pl.*              |
+| *1st* | adhāviṁ        | adhāvimhā          |
+| *2nd* | adhāvo, adhāvi | adhāvittha         |
+| *3rd* | adhāvi         | adhāviṁsu, adhāvuṁ |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+Bases ending in *e* are conjugated with an inserted "s".
+
+|     | singular         |            | plural            |                |
+|-----+------------------+------------+-------------------+----------------|
+| 3rd | dese\textbf{si}  | he taught  | dese\textbf{suṁ}  | they taught    |
+| 2nd | dese\textbf{si}  | you taught | des\textbf{ittha} | you all taught |
+| 1st | dese\textbf{siṁ} | I taught   | des\textbf{imha}  | we taught      |
+|     |                  |            | des\textbf{imhā}  |                |
+
+Also applies to causative verbs (e.g. /vandati/ → /vandāpeti/ → /vandāpesi/).
+
+Similarly /samacintesi, āmantesi, santappesi, samuttejesi/ etc.
+
+Some roots ending in long vowels also get the /s/ aorist ending. In the plural case, the long vowel is shortened.
+
+|     | *sg.*            |           | *pl.*                              |               |
+|-----+------------------+-----------+------------------------------------+---------------|
+| 1st | aṭṭhā\textbf{siṁ} | I stood   | aṭṭha\textbf{mha}, aṭṭha\textbf{mhā} | we stood      |
+| 2nd | aṭṭhā\textbf{si}  | you stood | aṭṭha\textbf{ttha}                  | you all stood |
+| 3rd | aṭṭhā\textbf{si}  | he stood  | aṭṭha\textbf{ṁsu}                   | they stood    |
+
+\clearpage
+
+** Pronouns
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Personal pronouns (nominative)
+
+|             | *sg.*       | *pl.*           |
+| *1st*       | ahaṁ        | amhe, mayaṁ, no |
+| *2nd*       | tuvaṁ, tvaṁ | tumhe, vo       |
+| *3rd.masc.* | so, sa      | te              |
+| *3rd.nt.*   | taṁ, tad    | tāni            |
+| *3rd.fem.*  | sā          | tā, tāyo        |
+
+#+latex: \columnbreak
+
+Possessive pronouns (genitive)
+
+| *sg.*            | *pl.*       |
+| mama, mayhaṁ, me | amhākaṁ, no |
+| tava, tuyhaṁ, te | tumhākam    |
+| tassa            | tesaṁ       |
+| tassa            | tesaṁ       |
+| tassā            | tāsaṁ       |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+| ta → | /(nom.sg.)/ so / taṁ / sā | /(nom.pl.)/ te / tāni / tā, tāyo  |
+|      | /(acc.sg.)/ taṁ           | /(acc.pl.)/  te / tāni / tā, tāyo |
+
+** Interrogatives and Other Indeclinables
+
+#+latex: \begin{multicols}{2}
+
+#+ATTR_LATEX: :align L{0.48\linewidth} L{0.48\linewidth}
+| and what? but why? etc    | kiñca [kiṁ + ca] |
+| have? did?                | api              |
+| how far? how much?        | kīva             |
+| how? in what way?         | kinti            |
+| how?                      | kathaṁ           |
+| what? which?              | katama           |
+| when?                     | kadā             |
+| where? from where?        | kuto [ka + to]   |
+| where?                    | kahaṁ            |
+| where?                    | kattha           |
+| where?                    | kuhiṁ            |
+| where?                    | kuvaṁ            |
+| who? what? how? would?    | api nu           |
+| who? what? which? why?    | kiṁ              |
+| why? lit. from what?      | kasmā [ka + smā] |
+| afterwards; later         | pacchā           |
+| always                    | sabbadā          |
+| at most; for a maximum of | paramaṁ          |
+| before; earlier           | pure             |
+| before, previously        | pubbe            |
+| beyond; across; over      | pāraṁ            |
+| both                      | ubho             |
+| brother(s); friend(s)     | āvuso            |
+| but; rather; even         | atha             |
+
+\columnbreak
+
+#+ATTR_LATEX: :align L{0.48\linewidth} L{0.48\linewidth}
+| certainly; definitely           | ekaṁsena       |
+| ever; sometime                  | kadāci         |
+| for a week; for seven days      | sattāhaṁ       |
+| from there                      | tato           |
+| here; now; in this case         | idha           |
+| if                              | sace           |
+| if; whether; perhaps            | yadi           |
+| I hope; I trust                 | kacci          |
+| immediately after that          | anantaraṁ      |
+| in the presence (of); near (to) | santike        |
+| like; as; according to; how     | yathā          |
+| more; greater; superior         | bhiyyo         |
+| now                             | idāni          |
+| personally; with one's hand     | sahatthā       |
+| privately; alone; secretly      | raho           |
+| silence, quiet                  | tuṇhī           |
+| that much; still; at least      | tāva           |
+| there                           | tattha / tatra |
+| today                           | ajja           |
+| together; accompanied by        | saddhiṁ, saha  |
+| tomorrow                        | suve           |
+| when; whenever                  | yadā           |
+| yesterday                       | hīyo           |
+
+#+latex: \end{multicols}
+
+\clearpage
+
+** Irregular verb √as (to be)
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{3}
+
+Present Tense
+
+|     | *sg.* | *pl.* |
+|-----+-------+-------|
+| 3rd | atthi | santi |
+| 2nd | asi   | attha |
+| 1st | amhi  | amha  |
+|     | asmi  | amhā  |
+|     |       | asma  |
+
+\columnbreak
+
+Imperative Mood
+
+|     | *sg.* | *pl.* |
+|-----+-------+-------|
+| 3rd | atthu | santu |
+| 2nd | āhi   | attha |
+| 1st | amhi  | amha  |
+|     | asmi  | amhā  |
+|     |       | asma  |
+
+\columnbreak
+
+Aorist Past Tense
+
+|     | *sg.*         | *pl.*            |
+|-----+---------------+------------------|
+| 3rd | ās\textbf{i}  | ās\textbf{iṁsu}  |
+|     |               | ās\textbf{uṁ}    |
+| 2nd | ās\textbf{i}  | ās\textbf{ittha} |
+| 1st | ās\textbf{iṁ} | ās\textbf{imha}  |
+|     |               | ās\textbf{imhā}  |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+** Irregular verb √hū (to be)
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{3}
+
+Present Tense
+
+|     | *sg.*    | *pl.*  |
+|-----+----------+--------|
+| 3rd | hoti     | honti  |
+| 2nd | hosi     | hotha  |
+| 1st | homi     | homa   |
+
+\columnbreak
+
+Imperative Mood
+
+|     | *sg.* | *pl.* |
+|-----+-------+-------|
+| 3rd | hotu  | hontu |
+| 2nd | hohi  | hotha |
+| 1st | homi  | homa  |
+
+\columnbreak
+
+Aorist Past Tense
+
+|     | *sg.*           | *pl.*              |
+|-----+-----------------+--------------------|
+| 3rd | ahos\textbf{i}  | ahes\textbf{uṁ}    |
+| 2nd | ahos\textbf{i}  | ahuva\textbf{ttha} |
+| 1st | ahos\textbf{iṁ} | ahu\textbf{mhā}    |
+|     |                 | ahu\textbf{mha}    |
+
+#+latex: \end{multicols}
+#+latex: \par}
+

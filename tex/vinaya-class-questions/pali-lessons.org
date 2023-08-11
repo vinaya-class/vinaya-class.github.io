@@ -41,13 +41,182 @@ Sāriputta, you should not regard it so.
 
 Na kho panetaṁ, sāriputta, evaṁ daṭṭhabbaṁ. (MN 12)
 
-** publish only before classes
+** extra quotes
+*** put out water and seats for the Buddha
 
-Pali Chat
+uid:mn31/en/sujato
 
-Pali Poem
+Then Anuruddha, Nandiya, and Kimbila came out to greet the Buddha.
+Atha kho āyasmā ca anuruddho āyasmā ca nandiyo āyasmā ca kimilo bhagavantaṁ paccuggantvā—
+One received his bowl and robe, one spread out a seat, and one set out water for washing his feet.
+eko bhagavato pattacīvaraṁ paṭiggahesi, eko āsanaṁ paññapesi, eko pādodakaṁ upaṭṭhāpesi.
+He sat on the seat spread out
+Nisīdi bhagavā paññatte āsane.
+and washed his feet.
+Nisajja kho bhagavā pāde pakkhālesi.
+Those venerables bowed and sat down to one side.
+Tepi kho āyasmanto bhagavantaṁ abhivādetvā ekamantaṁ nisīdiṁsu.
 
-Pali Crossword
+The Buddha said to Anuruddha,
+Ekamantaṁ nisinnaṁ kho āyasmantaṁ anuruddhaṁ bhagavā etadavoca:
+“I hope you’re keeping well, Anuruddha and friends; I hope you’re alright. And I hope you’re having no trouble getting almsfood.”
+“Kacci vo, anuruddhā, khamanīyaṁ, kacci yāpanīyaṁ, kacci piṇḍakena na kilamathā”ti?
+
+“We’re alright, Blessed One, we’re getting by. And we have no trouble getting almsfood.”
+“Khamanīyaṁ, bhagavā, yāpanīyaṁ, bhagavā; na ca mayaṁ, bhante, piṇḍakena kilamāmā”ti.
+
+“I hope you’re living in harmony, appreciating each other, without quarreling, blending like milk and water, and regarding each other with kindly eyes?”
+“Kacci pana vo, anuruddhā, samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharathā”ti?
+
+“Indeed, sir, we live in harmony like this.”
+“Taggha mayaṁ, bhante, samaggā sammodamānā avivadamānā khīrodakībhūtā aññamaññaṁ piyacakkhūhi sampassantā viharāmā”ti.
+*** locatives, habit of meditating
+
+| door; entrance; gate; gateway                     | dvāra (nt.)                        |
+| opens (a door)                                    | apāpurati                          |
+| someone; some person; something                   | kiñcideva [kiñci + eva]            |
+| gadflies and mosquitoes; lit. biters and buzzers  | ḍaṁsamakasa (nt.) [ḍaṁsa + makasa] |
+| Dhamma Hall; community hall                       | dhammasabhā (f.)                   |
+| guards; watches; protects                         | gopeti                             |
+| guarded; protected; kept watch (over)             | gutta (pp. of gopeti)              |
+| guarding the doors (of); with self-restraint (in) | guttadvāra (adj.)                  |
+
+Lessons 3, locatives
+
+| I hope you meditated well?                                                            | Kaccisi sukhajhāyittha?                                       |
+| Someone having opened the door, in the Dhamma Hall there are gadflies and mosquitoes. | Kiñcideva dvāraṁ apāpuritvā, dhammasabhāya ḍaṁsamakasā santi. |
+| How is one a guardian at the senses?                                                  | Kathaṁ, indriyesu guttadvāro hoti?                            |
+| The food should be stored in the larder.                                              |                                                               |
+| There are flies in the kitchen. Open the windows, they may go out.                    |                                                               |
+
+uid:mn108/en/sujato
+
+“I hope the Bamboo Grove is delightful, quiet and still, far from the madding crowd, remote from human settlements, and fit for retreat?”
+“Kacci pana, bho ānanda, veḷuvanaṁ ramaṇīyañceva appasaddañca appanigghosañca vijanavātaṁ manussarāhasseyyakaṁ paṭisallānasāruppan”ti?
+
+“Indeed it is, brahmin. And it is like that owing to such protectors and guardians as yourself.”
+“Taggha, brāhmaṇa, veḷuvanaṁ ramaṇīyañceva appasaddañca appanigghosañca vijanavātaṁ manussarāhasseyyakaṁ paṭisallānasāruppaṁ, yathā taṁ tumhādisehi rakkhakehi gopakehī”ti.
+
+“Surely, Master Ānanda, it is owing to the venerables who meditate, making a habit of meditating.
+“Taggha, bho ānanda, veḷuvanaṁ ramaṇīyañceva appasaddañca appanigghosañca vijanavātaṁ manussarāhasseyyakaṁ paṭisallānasāruppaṁ, yathā taṁ bhavantehi jhāyīhi jhānasīlīhi.
+For the venerables do in fact meditate and make a habit of meditating.
+Jhāyino ceva bhavanto jhānasīlino ca.
+** Sg 13 corrupting families
+
+| (of the mind) spoils; corrupts; ruins                                            | dūseti                                                |
+| shameless; not afraid of sin                                                     | alajjī (adj.)                                         |
+| misconduct; wrongdoing; bad behaviour                                            | anācāra (m.)                                          |
+| sings                                                                            | gāyati                                                |
+| plays a musical instrument                                                       | vādeti                                                |
+| plays; performs; dances                                                          | lāseti                                                |
+| chessboard (eight-checkers)                                                      | aṭṭhapada (nt.)                                        |
+| plays (with); has fun (with)                                                     | kīḷati                                                 |
+| letter of the alphabet; syllable; lit. indestructible                            | akkhara (nt.) [na + √khar + a]                        |
+| a letter-game                                                                    | akkharikā (f.)                                        |
+| thought-guessing                                                                 | manesikā (f.)                                         |
+| fault; error; mistake; lit. to be avoided                                        | vajja (nt.)                                           |
+| mimicking deformities                                                            | yathāvajja (nt.)                                      |
+| stage; theatre                                                                   | raṅga (m.)                                             |
+| centre stage                                                                     | raṅgamajjha (m.)                                       |
+| spread about; spreads around                                                     | pattharati                                            |
+| frown; funny facial expression                                                   | nalāṭikā (f.)                                          |
+| various kinds of; multiple                                                       | vividha (adj.)                                        |
+| scolds; rebukes; criticizes                                                      | vigarahati                                            |
+| scolded; rebuked; criticized                                                     | vigarahi (aor. of vigarahati)                         |
+| certain; one of; some of them                                                    | ekacca (pron.)                                        |
+| change of mind; change of opinion; lit. otherwise state                          | aññathatta (nt.) [añña + thā + tta]                   |
+| changed, altered, distorted                                                      | vipariṇata (pp. vipariṇamati)                          |
+| with/by a changed, altered, distorted state                                      | vipariṇatena (instr. of vipariṇamati)                  |
+
+#+begin_widecols
+([[https://suttacentral.net/pli-tv-bu-vb-ss13/pli/ms][Vin. Sg 13]]) Kuladūsakasikkhāpada \\
+/The training rule on corrupters of families/
+
+... assaji-punabbasu'kā nāma kīṭāgirismiṁ āvāsikā honti alajjino pāpabhikkhū. Te evarūpaṁ anācāraṁ ācaranti ...
+
+vikālepi bhuñjanti, majjampi pivanti, mālā-gandha- vilepanampi dhārenti,
+naccantipi gāyantipi vādentipi lāsentipi,
+naccantiyāpi naccanti ... gāyantiyāpi gāyanti ... vādentiyāpi vādenti ... lāsentiyāpi lāsenti;
+aṭṭhapadepi kīḷanti, dasapadepi kīḷanti ... akkharikāyapi kīḷanti, manesikāyapi kīḷanti, yathāvajjenapi kīḷanti.
+
+... raṅgamajjhepi saṅghāṭiṁ pattharitvā naccakiṁ evaṁ vadanti -- "idha, bhagini,
+naccassū"ti, nalāṭikampi denti, vividhampi anācāraṁ ācaranti.
+
+# Just then a monk who had completed the rainy-season residence in Kāsī was on his way to visit the Buddha at Sāvatthī when he arrived at Kīṭāgiri.
+
+Tena kho pana samayena aññataro bhikkhu kāsīsu vassaṁvuṭṭho sāvatthiṁ gacchanto
+bhagavantaṁ dassanāya, yena kīṭāgiri tadavasari.
+
+# In the morning he robed up, took his bowl and robe, and entered Kīṭāgiri to collect almsfood.
+
+Atha kho so bhikkhu pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya kīṭāgiriṁ
+piṇḍāya pāvisi.
+
+# He was pleasing in his conduct: in going out and coming back, in looking ahead and looking aside, in bending and stretching his arms. His eyes were lowered, and he was perfect in deportment.
+
+Pāsādikena abhikkantena paṭikkantena ālokitena vilokitena samiñjitena pasāritena
+okkhittacakkhu iriyāpathasampanno.
+
+# When people saw him, they said, “Who’s this, acting like a moron and always frowning? Who’s gonna give almsfood to him? Almsfood should be given to our Venerables Assaji and Punabbasuka, for they are gentle, congenial, pleasant to speak with, greeting one with a smile, welcoming, friendly, open, the first to speak.”
+
+Manussā taṁ bhikkhuṁ passitvā evamāhaṁsu -- "kvāyaṁ abalabalo viya mandamando viya
+bhākuṭikabhākuṭiko viya? Ko imassa upagatassa piṇḍakaṁ dassati? Amhākaṁ pana
+ayyā assajipunabbasukā saṇhā sakhilā sukhasambhāsā mihitapubbaṅgamā
+ehisvāgatavādino abbhākuṭikā uttānamukhā pubbabhāsino. Tesaṁ kho nāma piṇḍo
+dātabbo"ti.
+
+.... Anupubbena yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami ...
+
+... Vigarahi buddho bhagavā ...
+
+Kathañhi nāma te, bhikkhave, moghapurisā evarūpaṁ anācāraṁ ācarissanti?
+Netaṁ, bhikkhave, appasannānaṁ vā pasādāya pasannānaṁ vā bhiyyobhāvāya;
+atha khvetaṁ, appasannānañceva appasādāya pasannānañca ekaccānaṁ aññathattāyā"ti.
+
+\columnbreak
+
+/dūseti:/ (of the mind) spoils; corrupts; ruins
+
+/alajjī:/ shameless; not afraid of sin
+
+/anācāra:/ m. misconduct; wrongdoing; bad behaviour
+
+/gāyati:/ sings
+
+/vādeti:/ plays a musical instrument
+
+/lāseti:/ plays; performs; dances
+
+/aṭṭhapada:/ nt. chessboard (eight-checkers)
+
+/kīḷati:/ plays (with); has fun (with)
+
+/akkharikā:/ f. a letter-game
+
+/manesikā:/ f. thought-guessing
+
+/yathāvajja:/ nt. mimicking deformities
+
+/raṅgamajjha:/ m. centre stage
+
+/pattharati:/ spread about; spreads around
+
+/nalāṭikā:/ f. frown; funny facial expression
+
+/vividha:/ adj. various kinds of; multiple
+
+/vigarahi:/ aor. of /vigarahati/
+
+/vigarahati:/ scolds; rebukes; criticizes
+
+/atha:/ ind. but; rather; even
+
+/khvetaṁ:/ kho + evaṁ
+
+/ekacca:/ pron. certain; one of; some of them
+
+/aññathatta:/ nt. change of mind; change of opinion; lit. otherwise state [añña + thā + tta]
+#+end_widecols
 
 * Notes                                                            :noexport:
 ** conversion regexes
@@ -60,6 +229,14 @@ Convert a table to quote blocks:
 
 : s/ +\(~*\)$/\1/
 
+Two col table to one col lines:
+
+: s/^| +\([^|]+\) +| \([^|]+\) +|/| \1 |\n| \2 |/
+
+: s/^| +\([^|]+\) +| \([^|]+\) +|/| \1 |\n| \\fillin{12cm}{\2} |/
+
+: s/  +[}]/}/
+
 Lines with ~vocab~ to table:
 
 : s/^\(.*\)\n~*\([^~]+\)~*/| \1 | \2 |/
@@ -71,6 +248,10 @@ Two lines to table cols:
 Two lines to table rows:
 
 : s/^\(.*\)\n*\(.*\)/| \1 |\n| \\fillin{12cm}{\2} |/
+
+Exercise lines to vocab table:
+
+: s/^| \([^|]+\) +|\n| \\fillin[{][^}]+[}][{]\([^}]+\)[}] +|/| \1 | \2 |/
 
 ** yo pana
 
@@ -265,10 +446,10 @@ Pronouns take on the person and number of the noun they represent.
 
 A relative sentence begins with a relative clause, followed by a demonstrative:
 
-| /yo/   | /gilānaṃ/ | /upaṭṭhāti/ |
-| he who | ill       | attends    |
-| /so/   | /maṃ/     | /upaṭṭhāti/ |
-| he     | to me     | attends    |
+| /yo/   | /gilānaṃ/  | /upaṭṭhāti/ |
+| he who | to the ill | attends    |
+| /so/   | /maṃ/      | /upaṭṭhāti/ |
+| he     | to me      | attends    |
 
 #+latex: \bigskip
 
@@ -416,9 +597,11 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 
 #+latex: {\centering
 
-Abhisatto'va nipatati, vayo. ([[https://suttacentral.net/thag1.118/pli/ms][Thag 118]])
+Abhisatto'va[fn:: iva] nipatati, vayo. ([[https://suttacentral.net/thag1.118/pli/ms][Thag 118]])
 
 Like a curse, it falls, *old age*.
+
+\mbox{}
 
 #+latex: \par}
 
@@ -433,7 +616,7 @@ Like a curse, it falls, *old age*.
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | I use *the requisite.*                                            | Parikkhāraṁ paṭisevāmi.                 |
-| The birds eat *the seeds.* (/bīja/)                               | \fillin{8cm}{Sakuṇā bījāni bhuñjanti.}   |
+| The birds eat *the seeds.* (/bīja, nt./)                          | \fillin{8cm}{Sakuṇā bījāni bhuñjanti.}   |
 | The lion doesn't see *the dogs.* (/sunakha/)                      | \fillin{8cm}{Sīho sunakhe na passati.}  |
 | The dogs are barking (/bhussati/) *at the moon.* (/canda/)        | \fillin{8cm}{Sunakhā candaṁ bhussanti.} |
 | The disciple (/sāvaka/) eats the lion.                            | \fillin{8cm}{Sāvako sīhaṁ khādati.}     |
@@ -452,7 +635,7 @@ The māluva-seed (/māluvābīja/) falls *at the base of sal trees.* (/sālamūl
 
 /Bhagavā kosalesu cārikaṁ carati.../ (Ud 5.9)
 
-The Buddha was wandering in the land of the Kosalans...
+The Buddha is wandering in the land of the Kosalans...
 #+end_quote
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -482,47 +665,10 @@ The Buddha was wandering in the land of the Kosalans...
 
 #+latex: \normalArrayStrech
 
-*** TODO Extras to add                                             :noexport:
-
-where
-bowl
-spoon
-washes
-your
-my
-sleeps
-ant
-bed
-monk's hut kuti
-mosquito
-a fly
-kitchen
-
-Where is my bowl?
-
-Where is Ajahn Amaro's spoon?
-
-It's here.
-
-Do you see it?
-
-This is his spoon.
-
-I wash your cup.
-
-Please wash my bowl.
-
-Did you sleep well?
-I didn't sleep well.
-There were ants in my bed.
-
-There are mosquitoes in my kuti.
-
-There are flies in the kitchen.
-
 *** Extra Challenge: Pāli Chat
 **** Greetings: Getting By
 
+| here                            | idha (ind.)            |
 | he comes                        | āgacchati              |
 | master; gentleman; sir          | ayya (m.)              |
 | I hope; I trust                 | kacci (ind.)           |
@@ -555,27 +701,30 @@ There are flies in the kitchen.
 | coming; arrival                             | āgata (nt.)        |
 | from travelling (from going on the journey) | addhānaṁ āgato     |
 | I am '√as'                                  | asmi               |
+| from there                                  | tato (ind.)        |
 | where? from where?                          | kuto (ind.)        |
+| (1) place; region (2) point; item; detail   | desa (m.)          |
+| Portugal-region                             | Portugal-desa      |
 | country; province; area                     | janapada (m.)      |
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| I hope you are with little fatigue?                                             |
-| \fillin{12cm}{Kacci'si appakilamathena?}                                        |
-| I hope you're with little fatigue from traveling?                               |
-| \fillin{12cm}{Kacci'si appakilamathena addhānaṁ āgato?}                         |
-| I'm keeping well, friend, I'm getting by.                                       |
-| \fillin{12cm}{(Ahaṁ) Khamanīyaṁ, āvuso, yāpanīyaṁ.}                            |
-| ... and I'm not tired, friend, from traveling.                                  |
-| \fillin{12cm}{... appakilamathena cāhaṁ [ca ahaṁ], āvuso, addhānaṁ āgato.}     |
-| I am tired. (Me tired I am '√as')                                               |
-| \fillin{12cm}{Ahaṁ kilantosmi. [kilanto + asmi]}                                |
-| And where from, you Ven., have you come?                                        |
-| \fillin{12cm}{Kuto ca tvaṁ bhante, āgacchasi?}                                  |
-| There is, Ven., in the country (of) Portugal, the monastery called Sumedhārāma. |
-| \fillin{12cm}{Atthi, bhante, Portugal janapade Sumedhārāma-vihāro nāma.}        |
-| That's where I, Ven., am coming from.                                           |
-| \fillin{12cm}{Tato ahaṁ, bhante, āgacchāmi.}                                    |
+| I hope you are with little fatigue?                                            |
+| \fillin{12cm}{Kacci'si appakilamathena?}                                       |
+| I hope you're with little fatigue from traveling?                              |
+| \fillin{12cm}{Kacci'si appakilamathena addhānaṁ āgato?}                        |
+| I'm keeping well, friend, I'm getting by.                                      |
+| \fillin{12cm}{(Ahaṁ) Khamanīyaṁ, āvuso, yāpanīyaṁ.}                           |
+| ... and I'm not tired, friend, from traveling.                                 |
+| \fillin{12cm}{... appakilamathena cāhaṁ [ca ahaṁ], āvuso, addhānaṁ āgato.}    |
+| I am tired. (Me tired I am '√as')                                              |
+| \fillin{12cm}{Ahaṁ kilantosmi. [kilanto + asmi]}                               |
+| And where from, you Ven., have you come?                                       |
+| \fillin{12cm}{Kuto ca tvaṁ bhante, āgacchasi?}                                 |
+| There is, Ven., in the region (of) Portugal, the monastery called Sumedhārāma. |
+| \fillin{12cm}{Atthi, bhante, Portugal-dese Sumedhārāma-vihāro nāma.}           |
+| That's where I, Ven., am coming from.                                          |
+| \fillin{12cm}{Tato ahaṁ, bhante, āgacchāmi.}                                   |
 
 #+latex: \normalArrayStrech
 
@@ -591,6 +740,7 @@ There are flies in the kitchen.
 | town                                           | nigama (m.)            |
 | day                                            | aṇha (m.)               |
 | time; occasion                                 | samaya (m.)            |
+| before, previously                             | pubbe (ind.)           |
 | morning-time                                   | pubbaṇhasamaya (m.)     |
 | day-time                                       | majjhanhikasamaya (m.) |
 | evening-time                                   | sāyanhasamaya (m.)     |
@@ -616,32 +766,38 @@ There are flies in the kitchen.
 
 **** Phrases
 
-| Good morning (daybreak) Ven. Sir! | Suppabhātaṁ bhante.                       |
-| Good morning everyone.            | Suppabhātaṁ sabbesaṁ.                     |
-| Thank you.                        | Anumodāmi.                                |
-| (See you) tomorrow.               | Suve.                                     |
-| (Sorry,) I'll make amends.        | Paṭikarissāmi.                             |
-| I feel sorry.                     | Kāruññaṁ.                                 |
-| Yes.                              | Āma / Evaṁ bhante.                        |
-| No.                               | No hetaṁ, bhante.                         |
-| Never mind (leave it aside).      | Tiṭṭhatu, bhante.                          |
-| It is hot today.                  | Ajj'āccuṇhaṃ. [ajja (ind.) + ati  + uṇha] |
-| It is cold today.                 | Ajj'ātisītaṁ.                             |
-| Excuse me!                        | Okāsa, bhante.                            |
-| Welcome here.                     | Svāgataṁ.                                 |
-| Please sit.                       | Nisīdatha.                                |
-| Wait (stay) here.                 | Ettheva tiṭṭha.                            |
-| knows; understands; distinguishes | pajānāti                                  |
-| Why is that?                      | Taṁ kissa hetu?                           |
-| Where?                            | kattha (ind.)                             |
-| market; bazaar; market place      | antarāpaṇa (m.)                            |
-| thinks; presumes; supposes        | maññati                                   |
-| How?                              | kinti (ind.)                              |
-| I (we) must go.                   | Handa dāni mayaṁ gacchāma.                |
-| Go at your convenience.           | Yassadāni tvaṁ kālaṁ maññasī.             |
+| Good morning (daybreak) Ven. Sir!                 | Suppabhātaṁ bhante.                       |
+| Good morning everyone.                            | Suppabhātaṁ sabbesaṁ.                     |
+| Thank you.                                        | Anumodāmi.                                |
+| (See you) tomorrow.                               | Suve.                                     |
+| (Sorry,) I'll make amends.                        | Paṭikarissāmi.                             |
+| remorse; regret; lit. remembering back negatively | vippaṭisāra (m.)                           |
+| (Sorry, I have) regret.                           | Vippaṭisāraṁ.                             |
+| (I feel) sorry. (for your situation)              | Kāruññaṁ.                                 |
+| Yes.                                              | Āma / Evaṁ bhante.                        |
+| No.                                               | No hetaṁ, bhante.                         |
+| Never mind (leave it aside).                      | Tiṭṭhatu, bhante.                          |
+| It is hot today.                                  | Ajj'āccuṇhaṃ. [ajja (ind.) + ati  + uṇha] |
+| It is cold today.                                 | Ajj'ātisītaṁ.                             |
+| Excuse me!                                        | Okāsa, bhante.                            |
+| Welcome here.                                     | Svāgataṁ.                                 |
+| Please sit.                                       | Nisīdatha.                                |
+| Wait (stay) here.                                 | Ettheva tiṭṭha.                            |
+| knows; understands; distinguishes                 | pajānāti                                  |
+| Why is that? Of what cause?                       | Taṁ kissa hetu?                           |
+| Where?                                            | kattha (ind.)                             |
+| market; bazaar; market place                      | antarāpaṇa (m.)                            |
+| thinks; presumes; supposes                        | maññati                                   |
+| How?                                              | kinti (ind.)                              |
+| if                                                | sace (ind.)                               |
+| says; speaks                                      | vadeti                                    |
+| I (we) must go.                                   | Handa dāni mayaṁ gacchāma.                |
+| Go at your convenience.                           | Yassadāni tvaṁ kālaṁ maññasi.             |
 
+#+latex: \enlargethispage*{2\baselineskip}
 #+latex: \renewcommand{\arraystretch}{1.8}
 
+#+ATTR_LATEX: :environment longtable
 | I don't understand.                                                    |
 | \fillin{12cm}{Na pajānāmi.}                                            |
 | Where is the market?                                                   |
@@ -650,9 +806,6 @@ There are flies in the kitchen.
 | \fillin{12cm}{Taṁ kiṁ maññasi?}                                        |
 | How can I help (do)?                                                   |
 | \fillin{12cm}{Kinti karomi?}                                           |
-
-\clearpage
-
 | What is your name?                                                     |
 | \fillin{12cm}{Kinnāmosi?}                                              |
 | My name is ...                                                         |
@@ -692,7 +845,7 @@ There are flies in the kitchen.
 | cold water                                              | sītodaka (nt.) [sīta + udaka]            |
 | feels; experiences; senses; lit. causes to know         | vedayati                                 |
 | desires; wants                                          | icchati                                  |
-| greater (than); more (than)                             | atirekatara                              |
+| more; greater; bigger                                   | bahutara                                 |
 | food; fuel; sustenance                                  | āhāra (m.)                               |
 | (1) analyses; dissects (2) divides; distributes; shares | vibhajati                                |
 | immediately after that; with no interval                | anantaraṁ (ind.)                         |
@@ -729,16 +882,16 @@ There are flies in the kitchen.
 | \fillin{12cm}{Suve uṇhaṁ bhavissati. Uṇhapānaṁ icchasi?}                                           |
 | \textbf{[B]} A cup with hot water is a good idea (agreeable thought).                              |
 | \fillin{12cm}{Mallako uṇhodakassa vitakkaṁ piyarūpaṁ. / Uṇhodaka'mallako vitakko piyarūpo (hoti).} |
-| \textbf{[A]} Right here friend. Do you come from the country Spain?                                |
-| \fillin{12cm}{Etthevaṁ / Etthāyaṁ āvuso. Spain janapadasmā āgacchasi?}                             |
+| \textbf{[A]} Right here friend. Do you come from the region (of) Spain?                            |
+| \fillin{12cm}{Etthevaṁ / Etthāyaṁ āvuso. Spain-desamhā āgacchasi?}                                 |
 | \textbf{[B]} No Sir. I come from the country ...                                                   |
 | \fillin{12cm}{No hetaṁ, bhante. ... janapadasmā āgacchāmi.}                                        |
 | \textbf{[B]} And where do you live Sir?                                                            |
 | \fillin{12cm}{Katthañca vasatha / viharatha bhante?}                                               |
 | \textbf{[A]} I live in Norway. There it is always cold.                                            |
 | \fillin{12cm}{Norway janapade vasāmi. Tatra sītaṁ sabbadā.}                                        |
-| \textbf{[A]} Is is hot in ... country?                                                             |
-| \fillin{12cm}{Api nu ... janapade uṇho?}                                                            |
+| \textbf{[A]} In the region (of) ..., is it hot?                                                    |
+| \fillin{12cm}{Api nu ...-dese uṇho hoti?}                                                           |
 | \textbf{[B]} Here in the morning it is cold, and in the daytime is it hot.                         |
 | \fillin{12cm}{Idha pubbaṇhasamaye ca sīto hoti, majjhanhikasamaye ca uṇho hoti.}                    |
 | \textbf{[A]} I must go now. Bye for a week.                                                        |
@@ -765,8 +918,8 @@ There are flies in the kitchen.
 | \fillin{12cm}{Taṁ kissa hetu? Na ajj'āccuṇhaṃ / ajjūṇho.}                                       |
 | \textbf{[B]} Having walked for alms, having received a lot of food, my bowl is heavy.           |
 | \fillin{12cm}{Piṇḍāya caritvā / gatvā, bahu khādanīyaṁ paṭiggahetvā / labbhitvā, me patto garo.} |
-| \textbf{[B]} I got more food than Ven. Kovilo. I will share with him.                           |
-| \fillin{12cm}{Kovilā atirekataraṁ āhāraṁ labbhāmi. Ahaṁ tena vibhajissāmi.}                    |
+| \textbf{[B]} I got more food than (of) Ven. Kovilo. I will share with him.                      |
+| \fillin{12cm}{Āyasmato Kovilassa bahutaraṁ āhāraṁ labbhāmi. Ahaṁ tena vibhajissāmi.}           |
 | \textbf{[A]} Please sit here. Where does the master go for alms?                                |
 | \fillin{12cm}{Ettheva / Idha nisīdatha. Kuhiṁ / Kathaṁ piṇḍāya ayyo gacchatha?}                 |
 | \textbf{[B]} In the town called Ericeira, there is the market. I go there for alms.             |
@@ -785,9 +938,12 @@ There are flies in the kitchen.
 #+latex: \normalArrayStrech
 
 #+begin_export latex
-\clearpage
-\thispagestyle{empty}
-\includepdf[pages=-, angle=-90, nup=1x2]{./vocabulary-lesson-1.pdf}
+% \cleartonewsheet
+%
+% \thispagestyle{empty}
+% \includepdf[pages=-, angle=-90, nup=1x2]{./vocabulary-lesson-1.pdf}
+
+\cleartonewsheet
 #+end_export
 
 ***** References                                                   :noexport:
@@ -812,7 +968,6 @@ There are flies in the kitchen.
   - 18. The account of Visākhā
 
 * Lesson 2
-** [[file:vocabulary/lesson-2.org][Vocabulary]]                                                      :noexport:
 ** Review Exercises
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -1216,10 +1371,10 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 #+latex: {\centering\par
 #+latex: \begin{multicols}{2}
 
-| √dā  | dātabba, deyya   | should be given       |
-| √nī  | nettabba         | should be led         |
-| √su  | sotabba          | should be listened to |
-| dese | desetabba | should be expounded |
+| √dā  | dātabba, deyya | should be given       |
+| √nī  | nettabba       | should be led         |
+| √su  | sotabba        | should be listened to |
+| dese | desetabba      | should be expounded   |
 
 #+latex: \columnbreak
 
@@ -1231,43 +1386,107 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 #+latex: \end{multicols}
 #+latex: \par}
 
+\bigskip
+
+#+begin_widecols
+
+Dukkhaṁ ariyasaccaṁ pariññeyyaṁ ... pariññātaṁ \\
+Dukkhasamudayaṁ a.s. pahātabbaṁ ... pahīnaṁ \\
+Dukkhanirodhaṁ a.s. sacchikātabbaṁ ... sacchikataṁ \\
+D.n.gāminī paṭipadā a.s. bhāvetabbaṁ ... bhāvitaṁ \\
+([[https://suttacentral.net/sn56.11/pli/ms][SN 56.11]])
+
+\bigskip
+
+Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjeyya ... ([[https://suttacentral.net/pli-tv-bu-vb-ss2/pli/ms][Sg 2]])
+
+\bigskip
+
+... Paṭiggahetvā tiyojanaparamaṁ sahatthā haritabbāni. ([[https://suttacentral.net/pli-tv-bu-vb-np16/pli/ms][NP 16]])
+
+\columnbreak
+
+Yo pana bhikkhu bhikkhuṁ kupito anattamano saṅghikā vihārā nikkaḍḍheyya vā nikkaḍḍhāpeyya vā, pācittiyaṁ. ([[https://suttacentral.net/pli-tv-bu-vb-pc17/pli/ms][Pc 17]])
+
+\bigskip
+
+Uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya: sammukhāvinayo dātabbo, sativinayo dātabbo, amūḷhavinayo dātabbo, ... ([[https://suttacentral.net/pli-tv-bu-vb-as1-7/pli/ms][Adhikaraṇasamatha]])
+
+#+end_widecols
+
+\bigskip
+
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| completely comprehends; knows full well                | parijānāti                           |
+| gives up; abandons; lets go (of)                       | pajahati                             |
+| personal; lit. see for oneself                         | sacchi (adj.)                        |
+| personally experiences, realizes; lit. personally does | sacchikaroti                         |
+| cultivates; develops; lit. causes to become            | bhāveti                              |
+| descends (into); goes down (into)                      | otarati                              |
+| afflicted (with); affected (by)                        | otiṇṇa (pp. of otarati)               |
+| changes; alters; lit. completely bends around          | vipariṇamati                          |
+| change; alteration                                     | vipariṇāma (m.)                       |
+| changed, altered, distorted                            | vipariṇata (pp. of vipariṇamati)      |
+| (1) attains; dwells in (2) engages in; performs        | samāpajjati                          |
+| takes; accepts; receives                               | paṭiggaṇhāti                          |
+| at the very most; for a maximum of                     | paramaṁ (ind.)                       |
+| personally; with one’s own hand                        | sahatthā (ind.)                      |
+| is angered; is provoked; is irritated                  | kuppati                              |
+| indignant; angry; annoyed                              | kupita (pp. of kuppati)              |
+| irritated; annoyed; displeased; lit. not own mind      | anattamana (adj.) [na + atta + mana] |
+| expels (from); throws out; removes; lit. drags out     | nikkaḍḍhati                           |
+
+\clearpage
+
 ** Exercises
 *** Translate
 
 #+begin_twocols
 
-/anujānāti:/ allows (to); permits (to) \\
 /kaṇājaka:/ nt. congee; gruel; rice porridge \\
-/kañjiya:/ nt. rice water; congee
+/kañjiya:/ nt. rice water; congee \\
+/accha:/ adj. clean; clear; transparent \\
+/acchakañjiyā:/ f. rice gruel; rice water \\
+/anujānāti:/ allows (to); permits (to)
 
 \columnbreak
 
-/accha:/ adj. clean; clear; transparent \\
-/acchakañjiyā:/ f. rice gruel; rice water \\
+/attha:/ m. (1) meaning; significance (2) benefit; goal \\
+(3) purpose \\
+/attha:/ m. (4) case; issue; matter \\
+/attha:/ m. (5) need (for); want (for) \\
 /yūsa:/ m. soup; broth \\
 /akaṭayūsa:/ m. untreated soup; bean broth
 
 #+end_twocols
 
+\bigskip
+
+/Hoti/ is intransitive, and always takes a nominative: /attho hoti/, "there is need".
+
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| He needed rice water (clear congee). | Acchakañjiyā attho hoti.[fn:mv-kd6]                |
-| Bhikkhus, I allow rice water.        | "Anujānāmi, bhikkhave, acchakañjin"ti.             |
-| He needed bean broth.                | \fillin{8cm}{Akaṭayūsena attho hoti.}               |
-| Bhikkhus, I allow bean broth.        | \fillin{8cm}{"Anujānāmi, bhikkhave, akaṭayūsan"ti.} |
+| (He) needed rice water (clear congee). | Acchakañjiyā attho hoti.[fn:mv-kd6]                |
+| Bhikkhus, I allow rice water.          | "Anujānāmi, bhikkhave, acchakañjin"ti.             |
+| By him bean broth is needed.           | \fillin{8cm}{Tena akaṭayūsena attho hoti.}          |
+| Bhikkhus, I allow bean broth.          | \fillin{8cm}{"Anujānāmi, bhikkhave, akaṭayūsan"ti.} |
 
 #+begin_twocols
 
 /nandati:/ is happy (with); delights (in); likes; enjoys \\
 /socati:/ sorrows; grieves; mourns \\
 /laddhā:/ (abs. of labhati) having got; having obtained \\
-/tena hi:/ in that case; if that's so
+/tena hi:/ in that case; if that's so \\
+/kathaṁ:/ ind. How?
 
 \columnbreak
 
-/kathaṁ:/ ind. How? \\
 /jīyati:/ diminishes; decreases; gets less; is lost \\
-/jīyittha:/ was lost (aor. 3rd. refl. sg. of /jīyati/)
+/jīyittha:/ was lost (aor. 3rd. refl. sg. of /jīyati/) \\
+/agha:/ nt. trouble; misfortune; pain; misery \\
+/anagha:/ adj. [na + agha] untroubled; carefree \\
+/vijjati:/ exists (in); is found (in); is present (in) \\
+/ve:/ ind. indeed; truly; really
 
 #+end_twocols
 
@@ -1276,13 +1495,7 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 | Well then, ascetic, do you sorrow?        | \fillin{8cm}{Tena hi, samaṇa, socasi?} |
 | \fillin{8cm}{What have I lost, friend?}   | Kiṁ jīyittha, āvuso?                  |
 
-\clearpage
-
-/agha:/ nt. trouble; misfortune; pain; misery \\
-/anagha:/ adj. [na + agha] untroubled; carefree \\
-/vijjati:/ exists (in); is found (in); is present (in) \\
-/ve:/ ind. indeed; truly; really
-
+\null
 
 | Kathaṁ tvaṁ anagho bhikkhu, kathaṁ nandī na vijjati?                              |
 | \fillin{12cm}{How are you untroubled, mendicant? How is delight not found in you?} |
@@ -1291,128 +1504,30 @@ The final /-ā/ of the root is changed into /e/ before /-ya/, and /y/ is redupli
 
 #+latex: \normalArrayStrech
 
-\bigskip
+\clearpage
+
+*** Readings
 
 #+begin_quote
-"Aghajātassa ve nandī,\\
-nandījātassa ve aghaṁ;\\
-Anandī anagho bhikkhu,\\
+"Aghajātassa ve nandī, \\
+nandījātassa ve aghaṁ; \\
+Anandī anagho bhikkhu, \\
 evaṁ jānāhi āvuso"ti.
 
 ([[https://suttacentral.net/sn2.18/pli/ms][SN 2.18]])
 #+end_quote
 
-\clearpage
+#+begin_quote
+\raggedright
 
-*** Readings
+'Nandī dukkhassa mūlan'ti -- iti viditvā 'bhavā jāti bhūtassa jarāmaraṇan'ti.
 
-#+begin_widecols
-([[https://suttacentral.net/pli-tv-bu-vb-ss13/pli/ms][Vin. Sg 13]]) Kuladūsakasikkhāpada \\
-/The training rule on corrupters of families/
+Tasmātiha, bhikkhave, 'tathāgato sabbaso taṇhānaṁ khayā virāgā nirodhā cāgā paṭinissaggā anuttaraṁ sammāsambodhiṁ abhisambuddho'ti vadāmi.
 
-... assaji-punabbasu'kā nāma kīṭāgirismiṁ āvāsikā honti alajjino pāpabhikkhū. Te evarūpaṁ anācāraṁ ācaranti ...
+([[https://suttacentral.net/mn1/pli/ms][MN 1]])
+#+end_quote
 
-vikālepi bhuñjanti, majjampi pivanti, mālā-gandha- vilepanampi dhārenti,
-naccantipi gāyantipi vādentipi lāsentipi,
-naccantiyāpi naccanti ... gāyantiyāpi gāyanti ... vādentiyāpi vādenti ... lāsentiyāpi lāsenti;
-aṭṭhapadepi kīḷanti, dasapadepi kīḷanti ... akkharikāyapi kīḷanti, manesikāyapi kīḷanti, yathāvajjenapi kīḷanti.
-
-... raṅgamajjhepi saṅghāṭiṁ pattharitvā naccakiṁ evaṁ vadanti -- "idha, bhagini,
-naccassū"ti, nalāṭikampi denti, vividhampi anācāraṁ ācaranti.
-
-# Just then a monk who had completed the rainy-season residence in Kāsī was on his way to visit the Buddha at Sāvatthī when he arrived at Kīṭāgiri.
-
-Tena kho pana samayena aññataro bhikkhu kāsīsu vassaṁvuṭṭho sāvatthiṁ gacchanto
-bhagavantaṁ dassanāya, yena kīṭāgiri tadavasari.
-
-# In the morning he robed up, took his bowl and robe, and entered Kīṭāgiri to collect almsfood.
-
-Atha kho so bhikkhu pubbaṇhasamayaṁ nivāsetvā pattacīvaramādāya kīṭāgiriṁ
-piṇḍāya pāvisi.
-
-# He was pleasing in his conduct: in going out and coming back, in looking ahead and looking aside, in bending and stretching his arms. His eyes were lowered, and he was perfect in deportment.
-
-Pāsādikena abhikkantena paṭikkantena ālokitena vilokitena samiñjitena pasāritena
-okkhittacakkhu iriyāpathasampanno.
-
-# When people saw him, they said, “Who’s this, acting like a moron and always frowning? Who’s gonna give almsfood to him? Almsfood should be given to our Venerables Assaji and Punabbasuka, for they are gentle, congenial, pleasant to speak with, greeting one with a smile, welcoming, friendly, open, the first to speak.”
-
-Manussā taṁ bhikkhuṁ passitvā evamāhaṁsu -- "kvāyaṁ abalabalo viya mandamando viya
-bhākuṭikabhākuṭiko viya? Ko imassa upagatassa piṇḍakaṁ dassati? Amhākaṁ pana
-ayyā assajipunabbasukā saṇhā sakhilā sukhasambhāsā mihitapubbaṅgamā
-ehisvāgatavādino abbhākuṭikā uttānamukhā pubbabhāsino. Tesaṁ kho nāma piṇḍo
-dātabbo"ti.
-
-.... Anupubbena yena sāvatthi jetavanaṁ anāthapiṇḍikassa ārāmo yena bhagavā tenupasaṅkami ...
-
-... Vigarahi buddho bhagavā ...
-
-Kathañhi nāma te, bhikkhave, moghapurisā evarūpaṁ anācāraṁ ācarissanti?
-Netaṁ, bhikkhave, appasannānaṁ vā pasādāya pasannānaṁ vā bhiyyobhāvāya;
-atha khvetaṁ, appasannānañceva appasādāya pasannānañca ekaccānaṁ aññathattāyā"ti.
-
-\columnbreak
-
-/dūseti:/ (of the mind) spoils; corrupts; ruins
-
-/alajjī:/ shameless; not afraid of sin
-
-/anācāra:/ m. misconduct; wrongdoing; bad behaviour
-
-/gāyati:/ sings
-
-/vādeti:/ plays a musical instrument
-
-/lāseti:/ plays; performs; dances
-
-/aṭṭhapada:/ nt. chessboard (eight-checkers)
-
-/kīḷati:/ plays (with); has fun (with)
-
-/akkharikā:/ f. a letter-game
-
-/manesikā:/ f. thought-guessing
-
-/yathāvajja:/ nt. mimicking deformities
-
-/raṅgamajjha:/ m. centre stage
-
-/pattharati:/ spread about; spreads around
-
-/nalāṭikā:/ f. frown; funny facial expression
-
-/vividha:/ adj. various kinds of; multiple
-
-/vigarahi:/ aor. of /vigarahati/
-
-/vigarahati:/ scolds; rebukes; criticizes
-
-/atha:/ ind. but; rather; even
-
-/khvetaṁ:/ kho + evaṁ
-
-/ekacca:/ pron. certain; one of; some of them
-
-/aññathatta:/ nt. change of mind; change of opinion; lit. otherwise state [añña + thā + tta]
-#+end_widecols
-
-\clearpage
-
-Yo pana bhikkhu sañcicca pāṇaṁ jīvitā voropeyya, pācittiyaṁ. ([[https://suttacentral.net/pli-tv-bu-vb-pc61/pli/ms][Pc 61]])
-
-Sikkhamānena, bhikkhave, bhikkhunā aññātabbaṁ paripucchitabbaṁ paripañhitabbaṁ. (Pc 71)
-
-Yo pana bhikkhu otiṇṇo vipariṇatena cittena mātugāmena saddhiṁ kāyasaṁsaggaṁ samāpajjeyya ... (Sg 2)
-
-- /vipariṇamati/: he changes, alters, distorts
-- /vipariṇata/: changed, altered, distorted (pp. vipariṇamati)
-- /viparinatena/: with/by a changed, altered, distorted state
-
-Yo pana bhikkhu bhikkhussa kupito anattamano pahāraṁ dadeyya, pācittiyaṁ. (Pc 74)
-
-Agilānena bhikkhunā eko āvasathapiṇḍo bhuñjitabbo. Tato ce uttariṁ bhuñjeyya, pācittiyaṁ. (Pc 31)
-
------
+\bigskip
 
 #+begin_widecols
 Na hi, gāmaṇi, kappati samaṇānaṁ sakyaputtiyānaṁ jātarūparajataṁ, na sādiyanti samaṇā sakyaputtiyā jātarūparajataṁ, nappaṭiggaṇhanti samaṇā sakyaputtiyā jātarūparajataṁ, nikkhittamaṇisuvaṇṇā samaṇā sakyaputtiyā apetajātarūparajatā.
@@ -1425,30 +1540,23 @@ Yassa pañca kāmaguṇā kappanti (…), ekaṁsenetaṁ, gāmaṇi, dhāreyyā
 
 #+latex: \columnbreak
 
-/gāmaṇi:/ [gāma + aṇi] masc. chief; headman; leader
-
-/paṭiggaṇhāti:/ takes; accepts; receives
-
-/nikkhitta:/ dropped; discarded; set aside
-
-/maṇi:/ m. jewel; gemstone
-
-/suvaṇṇa:/ adj. beautiful; nt. gold; lit. good colour
-
-/apeta:/ adj. without; -less; abstaining (from)
-
-/yassa:/ whose; of/for whom; gen./dat. of /ya/ (who)
-
-/tassa:/ its; of/for that; gen./dat. of /ta/ (it, that)
-
-/kāmaguṇa:/ m. object of sensual pleasure; lit. sensual strings
-
-/ekaṁsena:/ ind. certainly; definitely
-
+/gāmaṇi:/ [gāma + aṇi] masc. chief; headman; leader \\
+/paṭiggaṇhāti:/ takes; accepts; receives \\
+/nikkhitta:/ dropped; discarded; set aside \\
+/maṇi:/ m. jewel; gemstone \\
+/suvaṇṇa:/ adj. beautiful; nt. gold; lit. good colour \\
+/apeta:/ adj. without; -less; abstaining (from) \\
+/yassa:/ whose; of/for whom; gen./dat. of /ya/ (who) \\
+/tassa:/ its; of/for that; gen./dat. of /ta/ (it, that) \\
+/kāmaguṇa:/ m. object of sensual pleasure; \\
+lit. sensual strings \\
+/ekaṁsena:/ ind. certainly; definitely \\
 /dhāreti:/ holds up; carries; bears in mind
 #+end_widecols
 
------
+\bigskip
+
+#+begin_widecols
 
 Suṇātu me bhante saṅgho. \\
 Ajj'uposatho paṇṇaraso. \\
@@ -1468,67 +1576,340 @@ pārisuddhā ti vedissāmi.
 
 (Nidāna)
 
+\columnbreak
+
+/yadi:/ ind. if; whether; perhaps \\
+/pattakalla:/ nt. suitable time (for) \\
+/kicca:/ nt. obligation; duty \\
+/siyā:/ could be; may be (opt.irreg. of atthi) \\
+/āpatti:/ f. offense; transgression \\
+/tuṇhī:/ ind. silence, quiet
+
+#+end_widecols
+
 \clearpage
 
-*** TODO Extra Challenge: Pāli Chat                                :noexport:
-**** Conversation 1
+*** Extra Challenge: Pāli Chat
+**** Phrases
 
-| Do you know Pāli?                                     | Tvaṁ pālibhāsaṁ jānāsi?                             |
-| I know a little.                                      | Ahaṁ thokaṁ jānāmi.                                 |
-| Are you able to converse in Pāli?                     | Sakkosi tvaṁ pālibhāsāya sallapituṁ?                |
-| Yes, I am able to conversea little.                   | Āma, ahaṁ thokaṁ sallapituṁ sakkomi.               |
-| What is your name?                                    | Tuyhaṁ nāmaṁ kiṁ? Kin nāmo'si?                     |
-| My name is Vijayabāhu.                                | Ahaṁ Vijayabāhu-nāmo'mhi.                           |
-| Where do you live?                                    | Tvaṁ kattha vasasi?                                 |
-| I live in Colombo.                                    | Ahaṁ Koḷambanagare vasāmi.                           |
-| What is your age?                                     | Tuyhaṁ āyuppamāṇāṁ kittakaṁ?                       |
-| My age is fifteen.                                    | Mayahaṁ āyuppamāṇaṁ paṇṇarasa.                      |
-| How old are you?                                      | Kativasso'si tvaṁ (āyunā)?                          |
-| I am twenty years old.                                | Ahaṁ vīsativasso'mhi.                               |
-| Where do your parents live?                           | Tuyhaṁ mātāpitaro kuhiṁ vasanti?                    |
-| They too live in Colombo now.                         | Te p'idāni Koḷambanagare yeva vasanti.               |
-| Do you have brothers and sisters too?                 | Tuyhaṁ bhātu-bhaginiyo pi santi?                    |
-| Yes, I have four brothers and two sisters.            | Āma, mayhaṁ cattāro bhātaro dve bhaginiyo ca santi. |
-| What do your brothers do?                             | Tava bhātaro kiṁ karonti?                           |
-| One of them is a merchant, the second one is a clerk, | Tesu eko vāṇijo, ditiyo lekhako,                     |
-| and the other two still attend schools.               | dve tāva pāṭha-sālāsu uggaṇhanti.                    |
-| What do you like to be / do?                          | Tvaṁ kiṁ kammaṁ kātuṁ icchasi?                     |
-| I like to become a carpenter / architect.             | Aham eko vaḍḍakī bhavitum icchāmi.                   |
-| When did you come here?                               | Kadā tvaṁ idh'āgato'si?                             |
-| I came here yesterday.                                | Hīyo'ham idh'āgacchiṁ.                              |
+| his                                                    | assa (pron.)                     |
+| this is his                                            | ayamassa                         |
+| your; yours                                            | tuyha (pron.)                    |
+| it; that                                               | ta / taṁ (pron.)                 |
+| these                                                  | ime / imā / imāni (pron.)        |
+| with this                                              | iminā (pron.) [ima + inā]        |
+| my; to me; for me                                      | me / mayha / mama (pron.)        |
+| this is mine                                           | meso                             |
+| spoon                                                  | kaṭacchu (m.)                     |
+| wooden spoon; ladle                                    | dabbī (f.)                       |
+| attendant; assistant                                   | upaṭṭhāka (m.)                    |
+| closet; cupboard                                       | koṭṭhaka (m.)                     |
+| places down; lays down; sets up                        | odahati                          |
+| dries; desiccates; makes wither; lit. causes to dry up | visoseti                         |
+| tooth-stick; toothbrush                                | dantapona (nt.)                  |
+| lies; lies around; lit. sleeps                         | seti                             |
+| sleeps well (happily); rests comfortably               | sukhaṁ seti (idiom)              |
+| you/he slept                                           | asayi (aor.2nd/3rd.sg. of seti)  |
+| you all slept                                          | asayittha (aor.2nd.pl. of seti)  |
+| slept well; rested comfortably                         | sukhamasayi (aor.2nd/3rd.sg.)    |
+| one slept well; one rested comfortably                 | sukhamasayittha (aor.2nd.pl.)    |
+| myself slept well                                      | sukhamasayitthaṁ (aor.1st.refl.) |
+| ant                                                    | kipillika (m.)                   |
+| bed; sleeping place; couch; furniture                  | sayana (nt.)                     |
+| gone to bed                                            | sayanagata (adj.)                |
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Where is Ven. Vajiro bhikkhu's spoon?                                                    |
+| \fillin{12cm}{Kattha āyasmato Vajiro bhikkhussa kaṭacchu hoti?}                           |
+| I don't know. Do you see it?                                                             |
+| \fillin{12cm}{Na jānāmi. Taṁ passasi?}                                                   |
+| This is his spoon. Give it to his attendant.                                             |
+| \fillin{12cm}{Ayamassa kaṭacchu. Assaṁ / tassaṁ upaṭṭhākaṁ dehi.}                        |
+| I will wash your cup.                                                                    |
+| \fillin{12cm}{Tuyhaṁ mallakaṁ dhovāmi / dhovissati.}                                     |
+| (Please) Wash my bowl.                                                                   |
+| \fillin{12cm}{Me pattaṁ dhova / dhovatha.}                                               |
+| Where is your bowl?                                                                      |
+| \fillin{12cm}{Kattha tuyhaṁ pattaṁ?}                                                     |
+| Having washed my bowl, you should put (it) in the cupboard.                              |
+| \fillin{12cm}{Me pattaṁ dhovitvā, koṭṭhake odaheyya.}                                     |
+| (Please) you could wash these robes (clothes). Having been washed, they should be dried. |
+| \fillin{12cm}{Imāni vatthāni dhoveyyāsi. Dhovitvā, visoseyyāsi / visosetabbāni.}         |
+| (Please) Give me (a) toothbrush.                                                         |
+| \fillin{12cm}{Dantaponaṁ me dehi.}                                                       |
+| (May you) Sleep well!                                                                    |
+| \fillin{12cm}{Sukhaṁ sehi!}                                                              |
+| I trust Sir (you) slept well?                                                            |
+| \fillin{12cm}{Kacci bhante sukhamasayittha?}                                             |
+| No friend, I haven't slept well.                                                         |
+| \fillin{12cm}{No hetaṁ, āvuso, na sukhamasayitthaṁ.}                                     |
+| There are in my bed a lot of ants.                                                       |
+| \fillin{12cm}{Atthi me sayane bahu kipillikā.}                                           |
+
+#+latex: \normalArrayStrech
+
+\clearpage
+
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| nods off; dozes off                                    | pacalāyati                          |
+| (1) from that (2) therefore; that is why               | tasmā                               |
+| dullness; drowsiness; fuzziness; sluggishness          | thina (nt.)                         |
+| drowsiness; sluggishness                               | middha (nt.)                        |
+| dullness and drowsiness; sloth and torpor              | thinamiddha (nt.)                   |
+| occurs; happens; befalls; lit. goes down               | okkamati                            |
+| (1) exists; is found; is present (2) is possible       | vijjati [√vid + ya + ti]            |
+| it is possible, it is plausible; lit. a basis exists   | ṭhānaṁ vijjati (idiom)              |
+| is abandoned; is given up                              | pahīyati (pr.pass. of pajahati)     |
+| like; as; according to; how                            | yathā (ind.)                        |
+| studies well; learns thoroughly; masters; lit. reaches | pariyāpuṇāti                         |
+| learned by heart; mastered                             | pariyatta (adj. pp. of pariyāpuṇāti) |
+| with mind; by mind; with thought                       | cetasā (m.)                         |
+| sees; takes a look (at)                                | pekkhati                            |
+| carefully reconsiders; re-inspects                     | anupekkhati                         |
+| both                                                   | ubho (ind.)                         |
+| ear                                                    | kaṇṇa (m.)                           |
+| ear hole; lit. ear stream                              | kaṇṇasota (nt.)                      |
+| pulls (towards); tugs (to)                             | āviñchati                           |
+| hand; palm                                             | pāṇi (m.)                            |
+| (of the body) limb                                     | gatta (nt.)                         |
+| strokes; massages; rubs; lit. wipes along              | anumajjati [anu + √majj + a + ti]   |
+
+\bigskip
+
+#+begin_quote
+"Pacalāyasi no tvaṁ, moggallāna?"
+
+"Evaṁ, bhante."
+
+"Tasmātiha, moggallāna, yathāsaññissa te viharato taṁ middhaṁ okkamati, taṁ
+saññaṁ mā manasākāsi, taṁ saññaṁ mā bahulamakāsi.
+
+Ṭhānaṁ kho panetaṁ, moggallāna, vijjati yaṁ te evaṁ viharato taṁ middhaṁ pahīyetha.
+
+"No ce te evaṁ viharato taṁ middhaṁ pahīyetha, tato tvaṁ, moggallāna, yathāsutaṁ yathā-\\
+pariyattaṁ dhammaṁ cetasā anuvitakkeyyāsi anuvicāreyyāsi, manasā anupekkheyyāsi." [...]
+
+"No ce te evaṁ viharato taṁ middhaṁ pahīyetha, tato tvaṁ, moggallāna, ubho
+kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
+
+([[https://suttacentral.net/an7.61/en/sujato][AN 7.61]])
+#+end_quote
+
+\clearpage
+
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| sweeps; cleans                                         | sammajjati [saṁ + √majj + a + ti]  |
+| sweeping                                               | sammajjana (nt. from sammajjati)   |
+| before; earlier                                        | pure (ind.)                        |
+| afterwards; later; in the future                       | pacchā (ind.)                      |
+| seat; chair; lit. sitting                              | āsana (nt.)                        |
+| prepares; sets out (a seat, etc.)                      | paññāpeti                          |
+| (1) place (2) reason; ground; basis;  lit. standing    | ṭhāna (nt.)                         |
+| sweeping that place                                    | taṇṭhāna-sammajjanaṁ                |
+| coffee drink                                           | kāphīpāna (nt.)                    |
+| organises; arranges; prepares (food; drinks; etc.)     | paṭiyādeti                          |
+| assembly hall; meeting hall                            | upaṭṭhānasālā (f.)                  |
+| sitting hall                                           | āsanasālā (f.)                     |
+| dirty; messy                                           | uklāpa (adj.)                      |
+| earth; ground; floor                                   | chamā (f.)                         |
+| broom                                                  | sammuñjanī (f.)                    |
+| foot-washing water                                     | pādodaka (m.) [pāda + udaka]       |
+| sets out; provides; lit. causes to stand near          | upaṭṭhāpeti [upa + √ṭhā + *āpe + ti] |
+| water; drinking water; lit. to be drunk                | pāṇīya (nt.)                        |
+| washing water; rinsing water; lit. to be used          | paribhojanīya (adj.)               |
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Before the meal, we should put out seats.                                                |
+| \fillin{12cm}{Purebhattaṁ, āsane / āsanāni paññāpema.}                                   |
+| After the meal, we should sweep the place.                                               |
+| \fillin{12cm}{Pacchābhattaṁ, taṇṭhānaṁ sammajjeyyāma.}                                   |
+| If the teacher wants coffee, we should prepare coffee.                                   |
+| \fillin{12cm}{Sace ācariyaṁ kāphīpānaṁ icchati, kāphīpānaṁ paṭiyādema.}                  |
+| If the assembly hall is dirty, it should be swept.                                       |
+| \fillin{12cm}{Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā.}                |
+| He should sweep the floor and he should expel the ants with this broom.                  |
+| \fillin{12cm}{Chamā ca sammajjeyya, kipillikā ca nikkaḍḍheyya iminā sammuñjaniyā.}        |
+| If there's no drinking water, drinking water should be provided.                         |
+| \fillin{12cm}{Sace pānīyaṁ na hoti, pānīyaṁ upaṭṭhāpetabbaṁ.}                            |
+| If there's no rinsing water, rinsing water should be provided.                           |
+| \fillin{12cm}{Sace paribhojanīyaṁ na hoti, paribhojanīyaṁ upaṭṭhāpetabbaṁ.}              |
+
+#+latex: \normalArrayStrech
+
+\clearpage
+
+***** References                                                   :noexport:
+
+- [[https://suttacentral.net/an3.35/en/sujato][AN 3.35]]
+  - "kacci, bhante bhagavā, sukhamasayitthā"ti? "Evaṁ, kumāra, sukhamasayitthaṁ."
+
+**** Conversation 1
 
 /(Source: Buddhadhatta, Aids to Pāli Conversation, p.47)/
 
-**** Conversation 2
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| speech; talk                                       | bhāsa (m.)                     |
+| little; tiny; minute                               | thoka (adj.)                   |
+| is able (to)                                       | sakkoti                        |
+| talks; speaks; converses                           | sallapati                      |
+| to converse (with)                                 | sallapituṁ (inf. of sallapati) |
+| how many?                                          | kittaka (adj.)                 |
+| length of life; life-span                          | āyuppamāṇa (nt.) [āyu + pamāṇa] |
+| how-old? lit. having how many years?               | kativassa (adj.)               |
+| brother                                            | bhātar (m.) / bhātuka / bhāti  |
+| sister                                             | bhaginī (f.)                   |
+| in those; among those                              | tesu (pron.) [ta + esu]        |
+| trader; dealer                                     | vāṇija (m.)                     |
+| scribe, clerk, writer                              | lekhaka (m.)                   |
+| that much; that far; still; at least               | tāva (ind.)                    |
+| (1) picks up (2) takes; accepts (3) grasps; learns | uggaṇhāti                       |
+| house builder; mason; carpenter                    | gahakāra (m.)                  |
+| When?                                              | kadā (ind.)                    |
+| yesterday                                          | hīyo (ind.)                    |
 
-| Who are you?                                | Ko'si tvaṁ?                                           |
-| I am a way-farer.                           | Aham eko pathiko.                                     |
-| Where do you come from?                     | Kuto tvam āgacchasi?                                  |
-| I come from India.                          | Ahaṁ Indudesato āgacchāmi.                            |
-| For what purpose have you come?             | Tvaṁ kiṁ kātum āgato'si?                              |
-| I want to sell some goods.                  | Ahaṁ bhaṇḍāni vikkiṇitum icchāmi.                     |
-| Why did you come here?                      | Kasmā idh'āgato si?                                   |
-| I came here to talk to you.                 | Tayā saddhiṁ sallapituṁ āgato'mhi.                    |
-| Who / what is your father?                  | Ko tuyhaṁ pitā?                                       |
-| My father is the merchant Mahānāma.         | Mama pitā Mahānāmo vāṇijo.                             |
-| Who is your friend or acquaintance here?    | Ko idha tava mitto vā sandiṭṭho vā?                    |
-| The mayor of this city is a friend of mine. | Idha nagaraguttiko mayhaṁ mitto hoti.                 |
-| Where do you work?                          | Kattha tvaṁ kammaṁ karosi?                            |
-| I work in a post-office.                    | Aham ekasmiṁ sāsanāgāre kammaṁ karomi.                |
-| Where do you go from here?                  | Ito tvaṁ kuhiṁ gacchasi?                              |
-| I will go to another town from here.        | Aham ito aññaṁ nagaraṁ gamissāmi.                     |
-| Do you like this place?                     | Piyāyasi tvam idaṁ ṭhānaṁ?                            |
-| I may like this if it is not too hot.       | Piyāyeyyam idaṁ ṭhānaṁ sace'daṁ nāccuṇhaṁ bhaveyya.  |
-| When will you go home?                      | Kadā tvaṁ sakaṭṭhānaṁ gamissasi?                      |
-| I will go home when I get enough money.     | Yadā pahoṇakaṁ mūlaṁ labhissāmi, tadā'haṁ gamissāmi. |
-| How much money have you now with you?       | Kittakaṁ mūlaṁ 'dāni tava santike atthi?              |
-| I have fourteen rupees and fifty cents.     | Cuddasa rūpiyāni aḍḍharūpiyañ ca mama santike santi.   |
+#+latex: \renewcommand{\arraystretch}{1.5}
+
+#+ATTR_LATEX: :environment longtable
+| Do you know Pāli?                                                  |
+| \fillin{12cm}{Tvaṁ pālibhāsaṁ jānāsi?}                             |
+| I know a little.                                                   |
+| \fillin{12cm}{Ahaṁ thokaṁ jānāmi.}                                 |
+| Are you able to converse in Pāli?                                  |
+| \fillin{12cm}{Sakkosi tvaṁ pālibhāsāya sallapituṁ?}                |
+| Yes, I am able to conversea little.                                |
+| \fillin{12cm}{Āma, ahaṁ thokaṁ sallapituṁ sakkomi.}               |
+| What is your name?                                                 |
+| \fillin{12cm}{Tuyhaṁ nāmaṁ kiṁ? Kin nāmo'si?}                     |
+| My name is Vijayabāhu.                                             |
+| \fillin{12cm}{Ahaṁ Vijayabāhu-nāmo'mhi.}                           |
+| Where do you live?                                                 |
+| \fillin{12cm}{Tvaṁ kattha vasasi?}                                 |
+| I live in Colombo.                                                 |
+| \fillin{12cm}{Ahaṁ Koḷambanagare vasāmi.}                           |
+| What is your age?                                                  |
+| \fillin{12cm}{Tuyhaṁ āyuppamāṇāṁ kittakaṁ?}                       |
+| My age is fifteen.                                                 |
+| \fillin{12cm}{Mayahaṁ āyuppamāṇaṁ paṇṇarasa.}                      |
+| How old are you?                                                   |
+| \fillin{12cm}{Kativasso'si tvaṁ (āyunā)?}                          |
+| I am twenty years old.                                             |
+| \fillin{12cm}{Ahaṁ vīsativasso'mhi.}                               |
+| Where do your parents live?                                        |
+| \fillin{12cm}{Tuyhaṁ mātāpitaro kuhiṁ vasanti?}                    |
+| They too live in Colombo now.                                      |
+| \fillin{12cm}{Te p'idāni Koḷambanagare yeva vasanti.}               |
+| Do you have brothers and sisters too?                              |
+| \fillin{12cm}{Tuyhaṁ bhātu-bhaginiyo pi santi?}                    |
+| Yes, I have four brothers and two sisters.                         |
+| \fillin{12cm}{Āma, mayhaṁ cattāro bhātaro dve bhaginiyo ca santi.} |
+| What do your brothers do?                                          |
+| \fillin{12cm}{Tava bhātaro kiṁ karonti?}                           |
+| One of them is a merchant, the second one is a clerk,              |
+| \fillin{12cm}{Tesu eko vāṇijo, ditiyo lekhako,}                     |
+| and the other two still attend schools.                            |
+| \fillin{12cm}{dve tāva pāṭha-sālāsu uggaṇhanti.}                    |
+| What do you like to be / do?                                       |
+| \fillin{12cm}{Tvaṁ kiṁ kammaṁ kātuṁ icchasi?}                     |
+| I like to become an architect.                                     |
+| \fillin{12cm}{Aham eko gahakāraṁ bhavitum icchāmi.}                |
+| When did you come here?                                            |
+| \fillin{12cm}{Kadā tvaṁ idh'āgato'si?}                             |
+| I came here yesterday.                                             |
+| \fillin{12cm}{Hīyo'ham idh'āgacchiṁ.}                              |
+
+#+latex: \normalArrayStrech
+
+\clearpage
+
+**** Conversation 2
 
 /(Source: Buddhadhatta, Aids to Pāli Conversation, p.48)/
 
-*** TODO Extra Challenge: Crossword                                :noexport:
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| who?; what?; which?                                             | ka / ko (pron.)                |
+| where?; from where?                                             | kuto (ind.) [ka + to]          |
+| why?; lit. from what?                                           | kasmā (ind.) [ka + smā]        |
+| how many?                                                       | kittaka (adj.) [ka + tta + ka] |
+| to you; for you                                                 | tava (pron.)                   |
+| pedestrian, traveller                                           | pathika (m.)                   |
+| place; location; region; area                                   | desa (m.)                      |
+| to do; to make                                                  | kātuṁ (inf.)                   |
+| goods; wares; merchandise                                       | bhaṇḍa (nt.)                    |
+| sells                                                           | vikkiṇāti                       |
+| to sell                                                         | vikkiṇituṁ (inf. of vikkiṇāti) |
+| friend; acquaintance; lit. seen together                        | sandiṭṭha (m.)                  |
+| guardian                                                        | guttika (m.)                   |
+| mayor                                                           | nagaraguttika (m.)             |
+| post-office                                                     | sandesāgāra (nt.)              |
+| loves; holds dear; is fond of                                   | piyāyati                       |
+| house; home; lit. entering down                                 | nivesana (nt.)                 |
+| sufficient, enough                                              | pahonaka (adj.)                |
+| (of a tree) root; base (2) source; origin; root (3) money; cash | mūla (nt.)                     |
+| in the presence (of); near (to)                                 | santike (ind.)                 |
+| I have (in my presence there are)                               | mama santike santi (idiom)     |
+
+#+latex: \enlargethispage*{\baselineskip}
+#+latex: \renewcommand{\arraystretch}{1.5}
+
+#+ATTR_LATEX: :environment longtable
+| Who are you?                                                            |
+| \fillin{12cm}{Ko'si tvaṁ?}                                              |
+| I am a way-farer.                                                       |
+| \fillin{12cm}{Aham eko pathiko.}                                        |
+| Where do you come from?                                                 |
+| \fillin{12cm}{Kuto tvam āgacchasi?}                                     |
+| I come from India.                                                      |
+| \fillin{12cm}{Ahaṁ Indudesato āgacchāmi.}                               |
+| For what purpose (to do) have you come?                                 |
+| \fillin{12cm}{Tvaṁ kiṁ kātuṁ āgato'si?}                                |
+| I want to sell some goods.                                              |
+| \fillin{12cm}{Ahaṁ bhaṇḍāni vikkiṇitum icchāmi.}                        |
+| Why did you come here?                                                  |
+| \fillin{12cm}{Kasmā idh'āgato si?}                                      |
+| I came here to talk to you.                                             |
+| \fillin{12cm}{Tayā saddhiṁ sallapituṁ āgato'mhi.}                       |
+| Who is your father?                                                     |
+| \fillin{12cm}{Ko tuyhaṁ pitā?}                                          |
+| My father is the merchant Mahānāma.                                     |
+| \fillin{12cm}{Mama pitā Mahānāmo vāṇijo.}                                |
+| Who is your friend or acquaintance here?                                |
+| \fillin{12cm}{Ko idha tava mitto vā sandiṭṭho vā?}                       |
+| The mayor of this city is a friend of mine.                             |
+| \fillin{12cm}{Idha nagaraguttiko mayhaṁ mitto hoti.}                    |
+| Where do you work?                                                      |
+| \fillin{12cm}{Kattha tvaṁ kammaṁ karosi?}                               |
+| I work in a post-office.                                                |
+| \fillin{12cm}{Aham ekasmiṁ sandesāgāre kammaṁ karomi.}                  |
+| Where do you go from here?                                              |
+| \fillin{12cm}{Ito tvaṁ kuhiṁ gacchasi?}                                 |
+| I will go to another town from here.                                    |
+| \fillin{12cm}{Aham ito aññaṁ nagaraṁ gamissāmi.}                        |
+| Do you like this place?                                                 |
+| \fillin{12cm}{Piyāyasi tvam idaṁ ṭhānaṁ?}                               |
+| I may like this if it is not too hot.                                   |
+| \fillin{12cm}{Piyāyeyyam idaṁ ṭhānaṁ sace'daṁ nāccuṇhaṁ bhaveyya. }    |
+| When will you go home?                                                  |
+| \fillin{12cm}{Kadā tvaṁ nivesanaṁ gacchissasi / gamissasi?} |
+| I will go home when I get enough money.                                 |
+| \fillin{12cm}{Yadā pahoṇakaṁ mūlaṁ labhissāmi, tadā'haṁ gamissāmi.}    |
+| How much money have you now with you?                                   |
+| \fillin{12cm}{Kittakaṁ mūlaṁ 'dāni tava santike atthi?}                 |
+| I have fourteen rupees and fifty cents.                                 |
+| \fillin{12cm}{Cuddasa rūpiyāni aḍḍharūpiyañ ca mama santike santi.}      |
+
+#+latex: \normalArrayStrech
+
+\clearpage
+
+*** Extra Challenge: Crossword
 
 #+begin_export latex
+\ifanswerkey
+\PuzzleSolution[true]
+\fi
+
 \begin{Puzzle}{13}{9}%
 \input{./crosswords/assets/cw-01.txt}
 \end{Puzzle}
@@ -1540,20 +1921,18 @@ pārisuddhā ti vedissāmi.
 \par}
 
 \vspace*{\baselineskip}
+\enlargethispage*{2\baselineskip}
 
 \input{./crosswords/cw-01-clues.tex}
+#+end_export
 
-\ifanswerkey
+#+begin_export latex
+% \cleartonewsheet
+%
+% \thispagestyle{empty}
+% \includepdf[pages=-, angle=-90, nup=1x2]{./vocabulary-lesson-2.pdf}
 
-\vspace*{\baselineskip}
-
-\PuzzleSolution[true]
-
-\begin{Puzzle}{13}{9}%
-\input{./crosswords/assets/cw-01.txt}
-\end{Puzzle}
-
-\fi
+\cleartonewsheet
 #+end_export
 
 * Lesson 3
@@ -1724,6 +2103,89 @@ whichever (masc.nom.sg. of /ya/)
 /Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya.../
 
 /saṁvidhāya:/ gerund of /saṁvidahati/ [saṁ + vi + √dhā + a + ti], arranges, organises, plans
+
+\clearpage
+
+** Adverbs of Time
+
+# Bodhirasa: Class 5
+
+Adverbs in general are indeclinable. Adverbs of time describe *when* the action
+is done, they often come *first* in the sentence.
+
+#+latex: \begin{multicols}{2}
+
+| pubbe        | before, previously   |
+| āyatiṁ       | in future            |
+| dāni / idāni | now                  |
+| yadā         | when, whenever       |
+| pacchā       | afterwards           |
+| ajja         | today                |
+| tadā         | then                 |
+| sadā         | always               |
+| sāyaṁ        | late, in the evening |
+| kadā         | when                 |
+
+#+latex: \columnbreak
+
+| idāni    | now                     |
+| pāto     | in the morning          |
+| ekadā    | one day                 |
+| suve     | tomorrow                |
+| purā     | formerly, earlier       |
+| atippago | too early               |
+| aciraṁ   | recently, soon          |
+| ciraṁ    | for a long time         |
+| atisāyaṁ | late at night, too late |
+| kālena   | at the proper time      |
+
+#+latex: \end{multicols}
+
+** Future Tense (-issāmi, -issasi, -issati)
+
+# Bodhirasa: Class 5
+# Maitreya: Lesson 5
+
+The future tense, apart from an action in the future, can also express a
+condition, a possibility, or a statement of eternal truth, as well as a mild
+form of imperative.
+
+Future verbs can be formed by inserting /-issa/ between the base and the
+present tense verbal ending.
+
+For verbs ending in /-e/, insert /-ssa/: /dese + ssa + āma → desessāma/ (we will teach)
+
+The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used instead.
+
+| *sg.*               |             | *pl.*                |                 |
+| bhav\textbf{issāmi} | I will be   | bhav\textbf{issāma}  | we will be      |
+| bhav\textbf{issasi} | you will be | bhav\textbf{issatha} | you all will be |
+| bhav\textbf{issati} | he will be  | bhav\textbf{issanti} | they will be    |
+
+"Bhavissati" often expresses the idea of "should be".
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Parisuddho no kāyasamācāro bhavissati. (MN 39) | \fillin{8cm}{Our bodily behaviour should be purified.}  |
+| \fillin{8cm}{brāhmaṇā karissanti ...}           | Brahmans will do ....                                   |
+| Sādhu suṭṭhu bhante saṃvarissāmi.               | \fillin{8cm}{Well indeed, Sir., I shall be restrained.} |
+
+\null
+
+| Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61)         |
+| \fillin{12cm}{I should not approach families intoxicated with pride.} |
+
+#+begin_widecols
+/uccāsoṇḍaṁ paggahetvā:/ idiom. arrogantly; with an attitude; lit. having raised trunk high \\
+/uccāsoṇḍā:/ [uccā + soṇḍā] f. raised trunk (of an elephant); trunk of pride
+
+\columnbreak
+
+/paggahetvā:/ ger. of /paggaṇhāti/ \\
+/paggaṇhāti:/ holds up; raises up
+#+end_widecols
+
+#+latex: \normalArrayStrech
 
 \clearpage
 
@@ -2333,89 +2795,6 @@ asmiṁ loke paramhi ca. ([[https://suttacentral.net/sn1.43/pli/ms][SN 1.43]])
 /vana:/ nt. wood; forest; grove \\
 /anissita:/ pp. of [na + nissayati]; detached (from); disengaged (from) \\
 /upādiyati:/ grasps; holds (onto); takes possession (of); lit. takes near
-
-#+latex: \normalArrayStrech
-
-\clearpage
-
-** Adverbs of Time
-
-# Bodhirasa: Class 5
-
-Adverbs in general are indeclinable. Adverbs of time describe *when* the action
-is done, they often come *first* in the sentence.
-
-#+latex: \begin{multicols}{2}
-
-| pubbe    | before, previously      |
-| āyatiṁ   | in future               |
-| dāni     | now                     |
-| yadā     | when, whenever          |
-| pacchā   | afterwards              |
-| ajja     | today                   |
-| tadā     | then                    |
-| sadā     | always                  |
-| sāyaṁ    | late, in the evening    |
-| kadā     | when                    |
-
-#+latex: \columnbreak
-
-| idāni    | now                     |
-| pāto     | in the morning          |
-| ekadā    | one day                 |
-| suve     | tomorrow                |
-| purā     | formerly, earlier       |
-| atippago | too early               |
-| aciraṁ   | recently, soon          |
-| ciraṁ    | for a long time         |
-| atisāyaṁ | late at night, too late |
-| kālena   | at the proper time      |
-
-#+latex: \end{multicols}
-
-** Future Tense (-issāmi, -issasi, -issati)
-
-# Bodhirasa: Class 5
-# Maitreya: Lesson 5
-
-The future tense, apart from an action in the future, can also express a
-condition, a possibility, or a statement of eternal truth, as well as a mild
-form of imperative.
-
-Future verbs can be formed by inserting /-issa/ between the base and the
-present tense verbal ending.
-
-For verbs ending in /-e/, insert /-ssa/: /dese + ssa + āma → desessāma/ (we will teach)
-
-The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used instead.
-
-| *sg.*               |             | *pl.*                |                 |
-| bhav\textbf{issāmi} | I will be   | bhav\textbf{issāma}  | we will be      |
-| bhav\textbf{issasi} | you will be | bhav\textbf{issatha} | you all will be |
-| bhav\textbf{issati} | he will be  | bhav\textbf{issanti} | they will be    |
-
-"Bhavissati" often expresses the idea of "should be".
-
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| Parisuddho no kāyasamācāro bhavissati. (MN 39) | \fillin{8cm}{Our bodily behaviour should be purified.}  |
-| \fillin{8cm}{brāhmaṇā karissanti ...}           | Brahmans will do ....                                   |
-| Sādhu suṭṭhu bhante saṃvarissāmi.               | \fillin{8cm}{Well indeed, Sir., I shall be restrained.} |
-
-\null
-
-| Na uccāsoṇḍaṁ paggahetvā kulāni upasaṅkamissāmī'ti. (AN 7.61)         |
-| \fillin{12cm}{I should not approach families intoxicated with pride.} |
-
-#+begin_widecols
-/uccāsoṇḍaṁ paggahetvā:/ idiom. arrogantly; with an attitude; lit. having raised trunk high \\
-/uccāsoṇḍā:/ [uccā + soṇḍā] f. raised trunk (of an elephant); trunk of pride
-
-\columnbreak
-
-/paggahetvā:/ ger. of /paggaṇhāti/ \\
-/paggaṇhāti:/ holds up; raises up
-#+end_widecols
 
 #+latex: \normalArrayStrech
 
@@ -3271,6 +3650,21 @@ The final /-a/ of the base is lengthened before /m/: /dhāvāmi, dhāvāma/.
 #+latex: \par}
 
 ** Future Tense
+
+Future verbs can be formed by inserting /-issa/ between the base and the
+present tense verbal ending.
+
+For verbs ending in /-e/, insert /-ssa/: /dese + ssa + āma → desessāma/ (we will teach)
+
+The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used instead.
+
+| *sg.*               |             | *pl.*                |                 |
+| bhav\textbf{issāmi} | I will be   | bhav\textbf{issāma}  | we will be      |
+| bhav\textbf{issasi} | you will be | bhav\textbf{issatha} | you all will be |
+| bhav\textbf{issati} | he will be  | bhav\textbf{issanti} | they will be    |
+
+#+latex: \clearpage
+
 ** Aorist Past Tense
 
 #+latex: {\centering\par
@@ -3297,24 +3691,22 @@ Root: /√dhāv/ (to run), base: /dhāva/
 
 8^{th} conjugation group and other bases ending in *e*, such as causative verbs, are conjugated with an inserted “s”
 
-|     | singular  |            | plural     |                |
-|-----+-----------+------------+------------+----------------|
-| 3rd | dese*si*  | he taught  | dese*suṁ*  | they taught    |
-| 2nd | dese*si*  | you taught | des*ittha* | you all taught |
-| 1st | dese*siṁ* | I taught   | des*imha*  | we taught      |
-|     |           |            |            |                |
-|     |           |            | des*imhā*  |                |
+|     | singular         |            | plural            |                |
+|-----+------------------+------------+-------------------+----------------|
+| 3rd | dese\textbf{si}  | he taught  | dese\textbf{suṁ}  | they taught    |
+| 2nd | dese\textbf{si}  | you taught | des\textbf{ittha} | you all taught |
+| 1st | dese\textbf{siṁ} | I taught   | des\textbf{imha}  | we taught      |
+|     |                  |            | des\textbf{imhā}  |                |
 
 similarly samacintesi, āmantesi, santappesi, samuttejesi etc.
 
 Some roots ending in long vowels also get the /s/ aorist ending. In the plural case, the long vowel is shortened.
 
-|     | *sg.*     |           | *pl.*                |               |
-|-----+-----------+-----------+----------------------+---------------|
-| 1st | aṭṭhā*siṁ* | I stood   | aṭṭha*mha*, aṭṭha*mhā* | we stood      |
-| 2nd | aṭṭhā*si*  | you stood | aṭṭha*ttha*           | you all stood |
-| 3rd | aṭṭhā*si*  | he stood  | aṭṭha*ṁsu*            | they stood    |
-
+|     | *sg.*            |           | *pl.*                              |               |
+|-----+------------------+-----------+------------------------------------+---------------|
+| 1st | aṭṭhā\textbf{siṁ} | I stood   | aṭṭha\textbf{mha}, aṭṭha\textbf{mhā} | we stood      |
+| 2nd | aṭṭhā\textbf{si}  | you stood | aṭṭha\textbf{ttha}                  | you all stood |
+| 3rd | aṭṭhā\textbf{si}  | he stood  | aṭṭha\textbf{ṁsu}                   | they stood    |
 
 ** Declension of Nouns
 
@@ -3639,6 +4031,8 @@ Also a common way of forming feminine versions of masculine nouns.
 | kukkuṭa  | cockeral  | kukkuṭ\textbf{ī}  | hen            |
 | deva    | king, god | dev\textbf{ī}    | queen, goddess |
 
+\clearpage
+
 ** Irregular verb √as (to be)
 *** Present Tense
 
@@ -3647,9 +4041,7 @@ Also a common way of forming feminine versions of masculine nouns.
 | 3rd | atthi    | he is   | santi  | they are    |
 | 2nd | asi      | you are | attha  | you all are |
 | 1st | amhi     | I am    | amha   | we are      |
-|     |          |         |        |             |
 |     | asmi     |         | amhā   |             |
-|     |          |         |        |             |
 |     |          |         | asma   |             |
 
 *** Imperative Mood
@@ -3659,26 +4051,24 @@ Also a common way of forming feminine versions of masculine nouns.
 | 3rd | atthu    | he must be  | santu  | they must be    |
 | 2nd | āhi      | you must be | attha  | you all must be |
 | 1st | amhi     | I must be   | amha   | we must be      |
-|     |          |             |        |                 |
 |     | asmi     |             | amhā   |                 |
-|     |          |             |        |                 |
 |     |          |             | asma   |                 |
 
 *** Aorist Past Tense
 
-|     | singular |          | plural    |              |
-|-----+----------+----------+-----------+--------------|
-| 3rd | ās*i*    | he was   | ās*iṁsu*  | they were    |
-|     |          |          |           |              |
-|     |          |          | ās*uṁ*    |              |
-| 2nd | ās*i*    | you were | ās*ittha* | you all were |
-| 1st | ās*iṁ*   | I was    | ās*imha*  | we were      |
-|     |          |          |           |              |
-|     |          |          | ās*imhā*  |              |
+|     | singular      |          | plural           |              |
+|-----+---------------+----------+------------------+--------------|
+| 3rd | ās\textbf{i}  | he was   | ās\textbf{iṁsu}  | they were    |
+|     |               |          | ās\textbf{uṁ}    |              |
+| 2nd | ās\textbf{i}  | you were | ās\textbf{ittha} | you all were |
+| 1st | ās\textbf{iṁ} | I was    | ās\textbf{imha}  | we were      |
+|     |               |          | ās\textbf{imhā}  |              |
 
 root: √as (to be)
 
-constr: *a* + √as + i → *ā*si
+constr: \textbf{a} + √as + i → \textbf{ā}si
+
+\clearpage
 
 ** Irregular verb √hū (to be)
 *** Present Tense
@@ -3699,13 +4089,14 @@ constr: *a* + √as + i → *ā*si
 
 *** Aorist Past Tense
 
-|     | singular |          | plural      |              |
-|-----+----------+----------+-------------+--------------|
-| 3rd | ahos*i*  | he was   | ahes*uṁ*    | they were    |
-| 2nd | ahos*i*  | you were | ahuva*ttha* | you all were |
-| 1st | ahos*iṁ* | I was    | ahu*mhā*    | we were      |
-|     |          |          |             |              |
-|     |          |          | ahu*mha*    |              |
+|     | singular        |          | plural             |              |
+|-----+-----------------+----------+--------------------+--------------|
+| 3rd | ahos\textbf{i}  | he was   | ahes\textbf{uṁ}    | they were    |
+| 2nd | ahos\textbf{i}  | you were | ahuva\textbf{ttha} | you all were |
+| 1st | ahos\textbf{iṁ} | I was    | ahu\textbf{mhā}    | we were      |
+|     |                 |          | ahu\textbf{mha}    |              |
+
+\clearpage
 
 ** Past Participle
 *** root + ta
@@ -3800,6 +4191,29 @@ The verb is often in the aorist past tense, but the meaning is in the present or
 
 /Ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya./ (AN 8.53) \\
 These qualities lead to attachment, not to detachment.
+
+* Vocabulary: Words
+
+#+begin_export latex
+\cleartonewsheet
+
+\thispagestyle{empty}
+\includepdf[pages=-, angle=-90, nup=1x2]{./vocabulary-words.pdf}
+
+\cleartonewsheet
+#+end_export
+
+* Vocabulary: Sentences                                            :noexport:
+
+#+begin_export latex
+\cleartonewsheet
+
+\thispagestyle{empty}
+\includepdf[pages=-, angle=-90, nup=1x2]{./vocabulary-sentences.pdf}
+
+\cleartonewsheet
+#+end_export
+
 * References
 
 - [[https://sasanarakkha.github.io/study-tools/pali-class.html][Beginner Pāli Course at SBS (sasanarakkha.github.io)]]

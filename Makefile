@@ -1,4 +1,4 @@
-all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf pali-lessons-pdf pali-lessons-anki-deck vinaya-class-zip
+all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf pali-lessons-pdf pali-cheatsheet-pdf pali-lessons-anki-deck vinaya-class-zip
 
 dist:
 	./scripts/dist.sh
@@ -46,15 +46,21 @@ sanghadisesa-procedure-pdf:
 robe-keeping-pdf:
 	./scripts/compile_tex.sh ./tex/robe-keeping/robe-keeping.tex
 
-pali-vocabulary-pdf:
-	cd tex/vinaya-class-questions && make pali-vocabulary
+pali-vocabulary-words-pdf:
+	cd tex/vinaya-class-questions && make pali-vocabulary-words
 
-pali-lessons-pdf:
+pali-lessons-pdf: pali-vocabulary-words-pdf
 	cd tex/vinaya-class-questions && \
 	make export-pali-lessons && \
 	cd ../.. && \
 	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-lessons.tex && \
 	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-lessons-answerkey.tex
+
+pali-cheatsheet-pdf:
+	cd tex/vinaya-class-questions && \
+	make export-pali-cheatsheet && \
+	cd ../.. && \
+	./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-cheatsheet.tex
 
 pali-lessons-anki-deck:
 	cp tex/vinaya-class-questions/exported/pali-lessons.apkg src/includes/docs/pali-lessons.apkg

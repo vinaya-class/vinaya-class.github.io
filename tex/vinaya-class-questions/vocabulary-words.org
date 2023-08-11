@@ -1,0 +1,520 @@
+# -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
+#+TITLE: Vocabulary: Words
+#+AUTHOR: The Bhikkhu Saṅgha
+#+LATEX_CLASS: memoir
+#+LATEX_CLASS_OPTIONS: [a5paper]
+#+LATEX_HEADER: \input{./vocabulary-preamble.tex}
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t title:nil num:2 ^:{} creator:nil timestamp:nil html-postamble:nil
+#+HTML_HEAD_EXTRA: <style> h1, h2, h3, h4, h5, h6 { font-family: 'Spectral'; font-weight: normal; margin-top: 0em; margin-bottom: 0.5em; } h2, h3 { font-size: 1.2em; text-decoration: underline; } table { border-color: white; } </style>
+
+* Vocabulary: Words
+
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth} H
+| able to keep going; sustainable                                                       | yāpanīya (adj.)                           |   |
+| a cook                                                                                | sūda (m.)                                 |   |
+| afflicted (with); affected (by)                                                       | otiṇṇa (pp. of otarati)                    |   |
+| after                                                                                 | pacchā (ind.)                             |   |
+| afterwards; later; in the future                                                      | pacchā (ind.)                             |   |
+| agreeable; nice                                                                       | piyarūpa (adj.)                           |   |
+| allows (to); permits (to)                                                             | anujānāti                                 |   |
+| alms food; lit. lump dropping                                                         | piṇḍapāta (m.)                             |   |
+| alms food; lit. lump-like thing                                                       | piṇḍaka (m.)                               |   |
+| always                                                                                | sabbadā (ind.)                            |   |
+| (1) analyses; dissects (2) divides; distributes; shares                               | vibhajati                                 |   |
+| ant                                                                                   | kipillika (m.)                            |   |
+| applies (attention); pays; lit. puts down                                             | odahati                                   |   |
+| approaches; goes to; visits                                                           | upasaṅkamati                               |   |
+| army general                                                                          | senānī (m.)                               |   |
+| ascetic; renunciant; holy man; monk; recluse; lit. who makes an effort; calm one      | samaṇa (m.) [√sam + aṇa]                   |   |
+| assembly hall; meeting hall                                                           | upaṭṭhānasālā (f.)                         |   |
+| assistance for the training                                                           | vinayānuggaha (m.) [vinaya + anuggaha]    |   |
+| (1) attains; dwells in (2) engages in; performs                                       | samāpajjati                               |   |
+| attains; enters on; becomes fully ordained                                            | upasampajjati                             |   |
+| attendant; assistant                                                                  | upaṭṭhāka (m.)                             |   |
+| attends                                                                               | upaṭṭhāti                                  |   |
+| at the very most; for a maximum of                                                    | paramaṁ (ind.)                            |   |
+| (1) ball; lump (2) bit of food                                                        | piṇḍa (m.)                                 |   |
+| barks                                                                                 | bhussati                                  |   |
+| bearable; tolearable                                                                  | khamanīya (adj.)                          |   |
+| beautiful; lit. good colour                                                           | suvaṇṇa (adj.)                             |   |
+| bed; sleeping place; couch; furniture                                                 | sayana (nt.)                              |   |
+| before; earlier                                                                       | pure (ind.)                               |   |
+| before, previously                                                                    | pubbe (ind.)                              |   |
+| before, previously                                                                    | pubbe (ind.)                              |   |
+| beggar; mendicant                                                                     | yācaka (m.)                               |   |
+| begins; starts; undertakes                                                            | ārabhati                                  |   |
+| being; becoming; existence                                                            | bhava (m.)                                |   |
+| benefit; reason; purpose                                                              | atthavasa (nt.)                           |   |
+| beyond; across; over                                                                  | pāraṁ (ind.)                              |   |
+| bird                                                                                  | sakuṇa (m.)                                |   |
+| blind person; lit. dark                                                               | andha (m.)                                |   |
+| body; physical body                                                                   | kāya (m.)                                 |   |
+| both                                                                                  | ubho (ind.)                               |   |
+| bowl; cup                                                                             | mallaka (m.)                              |   |
+| boy                                                                                   | dāraka (m.)                               |   |
+| breaks; splits; shatters                                                              | bhindati                                  |   |
+| brings                                                                                | āharati                                   |   |
+| broom                                                                                 | sammuñjanī (f.)                           |   |
+| brother                                                                               | bhātar (m.) / bhātuka / bhāti             |   |
+| brother(s); friend(s)                                                                 | āvuso (ind.) [shortened from āyasmanto]   |   |
+| burns; sets fire (to); burns down                                                     | ḍahati                                     |   |
+| but nor do I                                                                          | na panāhaṁ (idiom.) [na + pana + ahaṁ]    |   |
+| but; rather; even                                                                     | atha (ind.)                               |   |
+| by oneself for/to oneself                                                             | attanāva attano (idiom.)                  |   |
+| calmed; tranquillised                                                                 | samita (pp. of sammati)                   |   |
+| carefully reconsiders; re-inspects                                                    | anupekkhati                               |   |
+| carries; carries away; takes away                                                     | harati                                    |   |
+| cat                                                                                   | biḷāra (m.)                                |   |
+| cattle; oxen                                                                          | gāvo (m.) [go + āvo]                      |   |
+| certainly; definitely; lit. one point-ness                                            | ekaṁsena (ind.) [eka + aṁsa + ena]        |   |
+| change; alteration                                                                    | vipariṇāma (m.)                            |   |
+| change; alteration                                                                    | vipariṇāma (m.)                            |   |
+| changed, altered, distorted                                                           | vipariṇata (pp. of vipariṇamati)           |   |
+| changes; alters; lit. completely bends around                                         | vipariṇamati                               |   |
+| changes; alters; lit. completely bends around                                         | vipariṇamati                               |   |
+| chews                                                                                 | khādati                                   |   |
+| chief; headman; leader                                                                | gāmaṇi (m.) [gāma + aṇi]                   |   |
+| clean; clear; transparent                                                             | accha (adj.)                              |   |
+| closet; cupboard                                                                      | koṭṭhaka (m.)                              |   |
+| cloth; clothes; robe                                                                  | vattha (nt.)                              |   |
+| cloth; garments                                                                       | dussa (nt.)                               |   |
+| coffee drink                                                                          | kāphīpāna (nt.)                           |   |
+| cold                                                                                  | sīta (adj.)                               |   |
+| cold water                                                                            | sītodaka (nt.) [sīta + udaka]             |   |
+| comes                                                                                 | āgacchati                                 |   |
+| comfort; happiness; pleasure; contentment                                             | sukha (nt.)                               |   |
+| coming; arrival                                                                       | āgata (nt.)                               |   |
+| coming; arrival                                                                       | āgata (nt.)                               |   |
+| community; monastic order                                                             | Saṅgha (m.)                                |   |
+| completely comprehends; knows full well                                               | parijānāti                                |   |
+| concerning this life; regarding this world; relevant to here and now                  | diṭṭhadhammika (adj.)                      |   |
+| confesses                                                                             | āvikaroti                                 |   |
+| congee; sour gruel; rice husk porridge                                                | kaṇājaka (nt.)                             |   |
+| continuity of the good teaching; longevity of the true doctrine                       | saddhammaṭṭhiti (f.)                       |   |
+| control; restraint; holding back                                                      | saṁvara (m.)                              |   |
+| controls; restrains                                                                   | saṁvarati                                 |   |
+| could be; may be                                                                      | siyā (opt.irreg. of atthi)                |   |
+| country; province; area                                                               | janapada (m.)                             |   |
+| covers up; wraps over                                                                 | onandhati                                 |   |
+| cow; ox; cattle                                                                       | go (m.)                                   |   |
+| cultivates; develops; lit. causes to become                                           | bhāveti                                   |   |
+| darkness; blackness; blindness; lit. blind making                                     | andhakāra (m.) [andha + kāra]             |   |
+| daughter                                                                              | dhītar (f.)                               |   |
+| daughter of Māra                                                                      | māradhītar (f.)                           |   |
+| day                                                                                   | aṇha (m.)                                  |   |
+| day-time                                                                              | majjhanhikasamaya (m.)                    |   |
+| death; dying                                                                          | maraṇa (nt.)                               |   |
+| death personified                                                                     | māra (m.)                                 |   |
+| defilement; impurity                                                                  | kilesa (m.)                               |   |
+| descends (into); goes down (into)                                                     | otarati                                   |   |
+| desires; wants                                                                        | icchati                                   |   |
+| dies                                                                                  | mīyati                                    |   |
+| diminishes; decreases; gets less; is lost                                             | jīyati                                    |   |
+| dirty; messy                                                                          | uklāpa (adj.)                             |   |
+| discharge; suppuration; outflow; effluent                                             | āsava (m.)                                |   |
+| disciple; pupil; follower                                                             | sāvaka (m.)                               |   |
+| discipline; training; lit. leading out                                                | vinaya (m.)                               |   |
+| discontent; aversion; boredom                                                         | aratī (f.)                                |   |
+| disintegration; decay; old age; lit. going away                                       | vaya (m.) [vi + √i + *a]                  |   |
+| does                                                                                  | karoti                                    |   |
+| does not drown; does not overwhelm                                                    | nābhikīrati [na + abhi + √kir + a + ti]   |   |
+| dog                                                                                   | sunakha (m.)                              |   |
+| Don't you do!                                                                         | Mā akāsi!                                 |   |
+| dries; desiccates; makes wither; lit. causes to dry up                                | visoseti                                  |   |
+| drink; beverage                                                                       | pāna (nt.)                                |   |
+| dropped; discarded; set aside                                                         | nikkhitta (pp. of nikkhipati)             |   |
+| drowsiness; sluggishness                                                              | middha (nt.)                              |   |
+| dullness and drowsiness; sloth and torpor                                             | thinamiddha (nt.)                         |   |
+| dullness; drowsiness; fuzziness; sluggishness                                         | thina (nt.)                               |   |
+| dwelling; building; house                                                             | agāra (nt.)                               |   |
+| ear hole; lit. ear stream                                                             | kaṇṇasota (nt.)                            |   |
+| ear                                                                                   | kaṇṇa (m.)                                 |   |
+| ear                                                                                   | sota (nt.)                                |   |
+| earth; ground; floor                                                                  | chamā (f.)                                |   |
+| easy; comfortable                                                                     | phāsu (adj.)                              |   |
+| eaten; consumed                                                                       | khādito (pp. of khādati)                  |   |
+| eats; enjoys                                                                          | bhuñjati                                  |   |
+| effort; energy                                                                        | viriya (nt.)                              |   |
+| elder; senior monk                                                                    | thera (m.)                                |   |
+| empty dwelling                                                                        | suññāgāra (nt.)                           |   |
+| empty of; devoid of; without                                                          | suñña (adj.)                              |   |
+| enters; goes into                                                                     | pavisati                                  |   |
+| enveloped (with); wrapped (with)                                                      | onaddha (pp. of onandhati)                |   |
+| evening-time                                                                          | sāyanhasamaya (m.)                        |   |
+| ever; sometime                                                                        | kadāci (ind.)                             |   |
+| excess; pleasure; indulgence                                                          | mada (m.)                                 |   |
+| Excuse me!                                                                            | Okāsa, bhante.                            |   |
+| (1) exists; is found; is present (2) is possible                                      | vijjati [√vid + ya + ti]                  |   |
+| exists (in); is found (in); is present (in)                                           | vijjati [√vid + ya + ti]                  |   |
+| expels (from); throws out; removes; lit. drags out                                    | nikkaḍḍhati                                |   |
+| (1) fall (2) drop; dropping; lit. made to drop                                        | pāta (m.)                                 |   |
+| falls                                                                                 | nipatati                                  |   |
+| fatigue; tiredness                                                                    | kilamatha (m.)                            |   |
+| feeling                                                                               | vedanā (f.)                               |   |
+| feels; experiences; senses; lit. causes to know                                       | vedayati                                  |   |
+| feels; experiences; senses                                                            | vedeti                                    |   |
+| few; not much                                                                         | appa (adj.)                               |   |
+| fills up                                                                              | paripūreti                                |   |
+| fire                                                                                  | aggi (m.)                                 |   |
+| flies up; files off; flies away                                                       | uḍḍayati                                   |   |
+| food; fuel; sustenance                                                                | āhāra (m.)                                |   |
+| food (lit. an enjoyable)                                                              | bhojanīya (m.)                            |   |
+| foot-washing water                                                                    | pādodaka (m.) [pāda + udaka]              |   |
+| for a week; for seven days                                                            | sattāhaṁ (ind.)                           |   |
+| form                                                                                  | rūpa (nt.)                                |   |
+| friend; acquaintance; lit. seen together                                              | sandiṭṭha (m.)                             |   |
+| friendliness; lit. non-hatred                                                         | avera (nt.)                               |   |
+| friend                                                                                | mitta (m.)                                |   |
+| (1) from that (2) therefore; that is why                                              | tasmā                                     |   |
+| from there                                                                            | tato (ind.)                               |   |
+| from travelling (from going on the journey)                                           | addhānaṁ āgato                            |   |
+| fun; joke; play                                                                       | dava (m.)                                 |   |
+| gets; receives; obtains                                                               | labhati                                   |   |
+| gets; receives; obtains                                                               | labhati                                   |   |
+| gets up; gets out; arouses oneself; lit. stands up                                    | uṭṭhahati; uṭṭhāti                          |   |
+| gives                                                                                 | deti                                      |   |
+| gives up; abandons; lets go (of)                                                      | pajahati                                  |   |
+| goal; purpose                                                                         | attha (m.)                                |   |
+| goal; purpose; want                                                                   | attha (m.)                                |   |
+| goes away, turns aside                                                                | apagacchati                               |   |
+| goes beyond; surpasses; transgresses                                                  | accayati                                  |   |
+| goes                                                                                  | gacchati                                  |   |
+| gold                                                                                  | suvaṇṇa (nt.)                              |   |
+| gone to bed                                                                           | sayanagata (adj.)                         |   |
+| good evening                                                                          | susāyanha [su + sāya + anha]              |   |
+| good midday                                                                           | sumajjhanhika [su + majjha + anha + ika]  |   |
+| Good morning (daybreak) Ven. Sir!                                                     | Suppabhātaṁ bhante.                       |   |
+| Good morning everyone.                                                                | Suppabhātaṁ sabbesaṁ.                     |   |
+| good morning                                                                          | suppabhāta [su + pabhāta]                 |   |
+| goods; wares; merchandise                                                             | bhaṇḍa (nt.)                               |   |
+| granary; treasury; storehouse                                                         | koṭṭhāgāra (nt.)                           |   |
+| growth (of); increase (of); lit. more state                                           | bhiyyobhāva (m.) [bhiyyo + bhāva]         |   |
+| guardian                                                                              | guttika (m.)                              |   |
+| guest                                                                                 | āgata (m.)                                |   |
+| guru; esteemed person                                                                 | garu (m.)                                 |   |
+| hand; palm                                                                            | pāṇi (m.)                                  |   |
+| hatred; hostility                                                                     | vera (nt.)                                |   |
+| having got; having obtained                                                           | laddhā (abs. of labhati)                  |   |
+| healthy; beneficial; good; wholesome                                                  | kusala (adj.)                             |   |
+| healthy; well; lit. able                                                              | kallaka (adj.)                            |   |
+| hears                                                                                 | suṇāti                                     |   |
+| he attends to me                                                                      | so maṃ upaṭṭhāti                           |   |
+| heavenly being; a god                                                                 | deva (m.)                                 |   |
+| he cooks                                                                              | pacati                                    |   |
+| he is (√as)                                                                           | atthi                                     |   |
+| he is (√hū)                                                                           | hoti                                      |   |
+| helpful; useful                                                                       | upakāra (adj.)                            |   |
+| (1) here; now; in this world; (2) in this case                                        | idha (ind.)                               |   |
+| here                                                                                  | idha (ind.)                               |   |
+| he                                                                                    | so, sa (m.)                               |   |
+| he who attends to the ill                                                             | yo gilānaṃ upaṭṭhāti                       |   |
+| he who (m.nom.)                                                                       | yo (m.)                                   |   |
+| his                                                                                   | assa (pron.)                              |   |
+| hits; beats; stabs                                                                    | hanati                                    |   |
+| holding back; restraining; lit. holding down                                          | niggaha (adj.)                            |   |
+| holds up; carries; bears in mind                                                      | dhāreti                                   |   |
+| horse                                                                                 | assa (m.)                                 |   |
+| hot                                                                                   | uṇha (adj.)                                |   |
+| hot water                                                                             | uṇhodaka (nt.) [uṇha + udaka]              |   |
+| house builder; mason; carpenter                                                       | gahakāra (m.)                             |   |
+| house; dwelling                                                                       | geha (nt.)                                |   |
+| householder; landowner                                                                | gahapatika (m.) [gaha + pati + ka]        |   |
+| house; home; lit. entering down                                                       | nivesana (nt.)                            |   |
+| How?                                                                                  | kathaṁ (ind.)                             |   |
+| How?                                                                                  | kinti (ind.)                              |   |
+| how many?                                                                             | kittaka (adj.)                            |   |
+| how many?                                                                             | kittaka (adj.) [ka + tta + ka]            |   |
+| how-old? lit. having how many years?                                                  | kativassa (adj.)                          |   |
+| human being; man; person                                                              | manussa (m.)                              |   |
+| I am (√as)                                                                            | asmi                                      |   |
+| I am (√hū)                                                                            | homi                                      |   |
+| I don't know.                                                                         | Na jānāmi.                                |   |
+| I don't understand.                                                                   | Na pajānāmi.                              |   |
+| (I feel) sorry. (for your situation)                                                  | Kāruññaṁ.                                 |   |
+| if                                                                                    | sace (ind.)                               |   |
+| if; whether; perhaps                                                                  | yadi (ind.)                               |   |
+| I have (in my presence there are)                                                     | mama santike santi (idiom)                |   |
+| I hope; I trust                                                                       | kacci (ind.)                              |   |
+| I hope you are...                                                                     | kacci'si [kacci + asi]                    |   |
+| illness; affliction                                                                   | ābādha (m.)                               |   |
+| immediately after that; with no interval                                              | anantaraṁ (ind.)                          |   |
+| indignant; angry; annoyed                                                             | kupita (pp. of kuppati)                   |   |
+| informs                                                                               | āroceti                                   |   |
+| inspiration; faith; trust; confidence; lit. settling                                  | pasāda (m.)                               |   |
+| intention; volition; choice; lit. making together                                     | saṅkhāra (m.)                              |   |
+| in the future; hereafter                                                              | samparāyika (adj.)                        |   |
+| in the presence (of); near (to)                                                       | santike (ind.)                            |   |
+| in those; among those                                                                 | tesu (pron.) [ta + esu]                   |   |
+| I (pron.)                                                                             | ahaṁ                                      |   |
+| irritated; annoyed; displeased; lit. not own mind                                     | anattamana (adj.) [na + atta + mana]      |   |
+| is abandoned; is given up                                                             | pahīyati (pr.pass. of pajahati)           |   |
+| is able (to)                                                                          | sakkoti                                   |   |
+| is angered; is provoked; is irritated                                                 | kuppati                                   |   |
+| (is) born                                                                             | jāyati                                    |   |
+| is burned; is scorched; is on fire                                                    | ḍayhati                                    |   |
+| is calmed; is appeased                                                                | sammati                                   |   |
+| is happy (with); delights (in); likes; enjoys                                         | nandati                                   |   |
+| is hurt; is killed; is slaughtered                                                    | haññati (pr. pass. of hanati)             |   |
+| is in solitude; seeks privacy                                                         | rahāyati                                  |   |
+| is received; is obtained                                                              | labbhati (pass. of labhati)               |   |
+| It is cold today.                                                                     | Ajj'ātisītaṁ.                             |   |
+| It is hot today.                                                                      | Ajj'āccuṇhaṃ. [ajja (ind.) + ati  + uṇha] |   |
+| it is possible, it is plausible; lit. a basis exists                                  | ṭhānaṁ vijjati (idiom)                    |   |
+| it is suitable; it is allowable                                                       | kappati                                   |   |
+| its; of/for that                                                                      | tassa (gen./dat. of /ta/ 'it, that')      |   |
+| it                                                                                    | taṁ, tad (nt.)                            |   |
+| it; that                                                                              | ta / taṁ (pron.)                          |   |
+| jewel; gemstone                                                                       | maṇi (m.)                                  |   |
+| Kaṭhina-cloth                                                                          | kaṭhinadussa (nt.)                         |   |
+| knower of the world (epithet of the Buddha)                                           | lokavidū (m.)                             |   |
+| knows clearly; understands; distinguishes                                             | pajānāti                                  |   |
+| knows                                                                                 | jānati                                    |   |
+| knows; understands                                                                    | jānāti                                    |   |
+| layman; male lay follower                                                             | upāsaka (m.)                              |   |
+| laywoman; female lay follower                                                         | upāsikā (f.)                              |   |
+| leads (to); results (in); causes                                                      | saṁvattati                                |   |
+| learned by heart; mastered                                                            | pariyatta (adj. pp. of pariyāpuṇāti)       |   |
+| length of life; life-span                                                             | āyuppamāṇa (nt.) [āyu + pamāṇa]            |   |
+| lies; lies around; lit. sleeps                                                        | seti                                      |   |
+| light; brightness; clarity                                                            | āloka (m.)                                |   |
+| like; as; according to; how                                                           | yathā (ind.)                              |   |
+| lion                                                                                  | sīha (m.)                                 |   |
+| little fatigue; little tiredness                                                      | appakilamatha (m.)                        |   |
+| little; tiny; minute                                                                  | thoka (adj.)                              |   |
+| lives (in); dwells                                                                    | viharati                                  |   |
+| lives                                                                                 | jīvati                                    |   |
+| long road; journey                                                                    | addhāna (nt.)                             |   |
+| long road; journey                                                                    | addhāna (nt.)                             |   |
+| loves; holds dear; is fond of                                                         | piyāyati                                  |   |
+| man                                                                                   | nara (m.)                                 |   |
+| market; bazaar; market place                                                          | antarāpaṇa (m.)                            |   |
+| master; gentleman                                                                     | ayya (m.)                                 |   |
+| master; gentleman; sir                                                                | ayya (m.)                                 |   |
+| mayor                                                                                 | nagaraguttika (m.)                        |   |
+| monk; mendicant; lit. beggar                                                          | bhikkhu (m.)                              |   |
+| moon                                                                                  | canda (m.)                                |   |
+| more; greater; bigger                                                                 | bahutara                                  |   |
+| more; greater; superior                                                               | bhiyyo (ind.)                             |   |
+| morning-time                                                                          | pubbaṇhasamaya (m.)                        |   |
+| myself slept well                                                                     | sukhamasayitthaṁ (aor.1st.refl.)          |   |
+| my; to me; for me                                                                     | me / mayha / mama (pron.)                 |   |
+| Never mind (leave it aside).                                                          | Tiṭṭhatu, bhante.                          |   |
+| never                                                                                 | na kadāci (idiom)                         |   |
+| next; after                                                                           | para (adj.)                               |   |
+| night                                                                                 | sāya (nt.)                                |   |
+| nods off; dozes off                                                                   | pacalāyati                                |   |
+| No.                                                                                   | No hetaṁ, bhante.                         |   |
+| not I                                                                                 | nāhaṁ [na + ahaṁ]                         |   |
+| now                                                                                   | idāni (ind.)                              |   |
+| (object of) pleasure; sensual pleasure                                                | kāma (m.)                                 |   |
+| object of sensual pleasure; lit. sensual strings                                      | kāmaguṇa (m.)                              |   |
+| obligation; duty                                                                      | kicca (nt.)                               |   |
+| observance day                                                                        | uposatha (m.)                             |   |
+| occurs; happens; befalls; lit. goes down                                              | okkamati                                  |   |
+| ocean                                                                                 | sāgara (m.)                               |   |
+| (of a tree) root; base (2) source; origin; root (3) money; cash                       | mūla (nt.)                                |   |
+| offence; transgression                                                                | āpatti (f.)                               |   |
+| offense; transgression                                                                | āpatti (f.)                               |   |
+| (of fire) extinguishing; quenching; going out; lit. blowing away                      | nibbāna (nt.) [nī + √vā + ana]            |   |
+| (of the body) limb                                                                    | gatta (nt.)                               |   |
+| of the teacher; master's; Buddha's                                                    | satthu (m.) [√sās + tar + u]              |   |
+| old age; growing old; decay                                                           | jara (m.) [√jar + a]                      |   |
+| one hundred                                                                           | sata (card.)                              |   |
+| one slept well; one rested comfortably                                                | sukhamasayittha (aor.2nd.pl.)             |   |
+| one without faith or confidence                                                       | appasanna (m.)                            |   |
+| organises; arranges; prepares (food; drinks; etc.)                                    | paṭiyādeti                                 |   |
+| passion; infatuation; lust                                                            | rāga (m.)                                 |   |
+| pedestrian, traveller                                                                 | pathika (m.)                              |   |
+| personal; lit. see for oneself                                                        | sacchi (adj.)                             |   |
+| personally experiences, realizes; lit. personally does                                | sacchikaroti                              |   |
+| personally; with one’s own hand                                                       | sahatthā (ind.)                           |   |
+| person; individual                                                                    | puggala (m.)                              |   |
+| (1) picks up (2) takes; accepts (3) grasps; learns                                    | uggaṇhāti                                  |   |
+| (1) place (2) reason; ground; basis;  lit. standing                                   | ṭhāna (nt.)                                |   |
+| (1) place; region (2) point; item; detail                                             | desa (m.)                                 |   |
+| places down; lays down; sets up                                                       | odahati                                   |   |
+| Please sit.                                                                           | Nisīdatha.                                |   |
+| pleasure; enjoyment; relish; delight                                                  | nandi (f.)                                |   |
+| Portugal-region                                                                       | Portugal-desa                             |   |
+| post-office                                                                           | sandesāgāra (nt.)                         |   |
+| practices; engages (in)                                                               | paṭisevati                                 |   |
+| prepares; arranges; considers                                                         | kappeti                                   |   |
+| prepares; sets out (a seat, etc.)                                                     | paññāpeti                                 |   |
+| privately; alone; secretly                                                            | raho (ind.)                               |   |
+| pulls (towards); tugs (to)                                                            | āviñchati                                 |   |
+| purity; purification                                                                  | pārisuddhi (f.)                           |   |
+| rain; downpour                                                                        | vassa (m.)                                |   |
+| recites                                                                               | uddisati                                  |   |
+| remorse; regret; lit. remembering back negatively                                     | vippaṭisāra (m.)                           |   |
+| requisite; everyday item                                                              | parikkhāra (m.)                           |   |
+| reverence (to); homage (to); lit. bow                                                 | namas (m.) [√nam + as]                    |   |
+| (1) rice water; congee (2) glue; sticky stuff                                         | kañjiya (nt.)                             |   |
+| rice                                                                                  | bhatta (m.)                               |   |
+| rice; boiled rice; food; lit. wet stuff; boiled in water                              | odana (m.)                                |   |
+| rice gruel; rice water                                                                | acchakañjiyā (f.)                         |   |
+| right here                                                                            | ettheva [ettha + eva]                     |   |
+| rising (from); emerging (from)                                                        | uṭṭhāya (ger. of uṭṭhahati)                 |   |
+| root (of a tree); base; foot                                                          | mūla (nt.)                                |   |
+| runs                                                                                  | dhāvati                                   |   |
+| sage; hermit                                                                          | muni (m.)                                 |   |
+| sage; wise man                                                                        | paṇḍita (m.)                               |   |
+| says; speaks                                                                          | vadeti                                    |   |
+| scatters over; sprinkles                                                              | abhikīrati                                |   |
+| scribe, clerk, writer                                                                 | lekhaka (m.)                              |   |
+| seat; chair; lit. sitting                                                             | āsana (nt.)                               |   |
+| seclusion; solitude                                                                   | viveka (m.)                               |   |
+| seed; germ                                                                            | bīja (nt.)                                |   |
+| seen; found; visible                                                                  | diṭṭha (pp. of √dis)                       |   |
+| sees                                                                                  | passati                                   |   |
+| sees; takes a look (at)                                                               | pekkhati                                  |   |
+| (See you) tomorrow.                                                                   | Suve.                                     |   |
+| sells                                                                                 | vikkiṇāti                                  |   |
+| servant; attendant                                                                    | sevaka (m.)                               |   |
+| sets out; provides; lit. causes to stand near                                         | upaṭṭhāpeti [upa + √ṭhā + *āpe + ti]        |   |
+| she (f.)                                                                              | sā (f.)                                   |   |
+| She speaks to him/them.                                                               | Sā taṃ bhāsati.                           |   |
+| shines; blazes; burns                                                                 | tapati                                    |   |
+| shines (in); looks beautiful (in)                                                     | sobhati                                   |   |
+| should be shared with                                                                 | saddhiṁ saṁvibhajitabbaṁ                 |   |
+| sick; ill; unwell                                                                     | gilāna (adj.)                             |   |
+| silence, quiet                                                                        | tuṇhī (ind.)                               |   |
+| sister                                                                                | bhaginī (f.)                              |   |
+| sits                                                                                  | nisīdati                                  |   |
+| sitting alone                                                                         | ekamāsīna (adj.) [eka + āsīna]            |   |
+| sitting hall                                                                          | āsanasālā (f.)                            |   |
+| sitting place; seat                                                                   | nisajjā (f.)                              |   |
+| skin                                                                                  | taca (m.)                                 |   |
+| sky                                                                                   | ākāsa (m.)                                |   |
+| sleeps well (happily); rests comfortably                                              | sukhaṁ seti (idiom)                       |   |
+| slept well; rested comfortably                                                        | sukhamasayi (aor.2nd/3rd.sg.)             |   |
+| sorrows; grieves; mourns                                                              | socati                                    |   |
+| (Sorry, I have) regret.                                                               | Vippaṭisāraṁ.                             |   |
+| (Sorry,) I'll make amends.                                                            | Paṭikarissāmi.                             |   |
+| soup; broth                                                                           | yūsa (m.)                                 |   |
+| speaks                                                                                | bhāsati                                   |   |
+| speech; talk                                                                          | bhāsa (m.)                                |   |
+| spoon                                                                                 | kaṭacchu (m.)                              |   |
+| stability; continuity; longevity; lit. standing                                       | ṭhiti (f.)                                 |   |
+| stands                                                                                | tiṭṭhati                                   |   |
+| state; condition; nature                                                              | bhāva (m.)                                |   |
+| stream; river                                                                         | sota (m.)                                 |   |
+| string; thread; tie                                                                   | guṇa (m.)                                  |   |
+| strokes; massages; rubs; lit. wipes along                                             | anumajjati [anu + √majj + a + ti]         |   |
+| studies well; learns thoroughly; masters; lit. reaches                                | pariyāpuṇāti                               |   |
+| sufficient, enough                                                                    | pahonaka (adj.)                           |   |
+| suitable time (for)                                                                   | pattakalla (nt.)                          |   |
+| sun; lit. shining                                                                     | suriya (m.)                               |   |
+| sunrise; dawn; daybreak                                                               | pabhāta (nt.)                             |   |
+| support; help; assistance                                                             | anuggaha (m.)                             |   |
+| sweeping                                                                              | sammajjana (nt. from sammajjati)          |   |
+| sweeping that place                                                                   | taṇṭhāna-sammajjanaṁ                       |   |
+| sweeps; cleans                                                                        | sammajjati [saṁ + √majj + a + ti]         |   |
+| (1) takes; grasps; embraces (2) steals; takes (3) obeys; follows; accepts; lit. takes | ādiyati                                   |   |
+| takes; accepts; receives                                                              | paṭiggaṇhāti                               |   |
+| takes; accepts; receives                                                              | paṭiggaṇhāti                               |   |
+| takes a seat; sits down; lit. prepares a seat                                         | nisajjaṁ kappeti (idiom.)                 |   |
+| takes                                                                                 | harati                                    |   |
+| (1) taking; grasping; embracing (2) receiving; accepting                              | ādāya (ger. of ādiyati)                   |   |
+| talks; speaks; converses                                                              | sallapati                                 |   |
+| teacher; master                                                                       | satthar (m.) [√sās + tar]                 |   |
+| teacher; religious leader                                                             | ācariya (m.)                              |   |
+| ten                                                                                   | dasa (card.)                              |   |
+| Thank you.                                                                            | Anumodāmi.                                |   |
+| that much; that far; still; at least                                                  | tāva (ind.)                               |   |
+| the born                                                                              | jāta (pp. of jāyati)                      |   |
+| (1) then; after that (2) yet; but still; however                                      | atha kho (idiom.)                         |   |
+| therefore; in that case; if that's so                                                 | tena hi                                   |   |
+| there                                                                                 | tattha / tatra (ind.)                     |   |
+| the reverence (to); the homage (to); lit. bow                                         | namo (ind.; nom.sg. of namas)             |   |
+| these                                                                                 | ime / imā / imāni (pron.)                 |   |
+| they are (√as)                                                                        | santi                                     |   |
+| they are (√hū)                                                                        | honti                                     |   |
+| they (f.)                                                                             | tā, tāyo (f.)                             |   |
+| they (m.)                                                                             | te (m.)                                   |   |
+| they (nt.)                                                                            | tāni (nt.)                                |   |
+| thief; robber                                                                         | cora (m.)                                 |   |
+| thinks; presumes; supposes                                                            | maññati                                   |   |
+| this; he; it                                                                          | esa (pron.)                               |   |
+| this indeed; certainly this                                                           | hidaṁ (sandhi.) [hi + idaṁ]               |   |
+| this is his                                                                           | ayamassa                                  |   |
+| this is mine                                                                          | meso                                      |   |
+| thought; reflection                                                                   | vitakka (m.)                              |   |
+| throws down; discards; drops                                                          | nikkhipati                                |   |
+| time; occasion                                                                        | samaya (m.)                               |   |
+| to converse (with)                                                                    | sallapituṁ (inf. of sallapati)            |   |
+| to do; to make                                                                        | kātuṁ (inf.)                              |   |
+| to/for her; to/for that                                                               | tassā (f.dat.sg.pron.) [ta + ssā]         |   |
+| to/for the cow, the cow's (irregular form)                                            | gavassa, gāvassa                          |   |
+| together with / accompanied by                                                        | saddhiṁ, saha (ind.)                      |   |
+| to me                                                                                 | maṁ                                       |   |
+| tooth-stick; toothbrush                                                               | dantapona (nt.)                           |   |
+| to sell                                                                               | vikkiṇituṁ (inf. of vikkiṇāti)            |   |
+| town; market town                                                                     | nigama (m.)                               |   |
+| to you; for you                                                                       | tava (pron.)                              |   |
+| trader; dealer                                                                        | vāṇija (m.)                                |   |
+| tree                                                                                  | rukkha (m.)                               |   |
+| trouble; misfortune; pain; misery                                                     | agha (nt.)                                |   |
+| truth                                                                                 | sacca (nt.)                               |   |
+| unbeneficial; harmful                                                                 | ahitāya (dat.sg. of na + hita)            |   |
+| undertaking; entering on; attaining                                                   | upasampajja (ger. of upasampajjati)       |   |
+| unrepentant; obdurate; obstinate; lit. difficult to embarrass into silence            | dummaṅku (adj.) [dur + maṅku]              |   |
+| untreated soup; bean broth                                                            | akaṭayūsa (m.)                             |   |
+| untroubled; carefree; problem-free                                                    | anagha (adj.) [na + agha]                 |   |
+| venerable; reverend                                                                   | āyasmant (m.)                             |   |
+| village; hamlet                                                                       | gāma (m.)                                 |   |
+| Wait (stay) here. / May you wait here.                                                | Ettheva tiṭṭha / tiṭṭhatha.                 |   |
+| walking tour; walking journey                                                         | cārikā (f.)                               |   |
+| walks                                                                                 | carati                                    |   |
+| wanders on tour; walks about                                                          | cārikaṁ carati (idiom.)                   |   |
+| warding off; repelling; driving off                                                   | paṭighāta (m.)                             |   |
+| washing water; rinsing water; lit. to be used                                         | paribhojanīya (adj.)                      |   |
+| was lost                                                                              | jīyittha (aor. 3rd. refl. sg. of jīyati)  |   |
+| water; drinking water; lit. to be drunk                                               | pāṇīya (nt.)                               |   |
+| water                                                                                 | udaka (nt.)                               |   |
+| we are (√as)                                                                          | asma                                      |   |
+| we are (√hū)                                                                          | homa                                      |   |
+| we could be; we may be (√as)                                                          | assāma (opt. pl. of assa)                 |   |
+| Welcome here.                                                                         | Svāgataṁ.                                 |   |
+| welfare (of); benefit (of); blessing                                                  | hita (nt.)                                |   |
+| well-behaved; good; honest                                                            | pesala (adj.)                             |   |
+| well-being; excellence                                                                | suṭṭhutā (f.)                              |   |
+| well-being; prosperity                                                                | suvatthi (f.) [su + √as + ti]             |   |
+| we                                                                                    | mayaṁ                                     |   |
+| When?                                                                                 | kadā (ind.)                               |   |
+| when; whenever                                                                        | yadā (ind.)                               |   |
+| where? from where?                                                                    | kuto (ind.)                               |   |
+| where?; from where?                                                                   | kuto (ind.) [ka + to]                     |   |
+| Where is the market?                                                                  | Kattha antarāpaṇo?                         |   |
+| Where?                                                                                | kattha (ind.)                             |   |
+| white                                                                                 | seta (adj.)                               |   |
+| who has faith (in); who has confidence (in); lit. settled                             | pasanna (adj.)                            |   |
+| whose; of/for whom                                                                    | yassa (gen./dat. of ya 'who')             |   |
+| who?; what?; which?                                                                   | ka / ko (pron.)                           |   |
+| Why is that? Of what cause?                                                           | Taṁ kissa hetu?                           |   |
+| why?; lit. from what?                                                                 | kasmā (ind.) [ka + smā]                   |   |
+| will bring                                                                            | āharissati                                |   |
+| wise man; knowledgable man                                                            | viññū (m.) [vi + √ñā + ū]                 |   |
+| wise man; seer; lit. knower                                                           | vidū (m.) [√vid + ū]                      |   |
+| wise man; seer                                                                        | vidū (m.)                                 |   |
+| (1) wish; will; (2) control (over); mastery (over)                                    | vasa (m.)                                 |   |
+| wishes; wants                                                                         | icchati                                   |   |
+| (wishing) oh may!; if only!                                                           | aho vata (idiom.)                         |   |
+| with mind; by mind; with thought                                                      | cetasā (m.)                               |   |
+| without; free (from); with no; lit. gone away                                         | apagata (adj., pp. of apagacchati)        |   |
+| without; -less; abstaining (from)                                                     | apeta (adj.)                              |   |
+| with this                                                                             | iminā (pron.) [ima + inā]                 |   |
+| wooden spoon; ladle                                                                   | dabbī (f.)                                |   |
+| world; cosmos                                                                         | loka (m.)                                 |   |
+| worn out; tired                                                                       | kilanta (adj)                             |   |
+| Yes.                                                                                  | Āma / Evaṁ bhante.                        |   |
+| yesterday                                                                             | hīyo (ind.)                               |   |
+| you all are (√as)                                                                     | attha                                     |   |
+| you all are (√hū)                                                                     | hotha                                     |   |
+| you all slept                                                                         | asayittha (aor.2nd.pl. of seti)           |   |
+| you are (√as)                                                                         | asi                                       |   |
+| you are (√hū)                                                                         | hosi                                      |   |
+| you did (irregular)                                                                   | akāsi                                     |   |
+| you/he slept                                                                          | asayi (aor.2nd/3rd.sg. of seti)           |   |
+| you (pl.)                                                                             | tumhe                                     |   |
+| your; yours                                                                           | tuyha (pron.)                             |   |
+| you (sg.)                                                                             | tvaṁ                                      |   |

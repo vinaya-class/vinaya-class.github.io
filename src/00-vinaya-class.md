@@ -87,6 +87,8 @@ One lesson may take more than one session to study with a group. Someone familia
 
 [pali-lessons-answerkey.pdf](./includes/docs/pali-lessons-answerkey.pdf)
 
+[pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf)
+
 A memory card deck for the [Anki application](https://apps.ankiweb.net/) is included below to help memorizing the vocabulary and sentences using the [Spaced Repetition](https://gwern.net/spaced-repetition) method.
 
 [pali-lessons.apkg](./includes/docs/pali-lessons.apkg)

@@ -4,9 +4,13 @@ LATEX_OPTS=-interaction=nonstopmode -halt-on-error -xelatex
 
 all: vinaya-class-questions-A.pdf vinaya-class-questions-B.pdf vinaya-class-questions-A-answerkey.pdf vinaya-class-questions-B-answerkey.pdf pali-lessons.pdf
 
-pali-vocabulary: export-vocabulary-lesson-1 vocabulary-lesson-1.pdf
+pali-vocabulary-chapters: export-vocabulary-lesson-1 vocabulary-lesson-1.pdf export-vocabulary-lesson-2 vocabulary-lesson-2.pdf
+
+pali-vocabulary-words: export-vocabulary-words vocabulary-words.pdf
 
 pali-lessons: export-pali-lessons pali-lessons.pdf
+
+pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
 
 pali-lessons-answerkey: export-pali-lessons
 	ANSWERKEY=TRUE make pali-lessons-answerkey.pdf
@@ -22,6 +26,15 @@ export-pali-lessons:
 
 export-vocabulary-lesson-1:
 	emacs --batch -L -l 'vocabulary-lesson-1.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+
+export-vocabulary-lesson-2:
+	emacs --batch -L -l 'vocabulary-lesson-2.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+
+export-vocabulary-words:
+	emacs --batch -L -l 'vocabulary-words.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+
+export-pali-cheatsheet:
+	emacs --batch -L -l 'pali-cheatsheet.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 
 %.pdf: %.tex
 	$(LATEX) $(LATEX_OPTS) $<

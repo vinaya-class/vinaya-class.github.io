@@ -1,5 +1,6 @@
 \ProvidesPackage{vocabulary}
 
+\usepackage{multicol}
 \usepackage[british]{babel}
 
 \renewcommand\britishhyphenmins{{3}{3}}
@@ -77,6 +78,7 @@
 
 \newcolumntype{L}[1]{>{\raggedright\arraybackslash}p{#1}}
 \newcolumntype{R}[1]{>{\raggedleft\arraybackslash}p{#1}}
+\newcolumntype{H}{>{\setbox0=\hbox\bgroup}c<{\egroup}@{}}
 
 \pagestyle{empty}
 

@@ -77,6 +77,20 @@ Pāli Lessons::Lesson 3::1. Vocabulary
 | arranges, organises, plans                                                         | saṁvidahati [saṁ + vi + √dhā + a + ti]                                   |
 | arranging, organising, planning                                                    | saṁvidhāya (ger. of saṁvidahati)                                         |
 | Whatever monk who, arranging with a bhikkhuni...                                   | Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya...                        |
+| in future                                                                          | āyatiṁ (ind.)                                                            |
+| today                                                                              | ajja (ind.)                                                              |
+| one day                                                                            | ekadā (ind.)                                                             |
+| formerly, earlier                                                                  | purā (ind.)                                                              |
+| for a long time                                                                    | ciraṁ (ind.)                                                             |
+| recently, soon                                                                     | aciraṁ (ind.)                                                            |
+| at the proper time                                                                 | kālena (ind.)                                                            |
+|                                                                                    | TODO                                                                     |
+| Our bodily behaviour should be purified.                                           | Parisuddho no kāyasamācāro bhavissati.                                   |
+|                                                                                    | TODO                                                                     |
+| Well indeed, Sir., I shall be restrained.                                          | Sādhu suṭṭhu bhante saṃvarissāmi.                                         |
+| holds up; raises up                                                                | paggaṇhāti                                                                |
+| having raised / held up                                                            | paggahetvā (ger. of paggaṇhāti)                                           |
+|                                                                                    | TODO                                                                     |
 | is; being; becomes                                                                 | bhavati                                                                  |
 | leads; carries away; takes away                                                    | neti                                                                     |
 | teaches; explains                                                                  | deseti                                                                   |

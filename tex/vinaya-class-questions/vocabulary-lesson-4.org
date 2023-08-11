@@ -33,16 +33,3 @@ Pāli Lessons::Lesson 4::1. Vocabulary
 | detached (from); disengaged (from)                                                | anissita (pp. of [na + nissayati])                             |
 | grasps; holds (onto); takes possession (of); lit. takes near                      | upādiyati                                                      |
 | They dwell detached, not grasping at anything in the world.                       | Anissito ca viharati, na ca kiñci loke upādiyati.              |
-| in future                                                                         | āyatiṁ (ind.)                                                  |
-| today                                                                             | ajja (ind.)                                                    |
-| one day                                                                           | ekadā (ind.)                                                   |
-| formerly, earlier                                                                 | purā (ind.)                                                    |
-| for a long time                                                                   | ciraṁ (ind.)                                                   |
-| recently, soon                                                                    | aciraṁ (ind.)                                                  |
-| at the proper time                                                                | kālena (ind.)                                                  |
-|                                                                                   |                                                                |
-| Our bodily behaviour should be purified.                                          | Parisuddho no kāyasamācāro bhavissati.                         |
-|                                                                                   |                                                                |
-| Well indeed, Sir., I shall be restrained.                                         | Sādhu suṭṭhu bhante saṃvarissāmi.                               |
-| holds up; raises up                                                               | paggaṇhāti                                                      |
-| having raised / held up                                                           | paggahetvā (ger. of paggaṇhāti)                                 |
