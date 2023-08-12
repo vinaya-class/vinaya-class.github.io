@@ -1114,7 +1114,7 @@ The particles *saddhiṁ, saha* used with the instrumental case, expresses the m
 | Buddhena saddhiṁ                                    | together with the Buddha                             |
 | \fillin{8cm}{ācariyena / ācariyā saddhiṁ}           | together with the teacher                            |
 | \fillin{8cm}{viññūhi saddhiṁ}                       | together with the wise men                           |
-| Etena saccena suvatthi hotu. ([[https://suttacentral.net/snp2.1/pli/ms][Snp 2.1]])              | \fillin{8cm}{By this truth may there be well-being.} |
+| Etena saccena suvatthi [su + atthi] hotu. ([[https://suttacentral.net/snp2.1/pli/ms][Snp 2.1]]) | \fillin{8cm}{By this truth may there be well-being.} |
 | \fillin{8cm}{Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.} | I, together with a friend, go to the village.        |
 | \fillin{8cm}{Mātugāmena saddhiṃ cārikaṁ carati.}    | He wanders about with a woman. (/mātugāma/)          |
 
@@ -1187,15 +1187,15 @@ Dasa atthavase:
 /appasanna:/ m. one without faith or confidence\\
 /pasāda:/ m. inspiration; faith; trust; confidence; lit. settling\\
 /bhiyyobhāva:/ m. growth (of); increase (of)\\
-/anuggaha:/ m. support; help; assistance
+/anuggaha:/ m. support; help; assistance [anu + √gah + a]
 #+end_widecols
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Ime dhammā kusalā ... hitāya sukhāya saṁvattantī'ti                        |
-| \fillin{12cm}{These things are wholesome ... lead to long-term happiness,} |
-| atha tumhe, kālāmā, upasampajja vihareyyātha. ([[https://suttacentral.net/an3.65/pli/ms][AN 3.65]])                    |
-| \fillin{12cm}{then, K., you should undertake them and abide in them...}    |
+| Ime dhammā kusalā ... hitāya sukhāya saṁvattantī'ti                          |
+| \fillin{12cm}{These things are wholesome ... lead to long-term happiness,}   |
+| atha tumhe, kālāmā, upasampajja vihareyyātha. ([[https://suttacentral.net/an3.65/pli/ms][AN 3.65]])                      |
+| \fillin{12cm}{then you, K., having entered them you should abide in them...} |
 
 #+latex: \normalArrayStrech
 
@@ -1230,14 +1230,15 @@ The irregular /go/ (cow, ox) has two forms: /gavassa, gāvassa/ (to/for the cow,
 #+begin_quote
 /Na kho pana mayaṁ passāma āyasmato upasenassa kāyassa vā aññathattaṁ indriyānaṁ vā vipariṇāmaṁ./
 
-But we don't see any impairment in the body or deterioration of Ven. Upasena's faculties. (SN 35.69)
+But we don't see any impairment in the body or deterioration of Ven. Upasena's faculties. \\
+(SN 35.69)
 #+end_quote
 
-#+latex: \renewcommand{\arraystretch}{1.8}
+#+latex: \renewcommand{\arraystretch}{1.7}
 
 | Aggi uṭṭhāya (/rose up/) gahapatikassa gehaṁ (/house/) ḍahati (/burns down/).  |
 | \fillin{12cm}{Fire, having rose up, burns down the householder's house.}      |
-| Sūdehi gahapatino sevakānaṁ (/servants/) odanaṁ pacanti.                      |
+| Sūdā gahapatino sevakānaṁ (/servants/) odanaṁ pacanti.                        |
 | \fillin{12cm}{The cooks cook the rice for the householder's servants.}        |
 | Corehi haritvā, gahapatino gāvo (/acc.pl.irreg./) haññanti (/slaughtered/).   |
 | \fillin{12cm}{Taken away by thieves, the householder's oxen are slaughtered.} |
@@ -1246,14 +1247,24 @@ But we don't see any impairment in the body or deterioration of Ven. Upasena's f
 
 #+latex: \enlargethispage{\baselineskip}
 
-/hanati:/ hits; beats; stabs \\
-/haññati:/ pr. pass. of /hanati/; is hurt; is killed; is slaughtered
+#+latex: \begin{multicols}{2}
 
-| We don't see the change of the body of the man.    | \fillin{8cm}{Na passāma manussassa kāyassa vipariṇāmaṁ.} |
-| By means of the Teaching, men go to the far shore. | \fillin{8cm}{Manussā dhammena pāraṁ gacchanti.}          |
-| The man's oxen are slaughtered.                    | \fillin{8cm}{Purisassa goṇo / gāvo haññanti.}             |
-| Rice cooked by the cook was eaten (/khādito/)      | \fillin{8cm}{Sūdena pacito odano}                        |
-| by the beggar's (/yācaka/) dog.                    | \fillin{8cm}{yācakassa sunakhena khādito.}               |
+/hanati:/ hits; beats; stabs \\
+/haññati:/ pr. pass. of /hanati/; is hurt; is killed; \\
+is slaughtered
+
+\columnbreak
+
+/yāti:/ goes to; travels to \\
+/yanti:/ they go to; they travel to (3rd.pl of yāti)
+
+#+latex: \end{multicols}
+
+| We don't see the change of the body of the man.             | \fillin{8cm}{Na passāma manussassa kāyassa vipariṇāmaṁ.} |
+| By means of the Teaching, men go / travel to the far shore. | \fillin{8cm}{Manussā dhammena pāraṁ gacchanti / yanti.}  |
+| The man's oxen are slaughtered.                             | \fillin{8cm}{Purisassa goṇo / gāvo haññanti.}             |
+| Rice cooked by the cook was eaten (/khādito/)               | \fillin{8cm}{Sūdena pacitvā odanaṁ / pacito odano}       |
+| by the beggar's (/yācaka/) dog.                             | \fillin{8cm}{yācakassa sunakhena khādito.}               |
 
 #+latex: \normalArrayStrech
 
@@ -1750,73 +1761,82 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 /(Source: Buddhadhatta, Aids to Pāli Conversation, p.47)/
 
 #+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
-| speech; talk                                       | bhāsa (m.)                     |
-| little; tiny; minute                               | thoka (adj.)                   |
-| is able (to)                                       | sakkoti                        |
-| talks; speaks; converses                           | sallapati                      |
-| to converse (with)                                 | sallapituṁ (inf. of sallapati) |
-| how many?                                          | kittaka (adj.)                 |
-| length of life; life-span                          | āyuppamāṇa (nt.) [āyu + pamāṇa] |
-| how-old? lit. having how many years?               | kativassa (adj.)               |
-| brother                                            | bhātar (m.) / bhātuka / bhāti  |
-| sister                                             | bhaginī (f.)                   |
-| in those; among those                              | tesu (pron.) [ta + esu]        |
-| trader; dealer                                     | vāṇija (m.)                     |
-| scribe, clerk, writer                              | lekhaka (m.)                   |
-| that much; that far; still; at least               | tāva (ind.)                    |
-| (1) picks up (2) takes; accepts (3) grasps; learns | uggaṇhāti                       |
-| house builder; mason; carpenter                    | gahakāra (m.)                  |
-| When?                                              | kadā (ind.)                    |
-| yesterday                                          | hīyo (ind.)                    |
+| speech; talk                                       | bhāsa (m.)                       |
+| little; tiny; minute                               | thoka (adj.)                     |
+| is able (to)                                       | sakkoti                          |
+| talks; speaks; converses                           | sallapati                        |
+| to converse (with)                                 | sallapituṁ (inf. of sallapati)   |
+| how many?                                          | kittaka (adj.)                   |
+| length of life; life-span                          | āyuppamāṇa (nt.) [āyu + pamāṇa]   |
+| how-old? lit. having how many years?               | kativassa (adj.)                 |
+| brother                                            | bhātar (m.) / bhātuka / bhāti    |
+| sister                                             | bhaginī (f.)                     |
+| in those; among those                              | tesu (pron.) [ta + esu]          |
+| merchant; trader; dealer                           | vāṇija (m.)                       |
+| scribe, clerk, writer                              | lekhaka (m.)                     |
+| that much; that far; still; at least               | tāva (ind.)                      |
+| (1) picks up (2) takes; accepts (3) grasps; learns | uggaṇhāti                         |
+| house builder; mason; carpenter                    | gahakāra (m.)                    |
+| When?                                              | kadā (ind.)                      |
+| yesterday                                          | hīyo (ind.)                      |
+| (1) town; city (2) fortress; stronghold            | nagara (nt.)                     |
+| fifteen                                            | pannarasa (card.) [pañca + dasa] |
+| twenty                                             | vīsati (card.) [dvi + dasa + ti] |
+| mother and father; parents                         | mātāpitar (m.)                   |
+| only; just; merely; exclusively                    | yeva                             |
+| I have (my things are)                             | mayhaṁ ... santi                 |
+| (1) to me; for me (2) my; mine                     | mayhaṁ (pron.)                   |
+| (1) for you; to you (2) your; yours                | tuyhaṁ (pron.)                   |
+| (1) to you; for you (2) your; of you               | tava (pron.)                     |
 
 #+latex: \renewcommand{\arraystretch}{1.5}
 
 #+ATTR_LATEX: :environment longtable
-| Do you know Pāli?                                                  |
+| Do you know Pāli-talk?                                             |
 | \fillin{12cm}{Tvaṁ pālibhāsaṁ jānāsi?}                             |
 | I know a little.                                                   |
 | \fillin{12cm}{Ahaṁ thokaṁ jānāmi.}                                 |
-| Are you able to converse in Pāli?                                  |
+| Are you able to converse "into" Pāli?                              |
 | \fillin{12cm}{Sakkosi tvaṁ pālibhāsāya sallapituṁ?}                |
 | Yes, I am able to conversea little.                                |
 | \fillin{12cm}{Āma, ahaṁ thokaṁ sallapituṁ sakkomi.}               |
 | What is your name?                                                 |
 | \fillin{12cm}{Tuyhaṁ nāmaṁ kiṁ? Kin nāmo'si?}                     |
-| My name is Vijayabāhu.                                             |
+| I am called Vijayabāhu.                                            |
 | \fillin{12cm}{Ahaṁ Vijayabāhu-nāmo'mhi.}                           |
 | Where do you live?                                                 |
 | \fillin{12cm}{Tvaṁ kattha vasasi?}                                 |
-| I live in Colombo.                                                 |
+| I live in Colombo-town.                                            |
 | \fillin{12cm}{Ahaṁ Koḷambanagare vasāmi.}                           |
-| What is your age?                                                  |
+| What is your age? (How many is you life-span?)                     |
 | \fillin{12cm}{Tuyhaṁ āyuppamāṇāṁ kittakaṁ?}                       |
 | My age is fifteen.                                                 |
-| \fillin{12cm}{Mayahaṁ āyuppamāṇaṁ paṇṇarasa.}                      |
-| How old are you?                                                   |
+| \fillin{12cm}{Mayhaṁ āyuppamāṇaṁ paṇṇarasa.}                       |
+| How old are you? (How many years are you?)                         |
 | \fillin{12cm}{Kativasso'si tvaṁ (āyunā)?}                          |
 | I am twenty years old.                                             |
 | \fillin{12cm}{Ahaṁ vīsativasso'mhi.}                               |
-| Where do your parents live?                                        |
+| Where do your parents live? (Your mother-and-father lives where?)  |
 | \fillin{12cm}{Tuyhaṁ mātāpitaro kuhiṁ vasanti?}                    |
-| They too live in Colombo now.                                      |
+| They too now, just live in Colombo.                                |
 | \fillin{12cm}{Te p'idāni Koḷambanagare yeva vasanti.}               |
 | Do you have brothers and sisters too?                              |
 | \fillin{12cm}{Tuyhaṁ bhātu-bhaginiyo pi santi?}                    |
 | Yes, I have four brothers and two sisters.                         |
 | \fillin{12cm}{Āma, mayhaṁ cattāro bhātaro dve bhaginiyo ca santi.} |
-| What do your brothers do?                                          |
+| Your brothers, what do they do?                                    |
 | \fillin{12cm}{Tava bhātaro kiṁ karonti?}                           |
 | One of them is a merchant, the second one is a clerk,              |
 | \fillin{12cm}{Tesu eko vāṇijo, ditiyo lekhako,}                     |
 | and the other two still attend schools.                            |
 | \fillin{12cm}{dve tāva pāṭha-sālāsu uggaṇhanti.}                    |
-| What do you like to be / do?                                       |
+| What do you like to be / do? (You what work to do desire?)         |
 | \fillin{12cm}{Tvaṁ kiṁ kammaṁ kātuṁ icchasi?}                     |
-| I like to become an architect.                                     |
+| I like to become an architect. (I an architect to become desire.)  |
 | \fillin{12cm}{Aham eko gahakāraṁ bhavitum icchāmi.}                |
 | When did you come here?                                            |
 | \fillin{12cm}{Kadā tvaṁ idh'āgato'si?}                             |
-| I came here yesterday.                                             |
+| Yesterday I came here.                                             |
 | \fillin{12cm}{Hīyo'ham idh'āgacchiṁ.}                              |
 
 #+latex: \normalArrayStrech
@@ -1830,6 +1850,7 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 #+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
 | who?; what?; which?                                             | ka / ko (pron.)                |
 | where?; from where?                                             | kuto (ind.) [ka + to]          |
+| to where?                                                       | kuhiṁ (ind.) [ka + hiṁ]        |
 | why?; lit. from what?                                           | kasmā (ind.) [ka + smā]        |
 | how many?                                                       | kittaka (adj.) [ka + tta + ka] |
 | to you; for you                                                 | tava (pron.)                   |
@@ -1839,14 +1860,15 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 | goods; wares; merchandise                                       | bhaṇḍa (nt.)                    |
 | sells                                                           | vikkiṇāti                       |
 | to sell                                                         | vikkiṇituṁ (inf. of vikkiṇāti) |
-| friend; acquaintance; lit. seen together                        | sandiṭṭha (m.)                  |
-| guardian                                                        | guttika (m.)                   |
-| mayor                                                           | nagaraguttika (m.)             |
-| post-office                                                     | sandesāgāra (nt.)              |
+| from here                                                       | ito (ind.)                     |
+| another; other; different                                       | añña (pron.)                   |
 | loves; holds dear; is fond of                                   | piyāyati                       |
+| too hot                                                         | accuṇha (adj.) [ati + uṇha]     |
 | house; home; lit. entering down                                 | nivesana (nt.)                 |
-| sufficient, enough                                              | pahonaka (adj.)                |
+| when ... then ...                                               | yadā ... tadā ... (idiom)      |
 | (of a tree) root; base (2) source; origin; root (3) money; cash | mūla (nt.)                     |
+| fourteen                                                        | catuddasa / cuddasa (card.)    |
+| silver coin; money; cash                                        | rūpiya (nt.)                   |
 | in the presence (of); near (to)                                 | santike (ind.)                 |
 | I have (in my presence there are)                               | mama santike santi (idiom)     |
 
@@ -1854,50 +1876,50 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 #+latex: \renewcommand{\arraystretch}{1.5}
 
 #+ATTR_LATEX: :environment longtable
-| Who are you?                                                            |
-| \fillin{12cm}{Ko'si tvaṁ?}                                              |
-| I am a way-farer.                                                       |
-| \fillin{12cm}{Aham eko pathiko.}                                        |
-| Where do you come from?                                                 |
-| \fillin{12cm}{Kuto tvam āgacchasi?}                                     |
-| I come from India.                                                      |
-| \fillin{12cm}{Ahaṁ Indudesato āgacchāmi.}                               |
-| For what purpose (to do) have you come?                                 |
-| \fillin{12cm}{Tvaṁ kiṁ kātuṁ āgato'si?}                                |
-| I want to sell some goods.                                              |
-| \fillin{12cm}{Ahaṁ bhaṇḍāni vikkiṇitum icchāmi.}                        |
-| Why did you come here?                                                  |
-| \fillin{12cm}{Kasmā idh'āgato si?}                                      |
-| I came here to talk to you.                                             |
-| \fillin{12cm}{Tayā saddhiṁ sallapituṁ āgato'mhi.}                       |
-| Who is your father?                                                     |
-| \fillin{12cm}{Ko tuyhaṁ pitā?}                                          |
-| My father is the merchant Mahānāma.                                     |
-| \fillin{12cm}{Mama pitā Mahānāmo vāṇijo.}                                |
-| Who is your friend or acquaintance here?                                |
-| \fillin{12cm}{Ko idha tava mitto vā sandiṭṭho vā?}                       |
-| The mayor of this city is a friend of mine.                             |
-| \fillin{12cm}{Idha nagaraguttiko mayhaṁ mitto hoti.}                    |
-| Where do you work?                                                      |
-| \fillin{12cm}{Kattha tvaṁ kammaṁ karosi?}                               |
-| I work in a post-office.                                                |
-| \fillin{12cm}{Aham ekasmiṁ sandesāgāre kammaṁ karomi.}                  |
-| Where do you go from here?                                              |
-| \fillin{12cm}{Ito tvaṁ kuhiṁ gacchasi?}                                 |
-| I will go to another town from here.                                    |
-| \fillin{12cm}{Aham ito aññaṁ nagaraṁ gamissāmi.}                        |
-| Do you like this place?                                                 |
-| \fillin{12cm}{Piyāyasi tvam idaṁ ṭhānaṁ?}                               |
-| I may like this if it is not too hot.                                   |
-| \fillin{12cm}{Piyāyeyyam idaṁ ṭhānaṁ sace'daṁ nāccuṇhaṁ bhaveyya. }    |
-| When will you go home?                                                  |
-| \fillin{12cm}{Kadā tvaṁ nivesanaṁ gacchissasi / gamissasi?} |
-| I will go home when I get enough money.                                 |
-| \fillin{12cm}{Yadā pahoṇakaṁ mūlaṁ labhissāmi, tadā'haṁ gamissāmi.}    |
-| How much money have you now with you?                                   |
-| \fillin{12cm}{Kittakaṁ mūlaṁ 'dāni tava santike atthi?}                 |
-| I have fourteen rupees and fifty cents.                                 |
-| \fillin{12cm}{Cuddasa rūpiyāni aḍḍharūpiyañ ca mama santike santi.}      |
+| Who are you?                                                                        |
+| \fillin{12cm}{Ko'si tvaṁ?}                                                          |
+| I am a way-farer.                                                                   |
+| \fillin{12cm}{Aham eko pathiko.}                                                    |
+| Where do you come from?                                                             |
+| \fillin{12cm}{Kuto tvam āgacchasi?}                                                 |
+| I come from India.                                                                  |
+| \fillin{12cm}{Ahaṁ Indudesato āgacchāmi.}                                           |
+| For what purpose have you come? (You what to do came?)                              |
+| \fillin{12cm}{Tvaṁ kiṁ kātuṁ āgato'si?}                                            |
+| I want to sell some goods.                                                          |
+| \fillin{12cm}{Ahaṁ bhaṇḍāni vikkiṇitum icchāmi.}                                    |
+| Why did you come here? (Why here came are you?)                                     |
+| \fillin{12cm}{Kasmā idh'āgato si?}                                                  |
+| I came here to talk to you. (Wit you to talk came I am.)                            |
+| \fillin{12cm}{Tayā saddhiṁ sallapituṁ āgato'mhi.}                                   |
+| Who is your father?                                                                 |
+| \fillin{12cm}{Ko tuyhaṁ pitā?}                                                      |
+| My father is the merchant Mahānāma.                                                 |
+| \fillin{12cm}{Mama pitā Mahānāmo vāṇijo.}                                            |
+| Who here is your friend?                                                            |
+| \fillin{12cm}{Ko idha tava mitto?}                                                  |
+| Here, the merchant is my friend.                                                    |
+| \fillin{12cm}{Idha vāṇijo mayhaṁ mitto hoti.}                                       |
+| Where do you work? (Where the work you do?)                                         |
+| \fillin{12cm}{Kattha tvaṁ kammaṁ karosi?}                                           |
+| I work in a post-office. (I in one marketplace work I do.)                          |
+| \fillin{12cm}{Aham ekasmiṁ antarāpaṇe kammaṁ karomi.}                               |
+| From here, to where do you go?                                                      |
+| \fillin{12cm}{Ito tvaṁ kuhiṁ gacchasi?}                                             |
+| I will go to another town from here. (I from here to another town I will go.)       |
+| \fillin{12cm}{Aham ito aññaṁ nagaraṁ / nigamaṁ gamissāmi.}                         |
+| Do you like this place?                                                             |
+| \fillin{12cm}{Piyāyasi tvam idaṁ ṭhānaṁ?}                                           |
+| I may like this place, if it doesn't get too hot. (if here not too hot may become). |
+| \fillin{12cm}{Piyāyeyyam idaṁ ṭhānaṁ sace'daṁ nāccuṇhaṁ bhaveyya. }                |
+| When will you go home?                                                              |
+| \fillin{12cm}{Kadā tvaṁ nivesanaṁ gacchissasi / gamissasi?}                         |
+| When I get money, then I will go home.                                              |
+| \fillin{12cm}{Yadā mūlaṁ labhissāmi, tadā'haṁ gamissāmi.}                           |
+| How much (many) money have you now with you?                                        |
+| \fillin{12cm}{Kittakaṁ mūlaṁ 'dāni tava santike atthi?}                             |
+| I have fourteen rupees.                                                             |
+| \fillin{12cm}{Cuddasa rūpiyāni mama santike santi.}                                 |
 
 #+latex: \normalArrayStrech
 

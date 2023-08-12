@@ -11,7 +11,6 @@
 
 #+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth} H
 | able to keep going; sustainable                                                       | yāpanīya (adj.)                           |   |
-| a cook                                                                                | sūda (m.)                                 |   |
 | afflicted (with); affected (by)                                                       | otiṇṇa (pp. of otarati)                    |   |
 | after                                                                                 | pacchā (ind.)                             |   |
 | afterwards; later; in the future                                                      | pacchā (ind.)                             |   |
@@ -24,7 +23,6 @@
 | ant                                                                                   | kipillika (m.)                            |   |
 | applies (attention); pays; lit. puts down                                             | odahati                                   |   |
 | approaches; goes to; visits                                                           | upasaṅkamati                               |   |
-| army general                                                                          | senānī (m.)                               |   |
 | ascetic; renunciant; holy man; monk; recluse; lit. who makes an effort; calm one      | samaṇa (m.) [√sam + aṇa]                   |   |
 | assembly hall; meeting hall                                                           | upaṭṭhānasālā (f.)                         |   |
 | assistance for the training                                                           | vinayānuggaha (m.) [vinaya + anuggaha]    |   |
@@ -93,6 +91,8 @@
 | continuity of the good teaching; longevity of the true doctrine                       | saddhammaṭṭhiti (f.)                       |   |
 | control; restraint; holding back                                                      | saṁvara (m.)                              |   |
 | controls; restrains                                                                   | saṁvarati                                 |   |
+| cook (noun)                                                                           | sūda (m.)                                 |   |
+| cooks (verb)                                                                          | pacati                                    |   |
 | could be; may be                                                                      | siyā (opt.irreg. of atthi)                |   |
 | country; province; area                                                               | janapada (m.)                             |   |
 | covers up; wraps over                                                                 | onandhati                                 |   |
@@ -169,6 +169,7 @@
 | from there                                                                            | tato (ind.)                               |   |
 | from travelling (from going on the journey)                                           | addhānaṁ āgato                            |   |
 | fun; joke; play                                                                       | dava (m.)                                 |   |
+| general (army)                                                                        | senānī (m.)                               |   |
 | gets; receives; obtains                                                               | labhati                                   |   |
 | gets; receives; obtains                                                               | labhati                                   |   |
 | gets up; gets out; arouses oneself; lit. stands up                                    | uṭṭhahati; uṭṭhāti                          |   |
@@ -200,7 +201,6 @@
 | hears                                                                                 | suṇāti                                     |   |
 | he attends to me                                                                      | so maṃ upaṭṭhāti                           |   |
 | heavenly being; a god                                                                 | deva (m.)                                 |   |
-| he cooks                                                                              | pacati                                    |   |
 | he is (√as)                                                                           | atthi                                     |   |
 | he is (√hū)                                                                           | hoti                                      |   |
 | helpful; useful                                                                       | upakāra (adj.)                            |   |
