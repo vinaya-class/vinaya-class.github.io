@@ -49,7 +49,10 @@ robe-keeping-pdf:
 pali-vocabulary-words-pdf:
 	cd tex/vinaya-class-questions && make pali-vocabulary-words
 
-pali-lessons-pdf: pali-vocabulary-words-pdf
+pali-vocabulary-sentences-pdf:
+	cd tex/vinaya-class-questions && make pali-vocabulary-sentences
+
+pali-lessons-pdf: pali-vocabulary-words-pdf pali-vocabulary-sentences-pdf
 	cd tex/vinaya-class-questions && \
 	make export-pali-lessons && \
 	cd ../.. && \

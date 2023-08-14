@@ -406,7 +406,7 @@ Pāli Lessons::Lesson 2::2. Extra Challenge
 | Do you know Pāli-talk?                                                              | Tvaṁ pālibhāsaṁ jānāsi?                                            | s |
 | I know a little.                                                                    | Ahaṁ thokaṁ jānāmi.                                                | s |
 | Are you able to converse "into" Pāli?                                               | Sakkosi tvaṁ pālibhāsāya sallapituṁ?                               | s |
-| Yes, I am able to conversea little.                                                 | Āma, ahaṁ thokaṁ sallapituṁ sakkomi.                              | s |
+| Yes, I am able to converse a little.                                                | Āma, ahaṁ thokaṁ sallapituṁ sakkomi.                              | s |
 | What is your name?                                                                  | Tuyhaṁ nāmaṁ kiṁ? Kin nāmo'si?                                    | s |
 | I am called Vijayabāhu.                                                             | Ahaṁ Vijayabāhu-nāmo'mhi.                                          | s |
 | Where do you live?                                                                  | Tvaṁ kattha vasasi?                                                | s |

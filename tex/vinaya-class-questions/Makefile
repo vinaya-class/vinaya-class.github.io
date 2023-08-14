@@ -8,6 +8,8 @@ pali-vocabulary-chapters: export-vocabulary-lesson-1 vocabulary-lesson-1.pdf exp
 
 pali-vocabulary-words: export-vocabulary-words vocabulary-words.pdf
 
+pali-vocabulary-sentences: export-vocabulary-sentences vocabulary-sentences.pdf
+
 pali-lessons: export-pali-lessons pali-lessons.pdf
 
 pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
@@ -32,6 +34,9 @@ export-vocabulary-lesson-2:
 
 export-vocabulary-words:
 	emacs --batch -L -l 'vocabulary-words.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+
+export-vocabulary-sentences:
+	emacs --batch -L -l 'vocabulary-sentences.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 
 export-pali-cheatsheet:
 	emacs --batch -L -l 'pali-cheatsheet.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'

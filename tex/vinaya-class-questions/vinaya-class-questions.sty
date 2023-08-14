@@ -128,7 +128,8 @@
 
 \newcommand*\cleartonewsheet{%
   \clearpage%
-  \ifodd\value{page}%
+  \ifodd\value{page}\relax%
+  \else%
     \thispagestyle{empty}%
     \hbox{}%
     \newpage%

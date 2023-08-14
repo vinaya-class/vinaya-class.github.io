@@ -1789,7 +1789,8 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 | (1) for you; to you (2) your; yours                | tuyhaṁ (pron.)                   |
 | (1) to you; for you (2) your; of you               | tava (pron.)                     |
 
-#+latex: \renewcommand{\arraystretch}{1.5}
+#+latex: \enlargethispage*{-\baselineskip}
+#+latex: \renewcommand{\arraystretch}{1.25}
 
 #+ATTR_LATEX: :environment longtable
 | Do you know Pāli-talk?                                             |
@@ -1798,7 +1799,7 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 | \fillin{12cm}{Ahaṁ thokaṁ jānāmi.}                                 |
 | Are you able to converse "into" Pāli?                              |
 | \fillin{12cm}{Sakkosi tvaṁ pālibhāsāya sallapituṁ?}                |
-| Yes, I am able to conversea little.                                |
+| Yes, I am able to converse a little.                               |
 | \fillin{12cm}{Āma, ahaṁ thokaṁ sallapituṁ sakkomi.}               |
 | What is your name?                                                 |
 | \fillin{12cm}{Tuyhaṁ nāmaṁ kiṁ? Kin nāmo'si?}                     |
@@ -1872,8 +1873,7 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 | in the presence (of); near (to)                                 | santike (ind.)                 |
 | I have (in my presence there are)                               | mama santike santi (idiom)     |
 
-#+latex: \enlargethispage*{\baselineskip}
-#+latex: \renewcommand{\arraystretch}{1.5}
+#+latex: \renewcommand{\arraystretch}{1.4}
 
 #+ATTR_LATEX: :environment longtable
 | Who are you?                                                                        |
@@ -2252,7 +2252,7 @@ irregular forms.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā, sālaṁ gacchāmi.                  |
+| Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā (having cleaned), sālaṁ gacchāmi. |
 | \fillin{12cm}{After eating the food, I rinse my bowl, clean my teeth and go to the hall.} |
 | Yathārupe adinnādāne rājāno coraṁ gahetvā ... (Pr 2)                                      |
 | \fillin{12cm}{The sort of stealing for which kings, having caught a thief...}             |
@@ -2299,6 +2299,8 @@ Vivekaṁ, anuruddhā, kāmehi vivekaṁ akusalehi dhammehi pītisukhaṁ nādhi
 aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentral.net/mn68/pli/ms][MN 68]])
 #+end_quote
 
+\bigskip
+
 #+latex: \begin{multicols}{2}
 
 /viveka:/ (m.) seclusion; discrimination \\
@@ -2316,6 +2318,8 @@ aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentra
 
 #+latex: \end{multicols}
 
+\bigskip
+
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | Chandañca ruciñca ādāya voharati. (Sg 11)                  | \fillin{8cm}{He speaks with our given consent and approval.} |
@@ -2325,10 +2329,25 @@ aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentra
 | \fillin{8cm}{Te idha āgantvā pacitvā gacchanti. }          | Having come here, having cooked, they go.                    |
 | \fillin{8cm}{Tvaṁ buñjitvā pivitvā sayasi.}                | Having eaten, having drunk, you lie down.                    |
 
-#+latex: \hspace*{-0.05\linewidth}%
-#+latex: \begin{minipage}[c][10\baselineskip][t]{0.8\linewidth}
+\bigskip
 
-#+latex: \vspace*{-\baselineskip}
+#+latex: \begin{multicols}{2}
+
+/ruci:/ f. preference; approval \\
+/ādāya:/ ger. of /ādiyati/; \\
+receiving; according (to); lit. taking \\
+/uṭṭhahati; uṭṭhāti:/ stands up
+
+\columnbreak
+
+/vasati:/ stays; dwells \\
+/daṇḍaṁ paṇeti/: inflicts punishment; imposes a fine \\
+/jhāyati:/ burns \\
+/masi:/ m. soot; ash
+
+#+latex: \end{multicols}
+
+\bigskip
 
 | Sace so coretvā idha āgacceyya, daṇḍaṁ paṇeyyāmi.                                  |
 | \fillin{12cm}{If, after stealing, he might come here, I may punish (him).}         |
@@ -2337,31 +2356,12 @@ aratīpi ... tandīpi cittaṁ pariyādāya tiṭṭhati. ([[https://suttacentra
 | After burning the tree with fire, they may make ash.                               |
 | \fillin{12cm}{Rukkhaṁ agginā jhāpetvā masiṁ kareyya.}                              |
 
-#+latex: \end{minipage}%
-#+latex: \begin{minipage}[c][10\baselineskip][t]{0.25\linewidth}
-#+latex: \raggedright
-
-/ruci:/ f. preference; approval \\
-/ādāya:/ ger. of /ādiyati/; \\
-receiving; according (to); \\
-lit. taking \\
-/uṭṭhahati; uṭṭhāti:/ stands up \\
-/vasati:/ stays; dwells \\
-/daṇḍaṁ paṇeti/: inflicts punishment; \\
-imposes a fine \\
-/jhāyati:/ burns \\
-/masi:/ m. soot; ash
-
-\vfill\null
-
-#+latex: \end{minipage}
-
 #+latex: \normalArrayStrech
 
-#+latex: \enlargethispage*{\baselineskip}
-#+latex: \bigskip
+\clearpage
 
-#+begin_widecols
+#+latex: {\raggedright
+
 Puna caparaṁ, bhikkhu, bhikkhu yathāsutaṁ yathāpariyattaṁ dhammaṁ cetasā
 anuvitakketi anuvicāreti manasānupekkhati.
 
@@ -2374,6 +2374,8 @@ Ayaṁ vuccati, bhikkhu: "bhikkhu vitakkabahulo, no dhammavihārī".
 
 ([[https://suttacentral.net/an5.73/pli/ms][AN 5.73]])
 
+\bigskip
+
 Api ca kho mātugāmena saddhiṁ sañjagghati saṅkīḷati saṅkelāyati ...
 
 Api ca kho mātugāmassa cakkhunā cakkhuṁ upanijjhāyati pekkhati ...
@@ -2384,34 +2386,38 @@ Idampi kho, brāhmaṇa, brahmacariyassa khaṇḍampi chiddampi sabalampi kamm�
 
 ([[https://suttacentral.net/an7.50/pli/ms][AN 7.50]])
 
-\columnbreak
+#+latex: \par}
 
-/cetasā:/ m. with/by mind; with thought \\
-/anu-:/ over; on; around \\
-/manasānupekkhati:/ mentally examines \\
-/pekkhati:/ sees; takes a look (at) \\
-/divasa:/ nt. day \\
-/atināmeti:/ (of time) passes; spends; wastes \\
-/riñcati:/ neglects; omits \\
-/paṭisallāna:/ nt. privacy; solitude; lit. sticking to oneself \\
-/anuyuñjati:/ practices; engages in; lit. yokes near \\
-/ayaṁ:/ pron. this; this person; this thing \\
-/vuccati:/ pass. of /vacati/; is said to be; is called \\
-/sañjagghati:/ laughs; jokes \\
-/saṅkīḷati:/ [saṁ + √kīḷ] playing together \\
-/saṅkelāyati:/ from /kīḷati/; has fun; amuses oneself (with) \\
-/upanijjhāyati:/ meditates (on); contemplates; reflects (on) \\
-/assādeti:/ relishes; takes pleasure (in) \\
-/nikāmeti:/ desires; longs (for) \\
-/vittiṁ āpajjati:/ idiom. finds satisfaction (in) \\
-/vitti/: f. joy; happiness; pleasure; lit. gain \\
-/āpajjati:/ gets pleasure/pain; produces; engages in \\
-/khaṇḍa:/ m. piece; chip; lit. break \\
-/chidda:/ nt. hole; crack \\
-/sabala:/ adj. blotched; stained \\
-/kammāsa:/ adj. spotted; blemished
+\bigskip
 
-#+end_widecols
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| with/by mind; with thought                                     | cetasā (m.)               |
+| over; on; around (prefix)                                      | anu-                      |
+| ponders; reflects; thinks about                                | anuvitakketi              |
+| sees; takes a look (at)                                        | pekkhati                  |
+| mentally examines                                              | manasānupekkhati          |
+| day                                                            | diva (m.) / divasa (nt.)  |
+| (of time) passes; spends; wastes                               | atināmeti                 |
+| neglects; omits                                                | riñcati                   |
+| privacy; solitude; lit. sticking to oneself                    | paṭisallāna (nt.)          |
+| practices; engages in; lit. yokes near                         | anuyuñjati                |
+| this; this person; this thing                                  | ayaṁ (pron.)              |
+| speaks                                                         | vacati                    |
+| is said to be; is called                                       | vuccati (pass. of vacati) |
+| laughs; jokes                                                  | sañjagghati               |
+| plays (with); has fun (with)                                   | kīḷati                     |
+| playing together                                               | saṅkīḷati [saṁ + √kīḷ]     |
+| has fun; amuses oneself (with)                                 | saṅkelāyati (from kīḷati)  |
+| meditates (on); contemplates; reflects (on)                    | upanijjhāyati             |
+| relishes; takes pleasure (in)                                  | assādeti                  |
+| desires; longs (for)                                           | nikāmeti                  |
+| joy; happiness; pleasure; lit. gain                            | vitti (f.)                |
+| gets pleasure/pain; produces; engages in                       | āpajjati                  |
+| finds satisfaction (in)                                        | vittiṁ āpajjati (idiom)   |
+| (1) piece; part (2) broken; defective (3) chip; break; failure | khaṇḍa (m.)                |
+| hole; crack                                                    | chidda (nt.)              |
+| blotched; stained                                              | sabala (adj.)             |
+| spotted; blemished                                             | kammāsa (adj.)            |
 
 \clearpage
 
@@ -2671,45 +2677,155 @@ Possessive pronouns (genitive)
 | A bhikkhu gives a bowl to a bhikkhu.                                 | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
 | A bhikkhu walks to a village with a bhikkhunī.                       | \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}               |
 
-#+latex: \normalArrayStrech
+#+latex: \begin{multicols}{2}
 
-/vāri:/ nt. water
+/vāri:/ nt. water \\
+/vāha:/ adj. carrying; leading \\
+/pūra:/ adj. full (of); filled (with) \\
+/yāgu:/ f. rice gruel; congee
 
-/vāha:/ adj. carrying; leading
+\columnbreak
 
-/pūra:/ adj. full (of); filled (with)
+/bheda:/ m. (1) death (2) schism; split; lit. breakup \\
+/ramati:/ enjoys; finds pleasure (in) \\
+/abhiramati:/ enjoys; delights (in); takes pleasure (in) \\
+/abhirata:/ adj. pp of abhiramati; really enjoying; very fond (of)
+
+#+latex: \end{multicols}
 
 \clearpage
 
-#+latex: \renewcommand{\arraystretch}{1.8}
+| \fillin{8cm}{Those who, devoted, firm-minded,}               | Ye suppayuttā manasā daḷhena                     |
+| \fillin{8cm}{apply themselves to Gotama's message}           | nikkāmino gotamasāsanamhi (gotamassa sāsanamhi) |
+
+/payuñjati:/ harnesses; employs; applies \\
+/payutta:/ pp. of /payuñjati/; intent; engaged \\
+/suppayutta:/ adj. [su + payutta] fully engaged; diligently practising \\
+/manasa:/ adj. focused on; lit. with such a mind \\
+/daḷha:/ adj. strong; firm; steady \\
+/nikkāmī:/ adj. [nī + √kam + *ī] striving (in); active (in); lit. going out
+
+| \fillin{8cm}{The old is ended, nothing new is produced.}     | Khīṇaṁ purāṇaṁ nava natthi sambhavaṁ,           |
+| \fillin{8cm}{their minds have no desire for future rebirth.} | Virattacittāyatike bhavasmiṁ;                   |
+| \fillin{8cm}{They, with no seed, no desire for growth,}      | Te khīṇa-bījā aviruḷhi-chandā,                   |
+| \fillin{8cm}{enlightened, go out like this flame.}           | Nibbanti dhīrā yathā'yam padīpo. (Snp 2.1)      |
+
+#+latex: \begin{multicols}{2}
+
+/khīyati:/ is destroyed; is exhausted \\
+/khīṇa:/ pp. of /khīyati/; consumed; destroyed \\
+/khaya:/ m. from /khīyati/; wearing away; destruction \\
+/purāṇa:/ adj. previous; old; ancient \\
+/nava:/ adj. new; fresh
+
+\columnbreak
+
+/rajjati:/ finds pleasure (in); is enamoured (with) \\
+/virajjati:/ becomes detached (from); loses interest (in) \\
+/viratta:/ pp. of /virajjati/; detached (from); without desire (for); lost interest (in) \\
+/virūḷhi:/ f. growth; increase \\
+/padīpa:/ m. lamp; light; lighting
+
+#+latex: \end{multicols}
 
 | Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.                                     |
 | \fillin{12cm}{May they give gifts with conviction, may they always maintain virtue.} |
-| Bhāvanābhiratā hontu, gacchantu devatā-gatā[fn:: Dukkhappattā... chant]              |
+| Bhāvanābhiratā hontu, gacchantu devatā-gatā.[fn:: Dukkhappattā... chant]             |
 | \fillin{12cm}{May they delight in meditation, may they go to the devas.}             |
-
-#+latex: \normalArrayStrech
 
 \bigskip
 
-/rakkhati:/ protects; guards
+/rakkhati:/ protects; guards \\
 
-/abhirata:/ adj. pp of abhiramati; really enjoying; very fond (of)
+#+latex: \normalArrayStrech
 
-/ramati:/ enjoys; finds pleasure (in)
+\clearpage
 
 *** Readings
 
-#+begin_widecols
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| highest; supreme                                                                         | agga (adj.)                         |
+| comprehends; understands                                                                 | vijānāti                            |
+| for those knowing; for those who understand                                              | vijānataṁ (prp. of vijānāti)        |
+| gift; donation                                                                           | dakkhiṇā (f.)                        |
+| worthy of offerings                                                                      | dakkhiṇeyya (adj.)                   |
+| highest; unsurpassed; incomparable; lit. nothing higher                                  | anuttara (adj.)                     |
+| fading of desire (for); dispassion (towards)                                             | virāga (m.)                         |
+| becomes calm; ceases; is allayed                                                         | upasamati                           |
+| merit; good deed                                                                         | puñña (nt.)                         |
+| field; plot of land                                                                      | khetta (nt.)                        |
+| field of merit                                                                           | puññakkhetta (nt.)                  |
+
+\bigskip
+
+#+latex: \begin{multicols}{2}
+#+latex: \setlength{\columnseprule}{0pt}
+
 Aggato ve pasannānaṁ, \\
 aggaṁ dhammaṁ vijānataṁ; \\
 Agge buddhe pasannānaṁ, \\
 dakkhiṇeyye anuttare.
 
+\columnbreak
+
 Agge dhamme pasannānaṁ, \\
 virāgūpasame sukhe; \\
 Agge saṅghe pasannānaṁ, \\
-puññakkhette anuttare. ([[https://suttacentral.net/an4.34/pli/ms][AN 4.34]])
+puññakkhette anuttare.
+
+([[https://suttacentral.net/an4.34/pli/ms][AN 4.34]])
+
+#+latex: \end{multicols}
+
+\bigskip
+
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| alteration (to); improvement (to)                                                        | vikappa (m.)                        |
+| (1) experiences (2) produces (3) engages in (4) commits (an offense) (5) causes; effects | āpajjati                            |
+| causes an alteration; suggests an improvement                                            | vikappaṁ āpajjati (idiom)           |
+| convinces; persuades; lit. causes to know                                                | saññāpeti                           |
+| some or other; even some; just some                                                      | kocideva                            |
+| lamp; light; lighting                                                                    | padīpa (m.)                         |
+| passes over to, shifts, transmigrates                                                    | saṅkamati                            |
+| moved over; shifted; transferred                                                         | saṅkanta (pp. of saṅkamati)          |
+
+\bigskip
+
+Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya... (NP 8)
+
+\bigskip
+
+So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya... (NP 10)
+
+\bigskip
+
+Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, \\
+kiṁ nu kho so, mahārāja, padīpo padīpamhā saṅkanto'ti?
+
+([[https://suttacentral.net/mil3.5.5/pli/ms][Mil 3.5.5]])
+
+\clearpage
+
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| best part; cream                                 | maṇḍa (m.)                           |
+| of the best quality; lit. to be drunk like cream | maṇḍapeyya (adj.)                    |
+| face to face with                                | sammukha (adj.)                     |
+| reaches; arrives (at)                            | pāpuṇāti                             |
+| have reached; have arrived (at)                  | patta (pp. of pāpuṇāti)              |
+| gets to; attains; obtains; lit. arrives at       | adhigacchati                        |
+| discovered; found; attained; lit. arrived        | adhigata (pp. of adhigacchati)      |
+| discovery; finding; attainment; lit. arrival     | adhigama (m.)                       |
+| personal; lit. see for oneself                   | sacchi (adj.)                       |
+| knows for oneself; personally realizes           | sacchikaroti                        |
+| this; this person; this thing                    | ayaṁ (pron.)                        |
+| our; of us; my (royal plural)                    | amhākaṁ (pron.)                     |
+| barren; fruitless; sterile; unproductive         | vañjha (adj.)                       |
+| resulting in; producing; lit. coming up          | udraya (adj.)                       |
+| in us; among us                                  | amhesu (pron.) (1st.loc.pl of ahaṁ) |
+| (1) fruit; berry (2) consequence; result         | phala (nt.)                         |
+| benefit (in); good result (of)                   | ānisaṁsa (m.)                       |
+
+#+latex: {\raggedright
 
 Maṇḍapeyyamidaṁ, bhikkhave, brahmacariyaṁ, satthā sammukhībhūto.
 
@@ -2722,87 +2838,79 @@ Yesañca mayaṁ paribhuñjāma
 cīvara-piṇḍapāta-senāsana-gilānappaccayabhesajja-parikkhāraṁ tesaṁ te kārā
 amhesu mahapphalā bhavissanti mahānisaṁsā"ti.
 
-evañhi vo, bhikkhave, sikkhitabbaṁ. ([[https://suttacentral.net/sn12.22/en/sujato][SN 12.22]])
+evañhi vo, bhikkhave, sikkhitabbaṁ.
 
-Tatra ce so bhikkhu pubbe appavārito upasaṅkamitvā cīvare vikappaṁ āpajjeyya... (NP 8)
+([[https://suttacentral.net/sn12.22/en/sujato][SN 12.22]])
 
-So ce dūto taṁ veyyāvaccakaraṁ saññāpetvā taṁ bhikkuṁ upasaṅkamitvā evaṁ vadeyya... (NP 10)
+#+latex: \par}
 
-\columnbreak
+\bigskip
 
-/agga:/ adj. highest; supreme;\\
-/vijānataṁ:/ prp. of /vijānāti/\\
-/vijānāti:/ comprehends; understands\\
-/dakkhiṇeyya:/ adj. worthy of offerings\\
-/dakkhiṇā:/ f. gift; donation\\
-/upasamati:/ becomes calm; ceases; is allayed\\
-/puññakkhetta:/ nt. field of merit\\
-/khetta:/ nt. field; plot of land\\
-/maṇḍapeyya:/ adj. of the best quality; lit. to be drunk like cream\\
-/maṇḍa:/ m. best part; cream\\
-/sammukha:/ adj. face to face with\\
-/patta:/ pp. of /pāpuṇāti/\\
-/pāpuṇāti:/ reaches; arrives (at)\\
-/adhigata:/ pp. of /adhigacchati/\\
-/adhigacchati:/ gets to; attains; obtains\\
-/sacchikaroti:/ knows for oneself; personally realizes\\
-/sacchi:/ adj. personal; lit. see for oneself\\
-/vañjha:/ adj. barren; fruitless; sterile; unproductive\\
-/udraya:/ adj. resulting in; producing; lit. coming up\\
-/amhesu:/ pron. 1st loc pl of ahaṁ; in us; among us\\
-/ānisaṁsa:/ m. benefit (in); good result (of)\\
-/vikappaṁ āpajjati:/ idiom. causes an alteration (to); suggests an improvement (to)\\
-/vikappa:/ m. alteration (to); improvement (to)\\
-/saññāpeti:/ convinces; persuades; lit. causes to know
-#+end_widecols
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| touches; contacts; feels                         | phusati                  |
+| touched (by); contacted (by)                     | phuṭṭha (pp. of phusati)  |
+| considers as; takes as; regards as; lit. puts    | dahati                   |
+| contact; sense impingement; touch                | phassa (m.)              |
+| attachment; taking as mine; sense of ownership   | upadhi (m.)              |
+| comes back (to); falls back (on); lit. goes back | pacceti                  |
+| dependent; depending (on)                        | paṭicca (ger. of pacceti) |
 
-\clearpage
+\bigskip
 
-Na, bhikkhave, āyatakena gītassarena dhammo gāyitabbo. Yo gāyeyya, āpatti dukkaṭassā"ti.
+"Gāme araññe sukhadukkhaphuṭṭho, \\
+Nevattato no parato dahetha; \\
+Phusanti phassā upadhiṁ paṭicca, \\
+Nirūpadhiṁ kena phuseyyu phassā"ti.
 
-# You shouldn’t sing the Teaching with a drawn-out voice.
-# If you do, you commit an offense of wrong conduct.”
+([[https://suttacentral.net/ud2.4/pli/ms][Ud 2.4]])
 
-Tena kho pana samayena bhikkhū sarabhaññe kukkuccāyanti. Bhagavato etamatthaṁ ārocesuṁ.
+# “When struck by pleasure and pain in the village or wilderness,
+# regard it not as self or other.
+# Contacts strike because of attachment;
+# how would contacts strike one free of attachment?”
 
-# Being afraid of wrongdoing, the monks did not chant. They told the Buddha.
+*** TODO Extra Challenge: Pāli Chat                                :noexport:
 
-"Anujānāmi, bhikkhave, sarabhaññan"ti. ([[https://suttacentral.net/pli-tv-kd15/en/brahmali][Vin. Kd 15]])
+Arriving from the airport.
 
-# "I allow chanting."
+Going on a walk. Finding your kuti.
 
------
+Welcome bhante, please come in.
 
-Yathā, mahārāja, kocideva puriso padīpato padīpaṁ padīpeyya, kiṁ nu kho so,
-mahārāja, padīpo padīpamhā saṅkanto'ti? ([[https://suttacentral.net/mil3.5.5/pli/ms][Mil 3.5.5]])
+Can I offer you tea or coffee?
 
------
+No, thank you. But a little bit of cheese or chocolate would be a good idea.
 
-Ye naṁ dadanti saddhāya, \\
-vippasannena cetasā; \\
-Tameva annaṁ bhajati, \\
-asmiṁ loke paramhi ca. ([[https://suttacentral.net/sn1.43/pli/ms][SN 1.43]])
+I will return to my kuti now.
 
-*** TODO Extra Challenge                                           :noexport:
-* Lesson 4
+Do you want sugar or honey in your coffee?
+
+Two spoons of sugar please.
+
+Help me to carry this table.
+
+Help me to clean this room.
+
+I am going to take a shower.
+
+I am going to shave my head. Tomorrow is the uposatha.
+
+My hair is too long.
+
+I ask the stores monk. Give me a new bowl.
+
+I am looking for my bowl.
+
+bandhagara
+
+I want another thing.
+
+\cleartonewsheet
+
+* Lesson 4                                                         :noexport:
 ** Review Exercises
 
 #+latex: \renewcommand{\arraystretch}{1.8}
-
-| Ye suppayuttā manasā daḷhena                     | \fillin{8cm}{Those who, devoted, firm-minded,}          |
-| nikkāmino gotamasāsanamhi (gotamassa sāsanamhi) | \fillin{8cm}{apply themselves to Gotama's message}      |
-| ... Te khīṇa-bījā aviruḷhi-chandā                | \fillin{8cm}{They, with no seed, no desire for growth,} |
-| Nibbanti dhīrā yathā'yam padīpo (Snp 2.1)       | \fillin{8cm}{enlightened, go out like this flame.}      |
-
-/suppayutta:/ [su + payutta] adj. fully engaged; diligently practising \\
-/payutta:/ pp. of /payuñjati/; intent; engaged \\
-/payuñjati:/ harnesses; employs; applies \\
-/manasa:/ adj. focused on; lit. with such a mind \\
-/daḷha:/ adj. strong; firm; steady \\
-/nikkāmī:/ [nī + √kam + *ī] adj. striving (in); active (in); lit. going out \\
-/khīṇa:/ pp. of /khīyati/; consumed; destroyed \\
-/khaya:/ [√khī + *a] m. wearing away (of); destruction (of) \\
-/virūḷhi:/ f. growth; increase
 
 | Sammā-sambuddhassa sāvako ramati taṇhāya khayasmiṁ. (Dhp 187, simpl.)                     |
 | \fillin{12cm}{A disciple of the fully awakened Buddha delights in the ending of craving.} |
@@ -3113,7 +3221,7 @@ santī āpatti āvikātabbā, \\
 ([[https://suttacentral.net/pli-tv-bu-pm/pli/ms][Nidāna]])
 
 *** TODO Extra Challenge                                           :noexport:
-* Lesson 5
+* Lesson 5                                                         :noexport:
 ** Review Exercises
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -4216,6 +4324,12 @@ These qualities lead to attachment, not to detachment.
 
 * Vocabulary: Words
 
+The following pages are a complete vocabulary of the lessons, sorted by English. This can be useful to print and use as a small dictionary while solving exercises.
+
+A memory card deck for the [[https://apps.ankiweb.net/][Anki application]] is included below to help memorizing the vocabulary and sentences using the [[https://gwern.net/spaced-repetition][Spaced Repetition]] method.
+
+[[https://vinaya-class.github.io/00-pali-lessons.html]]
+
 #+begin_export latex
 \cleartonewsheet
 
@@ -4225,7 +4339,7 @@ These qualities lead to attachment, not to detachment.
 \cleartonewsheet
 #+end_export
 
-* Vocabulary: Sentences                                            :noexport:
+* Vocabulary: Sentences
 
 #+begin_export latex
 \cleartonewsheet
@@ -4243,9 +4357,8 @@ These qualities lead to attachment, not to detachment.
 - [[https://archive.org/details/PaliGrammarCharlesDuroiselle][A Practical Grammar of the Pāli Language by Charles Duroiselle, v4.3, 2007 (archive.org)]]
 - [[https://archive.org/details/NewPaliCourse/][A New Course In Reading Pali by James W. Gair, W. S. Karunatillake (archive.org)]]
 - [[https://archive.org/details/PaliBuddhistTextsA][Pali Buddhist Texts Explained to the Beginner by Rune E A Johansson (archive.org)]]
+- [[https://dhamma.ru/paali/aids_to_pali_conversation.pdf][Aids to Pāli Conversation by Ven. Buddhadatta (dhamma.ru)]]
 - [[https://palistudies.blogspot.com/][Learn Pali Language (blogspot.com)]]
-
-Here's Ven. Buddhadatta's classic https://dhamma.ru/paali/aids_to_pali_conversation.pdf
 
 [fn:an-4-67] [[https://suttacentral.net/an4.67/pli/ms][AN 4.67]]
 

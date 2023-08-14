@@ -1,0 +1,301 @@
+# -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
+#+TITLE: Vocabulary: Sentences
+#+AUTHOR: The Bhikkhu Saṅgha
+#+LATEX_CLASS: memoir
+#+LATEX_CLASS_OPTIONS: [a5paper]
+#+LATEX_HEADER: \input{./vocabulary-preamble.tex}
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t title:nil num:2 ^:{} creator:nil timestamp:nil html-postamble:nil
+#+HTML_HEAD_EXTRA: <style> h1, h2, h3, h4, h5, h6 { font-family: 'Spectral'; font-weight: normal; margin-top: 0em; margin-bottom: 0.5em; } h2, h3 { font-size: 1.2em; text-decoration: underline; } table { border-color: white; } </style>
+
+* Vocabulary: Sentences
+
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth} H
+| A bhikkhu gives a bowl to a bhikkhu.                                                        | bhikkhu bhikkhussa pattaṁ deti                                                      | s |
+| A bhikkhu walks to a village with a bhikkhunī.                                              | bhikkhu bhikkhuniyā gāmaṁ carati                                                    | s |
+| A bone covered with skin; it looks beautiful with clothes.                                  | Aṭṭhi tacena onaddhaṁ, saha vatthebhi sobhati.                                       | s |
+| A cup of cold water will be refreshing (healthy).                                           | Sītodakamallako kallako bhavissati.                                                 | s |
+| A cup with hot water is a good idea (agreeable thought).                                    | Mallako uṇhodakassa vitakkaṁ piyarūpaṁ. / Uṇhodaka'mallako vitakko piyarūpo (hoti). | s |
+| After burning the tree with fire, they may make ash.                                        | Rukkhaṁ agginā jhāpetvā masiṁ kareyya.                                              | s |
+| After eating the food, I rinse my bowl, clean my teeth and go to the hall.                  | Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā, sālaṁ gacchāmi.            | s |
+| After sitting down there, he stands up from there.                                          | So tatra nisīditvā tato uṭṭhāti / uṭṭhahati.                                          | s |
+| After staying here today, tomorrow we go there.                                             | Mayaṁ ajja idha vasitvā suve tahiṁ gacchāma.                                        | s |
+| After the meal, we should sweep the place.                                                  | Pacchābhattaṁ, taṇṭhānaṁ sammajjeyyāma.                                             | s |
+| All the boys are crying.                                                                    | Sabbepime dārakā rodanti.                                                           | s |
+| An assembly such as this is worth traveling many leagues to see.                            | Yathārūpaṁ parisaṁ alaṁ yojanagaṇanānipi dassanāya gantuṁ.                         | s |
+| And have you not had trouble getting almsfood? (And not, with the almsfood, you are tired?) | Na ca piṇḍakena kilantosi?                                                           | s |
+| and I'm not tired, friend, from traveling.                                                  | ... appakilamathena cāhaṁ [ca ahaṁ], āvuso, addhānaṁ āgato.                        | s |
+| and the other two still attend schools.                                                     | dve tāva pāṭha-sālāsu uggaṇhanti.                                                    | s |
+| And where are you now?                                                                      | Idāni katthañca hosi?                                                               | s |
+| And where do you live Sir?                                                                  | Katthañca vasatha bhante?                                                           | s |
+| And where from, you Ven., have you come?                                                    | Kuto ca tvaṁ bhante, āgacchasi?                                                     | s |
+| Are you able to converse "into" Pāli?                                                       | Sakkosi tvaṁ pālibhāsāya sallapituṁ?                                                | s |
+| Are you at your mother and father's house?                                                  | Api nu Idāni mātāpitūgāraṁ / -garamhi / -gare viharasi?                             | s |
+| Before the meal, we should put out seats.                                                   | Purebhattaṁ, āsane / āsanāni paññāpema.                                             | s |
+| Be heedful! (i.e. take care!)                                                               | Appamādosi!                                                                         | s |
+| Bhikkhus, I allow bean broth.                                                               | "Anujānāmi, bhikkhave, akaṭayūsan"ti.                                                | s |
+| Bhikkhus, I allow rice water (clear congee).                                                | "Anujānāmi, bhikkhave, acchakañjin"ti.                                              | s |
+| Birds fly in the sky.                                                                       | Sakuṇā ākāse uḍḍayanti.                                                              | s |
+| But by non-hatred is calmed, this truth is eternal.                                         | Averena ca sammanti, esa dhammo sanantano.                                          | s |
+| By means of the Teaching, men go to the far shore.                                          | Manussā dhammena pāraṁ gacchanti.                                                   | s |
+| By this truth may there be well-being.                                                      | Etena saccena suvatthi hotu.                                                        | s |
+| Come here, layman!                                                                          | Ehi / Āgacchāhi upāsaka!                                                            | s |
+| Discontent is a dauther of Māra.                                                            | Aratī ekā māradhītarā.                                                              | s |
+| Don't go! (imperative)                                                                      | Mā gaccha!                                                                          | s |
+| Do you delight, ascetic?                                                                    | Nandasi, samaṇa?                                                                     | s |
+| Do you go?                                                                                  | Api nu / Kiṁ gacchasi?                                                              | s |
+| Do you have brothers and sisters too?                                                       | Tuyhaṁ bhātu-bhaginiyo pi santi?                                                    | s |
+| Do you know Pāli-talk?                                                                      | Tvaṁ pālibhāsaṁ jānāsi?                                                             | s |
+| Do you like this place?                                                                     | Piyāyasi tvam idaṁ ṭhānaṁ?                                                          | s |
+| (Due to the) first jhāna there is delight in solitude.                                      | Paṭhamena jhānena suññāgāre abhirati.                                                | s |
+| Fire, having rose up, burns down the householder's house.                                   | Aggi uṭṭhāya gahapatikassa gehaṁ ḍahati.                                             | s |
+| for (inspiring) faith in those without faith                                                | appasannānaṁ pasādāya                                                               | s |
+| for restraining obstinate individuals                                                       | dummaṅkūnaṁ puggalānaṁ niggahāya                                                    | s |
+| for the ease of the Saṅgha                                                                   | saṅghaphāsutāya                                                                      | s |
+| for the ease of well-behaved monks                                                          | pesalānaṁ bhikkhūnaṁ phāsuvihārāya                                                  | s |
+| for the excellence of the Saṅgha                                                             | saṅghasuṭṭhutāya                                                                     | s |
+| for the growth of faithful individuals                                                      | pasannānaṁ bhiyyobhāvāya                                                            | s |
+| For the personal achieving of the escape (and) extinguishing of all suffering               | Sabbadukkha nissaraṇa nibbāna sacchikaranatthāya ...                                 | s |
+| for the restraint of presently visible (mental) effluents                                   | diṭṭhadhammikānaṁ āsavānaṁ saṁvarāya                                                | s |
+| for the warding off of future (mental) effluents                                            | samparāyikānaṁ āsavānaṁ paṭighātāya                                                 | s |
+| For what purpose have you come? (You what to do came?)                                      | Tvaṁ kiṁ kātuṁ āgato'si?                                                           | s |
+| From here, to where do you go?                                                              | Ito tvaṁ kuhiṁ gacchasi?                                                            | s |
+| General Sīha goes up to the Buddha.                                                         | Sīho Senāpati yena bhagavā ten'upasaṅkamati.                                         | s |
+| Give congee, give rice, give food!                                                          | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā!                                      | s |
+| Go at your convenience.                                                                     | Yassadāni tumhe kālaṁ maññatha.                                                     | s |
+| Go at your convenience.                                                                     | Yassadāni tvaṁ kālaṁ maññasi.                                                       | s |
+| Go away, beings!                                                                            | Paṭikkamantu bhūtāni!                                                                | s |
+| Good morning friend! Are you well?                                                          | Suppabhātaṁ āvuso. Kacci si khamanīyaṁ?                                             | s |
+| Have you not had trouble? (not tired/weary you are '√as')                                   | Na kilantosi?                                                                       | s |
+| Having approached, he greeted the Blessed One.                                              | Upasaṅkamitvā bhagavatā saddhiṁ sammodi.                                            | s |
+| Having been washed, they should be dried.                                                   | Dhovitvā, visoseyyāsi / visosetabbāni.                                              | s |
+| Having come here, having cooked, they go.                                                   | Te idha āgantvā pacitvā gacchanti.                                                  | s |
+| Having eaten, having drunk, you lie down.                                                   | Tvaṁ buñjitvā pivitvā sayasi.                                                       | s |
+| Having eaten, I don't want to lie down.                                                     | Ahaṁ bhuñjitvā sayituṁ na icchāmi.                                                  | s |
+| Having given this robe, may you let me go forth Sir, out of compassion.                     | ... etaṁ kāsāvaṁ datvā, pabbājetha maṁ bhante, anukampaṁ upādāya.                  | s |
+| Having heard that teaching we know thus...                                                  | Mayaṁ taṁ dhammaṁ sutvā evaṁ jānāma...                                             | s |
+| Having taken my bowl, the alms should be shared with the bhikkhus.                          | Me pattaṁ gahetvā / ādāya, piṇḍaṁ bhikkhūhi saddhiṁ saṁvibhajitabbaṁ.              | s |
+| Having walked for alms, having received a lot of food, my bowl is heavy.                    | Piṇḍāya caritvā / gatvā, bahu khādanīyaṁ paṭiggahetvā / labbhitvā, me patto garo.    | s |
+| Having washed my bowl, you should put (it) in the cupboard.                                 | Me pattaṁ dhovitvā, koṭṭhake odaheyya.                                               | s |
+| He confesses the offense.                                                                   | Āpattiṁ āvikaroti.                                                                  | s |
+| he doesn't achieve rapture and bliss                                                        | pītisukhaṁ nādhigacchati                                                            | s |
+| He, from the breakup of the body, from after death...                                       | So, kāyassa bhedā, paraṁ maraṇā ...                                                 | s |
+| He gives her the cloth.                                                                     | So tassā dussaṁ deti.                                                               | s |
+| He, having gone there, comes here.                                                          | So tatra gantvā idha āgacchati.                                                     | s |
+| He needed bean broth.                                                                       | Akaṭayūsena attho hoti.                                                              | s |
+| He needed rice water (clear congee).                                                        | Acchakañjiyā attho hoti.                                                            | s |
+| Here, bhikkhus, a bhikkhu observes the body in the body...                                  | Idha, bhikkhave, bhikkhu kāye kāyānupassī viharati ...                              | s |
+| Here he rejoices, after (death) he rejoice, the merit-doer rejoices on both sides.          | Idha modati pecca modati, katapuñño ubhayattha modati.                              | s |
+| Here in the morning it is cold, and in the daytime is it hot.                               | Idha pubbaṇhasamaye ca sīto hoti, majjhanhikasamaye ca uṇho hoti.                    | s |
+| Here, the merchant is my friend.                                                            | Idha vāṇijo mayhaṁ mitto hoti.                                                      | s |
+| He should sweep the floor and he should expel the ants with this broom.                     | Chamā ca sammajjeyya, kipillikā ca nikkaḍḍheyya iminā sammuñjaniyā.                  | s |
+| He speaks with our given consent and approval.                                              | Chandañca ruciñca ādāya voharati.                                                   | s |
+| He wanders about with a woman.                                                              | Mātugāmena saddhiṃ cārikaṁ carati.                                                  | s |
+| He wishes to stay here.                                                                     | So idha vasituṁ icchati.                                                            | s |
+| Hey layman, come here!                                                                      | Ehi upāsaka!                                                                        | s |
+| Homage to him, the Blessed One.                                                             | Namo tassa bhagavato.                                                               | s |
+| Homage to the Buddha.                                                                       | Namo Buddhāya / Buddhassa.                                                          | s |
+| How are you untroubled, mendicant? How is delight not found in you?                         | Kathaṁ tvaṁ anagho bhikkhu, kathaṁ nandī na vijjati?                               | s |
+| How, as you sit alone, does discontent not overwhelm you?                                   | Kathaṁ taṁ ekamāsīnaṁ, aratī nābhikīrati?                                          | s |
+| How can I help (do)?                                                                        | Kinti karomi?                                                                       | s |
+| How can I help (do), Sir?                                                                   | Kinti karomi bhante?                                                                | s |
+| How much (many) money have you now with you?                                                | Kittakaṁ mūlaṁ 'dāni tava santike atthi?                                            | s |
+| How old are you? (How many years are you?)                                                  | Kativasso'si tvaṁ (āyunā)?                                                          | s |
+| I am alright.                                                                               | Ahaṁ khamanīyo / Khamanīyaṁ me.                                                     | s |
+| I am a way-farer.                                                                           | Aham eko pathiko.                                                                   | s |
+| I am called Vijayabāhu.                                                                     | Ahaṁ Vijayabāhu-nāmo'mhi.                                                           | s |
+| I am entering the town Ericeira.                                                            | Ericeiraṁ pavisāmi.                                                                 | s |
+| I am not well.                                                                              | Na me, bhante, khamanīyaṁ.                                                          | s |
+| I am not well, Sir. I feel cold.                                                            | Na me, bhante, khamanīyaṁ. Sītaṁ vedayāmi / paṭisaṁvediyāmi.                        | s |
+| I am tired. (Me tired I am '√as')                                                           | Ahaṁ kilantosmi. [kilanto + asmi]                                                   | s |
+| I am twenty years old.                                                                      | Ahaṁ vīsativasso'mhi.                                                               | s |
+| I came here to talk to you. (Wit you to talk came I am.)                                    | Tayā saddhiṁ sallapituṁ āgato'mhi.                                                  | s |
+| I come from India.                                                                          | Ahaṁ Indudesato āgacchāmi.                                                          | s |
+| I don't know. Do you see it?                                                                | Na jānāmi. Taṁ passasi?                                                             | s |
+| I enter the empty hut.                                                                      | Suññāgāraṁ pavisāmi.                                                                | s |
+| If, after stealing, he might come here, I may punish (him).                                 | Sace so coretvā idha āgacceyya, daṇḍaṁ paṇeyyāmi.                                   | s |
+| If he might not produce it...                                                               | No ce abhinipphādeyya...                                                            | s |
+| If he should keep it longer than that...                                                    | Tato ce uttariṁ nikkhipeyya...                                                      | s |
+| If only we could not be of the nature to die!                                               | Aho vata mayaṁ na maraṇadhammā assāma!                                              | s |
+| If the assembly hall is dirty, it should be swept.                                          | Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā.                          | s |
+| If there's no drinking water, drinking water should be provided.                            | Sace pānīyaṁ na hoti, pānīyaṁ upaṭṭhāpetabbaṁ.                                      | s |
+| If there's no rinsing water, rinsing water should be provided.                              | Sace paribhojanīyaṁ na hoti, paribhojanīyaṁ upaṭṭhāpetabbaṁ.                        | s |
+| If the teacher wants coffee, we should prepare coffee.                                      | Sace ācariyaṁ kāphīpānaṁ icchati, kāphīpānaṁ paṭiyādema.                            | s |
+| If you want water, please tell me Sir.                                                      | Sace udakaṁ icchasi, vadetha me bhante.                                             | s |
+| I got more food than (of) Ven. Kovilo. I will share with him.                               | Āyasmato Kovilassa bahutaraṁ āhāraṁ labbhāmi. Ahaṁ tena vibhajissāmi.              | s |
+| I had no trouble getting almsfood. (tired I am '√as')                                       | Na ca piṇḍakena kilantomhi.                                                          | s |
+| I have fourteen rupees.                                                                     | Cuddasa rūpiyāni mama santike santi.                                                | s |
+| I hope you all are well.                                                                    | Kacci vo khamanīyaṁ.                                                                | s |
+| I hope you are well (enduring)?                                                             | Kacci te bhante khamanīyaṁ?                                                         | s |
+| I hope you are with little fatigue?                                                         | Kacci'si appakilamathena?                                                           | s |
+| I hope you're keeping well Ven., I hope you're getting by?                                  | Kacci, bhante, khamanīyaṁ kacci yāpanīyaṁ?                                          | s |
+| I hope you're with little fatigue from traveling?                                           | Kacci'si appakilamathena addhānaṁ āgato?                                            | s |
+| I know a little.                                                                            | Ahaṁ thokaṁ jānāmi.                                                                 | s |
+| I like to become an architect. (I an architect to become desire.)                           | Aham eko gahakāraṁ bhavitum icchāmi.                                                | s |
+| I live in Colombo-town.                                                                     | Ahaṁ Koḷambanagare vasāmi.                                                           | s |
+| I live in Norway. There it is always cold.                                                  | Norway janapade vasāmi. Tatra sītaṁ sabbadā.                                        | s |
+| I may like this place, if it doesn't get too hot. (if here not too hot may become).         | Piyāyeyyam idaṁ ṭhānaṁ sace'daṁ nāccuṇhaṁ bhaveyya.                                | s |
+| I'm keeping well, friend, I'm getting by.                                                   | Khamanīyaṁ, āvuso, yāpanīyaṁ.                                                       | s |
+| I must go now. Bye for a week.                                                              | Handa dāni ahaṁ gacchāmi. (Anantaraṁ) sattāhaṁ.                                    | s |
+| Indeed not by hatred, that hatred is calmed, at any time.                                   | Na hi verena verāni, sammant'īdha kudācanaṁ.                                        | s |
+| In the region (of) ..., is it hot?                                                          | Api nu ...-dese uṇho hoti?                                                           | s |
+| In the town called Ericeira, there is the market. I go there for alms.                      | Gāme Ericeira nāmo, atthi antarāpaṇo. Tatra piṇḍāya gacchāmi.                        | s |
+| I plow and sow.                                                                             | Ahaṁ kasāmi vapāmi ca.                                                              | s |
+| I see the moon.                                                                             | Candaṁ passāmi.                                                                     | s |
+| It leads to Nibbāna.                                                                        | Nibbānāya saṁvattati.                                                               | s |
+| I, together with a friend, go to the village.                                               | Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.                                               | s |
+| I trust Sir (you) slept well?                                                               | Kacci bhante sukhamasayittha?                                                       | s |
+| I use the requisite.                                                                        | Parikkhāraṁ paṭisevāmi.                                                             | s |
+| I want to sell some goods.                                                                  | Ahaṁ bhaṇḍāni vikkiṇitum icchāmi.                                                   | s |
+| I (we) must go.                                                                             | Handa dāni mayaṁ gacchāma.                                                          | s |
+| I will go to another town from here. (I from here to another town I will go.)               | Aham ito aññaṁ nagaraṁ / nigamaṁ gamissāmi.                                        | s |
+| I will go to the forest to see the Buddha.                                                  | Ahaṁ buddhaṁ passituṁ araññaṁ gacchissāmi.                                         | s |
+| I will wash your cup.                                                                       | Tuyhaṁ mallakaṁ dhovāmi / dhovissati.                                               | s |
+| I work in a post-office. (I in one marketplace work I do.)                                  | Aham ekasmiṁ antarāpaṇe kammaṁ karomi.                                              | s |
+| Let him live comfortably!                                                                   | Phāsu viharatu!                                                                     | s |
+| Let the Sangha hear me.                                                                     | Suṇātu me bhante saṅgho ...                                                          | s |
+| Let the Venerables declare purity.                                                          | Pārisuddhiṁ āyasmanto ārocetha.                                                     | s |
+| Like rivers full of water...                                                                | Yathā vārivahā pūrā...                                                              | s |
+| May all beings be happy.                                                                    | Sabbe sattā sukhī hontu.                                                            | s |
+| May all misfortunes be avoided, may all illness be dispelled.                               | Sabbītiyo vivajjantu sabbarogo vinassatu.                                           | s |
+| May either he or she go.                                                                    | So vā sā vā gacchatu.                                                               | s |
+| May he come here. (imperative)                                                              | Idha āgacchatu.                                                                     | s |
+| May the Buddha accept (that) transgression.                                                 | Buddho paṭiggaṇhātu accayantaṃ.                                                      | s |
+| May the master come here. (imperative)                                                      | Ayyo idha āgacchatu.                                                                | s |
+| May they burn the defilements!                                                              | Kilese tapantu!                                                                     | s |
+| May they delight in meditation, may they go to the devas.                                   | Bhāvanābhiratā hontu, gacchantu devatā-gatā.                                        | s |
+| May they give gifts with conviction, may they always maintain virtue.                       | Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.                                    | s |
+| May you feel calm!                                                                          | Samitaṁ vedehi!                                                                     | s |
+| May you live 100 years!                                                                     | Vassasataṁ jīva!                                                                    | s |
+| May you not burn with sensual desire!                                                       | Kāmarāgena mā ḍayhatha!                                                              | s |
+| (May you) Sleep well!                                                                       | Sukhaṁ sehi!                                                                        | s |
+| Monkeys move about on trees.                                                                | Makkaṭā rukkhesu vicaranti.                                                          | s |
+| My age is fifteen.                                                                          | Mayhaṁ āyuppamāṇaṁ paṇṇarasa.                                                       | s |
+| My father is the merchant Mahānāma.                                                         | Mama pitā Mahānāmo vāṇijo.                                                           | s |
+| My name is ...                                                                              | Ahaṁ bhante ... nāma.                                                               | s |
+| My preceptor's name is Ven. ...                                                             | Upajjhāyo me bhante āyasmā ... nāma.                                                | s |
+| No friend, I haven't slept well.                                                            | No hetaṁ, āvuso, na sukhamasayitthaṁ.                                               | s |
+| No Sir. I come from the country ...                                                         | No hetaṁ, bhante. ... janapadasmā āgacchāmi.                                        | s |
+| not this I am                                                                               | n'eso'ham'asmi [na + eso + ahaṁ + asmi]                                             | s |
+| Now rain falls, (so) don't go out.                                                          | Idāni devo vassati, mā bahi gacchittha.                                             | s |
+| Now, we eat here and go there to sow.                                                       | Mayaṁ idāni atra bhutvā vapituṁ tahiṁ gacchāma.                                    | s |
+| Old age falls.                                                                              | Vayo nipatati.                                                                      | s |
+| One of them is a merchant, the second one is a clerk,                                       | Tesu eko vāṇijo, ditiyo lekhako,                                                     | s |
+| on the holy life a defect, crack, stain, blemish                                            | brahmacariyassa khaṇḍampi chiddampi sabalampi kammāsampi                             | s |
+| Our bodily behaviour should be purified.                                                    | Parisuddho no kāyasamācāro bhavissati.                                              | s |
+| (Please) Give me (a) toothbrush.                                                            | Dantaponaṁ me dehi.                                                                 | s |
+| Please sit here. Where does the master go for alms?                                         | Ettheva / Idha nisīdatha. Kuhiṁ / Kathaṁ piṇḍāya ayyo gacchatha?                    | s |
+| (Please) Wash my bowl.                                                                      | Me pattaṁ dhova / dhovatha.                                                         | s |
+| (Please) you could wash these robes (clothes).                                              | Imāni vatthāni dhoveyyāsi.                                                          | s |
+| Privately, he takes a seat.                                                                 | Raho nisajjaṁ kappeti.                                                              | s |
+| Rice cooked by the cook was eaten by the beggar's dog.                                      | Sūdena pacito odano yācakassa sunakhena khādito.                                    | s |
+| Right here friend. Do you come from the country Spain?                                      | Etthevaṁ āvuso. Spain-desamhā āgacchasi?                                            | s |
+| She comes from there.                                                                       | Sā tato āgacchati.                                                                  | s |
+| Sitting here, don't cry, go there, having gone and eaten, lie down.                         | Idha nisīditvā mā rodāhi, tatra gacchāhi, gantvā bhutvā sayāhi.                     | s |
+| Taken away by thieves, the householder's oxen are slaughtered.                              | Corehi haritvā, gahapatino gāvo haññanti.                                           | s |
+| Thank you friend, I am tired from coming on the journey.                                    | Anumodāmi āvuso. Kilamathena addhānaṁ āgato.                                        | s |
+| That's where I, Ven., am coming from.                                                       | Tato ahaṁ, bhante, āgacchāmi.                                                       | s |
+| The 4 foundations of mindfulness fulfil the 7 factors of enlightenment.                     | Cattāro satipaṭṭhānā satta bojjhaṅge paripūrenti.                                    | s |
+| The birds eat the seeds.                                                                    | Sakuṇā bījāni bhuñjanti.                                                             | s |
+| The birds fly to the sal trees.                                                             | Sakuṇā sālarukkhe uḍḍayanti.                                                         | s |
+| The born die.                                                                               | Jātā mīyanti.                                                                       | s |
+| The boys are running.                                                                       | Dārakā dhāvanti.                                                                    | s |
+| The boys eat the food.                                                                      | Dārakā bhojanīyaṁ bhuñjanti.                                                        | s |
+| The boy stands.                                                                             | Dārako tiṭṭhati.                                                                     | s |
+| The Buddha was wandering in the land of the Kosalans...                                     | Bhagavā kosalesu cārikaṁ carati...                                                  | s |
+| The chef cooks the rice.                                                                    | Sūdo bhattaṁ pacati.                                                                | s |
+| The community gives this Kaṭhina-cloth to Ven. Amaro.                                        | Saṅgho imaṃ kaṭhinadussaṃ āyasmato Amarassa deti.                                   | s |
+| The cooks cook the rice for the householder's servants.                                     | Sūdā gahapatino sevakānaṁ odanaṁ pacanti.                                           | s |
+| The cup breaks.                                                                             | Mallako bhindati.                                                                   | s |
+| The darkness was dispelled by the sun's light.                                              | Suriyassa ālokena andhakāro apagato.                                                | s |
+| The disciple eats the lion.                                                                 | Sāvako sīhaṁ khādati.                                                               | s |
+| The dogs are barking at the cats.                                                           | Sunakhā biḷāre bhussanti.                                                            | s |
+| The dogs are barking at the moon.                                                           | Sunakhā candaṁ bhussanti.                                                           | s |
+| The elder gives the robe to the disciple.                                                   | Thero sāvakassa cīvaraṁ deti.                                                       | s |
+| The elder goes to the village by air.                                                       | Thero ākāsena gāmaṁ gacchati.                                                       | s |
+| The elder goes to the village with the disciple (/sāvaka/).                                 | Thero sāvakena gāmaṁ gacchati.                                                      | s |
+| The elder is going on a walk.                                                               | Thero cārikaṁ carati.                                                               | s |
+| The elders make an effort.                                                                  | Therā viriyaṁ ārabhanti.                                                            | s |
+| The layman doesn't go to the village.                                                       | Upāsako gāmaṁ na gacchati.                                                          | s |
+| The lion doesn't see the dogs.                                                              | Sīho sunakhe na passati.                                                            | s |
+| The lion eats the disciple.                                                                 | Sīho sāvakaṁ khādati.                                                               | s |
+| The lions are not running.                                                                  | Sīhā na dhāvanti.                                                                   | s |
+| The lion walks in the village.                                                              | Sīho gāme / gāmamhi / gāmasmiṁ carati.                                              | s |
+| The māluva-seed falls at the base of sal trees.                                             | Māluvābījaṁ sālamūle nipatati.                                                      | s |
+| The man eats rice.                                                                          | Naro bhattaṁ bhuñjati.                                                              | s |
+| The man sits.                                                                               | Naro nisīdati.                                                                      | s |
+| The man's oxen are slaughtered.                                                             | Purisassa goṇo / gāvo haññanti.                                                      | s |
+| The men are cooking.                                                                        | Narā pacanti.                                                                       | s |
+| The men run to the barn.                                                                    | Narā koṭṭhāgāraṁ dhāvanti.                                                           | s |
+| then, Kālāmas, you should undertake them and abide in them...                               | atha tumhe, kālāmā, upasampajja vihareyyātha.                                       | s |
+| There are in my bed a lot of ants.                                                          | Atthi me sayane bahu kipillikā.                                                     | s |
+| There is no equal to the Tathāgata.                                                         | Na samo (equal to) atthi tathāgatena.                                               | s |
+| There is, Ven., in the country (of) America, the monastery called Clear Mountain.           | Atthi, bhante, America janapade Pasannagiri-nāma vihāro.                            | s |
+| There is, Ven., in the region (of) Portugal, the monastery called Sumedhārāma.              | Atthi, bhante, Portugal-dese Sumedhārāma-nāma vihāro.                               | s |
+| The Sangha performs the uposatha.                                                           | Saṅgho uposathaṁ karoti.                                                            | s |
+| These things are wholesome ... lead to long-term happiness,                                 | Ime dhammā kusalā ... hitāya sukhāya saṁvattanti                                    | s |
+| these volitions would not lead to affliction                                                | na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ                                           | s |
+| The sort of stealing for which kings, having caught a thief...                              | Yathārupe adinnādāne rājāno coraṁ gahetvā...                                        | s |
+| The wise men are delighted in the Buddha.                                                   | Viññuno Buddhe pasannā.                                                             | s |
+| The woman stands up.                                                                        | Mātugāmo uṭṭhahati.                                                                  | s |
+| They fill up the ocean.                                                                     | Paripūrenti sāgaraṁ.                                                                | s |
+| They give ear.                                                                              | Te sotaṁ odahanti.                                                                  | s |
+| They go forth in the bhikkhu-saṅgha.                                                         | Te bhikkhu-saṅghe pabbajanti.                                                        | s |
+| They, having seen the disadvantage in sensual pleasures, ...                                | Te kāmesu ādīnavaṁ disvā, ...                                                       | s |
+| They too now, just live in Colombo.                                                         | Te p'idāni Koḷambanagare yeva vasanti.                                               | s |
+| This is his spoon. Give it to his attendant.                                                | Ayamassa kaṭacchu. Assaṁ / tassaṁ upaṭṭhākaṁ dehi.                                  | s |
+| This morning I am entering the town Ericeira for alms-round.                                | Idha pubbaṇhasamayaṁ Ericeira-nigamaṁ piṇḍāya pavisāmi.                             | s |
+| Today many men assemble in the village.                                                     | Ajja bahū manussā gāme sannipatanti.                                                | s |
+| together with the Buddha                                                                    | Buddhena saddhiṁ                                                                    | s |
+| together with the teacher                                                                   | ācariyena / ācariyā saddhiṁ                                                         | s |
+| together with the wise men                                                                  | viññūhi saddhiṁ                                                                     | s |
+| Tomorrow will be hot. Do you want a hot drink?                                              | Suve uṇhaṁ bhavissati. Pānaṁ uṇhaṁ icchasi?                                         | s |
+| two conditions for the arising of right view                                                | dve paccayā sammādiṭṭhiyā uppādāya                                                   | s |
+| Venerable, may the master come and sit here.                                                | Bhante, ayyo āgacchatu, idha nisīdatu.                                              | s |
+| Wait right here Sir, I will bring (it to you).                                              | Ettheva bhante, tiṭṭha / tiṭṭhatha. (Taṁ taṁ) āharissāmi.                            | s |
+| We are obstructed by birth and death.                                                       | Mayaṁ otiṇṇā amha jātijarāmaraṇena.                                                 | s |
+| We don't go there to buy.                                                                   | Mayaṁ ketuṁ tahiṁ na gacchāma.                                                     | s |
+| We don't like to kill.                                                                      | Mayaṁ hantuṁ na icchāma.                                                            | s |
+| We don't see the change of the body of the man.                                             | Na passāma manussassa kāyassa vipariṇāmaṁ.                                          | s |
+| We eat the almsfood not for fun or indulgence...                                            | Mayaṁ piṇḍapātaṁ bhuñjāma neva davāya, na madāya...                                 | s |
+| We enter the hut.                                                                           | Agāraṁ pavisāma.                                                                    | s |
+| We go to the roots of trees.                                                                | Rukkhamūle gacchāma.                                                                | s |
+| We go up to the layman.                                                                     | Upāsakaṁ upasaṅkamāma.                                                              | s |
+| Welcome, Sir! May the master come here. I hope you are not tired?                           | Svāgataṁ bhante. Ayyo idha āgacchatu. Kacci'si appakilamathena?                     | s |
+| Well indeed, Sir., I shall be restrained.                                                   | Sādhu suṭṭhu bhante saṃvarissāmi.                                                    | s |
+| Well then, ascetic, do you sorrow?                                                          | Tena hi, samaṇa, socasi?                                                             | s |
+| We run to the boys.                                                                         | Mayaṁ dārake dhāvāma.                                                               | s |
+| What can I do for you, Sir?                                                                 | Kiṁ tuyhaṁ karomi, bhante?                                                          | s |
+| What do you like to be / do? (You what work to do desire?)                                  | Tvaṁ kiṁ kammaṁ kātuṁ icchasi?                                                     | s |
+| What do you think?                                                                          | Taṁ kiṁ maññasi?                                                                    | s |
+| Whatever monk who, arranging with a bhikkhuni...                                            | Yo pana bhikkhu bhikkhuniyā saddhiṁ saṁvidhāya...                                   | s |
+| What have I gained, friend?                                                                 | Kiṁ laddhā, āvuso?                                                                  | s |
+| What have I lost, friend?                                                                   | Kiṁ jīyittha, āvuso?                                                                | s |
+| What is your age? (How many is you life-span?)                                              | Tuyhaṁ āyuppamāṇāṁ kittakaṁ?                                                       | s |
+| What is your name?                                                                          | Kiṁ nāmo si?                                                                        | s |
+| What is your name?                                                                          | Kinnāmosi?                                                                          | s |
+| What is your name?                                                                          | Tuyhaṁ nāmaṁ kiṁ? Kin nāmo'si?                                                     | s |
+| What is your preceptor's name?                                                              | Ko nāma te upajjhāyo?                                                               | s |
+| When did you come here?                                                                     | Kadā tvaṁ idh'āgato'si?                                                             | s |
+| When (if) you, Bhaddiya, know this by yourself...                                           | Yadā tumhe, bhaddiya, attanāva jāneyyātha...                                        | s |
+| When I get money, then I will go home.                                                      | Yadā mūlaṁ labhissāmi, tadā'haṁ gamissāmi.                                          | s |
+| When will you go home?                                                                      | Kadā tvaṁ nivesanaṁ gacchissasi / gamissasi?                                        | s |
+| Where do you come from?                                                                     | Kuto tvam āgacchasi?                                                                | s |
+| Where do you live?                                                                          | Tvaṁ kattha vasasi?                                                                 | s |
+| Where do your parents live? (Your mother-and-father lives where?)                           | Tuyhaṁ mātāpitaro kuhiṁ vasanti?                                                    | s |
+| Where do you work? (Where the work you do?)                                                 | Kattha tvaṁ kammaṁ karosi?                                                          | s |
+| Where is Ven. Vajiro bhikkhu's spoon?                                                       | Kattha āyasmato Vajiro bhikkhussa kaṭacchu hoti?                                     | s |
+| Where is your bowl?                                                                         | Kattha tuyhaṁ pattaṁ?                                                               | s |
+| Who are you?                                                                                | Ko'si tvaṁ?                                                                         | s |
+| Who here is your friend?                                                                    | Ko idha tava mitto?                                                                 | s |
+| Who is your father?                                                                         | Ko tuyhaṁ pitā?                                                                     | s |
+| Who seeks privacy, he wants solitude.                                                       | Yo rahāyati, so vivekaṁ icchati.                                                    | s |
+| Why did you come here? (Why here came are you?)                                             | Kasmā idh'āgato si?                                                                 | s |
+| Why is that? Today is not hot.                                                              | Taṁ kissa hetu? Na ajj'āccuṇhaṃ / ajjūṇho.                                          | s |
+| Yes, I am able to converse a little.                                                        | Āma, ahaṁ thokaṁ sallapituṁ sakkomi.                                               | s |
+| Yes, I have four brothers and two sisters.                                                  | Āma, mayhaṁ cattāro bhātaro dve bhaginiyo ca santi.                                 | s |
+| Yes, I know you like to walk.                                                               | Āma, ahaṁ jānāmi, tvaṁ carituṁ icchasi.                                            | s |
+| Yesterday I came here.                                                                      | Hīyo'ham idh'āgacchiṁ.                                                              | s |
+| You are sitting here.                                                                       | Idha nisīdasi.                                                                      | s |
+| You not make a house again...                                                               | Puna gehaṁ na kāhasi...                                                             | s |
+| You (pl.) don't see the dogs.                                                               | Sunakhe na passatha.                                                                | s |
+| Your brothers, what do they do?                                                             | Tava bhātaro kiṁ karonti?                                                           | s |
