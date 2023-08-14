@@ -32,6 +32,9 @@ export-vocabulary-lesson-1:
 export-vocabulary-lesson-2:
 	emacs --batch -L -l 'vocabulary-lesson-2.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 
+export-vocabulary-lesson-3:
+	emacs --batch -L -l 'vocabulary-lesson-3.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+
 export-vocabulary-words:
 	emacs --batch -L -l 'vocabulary-words.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 

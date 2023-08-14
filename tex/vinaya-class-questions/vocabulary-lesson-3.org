@@ -11,9 +11,9 @@
 
 Pāli Lessons::Lesson 3::1. Vocabulary
 
-* Lesson 3
-** Vocabulary
+* Vocabulary
 
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth} H
 | calamity; misfortune; lit. it comes                                                      | īti (f.) [√i + ti]                                                       |   |
 | avoids                                                                                   | vivajjati                                                                |   |
 | disappears; vanishes; perishes; is destroyed                                             | vinassati                                                                |   |
