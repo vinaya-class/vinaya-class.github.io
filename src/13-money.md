@@ -78,6 +78,10 @@ Three types of stewards:
   - Someone overhears the conversation and volunteers to act as steward
   - The donor gives funds to the steward, but doesn't tell the bhikkhu
   
+**Given unknowingly, without consent:** One may determine ahead of time (e.g.
+right now), "If at any time in the future I am given money without me being
+aware of it, I am not consenting to it as received and accepted for my sake."
+ 
 ### Protocol for accepting funds
 
 Allowable: 
@@ -126,7 +130,7 @@ walking away with it.
 The term 'gold or silver' includes the materials, and whatever is used as currency.
 
 <!-- latex
-\enlargethispage*{\baselineskip}
+\clearpage
 -->
 
 A currency is:
@@ -134,10 +138,6 @@ A currency is:
 - used for the purpose of general exchange
 - have a standardized value
 - presentable by any bearer
-
-<!-- latex
-\clearpage
--->
 
 Not a currency:
 
@@ -153,9 +153,9 @@ _Inheritance:_ The executor holds the money before distributing it to the
 beneficiaries. The bhikkhu may advise the executor to put the money into a
 certain Trust.
 
-A bhikkhu may own property, land, houses, etc. but not the money to manage it.
+A bhikkhu may own property, land (not for agriculture), houses, etc. but not the money to manage it.
 
-A Trust may be setup to hold only property, but not money.
+In some monasteries two Trusts are setup, where one may only own land and property, and the other may only hold money.
 
 _Store credit:_ a lay person may leave money at a store, and arrange that they
 serve a bhikkhu using that credit when he asks (Amazon voucher, restaurant,
@@ -180,6 +180,8 @@ A bhikkhu may give instruction to order things for the monastery.
 ## NP 20, Trade
 
 Exchange of items with lay people or members of other sects.
+
+Giving gifts to lay people at a meal invitation is a way of corrupting families (bhikkhus of the group of six were giving flowers, etc. to supporters).
 
 *Origin:* Ven. Upananda exchanges a nicely made robe for a cloak with a
 wanderer, who later regrets the trade and wants it back.

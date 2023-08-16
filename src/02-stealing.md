@@ -77,6 +77,10 @@ Dukkaṭa for:
 
 ## Pc 59, Using cloth or bowl under shared ownership
 
+<!-- latex
+\enlargethispage*{\baselineskip}
+-->
+
 *Vikappana* is an arrangement whereby a bhikkhu places robe or cloth under shared ownership so that it may be stored for any length of time.
 
 While the shared ownership is in effect, none of the bhikkhus may use the item.

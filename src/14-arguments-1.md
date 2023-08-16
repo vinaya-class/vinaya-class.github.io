@@ -46,6 +46,10 @@ four bhikkhus).
 
 Dealing with a bhikkhu who is 'impossible to speak to' regarding his conduct.
 
+<!-- latex
+\clearpage
+-->
+
 ## Sg 13, Not accepting a rebuke or banishment
 
 Dealing with a bhikkhu who is a 'corrupter of families', causing them to stop
@@ -97,10 +101,14 @@ It is not an offense to remain silent when:
 - feeling that speaking will create conflict or turn people against each other
 - feeling that the community is not going to act fairly or according to the rule
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 13, Criticising community official
 
 The Buddha gave allowance for the bhikkhu community to organize their duties by
-appointing officials in roles such as:
+appointing officials by *saṅghakamma* in roles such as:
 
 - distributing food
 - assigning lodgings
@@ -108,14 +116,14 @@ appointing officials in roles such as:
 - kitchen liaison
 - etc.
 
-The official should conduct his duties without bias.
+The official should conduct his duties without bias (desire, anger, confusion, fear).
+
+Since we don't appoint duties by *saṅghakamma*, they can't technically be the object of this rule, but the principle applies.
+
+In Thailand, the abbot is appointed by the state.
 
 **Perception** is not a factor, e.g. as to the whether he was authorized
 properly or not, whether he is biased or not.
-
-<!-- latex
-\clearpage
--->
 
 If one criticises a community official as being unfair, but it turns out that he
 was fair (following established procedure), and it was the *complainer* who was
@@ -184,19 +192,11 @@ Avoiding the issue by debating the definition of terms instead.
 
 **Not Invented Here**
 
-<!-- latex
-\enlargethispage*{2\baselineskip}
--->
-
 'I have done it several times like this. It's better than following messed up ideas from the X sect.'
 
 Preferring the idea which originates from oneself, or from one's own group, instead of discussing the action and its merits.
 
 The opposite bias is 'Appeal to Authority', where preference is placed apart from oneself, such as an influential authority, or their group.
-
-<!-- latex
-\clearpage
--->
 
 **Appeal to Authority**
 

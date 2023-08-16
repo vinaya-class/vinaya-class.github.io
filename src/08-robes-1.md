@@ -37,13 +37,15 @@ Encouraging modesty to avoid hoarding requisites.
 
 Or, they may determine the plain cloth before the sewing project and re-determine the finished item later.
 
+There is no time limit on cloth placed under **shared ownership**.
+
 **Perception** is not a factor, mis-counting the days is not an excuse.
 
 If the robe develops a hole, it loses its determination. It has to be mended within 10 days, and determined for use again.
 
 Holes which are small, or located within a hand-span along the edge don't cause the determination to lapse, but when mended, may require the robe to be re-determined.
 
-**Robe-season:** 4th lunar month of *Vassāna*, from the full moon in October. During that time one may receive and keep robe-cloth for more than ten days.
+**Robe-season:** 4th lunar month of *Vassāna*, from the full moon in October. During that time one may receive and keep robe-cloth for more than ten days. May be extended with an additional 4 lunar months until the last Full Moon of Hemanta (mid-March) after a Kathina ceremony.
 
 ## NP 2, Separated from robe
 
@@ -106,6 +108,10 @@ No offense when the lay person is a relative, or has invited one to ask for clot
 As NP 8, but in this case two householders are offering to sponsor individual pieces of robe, and the bhikkhu suggests them to purchase a more expensive robe by combining their funds.
 
 ## NP 24, Seeking for a rains-bathing cloth
+
+<!-- latex
+\enlargethispage{\baselineskip}
+-->
 
 Origin: A servant girl goes to the monastery and sees the bhikkhus bathing in the rain. She returns to Lady Visākha, and tells her that there were no bhikkhus there, only naked ascetics. She asks the Buddha for permission to provide rains-bathing cloth for the bhikkhus.
 

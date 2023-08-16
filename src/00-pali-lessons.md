@@ -1,8 +1,10 @@
 # Pāli Lessons
 
-These lessons can be included during a Vinaya study period. The material focues on the language forms used in the Pāṭimokkha, and introduces Pāli readings from the rules and examples from the daily chants which bhikkhus have already memorized.
+These lessons can be included during a Vinaya study period. The material focuses on the language forms used in the Pāṭimokkha, and introduces Pāli readings from the rules and examples from the daily chants which bhikkhus have already memorized.
 
-One lesson may take more than one session to study with a group. Someone familiar with the language may explain the grammar points, while the others may take turns in solving the exercises.
+One lesson may take more than one session to study with a group. We found that the material in one lesson can be covered in 3 or 4 sessions, each 1 hour long.
+
+Someone familiar with the language may explain the grammar points, while the others may take turns in solving the exercises.
 
 [pali-lessons.pdf](./includes/docs/pali-lessons.pdf)
 

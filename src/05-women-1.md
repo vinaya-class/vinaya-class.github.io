@@ -128,6 +128,10 @@ Giving assent in silence is not an offense.
 -   if the women doesn't respond: *dukkaṭa*
 -   if the bhikkhu doesn't respond: no offense
 
+<!-- latex
+\begin{multicols}{2}
+-->
+
 ### Non-offenses
 
 -   coincidence: they happen to travel together
@@ -135,12 +139,17 @@ Giving assent in silence is not an offense.
 -   leaving at a significantly different time than as arranged
 -   there are dangers
 
+<!-- latex
+\columnbreak
+-->
+
 ### Cases
 
 - public transport
 - private transport (Pc 44)
 
 <!-- latex
+\end{multicols}
 \clearpage
 -->
 

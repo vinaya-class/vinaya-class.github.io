@@ -1,17 +1,17 @@
-# Kiccavaṭṭa
+# Kiccavatta
 
-- **Kc 1.** Āgantuka vaṭṭa (duties if one is a visitor)
-- **Kc 2.** Āvāsika vaṭṭa (duties of residents towards a visitor)
-- **Kc 3.** Gāmika vaṭṭa (duties for one who is departing)
-- **Kc 4.** Anumodana vaṭṭa (duty of expressing appreciation)
-- **Kc 5.** Bhattagga vaṭṭa (refectory duties)
-- **Kc 6.** Piṇḍacārika vaṭṭa (duties when going for alms)
-- **Kc 7.** Āraññika vaṭṭa (forest dweller's duties)
-- **Kc 8.** Senāsana vaṭṭa (duties to lodging)
-- **Kc 9.** Jantāghara vaṭṭa (fire-house duties)
-- **Kc 10.** Vaccakuṭi vaṭṭa (toilet duties)
-- **Kc 11., Kc 12.** Saddhivihārika, Antevāsika vaṭṭa (duties towards disciple or pupil)
-- **Kc 13., Kc 14.** Upajjhāya, Ācariya vaṭṭa (duties to the preceptor and teacher)
+- **Kc 1.** Āgantuka vatta (duties if one is a visitor)
+- **Kc 2.** Āvāsika vatta (duties of residents towards a visitor)
+- **Kc 3.** Gamika vatta (duties for one who is departing)
+- **Kc 4.** Anumodanā vatta (duty of expressing appreciation)
+- **Kc 5.** Bhattagga vatta (refectory duties)
+- **Kc 6.** Piṇḍacārika vatta (duties when going for alms)
+- **Kc 7.** Āraññika vatta (forest dweller's duties)
+- **Kc 8.** Senāsana vatta (duties to lodging)
+- **Kc 9.** Jantāghara vatta (fire-house duties)
+- **Kc 10.** Vaccakuṭi vatta (toilet duties)
+- **Kc 11., Kc 12.** Saddhivihārika, Antevāsika vatta (duties towards disciple or pupil)
+- **Kc 13., Kc 14.** Upajjhāya, Ācariya vatta (duties to the preceptor and teacher)
 
 (See BMC 2, Chapter 9, Protocols)
 
@@ -30,7 +30,13 @@
 >
 > (Stillness Flowing, Chapter II. A Life Inspired, p.55)
 
-## Kc 1. Āgantuka vaṭṭa
+*kicca:* nt. obligation; duty; work; lit. to be done [√kar + tya]
+
+*vatta:*: nt. (1) custom; practice; behaviour; (2) procedure (3) duty; service; responsibility (from Sanskrit root *√vṛt*, 'turn'). See also *vaṭṭa*, 'round, circular, cycle of existence'.
+
+## Kc 1. Āgantuka vatta
+
+In the Vinaya texts, *āgantuka* simply means 'a visiting bhikkhu'. Nowadays some degree of separation between communities is also implied.
 
 Meeting duties in relaxed way when arriving -- being easy to look after.
 
@@ -42,7 +48,11 @@ Enquire about sitting position with regards to Vassa.
 
 Inquire about general information: lodging, pindapata, toilets, daily routine.
 
-## Kc 2. Āvāsika vaṭṭa
+<!-- latex
+\clearpage
+-->
+
+## Kc 2. Āvāsika vatta
 
 Extending a warm welcome to fellow monastics -- a place where they can rest and practice.
 
@@ -52,19 +62,15 @@ Toward juniors: Give appropriate information for settling in and find out what t
 
 Offer refreshments. Inform senior monk and guest monk.
 
-<!-- latex
-\clearpage
--->
-
-## Kc 3. Gāmika vaṭṭa
+## Kc 3. Gamika vatta
 
 Take leave of the Ācariya, asking for forgiveness and any further guidance.
 
 Leave lodgings in good order, return appropriate items to appropriate places.
 
-## Kc 4. Anumodana vaṭṭa
+## Kc 4. Anumodanā vatta
 
-"I allow that the anumodana (rejoicing in the merit of the donors) be given." (Cv.VIII.4.1)
+"I allow that the anumodanā (rejoicing in the merit of the donors) be given." (Cv.VIII.4.1)
 
 Responsibility to honour generosity of lay people in one's attitude according to their culture.
 
@@ -78,7 +84,7 @@ Rejoicing in the merit of the donors.
 
 Being attentive to the differences and following the example of seniors when going out for *dāna*.
 
-## Kc 5. Bhattagga vaṭṭa
+## Kc 5. Bhattagga vatta
 
 Setting up for the meal -- done in considerate way -- easy for use, easy for
 Ajahn's to use.
@@ -100,7 +106,7 @@ bhikkhu should say, 'Arrange equal servings for all.'
 
 The senior bhikkhu shouldn't eat as long as not everyone has been served rice.
 
-## Kc 6. Piṇḍacārika vaṭṭa
+## Kc 6. Piṇḍacārika vatta
 
 Company of senior monk for those new to alms-round.
 
@@ -112,7 +118,7 @@ Lid on bowl to avoid receiving money, sharing the meal.
 
 Considerate and respectful of lay people and of monastic companion.
 
-## Kc 7. Āraññika vaṭṭa
+## Kc 7. Āraññika vatta
 
 Care for kuti against elements, fire, insects, plants.
 
@@ -120,7 +126,7 @@ Care for forest -- don't leave rubbish.
 
 Care for forest creatures -- don't disturb forest animals or their homes.
 
-## Kc 8. Senāsana vaṭṭa
+## Kc 8. Senāsana vatta
 
 Roof over the head for the night.
 
@@ -132,11 +138,11 @@ Not to let bare flesh touch walls, mattress and pillow–covers to be used.
 
 Clean feet before entering.
 
-No naked flames in shared dwellings, no candles or incense.
+No unattended naked flames in shared dwellings, no candles or incense.
 
 Keep room clean and tidy, in a presentable state.
 
-Offenses for not putting away or having put away Sangha property on ones behalf. 
+Offenses for not putting away or having put away Sangha property on one's behalf. 
 
 "In whatever dwelling one is living, if the dwelling is dirty and one is able, one should clean it."
 
@@ -150,7 +156,7 @@ before doing so.
 
 (Cv.VIII.7.2-4)
 
-## Kc 9. Jantāghara vaṭṭa
+## Kc 9. Jantāghara vatta
 
 Hygiene issues -- clean yourself before and tidy up after yourself.
 
@@ -171,7 +177,7 @@ the sauna chairs, having extinguished the fire, and having closed the door."
 
 (Cv.VIII.8.2)
 
-## Kc 10. Vaccakuṭi vaṭṭa
+## Kc 10. Vaccakuṭi vatta
 
 Toilets are used according to who arrives first, not seniority.
 
@@ -183,7 +189,7 @@ Keep toilets clean and well supplied.
 
 (Cv.VIII.10.3)
 
-## Kc 11., Kc 12. Saddhivihārika, Antevāsika vaṭṭa
+## Kc 11., Kc 12. Saddhivihārika, Antevāsika vatta
 
 Looking after the student, helping to find requisites.
 
@@ -209,7 +215,7 @@ should stay with him until he recovers."
 
 (Cv.VIII.12.2-11)
 
-## Kc 13., Kc 14. Upajjhāya, Ācariya vaṭṭa
+## Kc 13., Kc 14. Upajjhāya, Ācariya vatta
 
 "Having gone to meet him, receive his bowl and robe. Receive the lower. If the
 upper and outer cloaks are damp with perspiration, dry them for a short time in

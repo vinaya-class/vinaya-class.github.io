@@ -34,7 +34,11 @@ Five great gangsters as bad monks:
 
 **Object:** superior human states which are not accessible to mundane, ordinary people (*puthujjana*). States are categorized in three groups.
 
-*Mahaggata dhamma*, 'expanded states'. Some are are supra-mundane if they depend on higher jhanas.
+*Mahaggata dhamma*, 'expanded states'. Some are supra-mundane if they depend on higher jhānas.
+
+Terms: *jhāna* (absorption), *samāpatti* (attainments), *vipassana* (insight), *samatha* (tranquillity). *Jhāyati* (verb) in the Canon has simple meaning: (1) thinks about (2) meditates; contemplates.
+
+One may avoid confusion about terms by describing the five factors of *jhāna*, rather than using the term on its own.
 
 *Lokuttara dhamma*, 'transcendent states'. Always supra-mundane. Related to the eradication of the mental fetters. Nine: Nibbāna plus the four paths and their four fruitions.
 
@@ -44,7 +48,7 @@ Five great gangsters as bad monks:
 
 *Non-existent* defined as 'not to be found; not knowing, not seeing a skillful state within oneself, (yet saying,) "There is a skillful state within me."'
 
-**Effort:** Addressing a human being. Speaking about the state withing oneself, or one being in the state.
+**Effort:** Addressing a human being. Speaking about the state present within oneself, or one being in the state. Talking to oneself about it is a *dukkaṭa* offense.
 
 Explicit:
 
@@ -68,6 +72,10 @@ Virtue signalling:
 - 'I have learnt to bow like this from a real Forest Kruba Ajahn.'
 - 'Those monks talk about football. How could they have even basic samādhi?'
 
+<!-- latex
+\clearpage
+-->
+
 Gestures by agreement:
 
 - 'The first who leaves their kuti is an arahant.'
@@ -79,17 +87,21 @@ False claims made *in thought* are assigned a *dukkaṭa* by the Buddha. (Story:
 - knowing that it is a lie, aiming to misrepresent the truth
 - motivated by an evil desire
 
-Evil desire: that others may think of him as such.
+'Evil desire' here means that he wishes that others may think of him as such, does not have to include wishing harm to fulfil intention.
 
 **Result:** the understanding of the speaker and the listener.
 
-The bhikkhu must understand that he is making a claim. The listener doesn't have to understand or recognize it.
+The bhikkhu must understand that he is making a claim.
+
+The listener doesn't have to understand or recognize the bhikkhu's claim. See also *Pc 1* (lying and deceit), where Result is not a factor.
+
+If the bhikkhu is making a claim in a language which *he knows* that the other person doesn't understand, he is not intending to deceive him. If the bhikkhu *doesn't know* that the other person doesn't understand, he would fulfil intention.
 
 ### Suggested states
 
 Lay supporters may address a teacher with exaggerated faith: 'May the venerable arahant explain to me...'.
 
-Suporters may suggest states: 'We would like to invite four sotāpanna monks to start a temple in our town.'
+Supporters may suggest states: 'We would like to invite four sotāpanna monks to start a temple in our town.'
 
 There is no offense in coming, sitting, etc., as long as the intention is just to accept the invitation and not to imply a claim.
 
@@ -101,6 +113,10 @@ Special practices (dhutaṅga, long periods of meditation, vegetarianism) out of
 
 - mistaken and exaggerated understanding of one's mental states
 - not intending to boast, others trying to read a statement as an implied claim
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 8, Telling unordained person about actual attainment
 

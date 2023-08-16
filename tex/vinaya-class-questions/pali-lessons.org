@@ -28,6 +28,15 @@
 #+end_export
 
 * Tasks                                                            :noexport:
+** update cheat sheet
+** reading for Snp 2.1 Ratanasutta
+** words sorting field
+
+- (1)
+- is worn
+- (is) born
+- he ...
+
 ** editing
 
 Vocab csv + BPC exec.
@@ -217,6 +226,40 @@ atha khvetaṁ, appasannānañceva appasādāya pasannānañca ekaccānaṁ añ�
 
 /aññathatta:/ nt. change of mind; change of opinion; lit. otherwise state [añña + thā + tta]
 #+end_widecols
+** sallato parato palokato
+
+#+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth}
+| disease; illness; sickness                          | roga (m.)                     |
+| boil; abscess; lit. swelling                        | gaṇḍa (m.)                     |
+| arrow; spike; dagger                                | salla (m.)                    |
+| trouble; misfortune; pain; misery                   | agha (nt.)                    |
+| disease; sickness; illness; affliction              | ābādha (m.)                   |
+| as another; as alien; as belonging to somebody else | parato (ind. abl.sg. of para) |
+| falling apart; dissolution; disintegration          | paloka (m.)                   |
+| empty; uninhabited                                  | suñña (adj.)                  |
+| impersonal; not oneself; coreless; essenceless      | anatta (adj.)                 |
+
+"Sīlavatāvuso, sāriputta, bhikkhunā katame dhammā yoniso manasikātabbā"ti?
+
+"Sīlavatāvuso ... Sotāpannenapi ... Sakadāgāmināpi ... Anāgāmināpi ... Arahatāpi
+kho, āvuso koṭṭhika, ime pañcupādānakkhandhe aniccato dukkhato rogato gaṇḍato
+sallato aghato ābādhato parato palokato suññato anattato yoniso manasi kātabbā.
+
+Ṭhānaṁ kho panetaṁ, āvuso, vijjati yaṁ sīlavā bhikkhu ime pañcupādānakkhandhe
+aniccato ... anattato yoniso manasi karonto sotāpattiphalaṁ ... sakadāgāmiphalaṁ
+... anāgāmiphalaṁ ... arahattaṁ sacchikareyyā"ti.
+
+"Sotāpannena ... Sakadāgāminā ... Anāgāminā ... Arahatā ... panāvuso sāriputta,
+bhikkhunā katame dhammā yoniso manasi kātabbā"ti?
+
+"Sotāpannenapi... Sakadāgāmināpi ... Anāgāmināpi ... Arahatāpi ... kātabbā."
+
+Natthi, khvāvuso, arahato uttari karaṇīyaṁ katassa vā paticayo;
+
+api ca ime dhammā bhāvitā bahulīkatā diṭṭhadhammasukhavihārāya ceva
+saṁvattanti satisampajaññāya cā"ti.
+
+([[https://suttacentral.net/sn22.122/pli/ms][SN 22.122]])
 
 * Notes                                                            :noexport:
 ** conversion regexes

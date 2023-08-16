@@ -43,13 +43,17 @@ Indirect- or insinuating remarks, if meant as an insult, are *dukkata*.
 
 Overheard or implied insults are just as painful and damaging.
 
-Telling it to someone else is *dukkata*. Drinking-buddy relationship.
+Telling it to someone else is *dukkata*. Drinking-buddy relationship VS trustworthy companions in the bhikkhus' system of training.
+
+Offenses 'being only a *dukkaṭa*' are not an excuse.
 
 <!-- latex
 % Note the other person will know this is how you treat others behind their back.
 -->
 
 **Non-offenses:** aiming at Dhamma, aiming at the person's benefit.
+
+Offensive non-offenses: insult and slander not on the ten topics of abuse.
 
 <!-- latex
 \end{multicols}
@@ -77,7 +81,7 @@ After dawn, before midday, when invited to a meal, one enters a family
 residence without taking leave of an available bhikkhu, except during
 the right times.
 
-Right times: the robe season, or when one is making a robe.
+Right times: the robe-season, or when one is making a robe (see *NP 1* for robe-season).
 
 The principle of Pc 46 and Pc 85 is to stop bhikkhus spending their time
 in inappropriate ways at lay people's homes.
@@ -166,7 +170,9 @@ Can also light a fire where the ground is burnt already, such as a burning area.
 
 Put down rocks, put the tin can on the rocks.
 
-Note: disadvantes of a bonfire.
+Disadvantages of a bonfire: "It's bad for your eyes. It's bad for your
+complexion. It makes you weak. It draws in groups. And it encourages low talk."
+([AN 5.219](https://suttacentral.net/an5.219/en/sujato))
 
 Running the heater needlessly: wastefulness.
 
@@ -210,10 +216,10 @@ safe keeping. This includes money.
 One should take note of the features of the item, and confirm the true
 owner carefully.
 
-Finding keys or valueables outside: maybe take it out of cover and put it in a
+Finding keys or valuables outside: maybe take it out of cover and put it in a
 place where it can be found when the owner comes looking.
 
-Leaving cars or valueables in the monastery when travelling: get the permission
+**Leaving cars or valuables** in the monastery when travelling: get the permission
 to use from the owner in writing. Get the owner to sign a paper to give away
 after six months.
 

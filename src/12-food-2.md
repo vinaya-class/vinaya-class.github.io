@@ -217,7 +217,7 @@ See [Snp 4.16](https://www.accesstoinsight.org/tipitaka/kn/snp/snp.4.16.than.htm
 "He should conquer these four thoughts of lament: 'What will I eat, or where
 will I eat. How badly I slept. Tonight where will I sleep?'"
 
-No offense is the donors are informed, e.g. that the bhikkhus will eat breakfast before the midday meal.
+No offense if the donors are informed, e.g. that the bhikkhus will eat breakfast before the midday meal.
 It is nonetheless bad manners to eat so much at breakfast to not be able to eat at the meal.
 
 If the donors are not informed, very light food is still allowed, such as drinking thin rice porridge.

@@ -23,7 +23,11 @@ Disrespect can be expressed to the rule, to the person, by word or by gesture.
 It doesn't matter to whom this is expressed, doesn't have to be face-to-face
 with the admonisher.
 
+Being disrespectful after being criticized by a lay person is a *dukkaṭa*.
+
 There is no offense in politely discussing that one was taught differently somewhere else.
+
+One should be *suvaco* (easy to speak to), rather than *anādariyo* (disrespectful, rude, contemptuous).
 
 A ploy to avoid being criticized is *Pc 71*.
 
@@ -42,6 +46,12 @@ avoid motivations of concealing the offense.
 The same offense, committed at different occasions, may be confessed together,
 but it is common to confess it separately in any case.
 
+Concealing out of fear is not an offense (afraid of the person, or afraid of being seen as a troublemaker).
+
+<!-- latex
+\clearpage
+-->
+
 ## Pc 65, Ordaining someone less than 20 years old
 
 A person's age here is counted from the time he had become a fetus in her
@@ -49,6 +59,8 @@ mother's womb (subtracting six months to the date of birth: 19.5 years old
 legally, 20 years old since conception).
 
 Having been ordained younger, invalidates the ordination.
+
+The *pācittiya* offense is incurred by the *upajjhāya* at the *upasampadā*.
 
 ## Pc 68, Not relinquishing an evil view
 
@@ -64,6 +76,18 @@ The other bhikkhus should reprimand him. If he relinquishes his view, there is
 no penalty.
 
 A bhikkhu who doesn't respond after being formally rebuked, should be suspended.
+
+Example in the Commentary:
+
+> A bhikkhu reasons: "Since pleasurable forms ... sounds ... smells ... tastes ... touch are allowable, such as the touch of soft carpets and clothing. Then why shouldn't the sight, sound, smell, taste, and feel of a woman be proper? They too are proper!" Thus... comparing a mustard seed with Mount Sineru, he gives rise to the evil view, "Why did the Blessed One -- binding the ocean, as it were, with great effort -- formulate the first pārājika training rule? There is nothing wrong with that act."
+
+Response in the text of [Pc 68](https://suttacentral.net/pli-tv-bu-vb-pc68/en/brahmali):
+
+> “Foolish man, who do you think I have taught like this? I have said that there is little enjoyment in worldly pleasures, but much suffering and much trouble, and that the danger in them is greater. I have said that worldly pleasures are similar to a skeleton ... a piece of meat ... a grass torch ... a pit of coals ... a dream ... borrowed goods ... fruits on a tree ... a knife and chopping block ... swords and stakes ... a snake's head; they are much suffering and much trouble, and the danger in them is greater."
+
+<!-- latex
+\clearpage
+-->
 
 ## Pc 69, Suspended bhikkhu
 

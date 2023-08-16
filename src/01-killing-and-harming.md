@@ -57,6 +57,10 @@ Acting in doubt, going ahead anyway is dukkaṭa. Such as when the bhikkhu think
 
 **Perception** is a factor. Stepping on a twig with the intention to crush a snake is dukkaṭa.
 
+<!-- latex
+\clearpage
+-->
+
 ## Pc 20, Pouring water containing living beings
 
 Knowing they will die from pouring it. It can also include knowingly adding poisonous substances.
@@ -82,10 +86,6 @@ Knowing they will die from using or drinking it, even accidentally.
 Using water strainers or robe. Determining a corner of the saṅghāṭi as a water-filter.
 
 Result is not a factor.
-
-<!-- latex
-\clearpage
--->
 
 ## Pc 10, Digging soil
 
@@ -126,6 +126,7 @@ A specific command would be an offense ("dig a hole here"), but an indication ("
 
 <!-- latex
 \end{multicols}
+\clearpage
 -->
 
 ## Pc 11, Damaging living plants or seeds
@@ -226,6 +227,10 @@ Lighting a fire on the ground (*Pc 56*), it can damage or kill the plants and cr
 > the opposite direction. Ask any soldier suffering from the long-term effects of
 > becoming a trained killer, and he or she will tell you that it’s no way to
 > develop wholesome qualities of mind.
+
+<!-- latex
+\clearpage
+-->
 
 - [The Reality of War](https://www.dalailama.com/messages/world-peace/the-reality-of-war), The Dalai Lama (2009) ([archive.org](https://web.archive.org/web/20210526055246/https://www.dalailama.com/messages/world-peace/the-reality-of-war))
 

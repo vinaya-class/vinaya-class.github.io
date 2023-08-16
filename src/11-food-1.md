@@ -10,6 +10,12 @@
 
 ![Food](./includes/mindmaps/food.png)
 
+> And how should you regard solid food? Suppose a couple who were husband and
+> wife set out to cross a desert, taking limited supplies. They had an only
+> child, dear and beloved. As the couple were crossing the desert their limited
+> quantity of supplies would run out, and they'd still have the rest of the
+> desert to cross. [...] ([SN 12.63](https://suttacentral.net/sn12.63/en/sujato))
+
 <!-- latex
 \clearpage
 -->

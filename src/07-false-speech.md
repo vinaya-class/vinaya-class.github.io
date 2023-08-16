@@ -21,6 +21,8 @@ Result is not a factor. It doesn't matter if the listener believes it or not.
 
 *Dukkaṭa* for remaining silent when it implies a false message (e.g. during Pāṭimokkha recitation).
 
+One should confess offenses before Pāṭimokkha recitation. If one only remembers an offense during the recitation, it is acceptable to whisper a confession to the next bhikkhu.
+
 *Dukkaṭa* for broken promises, where one is making the promise with pure intentions but later breaking it.
 
 *White lies:* motivation is irrelevant.
@@ -37,23 +39,33 @@ Example: 'We can discuss it tomorrow' -- (a) just to make him happy but not inte
 
 One has to know *I am going to lie*, and *I am lying*.
 
-Note: irony doesn't intend to deceive, but satire does. Consider an April Fool's joke, which fully intends to deceive.
+<!-- latex
+\enlargethispage{\baselineskip}
+\begin{multicols}{2}
+-->
 
-Cruel- or malign jokes: don't let humour comprimise your highest values.
+Cruel- or malign jokes: don't let humour compromise your highest values.
 
 Example: 'It was over 9000!' -- intending to impress, but he doesn't know.
 
 Checking one's statements before making them, expressing one's level of confidence in a statement.
 
 <!-- latex
-% Note: Matses language with truth markers. Nuevo San Juan, Peru, the Matses
-% people. Different verb forms depending on how you know the information you are
-% imparting, and when you last knew it to be true.
-%
-% http://nautil.us/blog/5-languages-that-could-change-the-way-you-see-the-world
-%
-% A grammar of Matses
-% https://scholarship.rice.edu/handle/1911/18526
+\columnbreak
+-->
+
+Irony doesn't intend to deceive, but satire does, such as a news article as an April Fool's joke, which fully intends to deceive.
+It is supposed to be the reader's task to recognize the absurdism or hyperbole.
+
+The degree of comedy and deception may vary:
+
+- [A Modest Proposal (1729)](https://en.wikipedia.org/wiki/A_Modest_Proposal)
+- [Spaghetti-tree hoax (1957)](https://en.wikipedia.org/wiki/Spaghetti-tree_hoax)
+- [Pacific Northwest tree octopus (1998)](https://en.wikipedia.org/wiki/Pacific_Northwest_tree_octopus)
+
+<!-- latex
+\end{multicols}
+\clearpage
 -->
 
 ### Non-offenses
@@ -62,17 +74,13 @@ Checking one's statements before making them, expressing one's level of confiden
 - speaking in haste (unconsidered)
 - slip of the tongue (stupidity or carelessness)
 
-<!-- latex
-\clearpage
--->
-
 ### Jokes
 
 Humorous, witty remarks which are true statements are not criticized even by the Buddha. There are cases of his humour in the suttas.
 
 Irony, sarcasm, satire, boastful- and playful exaggeration are confusing because one makes physical signs to represent a false statement (effort).
 
-One may claim not intending to lie, but one's intention is often ambigous (jolly bantering, wanting to avoid a situation).
+One may claim not intending to lie, but one's intention is often ambiguous (jolly bantering, wanting to avoid a situation).
 
 Result is not a factor, but others might miss the irony while picking up the resentment or malice.
 
@@ -102,17 +110,19 @@ It matters whether the person is present or not.
 
 **Intention:** wanting to remove him from the community. Even when it is 'for the purity of the Sangha', it is driven by aversion.
 
-Insult, slander, lying.
+Insult, slander, lying. Accusing as a joke is an insult (Pc 2).
 
 Spreading stories. Saying something which may be false, but you believe it to be true.
-
-'Not sure if this is true...' -- engaging in gossip, idle chatter, or false tale bearing (Pc 1) are not accusations, because the person is not present.
-
-Discuss reporting on offenses.
 
 <!-- latex
 \clearpage
 -->
+
+'Not sure if this is true...' -- engaging in gossip, idle chatter, or false tale bearing (Pc 1) are not accusations, because the person is not present.
+
+Accusing of a *pārājika* is *saṅghādisesa*, accusing of a *saṅghādisesa* is *pācittiya* (Pc 76).
+
+Discuss reporting on offenses.
 
 ## Sg 9, Distorting evidence
 
