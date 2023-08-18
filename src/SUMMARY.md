@@ -1,8 +1,8 @@
 # Summary
 
-[Vinaya Class](00-vinaya-class.md)
+[Vinaya Class](vinaya-class.md)
 
-[Pāli Lessons](00-pali-lessons.md)
+[Pāli Lessons](pali-lessons.md)
 
 [Introduction](00-introduction.md)
 
