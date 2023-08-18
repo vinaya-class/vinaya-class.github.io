@@ -14,6 +14,8 @@ pali-lessons: export-pali-lessons pali-lessons.pdf
 
 pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
 
+pali-readings: export-pali-readings pali-readings.pdf
+
 pali-lessons-answerkey: export-pali-lessons
 	ANSWERKEY=TRUE make pali-lessons-answerkey.pdf
 
@@ -43,6 +45,9 @@ export-vocabulary-sentences:
 
 export-pali-cheatsheet:
 	emacs --batch -L -l 'pali-cheatsheet.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+
+export-pali-readings:
+	emacs --batch -L -l 'pali-readings.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 
 %.pdf: %.tex
 	$(LATEX) $(LATEX_OPTS) $<

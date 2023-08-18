@@ -1,0 +1,248 @@
+# -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
+#+LATEX_CLASS: memoir
+#+LATEX_HEADER: \input{./pali-lessons-preamble.tex}\relax \yournamefalse
+#+LANGUAGE: en_GB
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{}
+#+TITLE: Pali Readings
+#+AUTHOR: The Bhikkhu Saṅgha
+
+#+begin_export latex
+\frontmatter
+
+{\centering
+
+{\Huge Pāḷi Readings}
+
+\bigskip
+\href{https://vinaya-class.github.io}{https://vinaya-class.github.io}
+
+{\scshape\small last updated on}\\
+\today
+
+}
+
+\bigskip
+\tableofcontents*
+
+\mainmatter
+#+end_export
+
+* Decks                                                            :noexport:
+
+Pāli Readings::Ratana Sutta Paritta (Snp 2.1)::1. Vocabulary
+
+* Ratana Sutta Paritta (Snp 2.1)
+
+#+latex: \newlength{\colOne}\setlength{\colOne}{0.3\linewidth}
+#+latex: \newlength{\colTwo}\setlength{\colTwo}{0.65\linewidth}
+
+#+begin_spacedquote
+Yaṁ kiñci vittaṁ idha vā huraṁ vā, \\
+Saggesu vā yaṁ ratanaṁ paṇītaṁ; \\
+Na no samaṁ atthi tathāgatena, \\
+Idampi buddhe ratanaṁ paṇītaṁ; \\
+Etena saccena suvatthi hotu.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| yaṁ kiñci (ind.) [yaṃ + kiṃ + ci] | whatever; everything; all                                 |
+| vitta (nt.)                        | (1) wealth; property (2) delight; pleasure; lit. got      |
+| huraṁ (ind.)                       | there; in another world                                   |
+| sagga (m.)                         | heaven; paradise                                          |
+| ratana (nt.)                       | (1) jewel; gem (2) treasure (3) queen                     |
+| paṇīta (adj.)                       | fine; superior; sublime; lit. brought forward             |
+| sama (adj.)                        | (1) level; even; balanced (2) like; equal (to); same (as) |
+| sacca (nt.)                        | truth                                                     |
+| suvatthi (f.) [su + √as + ti]      | well being; prosperity                                    |
+
+#+begin_spacedquote
+Khayaṁ virāgaṁ amataṁ paṇītaṁ, \\
+Yadajjhagā sakyamunī samāhito; \\
+Na tena dhammena samatthi kiñci, \\
+Idampi dhamme ratanaṁ paṇītaṁ; \\
+Etena saccena suvatthi hotu.
+#+end_spacedquote
+
+#+latex: \enlargethispage{\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| khīyati                           | is destroyed; is exhausted                                                                         |
+| khīṇa (pp. of khīyati)             | consumed; destroyed                                                                                |
+| khaya (m. from khīyati)           | wearing away; destruction                                                                          |
+| virāga (m.)                       | fading of desire (for); dispassion (towards)                                                       |
+| amata (nt.)                       | (1) deathless state; immortality (2) deathless; immortal; undying                                  |
+| adhigacchati                      | gets to; attains; obtains; lit. arrives at                                                         |
+| ajjhagā (imperf. of adhigacchati) | got; obtained; achieved; lit. arrived at                                                           |
+| samādahati                        | (1) (of the mind) composes; stabilizes; collects (2) (of fire) kindles; lights; lit. puts together |
+| samāhita (pp. of samādahati)      | composed; centred; settled                                                                         |
+
+\clearpage
+
+#+begin_spacedquote
+Yaṁ buddhaseṭṭho parivaṇṇayī suciṁ, \\
+Samādhimānantarikaññamāhu; \\
+[samādhiṃ + ānantarikaṃ + yaṃ + āhu] \\
+Samādhinā tena samo na vijjati, \\
+Idampi dhamme ratanaṁ paṇītaṁ; \\
+Etena saccena suvatthi hotu.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| seṭṭha (adj.)               | (1) foremost; supreme; (2) chief; leader                  |
+| vaṇṇayati                   | (1) praises; extols (2) comments on; interprets; explains |
+| parivaṇṇayati               | describes; recommends; extolls; lit. praises all around   |
+| suci (adj.)                | (1) clean; pure (2) (of tastes and smells) good; fine     |
+| antara (nt.)               | space between; interval; distance                         |
+| ānantarika (adj.)          | immediate; without delay; with immediate results          |
+| ahu / ahosi (aor. of hoti) | was; existed; became                                      |
+| vijjati [√vid + ya + ti]   | (1) exists; is found; is present (2) is possible          |
+
+#+begin_spacedquote
+Ye puggalā aṭṭha sataṁ pasatthā, \\
+Cattāri etāni yugāni honti; \\
+Te dakkhiṇeyyā sugatassa sāvakā, \\
+Etesu dinnāni mahapphalāni; \\
+Idampi saṅghe ratanaṁ paṇītaṁ, \\
+Etena saccena suvatthi hotu.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| puggala (m.)                | person; individual                                   |
+| sarati                      | (1) remembers; recollects (2) drifts; wanders; flows |
+| sata (adj. pp. of sarati)   | mindful; present; attentive                          |
+| pasaṃsati                   | praises; approves (of); commends                     |
+| pasattha (pp. of pasaṃsati) | praised; commended; exalted                          |
+| yuga (nt.)                  | (1) yoke (2) pair; set of two                        |
+| dadāti                      | gives (to); offers (to)                              |
+| dinna (pp. of dadāti)       | given (to); offered (to)                             |
+| phala (nt.)                 | (1) fruit; berry (2) consequence; result             |
+
+\clearpage
+
+#+begin_spacedquote
+Ye suppayuttā manasā daḷhena, \\
+Nikkāmino gotamasāsanamhi; \\
+Te pattipattā amataṁ vigayha, \\
+Laddhā mudhā nibbutiṁ bhuñjamānā; \\
+Idampi saṅghe ratanaṁ paṇītaṁ, \\
+Etena saccena suvatthi hotu.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| payuñjati                        | harnesses; employs; applies                                    |
+| payutta (pp. of payuñjati)       | intent; engaged                                                |
+| suppayutta (adj.) [su + payutta] | fully engaged; diligently practising                           |
+| manasa (adj.)                    | focused on; lit. with such a mind                              |
+| daḷha (adj.)                      | strong; firm; steady                                           |
+| nikkāmī (adj.) [nī + √kam + *ī]  | striving (in); active (in); lit. going out                     |
+| pāpuṇāti                          | reaches; attains; arrives (at)                                 |
+| patti (f. abstr. from pāpuṇāti)   | (1) reaching; getting (2) profit; share; lit. what is obtained |
+| patta (pp. of pāpuṇāti)           | reached; attained; have arrived (at)                           |
+| vigāhati                         | enters, plunges into                                           |
+| vigayha (ger. of vigāhati)       | plunging into; diving into                                     |
+| labhati                          | gets; receives; obtains                                        |
+| laddhā (abs. of labhati)         | having got; having obtained                                    |
+| mudhā (ind.)                     | for free; freely; gratis; for nothing                          |
+| nibbuti (f.) [nī + √vā + ti]     | quenching; cooling; lit. blown away state                      |
+| bhuñjamāna (prp. of bhuñjati)    | eating; consuming; enjoying                                    |
+
+\clearpage
+
+#+begin_spacedquote
+Khīṇaṁ purāṇaṁ nava natthi sambhavaṁ, \\
+Virattacittāyatike bhavasmiṁ; \\
+Te khīṇabījā avirūḷhichandā, \\
+Nibbanti dhīrā yathāyaṁ padīpo; \\
+Idampi saṅghe ratanaṁ paṇītaṁ, \\
+Etena saccena suvatthi hotu.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| khīyati                       | is destroyed; is exhausted                                 |
+| khīṇa (pp. of khīyati)         | consumed; destroyed                                        |
+| khaya (m. from khīyati)       | wearing away; destruction                                  |
+| purāṇa (adj.)                  | previous; old; ancient                                     |
+| nava (adj.)                   | new; fresh                                                 |
+| sambhavati                    | comes to be; happens; occurs                               |
+| sambhava (m. from sambhavati) | birth; origin; source (of)                                 |
+| rajjati                       | finds pleasure (in); is enamoured (with)                   |
+| virajjati                     | becomes detached (from); loses interest (in)               |
+| viratta (pp. of virajjati)    | detached (from); without desire (for); lost interest (in)  |
+| āyati (f.)                    | future; upcoming                                           |
+| āyatika (adj. from āyati)     | upcoming; future                                           |
+| bīja (nt.)                    | seed; germ                                                 |
+| virūḷhi (f.)                   | growth; increase                                           |
+| chanda (m.)                   | (1) interest; desire; wish (2) consent; agreement          |
+| dhīra (adj.)                  | (1) stable; constant; reliable; firm (2) wise; intelligent |
+| padīpa (m.)                   | lamp; light; lighting                                      |
+
+** Vocabulary                                                      :noexport:
+
+| whatever; everything; all                                                                          | yaṁ kiñci (ind.) [yaṃ + kiṃ + ci] |
+| (1) wealth; property (2) delight; pleasure; lit. got                                               | vitta (nt.)                        |
+| there; in another world                                                                            | huraṁ (ind.)                       |
+| heaven; paradise                                                                                   | sagga (m.)                         |
+| (1) jewel; gem (2) treasure (3) queen                                                              | ratana (nt.)                       |
+| fine; superior; sublime; lit. brought forward                                                      | paṇīta (adj.)                       |
+| (1) level; even; balanced (2) like; equal (to); same (as)                                          | sama (adj.)                        |
+| truth                                                                                              | sacca (nt.)                        |
+| well being; prosperity                                                                             | suvatthi (f.) [su + √as + ti]      |
+| is destroyed; is exhausted                                                                         | khīyati                            |
+| consumed; destroyed                                                                                | khīṇa (pp. of khīyati)              |
+| wearing away; destruction                                                                          | khaya (m. from khīyati)            |
+| fading of desire (for); dispassion (towards)                                                       | virāga (m.)                        |
+| (1) deathless state; immortality (2) deathless; immortal; undying                                  | amata (nt.)                        |
+| gets to; attains; obtains; lit. arrives at                                                         | adhigacchati                       |
+| got; obtained; achieved; lit. arrived at                                                           | ajjhagā (imperf. of adhigacchati)  |
+| (1) (of the mind) composes; stabilizes; collects (2) (of fire) kindles; lights; lit. puts together | samādahati                         |
+| composed; centred; settled                                                                         | samāhita (pp. of samādahati)       |
+| (1) foremost; supreme; (2) chief; leader                                                           | seṭṭha (adj.)                       |
+| (1) praises; extols (2) comments on; interprets; explains                                          | vaṇṇayati                           |
+| describes; recommends; extolls; lit. praises all around                                            | parivaṇṇayati                       |
+| (1) clean; pure (2) (of tastes and smells) good; fine                                              | suci (adj.)                        |
+| space between; interval; distance                                                                  | antara (nt.)                       |
+| immediate; without delay; with immediate results                                                   | ānantarika (adj.)                  |
+| was; existed; became                                                                               | ahu / ahosi (aor. of hoti)         |
+| (1) exists; is found; is present (2) is possible                                                   | vijjati [√vid + ya + ti]           |
+| person; individual                                                                                 | puggala (m.)                       |
+| (1) remembers; recollects (2) drifts; wanders; flows                                               | sarati                             |
+| mindful; present; attentive                                                                        | sata (adj. pp. of sarati)          |
+| praises; approves (of); commends                                                                   | pasaṃsati                          |
+| praised; commended; exalted                                                                        | pasattha (pp. of pasaṃsati)        |
+| (1) yoke (2) pair; set of two                                                                      | yuga (nt.)                         |
+| gives (to); offers (to)                                                                            | dadāti                             |
+| given (to); offered (to)                                                                           | dinna (pp. of dadāti)              |
+| (1) fruit; berry (2) consequence; result                                                           | phala (nt.)                        |
+| harnesses; employs; applies                                                                        | payuñjati                          |
+| intent; engaged                                                                                    | payutta (pp. of payuñjati)         |
+| fully engaged; diligently practising                                                               | suppayutta (adj.) [su + payutta]   |
+| focused on; lit. with such a mind                                                                  | manasa (adj.)                      |
+| strong; firm; steady                                                                               | daḷha (adj.)                        |
+| striving (in); active (in); lit. going out                                                         | nikkāmī (adj.) [nī + √kam + *ī]    |
+| reaches; attains; arrives (at)                                                                     | pāpuṇāti                            |
+| (1) reaching; getting (2) profit; share; lit. what is obtained                                     | patti (f. abstr. from pāpuṇāti)     |
+| reached; attained; have arrived (at)                                                               | patta (pp. of pāpuṇāti)             |
+| enters, plunges into                                                                               | vigāhati                           |
+| plunging into; diving into                                                                         | vigayha (ger. of vigāhati)         |
+| gets; receives; obtains                                                                            | labhati                            |
+| having got; having obtained                                                                        | laddhā (abs. of labhati)           |
+| for free; freely; gratis; for nothing                                                              | mudhā (ind.)                       |
+| quenching; cooling; lit. blown away state                                                          | nibbuti (f.) [nī + √vā + ti]       |
+| eating; consuming; enjoying                                                                        | bhuñjamāna (prp. of bhuñjati)      |
+| is destroyed; is exhausted                                                                         | khīyati                            |
+| consumed; destroyed                                                                                | khīṇa (pp. of khīyati)              |
+| wearing away; destruction                                                                          | khaya (m. from khīyati)            |
+| previous; old; ancient                                                                             | purāṇa (adj.)                       |
+| new; fresh                                                                                         | nava (adj.)                        |
+| comes to be; happens; occurs                                                                       | sambhavati                         |
+| birth; origin; source (of)                                                                         | sambhava (m. from sambhavati)      |
+| finds pleasure (in); is enamoured (with)                                                           | rajjati                            |
+| becomes detached (from); loses interest (in)                                                       | virajjati                          |
+| detached (from); without desire (for); lost interest (in)                                          | viratta (pp. of virajjati)         |
+| future; upcoming                                                                                   | āyati (f.)                         |
+| upcoming; future                                                                                   | āyatika (adj. from āyati)          |
+| seed; germ                                                                                         | bīja (nt.)                         |
+| growth; increase                                                                                   | virūḷhi (f.)                        |
+| (1) interest; desire; wish (2) consent; agreement                                                  | chanda (m.)                        |
+| (1) stable; constant; reliable; firm (2) wise; intelligent                                         | dhīra (adj.)                       |
+| lamp; light; lighting                                                                              | padīpa (m.)                        |

@@ -39,6 +39,19 @@
   \end{minipage}%
 }
 
+\newenvironment{spacedquote}%
+{\list{}{%
+    \doubleLineSize
+    \listparindent 0pt
+    \itemindent    0pt
+    \leftmargin    2em
+    \rightmargin   0pt
+    \parsep        8pt
+    \topsep        8pt
+    \partopsep     8pt}%
+\item[] \raggedright}%
+{\endlist}
+
 \usepackage{cwpuzzle}
 
 \renewcommand\PuzzleCluePre{%

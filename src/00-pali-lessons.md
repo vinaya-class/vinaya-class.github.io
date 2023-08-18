@@ -12,11 +12,15 @@ Someone familiar with the language may explain the grammar points, while the oth
 
 [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf)
 
+[pali-readings.pdf](./includes/docs/pali-readings.pdf)
+
 [![Pali Lessons](./includes/docs/pali-lessons-thumb.png)](./includes/docs/pali-lessons.pdf)
 
 A memory card deck for the [Anki application](https://apps.ankiweb.net/) is included below to help memorizing the vocabulary and sentences using the [Spaced Repetition](https://gwern.net/spaced-repetition) method.
 
 [pali-lessons.apkg](./includes/docs/pali-lessons.apkg)
+
+[pali-readings.apkg](./includes/docs/pali-readings.apkg)
 
 When you import it into Anki for the first time, it will create the relevant card decks.
 

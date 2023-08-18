@@ -36,6 +36,12 @@
 | 8. voc  | bhikkh\textbf{u}                         | āy\textbf{u}                     | bhikkh\textbf{ū}, bhikkh\textbf{avo}, | āy\textbf{ū}, āy\textbf{ūni} |
 |         |                                          |                                  | bhikkh\textbf{ave}                    |                              |
 
+\textbf{masc.-i:} aggi → agg\textbf{ayo}
+
+\textbf{masc.-ī:} pakkhī → pakkh\textbf{ino}
+
+\textbf{nt.-i:} aṭṭhi → aṭṭh\textbf{īni}
+
 ** Feminine Nouns Ending in -ā and -i
 
 |         | *fem.sg.-ā*                           | *fem.sg.-i*                         | *fem.pl.-ā*                        | *fem.pl.-i*                        |
@@ -48,6 +54,10 @@
 | 6. gen  | vedan\textbf{āya}                     | bhūm\textbf{iyā}                    | vedan\textbf{ānaṁ}                 | bhūm\textbf{īnaṁ}                  |
 | 7. loc  | vedan\textbf{āya}, vedan\textbf{āyaṁ} | bhūm\textbf{iyā}, bhūm\textbf{iyaṁ} | vedan\textbf{āsu}                  | bhūm\textbf{isu}, bhūm\textbf{īsu} |
 | 8. voc  | vedan\textbf{e}                       | bhūm\textbf{i}                      | vedan\textbf{ā}, vedan\textbf{āyo} | bhūm\textbf{ī}, bhūm\textbf{iyo}   |
+
+\textbf{fem.-ī:} kumārī → kumār\textbf{iyo}
+
+\textbf{fem.-u:} yāgu → yāg\textbf{uyo}
 
 \clearpage
 
@@ -116,10 +126,10 @@ Bases ending in *e* are conjugated with an inserted "s".
 
 |     | singular         |            | plural            |                |
 |-----+------------------+------------+-------------------+----------------|
-| 3rd | dese\textbf{si}  | he taught  | dese\textbf{suṁ}  | they taught    |
-| 2nd | dese\textbf{si}  | you taught | des\textbf{ittha} | you all taught |
 | 1st | dese\textbf{siṁ} | I taught   | des\textbf{imha}  | we taught      |
 |     |                  |            | des\textbf{imhā}  |                |
+| 2nd | dese\textbf{si}  | you taught | des\textbf{ittha} | you all taught |
+| 3rd | dese\textbf{si}  | he taught  | dese\textbf{suṁ}  | they taught    |
 
 Also applies to causative verbs (e.g. /vandati/ → /vandāpeti/ → /vandāpesi/).
 
@@ -134,6 +144,268 @@ Some roots ending in long vowels also get the /s/ aorist ending. In the plural c
 | 3rd | aṭṭhā\textbf{si}  | he stood  | aṭṭha\textbf{ṁsu}                   | they stood    |
 
 \clearpage
+
+** Optative or Potential Verbs: May / Should (-eyya)
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Verbal terminations:
+
+|       | *sg.*         | *pl.*           |
+| *1st* | -eyyāmi, -emi | -eyyāma, -ema   |
+| *2nd* | -eyyāsi, -esi | -eyyātha, -etha |
+| *3rd* | -eyya, -e     | -eyyuṁ          |
+
+#+latex: \columnbreak
+
+Root: /√dhāv/ (to run), base: /dhāva/
+
+|       | *sg.*               | *pl.*                 |
+| *1st* | dhāveyyāmi, dhāvemi | dhāveyyāma, dhāvema   |
+| *2nd* | dhāveyyāsi, dhāvesi | dhāveyyātha, dhāvetha |
+| *3rd* | dhāveyya, dhāve     | dhāveyyuṁ             |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Irregular: /√as/ (to be), /atthi/
+
+|       | *sg.*        | *pl.*                |
+| *1st* | siyaṁ, assaṁ | assāma               |
+| *2nd* | siyā, assa   | assatha              |
+| *3rd* | siyā, assa   | siyuṁ, assu, siyaṁsu |
+
+#+latex: \columnbreak
+
+Irregular: /√kar/ (to do, make, work), /karo/
+
+|       | *sg.*                 | *pl.*                 |
+| *1st* | kareyyāmi, kayirāmi   | kareyyāma, kayirāma   |
+| *2nd* | kareyyāsi, kayirāsi   | kareyyātha, kayirātha |
+| *3rd* | kareyya, kayirā, kare | kareyyuṁ, kayiruṁ     |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+** Gerund (e.g. bhavitvā), a.k.a. Absolutive
+
+#+latex: \begin{multicols}{2}
+
+| bhavati (is, becomes)   | bhavitvā         |
+| gacchati (goes)         | gantvā           |
+| labhati (gets, obtains) | labhitvā, laddhā |
+| deti / dadāti (gives) | datvā           |
+| deseti (teaches)        | desetvā          |
+
+#+latex: \columnbreak
+
+| suṇāti (hears)   | sutvā           |
+| pivati (drinks) | pitvā           |
+| passati (sees)  | disvā           |
+| jānāti (knows)  | ñatvā / jānitvā |
+| karoti (does)   | katvā           |
+
+#+latex: \end{multicols}
+
+** Infinitive (e.g. bhavituṁ)
+
+#+latex: {\centering
+#+latex: \begin{multicols}{2}
+
+*root + -tuṁ*
+
+| √dā  | dātuṁ           | to give        |
+| √gam | ga\textbf{n}tuṁ | to go          |
+| √han | hantuṁ          | to kill        |
+| √kar | k\textbf{ā}tuṁ  | to do, to make |
+| √ñā  | ñātuṁ           | to know        |
+
+#+latex: \columnbreak
+
+*root + -ituṁ*
+
+| √car   | carituṁ   | to walk  |
+| √jīv   | jīvituṁ   | to live  |
+| √har   | harituṁ   | to carry |
+| √han   | hanituṁ   | to kill  |
+| √pucch | pucchituṁ | to ask   |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+** Causative: Having It Done (-e, -aya, -āpe, -āpaya)
+
+The causative base is formed by adding /-e, -aya, -āpe, -āpaya/ either to the root or the verbal base.
+The base thus formed is conjugated in all tenses and moods. The causative form of a transitive verb takes two objects in the accusative.
+
+#+latex: \begin{multicols}{2}
+
+vandati → vandāpeti → vandāpesi
+
+/Suppavāsā dārakaṁ Bhagavantaṁ vandāpesi./ \\
+Suppavāsā made her boy bow to the Blessed One.
+
+\columnbreak
+
+uggaṇhāti → uggahetvā → uggahāpetvā
+
+/... uggahetvā vā uggahāpetvā vā nikkhipitabbaṁ./ \\
+... having picked it up or causing it to be picked up, it should be kept.
+
+#+latex: \end{multicols}
+
+\clearpage
+
+** Present Participle (-nt, -māna)
+
+| √gam | gaccha | gacchant, gacchamāna, gacchāna | going    |
+| √dā  | data   | dadant, dadamāna, dadāna       | giving   |
+| √dis | dese   | desent, desayamāna, desayāna   | teaching |
+| √bhū | bhava  | bhavanta                       | being    |
+
+#+latex: {\centering
+
+Irregular forms:
+
+#+latex: \par}
+
+| √as    | sa   | santa, samāna            | being, existing |
+| √kar   | karo | karont, karumāna, karāna | doing, making   |
+
+The present participles are declinable, they agree with the noun in gender, number and case.
+
+/gacchant → (nom.sg.) gacchaṁ, gacchanto (nom.pl) gacchanto, gacchantā/
+
+** Future Passive Participle: Should Be Done (-tabba)
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+| √dā  | dātabba, deyya | should be given       |
+| √su  | sotabba        | should be listened to |
+| dese | desetabba      | should be expounded   |
+
+#+latex: \columnbreak
+
+| √kar | kātabba, karaṇīya | should be done   |
+| √ñā  | ñātabba, ñeyya   | should be known  |
+| √pā  | peyya            | should be drunk  |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+** Past Participle (-ta, -ita, -na)
+
+Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi rules complicate the exact forms.
+
+| rukkho patito                     | the fallen tree                      |
+| antarāyiko dhammo vutto bhagavatā | said to be an obstacle by the Buddha |
+| Pubbe'bhinno mallako.             | The cup is already broken.           |
+
+\null
+
+| bhavati   | √bhū  | to be      | bhūta            | became      |
+| passati   | √dis  | to see     | di\textbf{ṭṭ}ha   | seen        |
+| gacchati  | √gam  | to go      | gata             | gone        |
+| karoti    | √kar  | to do      | kata             | done        |
+| labhati   | √labh | to get     | la\textbf{dd}ha  | received    |
+| jānāti    | √ñā   | to know    | ñāta             | known       |
+| bhāsati   | √bhās | to speak   | bhāsita          | spoken      |
+| pabbajati | √vaj  | to go on   | pabbajita        | ordained    |
+| ṭhahati    | √ṭhā   | to stand   | ṭhita             | stood       |
+| bhāveti   | √bhū  | bhāve      | bhāvita          | developed   |
+| deseti    | √dis  | dese       | desita           | preached    |
+| passati   | √dis  | passa      | passita          | seen        |
+| vedayati  | √vid  | vedaya     | vedayita         | experienced |
+| chindati  | √chid | to cut     | chi\textbf{nn}a  | cut         |
+| khīyati   | √khī  | to destroy | khīna            | destroyed   |
+| nisīdati  | √sad  | to sink    | nisi\textbf{nn}a | seated      |
+| pajahati  | √hā   | to abandon | pah\textbf{ī}na  | abandoned   |
+
+\clearpage
+
+** Irregular verb √as (to be)
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{3}
+
+Present Tense
+
+|     | *sg.* | *pl.* |
+|-----+-------+-------|
+| 1st | amhi  | amha  |
+|     | asmi  | amhā  |
+|     |       | asma  |
+| 2nd | asi   | attha |
+| 3rd | atthi | santi |
+
+\columnbreak
+
+Imperative Mood
+
+|     | *sg.* | *pl.* |
+|-----+-------+-------|
+| 1st | amhi  | amha  |
+|     | asmi  | amhā  |
+|     |       | asma  |
+| 2nd | āhi   | attha |
+| 3rd | atthu | santu |
+
+\columnbreak
+
+Aorist Past Tense
+
+|     | *sg.*         | *pl.*            |
+|-----+---------------+------------------|
+| 1st | ās\textbf{iṁ} | ās\textbf{imha}  |
+|     |               | ās\textbf{imhā}  |
+| 2nd | ās\textbf{i}  | ās\textbf{ittha} |
+| 3rd | ās\textbf{i}  | ās\textbf{iṁsu}  |
+|     |               | ās\textbf{uṁ}    |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+** Irregular verb √hū (to be)
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{3}
+
+Present Tense
+
+|     | *sg.*    | *pl.*  |
+|-----+----------+--------|
+| 1st | homi     | homa   |
+| 2nd | hosi     | hotha  |
+| 3rd | hoti     | honti  |
+
+\columnbreak
+
+Imperative Mood
+
+|     | *sg.* | *pl.* |
+|-----+-------+-------|
+| 1st | homi  | homa  |
+| 2nd | hohi  | hotha |
+| 3rd | hotu  | hontu |
+
+\columnbreak
+
+Aorist Past Tense
+
+|     | *sg.*           | *pl.*              |
+|-----+-----------------+--------------------|
+| 1st | ahos\textbf{iṁ} | ahu\textbf{mhā}    |
+|     |                 | ahu\textbf{mha}    |
+| 2nd | ahos\textbf{i}  | ahuva\textbf{ttha} |
+| 3rd | ahos\textbf{i}  | ahes\textbf{uṁ}    |
+
+#+latex: \end{multicols}
+#+latex: \par}
 
 ** Pronouns
 
@@ -166,7 +438,7 @@ Possessive pronouns (genitive)
 | ta → | /(nom.sg.)/ so / taṁ / sā | /(nom.pl.)/ te / tāni / tā, tāyo  |
 |      | /(acc.sg.)/ taṁ           | /(acc.pl.)/  te / tāni / tā, tāyo |
 
-** Interrogatives and Other Indeclinables
+** Interrogatives and Other Indeclinables                          :noexport:
 
 #+latex: \begin{multicols}{2}
 
@@ -224,85 +496,3 @@ Possessive pronouns (genitive)
 | yesterday                       | hīyo           |
 
 #+latex: \end{multicols}
-
-\clearpage
-
-** Irregular verb √as (to be)
-
-#+latex: {\centering\par
-#+latex: \begin{multicols}{3}
-
-Present Tense
-
-|     | *sg.* | *pl.* |
-|-----+-------+-------|
-| 3rd | atthi | santi |
-| 2nd | asi   | attha |
-| 1st | amhi  | amha  |
-|     | asmi  | amhā  |
-|     |       | asma  |
-
-\columnbreak
-
-Imperative Mood
-
-|     | *sg.* | *pl.* |
-|-----+-------+-------|
-| 3rd | atthu | santu |
-| 2nd | āhi   | attha |
-| 1st | amhi  | amha  |
-|     | asmi  | amhā  |
-|     |       | asma  |
-
-\columnbreak
-
-Aorist Past Tense
-
-|     | *sg.*         | *pl.*            |
-|-----+---------------+------------------|
-| 3rd | ās\textbf{i}  | ās\textbf{iṁsu}  |
-|     |               | ās\textbf{uṁ}    |
-| 2nd | ās\textbf{i}  | ās\textbf{ittha} |
-| 1st | ās\textbf{iṁ} | ās\textbf{imha}  |
-|     |               | ās\textbf{imhā}  |
-
-#+latex: \end{multicols}
-#+latex: \par}
-
-** Irregular verb √hū (to be)
-
-#+latex: {\centering\par
-#+latex: \begin{multicols}{3}
-
-Present Tense
-
-|     | *sg.*    | *pl.*  |
-|-----+----------+--------|
-| 3rd | hoti     | honti  |
-| 2nd | hosi     | hotha  |
-| 1st | homi     | homa   |
-
-\columnbreak
-
-Imperative Mood
-
-|     | *sg.* | *pl.* |
-|-----+-------+-------|
-| 3rd | hotu  | hontu |
-| 2nd | hohi  | hotha |
-| 1st | homi  | homa  |
-
-\columnbreak
-
-Aorist Past Tense
-
-|     | *sg.*           | *pl.*              |
-|-----+-----------------+--------------------|
-| 3rd | ahos\textbf{i}  | ahes\textbf{uṁ}    |
-| 2nd | ahos\textbf{i}  | ahuva\textbf{ttha} |
-| 1st | ahos\textbf{iṁ} | ahu\textbf{mhā}    |
-|     |                 | ahu\textbf{mha}    |
-
-#+latex: \end{multicols}
-#+latex: \par}
-
