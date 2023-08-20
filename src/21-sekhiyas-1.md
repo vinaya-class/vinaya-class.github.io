@@ -1,9 +1,9 @@
 # Sekhiyas 1
 
--   **Sk 1-27,** Proper behaviour
+-   **Sk 1-26,** Proper behaviour
 -   **Sk 73-75,** Toilet etiquette
 
-## Sk 1-27, Proper behaviour
+## Sk 1-26, Proper behaviour
 
 - **(1-2)** I will wear the lower robe [upper robe] wrapped around me: a training to be observed.
 
