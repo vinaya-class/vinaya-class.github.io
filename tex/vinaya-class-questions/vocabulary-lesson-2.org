@@ -220,7 +220,7 @@ Pāli Lessons::Lesson 2::2. Extra Challenge
 | personally experiences, realizes; lit. personally does                           | sacchikaroti                                          |   |
 | cultivates; develops; lit. causes to become                                      | bhāveti                                               |   |
 | descends (into); goes down (into)                                                | otarati                                               |   |
-| afflicted (with); affected (by)                                                  | otiṇṇa (pp. of otarati)                                |   |
+| afflicted (with); victim (of); immersed (in)                                     | otiṇṇa (pp. of otarati)                                |   |
 | changes; alters; lit. completely bends around                                    | vipariṇamati                                           |   |
 | change; alteration                                                               | vipariṇāma (m.)                                        |   |
 | changed, altered, distorted                                                      | vipariṇata (pp. of vipariṇamati)                       |   |

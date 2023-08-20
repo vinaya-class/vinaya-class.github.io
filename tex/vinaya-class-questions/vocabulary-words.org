@@ -11,7 +11,7 @@
 
 #+ATTR_LATEX: :environment longtable :align L{0.48\linewidth} L{0.48\linewidth} H
 | able to keep going; sustainable                                                          | yāpanīya (adj.)                                |   |
-| afflicted (with); affected (by)                                                          | otiṇṇa (pp. of otarati)                         |   |
+| afflicted (with); victim (of); immersed (in)                                             | otiṇṇa (pp. of otarati)                         |   |
 | after; beyond                                                                            | paraṁ (ind.)                                   |   |
 | after death; lit. going on                                                               | pecca (ind.)                                   |   |
 | after                                                                                    | pacchā (ind.)                                  |   |

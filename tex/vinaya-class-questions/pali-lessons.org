@@ -1477,7 +1477,7 @@ Uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya: sammukhāvinayo 
 | personally experiences, realizes; lit. personally does | sacchikaroti                         |
 | cultivates; develops; lit. causes to become            | bhāveti                              |
 | descends (into); goes down (into)                      | otarati                              |
-| afflicted (with); affected (by)                        | otiṇṇa (pp. of otarati)               |
+| afflicted (with); victim (of); immersed (in)           | otiṇṇa (pp. of otarati)               |
 | changes; alters; lit. completely bends around          | vipariṇamati                          |
 | change; alteration                                     | vipariṇāma (m.)                       |
 | changed, altered, distorted                            | vipariṇata (pp. of vipariṇamati)      |
@@ -2005,31 +2005,31 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{May all misfortunes be avoided, may all illness be dispelled.} | Sabbītiyo vivajjantu sabbarogo vinassatu.               |
+| \fillin{8cm}{May all misfortunes be avoided, may all illness be dispelled.} | Sabbītiyo [sabba + īti] vivajjantu sabbarogo vinassatu. |
 | \fillin{8cm}{Go away, beings!}                                              | Paṭikkamantu bhūtāni![fn:an-4-67]                        |
 | \fillin{8cm}{We are obstructed by birth and death.}                         | Mayaṁ otiṇṇā amha jātijarāmaraṇena.[fn:ratanattaya]     |
 | \fillin{8cm}{There is no equal to the Tathāgata.}                           | Na samo (equal to) atthi tathāgatena.[fn:snp-2-1-simpl] |
 | Homage to him, the Blessed One.                                             | \fillin{8cm}{Namo tassa bhagavato.}                     |
 | May all beings be happy.                                                    | \fillin{8cm}{Sabbe sattā sukhī hontu.}                  |
 | Come here, layman!                                                          | \fillin{8cm}{Ehi / Āgacchāhi upāsaka!}                  |
-| The elder goes to the village with the disciple (/sāvaka/).                 | \fillin{8cm}{Thero sāvakena gāmaṁ gacchati.}            |
+| The elder goes to the village with the disciple (/sāvaka/).                 | \fillin{8cm}{Thero sāvakena saddhiṁ gāmaṁ gacchati.}    |
 | The elder gives the robe to the disciple.                                   | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}             |
 
 #+latex: \normalArrayStrech
 #+latex: \bigskip
 #+latex: \begin{multicols}{2}
 
-/īti:/ f. calamity; misfortune; lit. it comes [√i + ti]
-
-/vivajjati:/ avoids
-
+/īti:/ f. calamity; misfortune; lit. it comes [√i + ti] \\
+/vivajjati:/ avoids \\
+/roga:/ m. disease; illness; sickness \\
 /vinassati:/ disappears
 
 \columnbreak
 
-/paṭikkamati:/ returns; steps back; recedes; goes away
-
-/bhūta:/ nt. living being; lit. become [√bhū + ta]
+/paṭikkamati:/ returns; steps back; recedes; goes away \\
+/bhūta:/ nt. living being; lit. become [√bhū + ta] \\
+/otarati:/ descends (into); goes down (into) \\
+/otiṇṇa:/ (pp. of /otarati/) afflicted (with); victim (of); immersed (in)
 
 #+latex: \end{multicols}
 
@@ -2295,10 +2295,10 @@ irregular forms.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā (having cleaned), sālaṁ gacchāmi. |
-| \fillin{12cm}{After eating the food, I rinse my bowl, clean my teeth and go to the hall.} |
-| Yathārupe adinnādāne rājāno coraṁ gahetvā ... (Pr 2)                                      |
-| \fillin{12cm}{The sort of stealing for which kings, having caught a thief...}             |
+| Ahaṁ odanaṁ bhuñjitvā, pattaṁ dhovitvā, dante sodhetvā (having cleaned), sālaṁ gacchāmi.    |
+| \fillin{12cm}{After eating the food, I rinse my bowl, clean my teeth and go to the hall.}    |
+| Yathārupe adinnādāne rājāno coraṁ gahetvā, haneyyuṁ vā... (Pr 2)                             |
+| \fillin{12cm}{The sort of stealing for which kings, having caught a thief, would beat or...} |
 
 #+latex: \normalArrayStrech
 

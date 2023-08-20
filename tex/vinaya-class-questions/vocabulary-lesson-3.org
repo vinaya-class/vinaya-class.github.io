@@ -26,7 +26,7 @@ Pāli Lessons::Lesson 3::1. Vocabulary
 | Homage to him, the Blessed One.                                                          | Namo tassa bhagavato.                                                    | s |
 | May all beings be happy.                                                                 | Sabbe sattā sukhī hontu.                                                 | s |
 | Come here, layman!                                                                       | Ehi / Āgacchāhi upāsaka!                                                 | s |
-| The elder goes to the village with the disciple (/sāvaka/).                              | Thero sāvakena gāmaṁ gacchati.                                           | s |
+| The elder goes to the village with the disciple (/sāvaka/).                              | Thero sāvakena saddhiṁ gāmaṁ gacchati.                                   | s |
 | The elder gives the robe to the disciple.                                                | Thero sāvakassa cīvaraṁ deti.                                            | s |
 | plows; tills; turns the soil                                                             | kasati                                                                   |   |
 | (1) sows; plants (2) shaves                                                              | vapati                                                                   |   |
@@ -114,7 +114,7 @@ Pāli Lessons::Lesson 3::1. Vocabulary
 | having taken; having grabbed hold (of)                                                   | gahetvā (abs. of gaṇhāti)                                                 |   |
 | theft; stealing; lit. taking what is not given                                           | adinnādāna (nt.)                                                         |   |
 | king; ruler                                                                              | rāja (m.)                                                                |   |
-| The sort of stealing for which kings, having caught a thief...                           | Yathārupe adinnādāne rājāno coraṁ gahetvā...                             | s |
+| The sort of stealing for which kings, having caught a thief, would beat or ...           | Yathārupe adinnādāne rājāno coraṁ gahetvā, haneyyuṁ vā...                | s |
 | gives up; abandons                                                                       | pajahati                                                                 |   |
 | giving up; abandoning                                                                    | pahāya (ger. of pajahati)                                                |   |
 | obstacle; obstruction; hindrance; lit. blocking                                          | nīvaraṇa (m.)                                                             |   |

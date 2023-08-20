@@ -212,7 +212,7 @@
 | The dogs are barking at the moon.                                                           | Sunakhā candaṁ bhussanti.                                                           | s |
 | The elder gives the robe to the disciple.                                                   | Thero sāvakassa cīvaraṁ deti.                                                       | s |
 | The elder goes to the village by air.                                                       | Thero ākāsena gāmaṁ gacchati.                                                       | s |
-| The elder goes to the village with the disciple (/sāvaka/).                                 | Thero sāvakena gāmaṁ gacchati.                                                      | s |
+| The elder goes to the village with the disciple (/sāvaka/).                                 | Thero sāvakena saddhiṁ gāmaṁ gacchati.                                              | s |
 | The elder is going on a walk.                                                               | Thero cārikaṁ carati.                                                               | s |
 | The elders make an effort.                                                                  | Therā viriyaṁ ārabhanti.                                                            | s |
 | The layman doesn't go to the village.                                                       | Upāsako gāmaṁ na gacchati.                                                          | s |
@@ -234,7 +234,7 @@
 | The Sangha performs the uposatha.                                                           | Saṅgho uposathaṁ karoti.                                                            | s |
 | These things are wholesome ... lead to long-term happiness,                                 | Ime dhammā kusalā ... hitāya sukhāya saṁvattanti                                    | s |
 | these volitions would not lead to affliction                                                | na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ                                           | s |
-| The sort of stealing for which kings, having caught a thief...                              | Yathārupe adinnādāne rājāno coraṁ gahetvā...                                        | s |
+| The sort of stealing for which kings, having caught a thief, would beat or ...              | Yathārupe adinnādāne rājāno coraṁ gahetvā, haneyyuṁ vā...                           | s |
 | The wise men are delighted in the Buddha.                                                   | Viññuno Buddhe pasannā.                                                             | s |
 | The woman stands up.                                                                        | Mātugāmo uṭṭhahati.                                                                  | s |
 | They fill up the ocean.                                                                     | Paripūrenti sāgaraṁ.                                                                | s |
