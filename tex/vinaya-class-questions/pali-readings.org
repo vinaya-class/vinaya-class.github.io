@@ -1,6 +1,6 @@
 # -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
 #+LATEX_CLASS: memoir
-#+LATEX_HEADER: \input{./pali-lessons-preamble.tex}\relax \yournamefalse
+#+LATEX_HEADER: \input{./pali-lessons-preamble.tex}
 #+LANGUAGE: en_GB
 #+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{}
 #+TITLE: Pali Readings
@@ -25,16 +25,22 @@
 \tableofcontents*
 
 \mainmatter
+
+\yournamefalse
+
+\newlength{\colOne}\setlength{\colOne}{0.35\linewidth}
+\newlength{\colTwo}\setlength{\colTwo}{0.6\linewidth}
 #+end_export
 
 * Decks                                                            :noexport:
 
-Pāli Readings::Ratana Sutta Paritta (Snp 2.1)::1. Vocabulary
+Pāli Readings::1. Ratana Sutta Paritta (Snp 2.1)::1. Vocabulary
+
+Pāli Readings::2. Paṭhamabhavasutta (AN 3.76)::1. Vocabulary
+
+Pāli Readings::3. Cundīsutta (AN 5.32)::1. Vocabulary
 
 * Ratana Sutta Paritta (Snp 2.1)
-
-#+latex: \newlength{\colOne}\setlength{\colOne}{0.3\linewidth}
-#+latex: \newlength{\colTwo}\setlength{\colTwo}{0.65\linewidth}
 
 #+begin_spacedquote
 Yaṁ kiñci vittaṁ idha vā huraṁ vā, \\
@@ -45,7 +51,8 @@ Etena saccena suvatthi hotu.
 #+end_spacedquote
 
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| yaṁ kiñci (ind.) [yaṃ + kiṃ + ci] | whatever; everything; all                                 |
+| yaṁ ... taṁ ...                    | what ... that ...                                         |
+| yaṁ kiñci (ind.) [yaṁ + kiṁ + ci] | whatever; everything; all                                 |
 | vitta (nt.)                        | (1) wealth; property (2) delight; pleasure; lit. got      |
 | huraṁ (ind.)                       | there; in another world                                   |
 | sagga (m.)                         | heaven; paradise                                          |
@@ -81,21 +88,22 @@ Etena saccena suvatthi hotu.
 #+begin_spacedquote
 Yaṁ buddhaseṭṭho parivaṇṇayī suciṁ, \\
 Samādhimānantarikaññamāhu; \\
-[samādhiṃ + ānantarikaṃ + yaṃ + āhu] \\
+[samādhiṁ + ānantarikaṁ + yaṁ + āhu] \\
 Samādhinā tena samo na vijjati, \\
 Idampi dhamme ratanaṁ paṇītaṁ; \\
 Etena saccena suvatthi hotu.
 #+end_spacedquote
 
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| seṭṭha (adj.)               | (1) foremost; supreme; (2) chief; leader                  |
-| vaṇṇayati                   | (1) praises; extols (2) comments on; interprets; explains |
-| parivaṇṇayati               | describes; recommends; extolls; lit. praises all around   |
-| suci (adj.)                | (1) clean; pure (2) (of tastes and smells) good; fine     |
-| antara (nt.)               | space between; interval; distance                         |
-| ānantarika (adj.)          | immediate; without delay; with immediate results          |
-| ahu / ahosi (aor. of hoti) | was; existed; became                                      |
-| vijjati [√vid + ya + ti]   | (1) exists; is found; is present (2) is possible          |
+| seṭṭha (adj.)              | (1) foremost; supreme; (2) chief; leader                  |
+| vaṇṇayati                  | (1) praises; extols (2) comments on; interprets; explains |
+| parivaṇṇayati              | describes; recommends; extolls; lit. praises all around   |
+| suci (adj.)               | (1) clean; pure (2) (of tastes and smells) good; fine     |
+| antara (nt.)              | space between; interval; distance                         |
+| ānantarika (adj.)         | immediate; without delay; with immediate results          |
+| √ah                       | (√) speak                                                 |
+| āhu (perf.3rd.pl. of āha) | they say; lit. they said                                  |
+| vijjati [√vid + ya + ti]  | (1) exists; is found; is present (2) is possible          |
 
 #+begin_spacedquote
 Ye puggalā aṭṭha sataṁ pasatthā, \\
@@ -107,15 +115,16 @@ Etena saccena suvatthi hotu.
 #+end_spacedquote
 
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| puggala (m.)                | person; individual                                   |
-| sarati                      | (1) remembers; recollects (2) drifts; wanders; flows |
-| sata (adj. pp. of sarati)   | mindful; present; attentive                          |
-| pasaṃsati                   | praises; approves (of); commends                     |
-| pasattha (pp. of pasaṃsati) | praised; commended; exalted                          |
-| yuga (nt.)                  | (1) yoke (2) pair; set of two                        |
-| dadāti                      | gives (to); offers (to)                              |
-| dinna (pp. of dadāti)       | given (to); offered (to)                             |
-| phala (nt.)                 | (1) fruit; berry (2) consequence; result             |
+| ye ... te ...                     | who ... they ...                         |
+| puggala (m.)                      | person; individual                       |
+| santa (m. irreg, from atthi)      | virtuous man; good person (from √as)     |
+| sataṃ (m.dat.pl. of santa, irreg) | for virtuous people; for good people     |
+| pasaṁsati                         | praises; approves (of); commends         |
+| pasattha (pp. of pasaṁsati)       | praised; commended; exalted              |
+| yuga (nt.)                        | (1) yoke (2) pair; set of two            |
+| dadāti                            | gives (to); offers (to)                  |
+| dinna (pp. of dadāti)             | given (to); offered (to)                 |
+| phala (nt.)                       | (1) fruit; berry (2) consequence; result |
 
 \clearpage
 
@@ -149,7 +158,7 @@ Etena saccena suvatthi hotu.
 \clearpage
 
 #+begin_spacedquote
-Khīṇaṁ purāṇaṁ nava natthi sambhavaṁ, \\
+Khīṇaṁ purāṇaṁ navaṁ natthi sambhavaṁ, \\
 Virattacittāyatike bhavasmiṁ; \\
 Te khīṇabījā avirūḷhichandā, \\
 Nibbanti dhīrā yathāyaṁ padīpo; \\
@@ -173,12 +182,14 @@ Etena saccena suvatthi hotu.
 | bīja (nt.)                    | seed; germ                                                 |
 | virūḷhi (f.)                   | growth; increase                                           |
 | chanda (m.)                   | (1) interest; desire; wish (2) consent; agreement          |
+| nibbāti                       | is extinguished; goes out; lit. blows away                 |
 | dhīra (adj.)                  | (1) stable; constant; reliable; firm (2) wise; intelligent |
 | padīpa (m.)                   | lamp; light; lighting                                      |
 
 ** Vocabulary                                                      :noexport:
 
-| whatever; everything; all                                                                          | yaṁ kiñci (ind.) [yaṃ + kiṃ + ci] |
+| what ... that ...                                                                                  | yaṁ ... taṁ ...                    |
+| whatever; everything; all                                                                          | yaṁ kiñci (ind.) [yaṁ + kiṁ + ci] |
 | (1) wealth; property (2) delight; pleasure; lit. got                                               | vitta (nt.)                        |
 | there; in another world                                                                            | huraṁ (ind.)                       |
 | heaven; paradise                                                                                   | sagga (m.)                         |
@@ -202,13 +213,14 @@ Etena saccena suvatthi hotu.
 | (1) clean; pure (2) (of tastes and smells) good; fine                                              | suci (adj.)                        |
 | space between; interval; distance                                                                  | antara (nt.)                       |
 | immediate; without delay; with immediate results                                                   | ānantarika (adj.)                  |
-| was; existed; became                                                                               | ahu / ahosi (aor. of hoti)         |
+| speak (√)                                                                                          | √ah                                |
+| they say; lit. they said                                                                           | āhu (perf.3rd.pl. of āha)          |
 | (1) exists; is found; is present (2) is possible                                                   | vijjati [√vid + ya + ti]           |
 | person; individual                                                                                 | puggala (m.)                       |
-| (1) remembers; recollects (2) drifts; wanders; flows                                               | sarati                             |
-| mindful; present; attentive                                                                        | sata (adj. pp. of sarati)          |
-| praises; approves (of); commends                                                                   | pasaṃsati                          |
-| praised; commended; exalted                                                                        | pasattha (pp. of pasaṃsati)        |
+| virtuous man; good person (from √as)                                                               | santa (m. irreg, from atthi)       |
+| for virtuous people; for good people                                                               | sataṃ (m.dat.pl. of santa, irreg)  |
+| praises; approves (of); commends                                                                   | pasaṁsati                          |
+| praised; commended; exalted                                                                        | pasattha (pp. of pasaṁsati)        |
 | (1) yoke (2) pair; set of two                                                                      | yuga (nt.)                         |
 | gives (to); offers (to)                                                                            | dadāti                             |
 | given (to); offered (to)                                                                           | dinna (pp. of dadāti)              |
@@ -244,5 +256,447 @@ Etena saccena suvatthi hotu.
 | seed; germ                                                                                         | bīja (nt.)                         |
 | growth; increase                                                                                   | virūḷhi (f.)                        |
 | (1) interest; desire; wish (2) consent; agreement                                                  | chanda (m.)                        |
+| is extinguished; goes out; lit. blows away                                                         | nibbāti                            |
 | (1) stable; constant; reliable; firm (2) wise; intelligent                                         | dhīra (adj.)                       |
 | lamp; light; lighting                                                                              | padīpa (m.)                        |
+
+* Paṭhamabhavasutta (AN 3.76)
+
+([[https://suttacentral.net/an3.76/en/sujato][AN 3.76]])
+
+#+begin_spacedquote
+Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ
+abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ
+etadavoca:
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| yena ... ten'upasaṅkamati (idiom)     | wherever ... he approaches (him/it)    |
+| abhivādeti                           | bows down (to); pays high respect (to) |
+| anta (m.)                            | end; side; extreme                     |
+| ekamantaṁ (ind.) [ekaṃ + anta + aṃ] | to one side; aside                     |
+| vacati                               | speaks                                 |
+| avoca (aor. of vacati)               | said (to)                              |
+
+#+begin_spacedquote
+“bhavo, bhavoti, bhante, vuccati. Kittāvatā nu kho, bhante, bhavo hotī”ti?
+
+“Kāmadhātuvepakkañca, ānanda, kammaṁ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?
+
+“No hetaṁ, bhante”.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| bhava (m.)                                   | being; becoming; existence                                            |
+| vuccati (pass. of vacati)                    | is said to be; is called                                              |
+| tāva (ind.)                                  | that much; that far; still; at least                                  |
+| kittāvatā (ind.) [ka + tāva + tā]            | in what way?; to what extent?                                         |
+| dhātu (f.)                                   | (1) state; property; condition (2) state of being; realm of existence |
+| kāmadhātu (f.)                               | realm of desire; world of sense pleasure                              |
+| √pac                                         | (√) cook; mature; ripen                                               |
+| vipaccati [vi + √pac + ya + ti]              | bears fruit; gives results                                            |
+| vipakka (pp. of vipaccati)                   | ripened; matured; given fruit                                         |
+| vepakka (nt. from vipakka)                   | ripening; maturing; bearing fruit                                     |
+| pajānāti                                     | knows clearly; understands; distinguishes                             |
+| paññāyati (pass. of pajānāti)                | is clearly known; is evident                                          |
+| paññāyetha (opt.reflx.3rd.sg. of paññāyeyya) | it itself would be evident; it could be discerned                     |
+
+\clearpage
+
+#+begin_spacedquote
+“Iti kho, ānanda, kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho. Avijjānīvaraṇānaṁ
+sattānaṁ taṇhāsaṁyojanānaṁ hīnāya dhātuyā viññāṇaṁ
+patiṭṭhitaṁ[fn:an-3-77-cetana] evaṁ āyatiṁ punabbhavābhinibbatti hoti. (…)
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| khetta (nt.)                      | field; plot of land                                      |
+| sneha (m.)                        | moisture                                                 |
+| nīvaraṇa (m.)                      | obstacle; obstruction; hindrance; lit. blocking          |
+| satta (m.) [√as + a + tta]        | being; living being; creature                            |
+| hīna (adj.)                       | low; inferior; deficient                                 |
+| cetanā (f.) [√cit + *anā]         | intending; willing                                       |
+| patthanā (f.)                     | intending; wishing; aspiring; praying; longing           |
+| patiṭṭhahati [pati + √ṭhā + a + ti] | establishes; sets up; lit. stands before                 |
+| patiṭṭhita (pp. of patiṭṭhahati)    | firmly grounded (in); well established (in)              |
+| āyati (f.)                        | future; what's coming                                    |
+| punabbhava (m.)                   | appearing again; renewed existence; rebirth; future life |
+| abhinibbatti (f.)                 | birth; becoming; production                              |
+
+#+begin_spacedquote
+Rūpadhātuvepakkañca, ānanda, kammaṁ nābhavissa, api nu kho rūpabhavo
+paññāyethā”ti?
+
+“No hetaṁ, bhante”.
+
+“Iti kho, ānanda, kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho. Avijjānīvaraṇānaṁ
+sattānaṁ taṇhāsaṁyojanānaṁ majjhimāya dhātuyā viññāṇaṁ patiṭṭhitaṁ evaṁ āyatiṁ
+punabbhavābhinibbatti hoti. (…)
+
+Arūpadhātuvepakkañca, ānanda, kammaṁ nābhavissa, api nu kho arūpabhavo
+paññāyethā”ti?
+
+“No hetaṁ, bhante”.
+
+“Iti kho, ānanda, kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho. Avijjānīvaraṇānaṁ
+sattānaṁ taṇhāsaṁyojanānaṁ paṇītāya dhātuyā viññāṇaṁ patiṭṭhitaṁ evaṁ āyatiṁ
+punabbhavābhinibbatti hoti. Evaṁ kho, ānanda, bhavo hotī”ti.
+#+end_spacedquote
+
+[fn:an-3-77-cetana]: [[https://suttacentral.net/an3.77/en/sujato][AN 3.77]]: cetanā patiṭṭhitā patthanā patiṭṭhitā
+
+** Vocabulary                                                      :noexport:
+
+| wherever ... he approaches (him/it)                                   | yena ... ten'upasaṅkamati (idiom)             |
+| bows down (to); pays high respect (to)                                | abhivādeti                                   |
+| end; side; extreme                                                    | anta (m.)                                    |
+| to one side; aside                                                    | ekamantaṁ (ind.) [ekaṃ + anta + aṃ]         |
+| speaks                                                                | vacati                                       |
+| said (to)                                                             | avoca (aor. of vacati)                       |
+| being; becoming; existence                                            | bhava (m.)                                   |
+| is said to be; is called                                              | vuccati (pass. of vacati)                    |
+| that much; that far; still; at least                                  | tāva (ind.)                                  |
+| in what way?; to what extent?                                         | kittāvatā (ind.) [ka + tāva + tā]            |
+| (1) state; property; condition (2) state of being; realm of existence | dhātu (f.)                                   |
+| realm of desire; world of sense pleasure                              | kāmadhātu (f.)                               |
+| (√) cook; mature; ripen                                               | √pac                                         |
+| bears fruit; gives results                                            | vipaccati [vi + √pac + ya + ti]              |
+| ripened; matured; given fruit                                         | vipakka (pp. of vipaccati)                   |
+| ripening; maturing; bearing fruit                                     | vepakka (nt. from vipakka)                   |
+| knows clearly; understands; distinguishes                             | pajānāti                                     |
+| is clearly known; is evident                                          | paññāyati (pass. of pajānāti)                |
+| it itself would be evident; it could be discerned                     | paññāyetha (opt.reflx.3rd.sg. of paññāyeyya) |
+| field; plot of land                                                   | khetta (nt.)                                 |
+| moisture                                                              | sneha (m.)                                   |
+| obstacle; obstruction; hindrance; lit. blocking                       | nīvaraṇa (m.)                                 |
+| being; living being; creature                                         | satta (m.) [√as + a + tta]                   |
+| low; inferior; deficient                                              | hīna (adj.)                                  |
+| intending; willing                                                    | cetanā (f.) [√cit + *anā]                    |
+| intending; wishing; aspiring; praying; longing                        | patthanā (f.)                                |
+| establishes; sets up; lit. stands before                              | patiṭṭhahati [pati + √ṭhā + a + ti]            |
+| firmly grounded (in); well established (in)                           | patiṭṭhita (pp. of patiṭṭhahati)               |
+| future; what's coming                                                 | āyati (f.)                                   |
+| appearing again; renewed existence; rebirth; future life              | punabbhava (m.)                              |
+| birth; becoming; production                                           | abhinibbatti (f.)                            |
+
+* Cundīsutta (AN 5.32)
+
+([[https://suttacentral.net/an5.32/en/sujato][AN 5.32]], also in [[https://suttacentral.net/iti90/en/thanissaro][Iti 90]], [[https://suttacentral.net/an4.34/en/sujato][AN 4.34]])
+
+#+begin_spacedquote
+Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Atha kho cundī
+rājakumārī pañcahi rathasatehi pañcahi ca kumārisatehi parivutā yena bhagavā
+tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ
+nisinnā kho cundī rājakumārī bhagavantaṁ etadavoca:
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| kalandaka (m.)   | squirrel                 |
+| nivāpa (m.)      | bait; fodder; feeding    |
+| kumāra (m.)      | young boy; prince        |
+| kumārī (f.)      | young girl; princess     |
+| ratha (m.)       | chariot; coach; carriage |
+| kumārisata (nt.) | one hundred maidens      |
+| parivāreti       | surrounds, follows       |
+
+#+begin_spacedquote
+“Amhākaṁ, bhante, bhātā cundo nāma rājakumāro, so evamāha:
+
+‘yadeva so hoti itthī vā puriso vā
+buddhaṁ saraṇaṁ gato, dhammaṁ saraṇaṁ gato, saṅghaṁ saraṇaṁ gato,
+pāṇātipātā paṭivirato, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato,
+musāvādā paṭivirato, surāmerayamajjapamādaṭṭhānā paṭivirato,
+so kāyassa bhedā paraṁ maraṇā sugatiṁyeva upapajjati, no duggatin’ti.
+#+end_spacedquote
+
+#+latex: \enlargethispage{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| bhātar (m.)                             | brother                                                  |
+| yadeva [yaṃ + eva]                      | any; whichever                                           |
+| itthī (f.)                              | woman; female                                            |
+| saraṇa (nt.)                             | shelter; refuge; help; lit. going to                     |
+| ramati                                  | enjoys; finds pleasure (in)                              |
+| paṭiviramati [pati + vi + √ram + a + ti] | abstains (from); refrains (from); shuns; avoids          |
+| paṭivirata (pp. of paṭiviramati)         | abstained (from); desisted (from)                        |
+| bheda (m.)                              | (1) death (2) schism; split; lit. breakup                |
+| maraṇa (nt.)                             | death; dying                                             |
+| sugati (f.)                             | good destination; happy fate; lit. going well            |
+| upapajjati                              | is reborn (in); re-arises (in); lit. goes towards        |
+| duggati (f.)                            | state of misery; bad destination; hell; lit. going badly |
+
+\clearpage
+
+#+begin_spacedquote
+Sāhaṁ, bhante, bhagavantaṁ pucchāmi:
+
+‘kathaṁrūpe kho, bhante, satthari pasanno
+kāyassa bhedā paraṁ maraṇā sugatiṁyeva upapajjati, no duggatiṁ?
+Kathaṁrūpe dhamme pasanno ...
+Kathaṁrūpe saṅghe pasanno ...
+Kathaṁrūpesu sīlesu paripūrakārī ... no duggatin’”ti?
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| sāhaṁ [so + ahaṁ]                     | then I; and I                                          |
+| pucchati                              | asks; enquires; questions                              |
+| kathaṃrūpa                            | what kind?                                             |
+| satthari (m.) [√sās + tar + i]        | in the teacher; in the master                          |
+| sīla (nt.)                            | (1) ethical/moral conduct; virtue (2) behaviour; habit |
+| paripūra (adj.)                       | full; filled up; complete                              |
+| paripūrakārī (adj.) [paripūra + kārī] | who completely fulfils                                 |
+
+#+begin_spacedquote
+“Yāvatā, cundi, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā rūpino vā arūpino vā saññino vā asaññino vā nevasaññināsaññino vā,
+tathāgato tesaṁ aggamakkhāyati arahaṁ sammāsambuddho.
+Ye kho, cundi, buddhe pasannā, agge te pasannā.
+Agge kho pana pasannānaṁ aggo vipāko hoti.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| yāvatā (ind.) [yāva + tā]    | as long as; as far as; of all; to the extent that  |
+| pada (nt.)                   | (1) foot (2) path; track; way                      |
+| sañjānāti                    | knows; perceives; conceives                        |
+| saññī (adj. from sañjānāti)  | percipient (of); conscious (of)                    |
+| tesaṁ (pron.) [ta + esānaṃ]  | for them; to them; to those                        |
+| agga (adj.)                  | highest; supreme                                   |
+| akkhāti                      | says (to); tells (to); explains (to)               |
+| akkhāyati (pass. of akkhāti) | is considered; is said to be                       |
+| vipāka (m.) [vi + √pac + *a] | result; outcome; consequence; fruit; lit. ripening |
+
+\clearpage
+
+#+begin_spacedquote
+Yāvatā, cundi, dhammā saṅkhatā, ariyo aṭṭhaṅgiko maggo tesaṁ aggamakkhāyati.
+Ye, cundi, ariye aṭṭhaṅgike magge pasannā, agge te pasannā.
+Agge kho pana pasannānaṁ aggo vipāko hoti.
+
+Yāvatā, cundi, dhammā saṅkhatā vā asaṅkhatā vā, virāgo tesaṁ aggamakkhāyati, yadidaṁ -- madanimmadano pipāsavinayo ālayasamugghāto vaṭṭupacchedo taṇhākkhayo virāgo nirodho nibbānaṁ.
+Ye kho, cundi, virāge dhamme pasannā, agge te pasannā.
+Agge kho pana pasannānaṁ aggo vipāko hoti.
+
+Yāvatā, cundi, saṅghā vā gaṇā vā, tathāgatasāvakasaṅgho tesaṁ aggamakkhāyati, yadidaṁ -- cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāvakasaṅgho āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa.
+Ye kho, cundi, saṅghe pasannā, agge te pasannā.
+Agge kho pana pasannānaṁ aggo vipāko hoti.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| saṅkhata (pp. of saṅkharoti)        | created; constructed; conditioned; fabricated; lit. put together |
+| mada (m.) [√mad + a]               | (1) excess; pleasure; indulgence (2) vanity; pride; conceit      |
+| nimmadana (nt.) [nir + √mad + ana] | removing pride; crushing conceit; lit. de-intoxicating           |
+| pipāsa (adj.)                      | thirsty; lit. wishing to drink                                   |
+| pipāsavinaya (m.)                  | removal of thirst                                                |
+| ālaya (m.)                         | (1) roost; perch; nest; home (2) attachment (to); clinging (to)  |
+| samugghāteti                       | abolishes, uproots, removes                                      |
+| samugghāta (m. from samugghāteti)  | eradication; extermination; destruction                          |
+| vaṭṭa (nt.)                         | (1) circle (2) cycle of existence; lit. round                    |
+| vaṭṭupaccheda (m.)                  | breaking off cycle of existence                                  |
+| gaṇa (m.)                           | group; crowd                                                     |
+| sāvaka (m.)                        | disciple; pupil; follower                                        |
+
+\clearpage
+
+#+begin_spacedquote
+Yāvatā, cundi, sīlāni, ariyakantāni sīlāni tesaṁ aggamakkhāyati, yadidaṁ --
+akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni
+aparāmaṭṭhāni samādhisaṁvattanikāni.
+Ye kho, cundi, ariyakantesu sīlesu paripūrakārino, agge te paripūrakārino.
+Agge kho pana paripūrakārīnaṁ aggo vipāko hotī'ti.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| kanta (adj.)                      | charming; pleasant; desirable; agreeable                   |
+| khaṇḍeti                           | breaks into pieces, transgresses                           |
+| akhaṇḍa (adj. from na khaṇḍeti)    | unbroken; unfragmented; whole                              |
+| chindati                          | cuts off; severs                                           |
+| acchidda (adj. from na chindati)  | unbroken; flawless; without cracks                         |
+| sabala (adj.)                     | spotted; blotchy; mottled; patchy                          |
+| kammāsa (adj.)                    | spotted; speckled; blemished                               |
+| bhujissa (adj.)                   | cleansing; freeing; liberating                             |
+| pasaṁsati                         | praises; approves (of); commends                           |
+| pasattha (pp. of pasaṁsati)       | praised; commended; exalted                                |
+| parāmasati                        | touches; strokes; rubs                                     |
+| aparāmaṭṭha (pp. of na parāmasati) | irreproachable; untouchable; untarnished; lit. not touched |
+| saṃvattanika (adj.)               | leading (to); headed (to); conducive (to)                  |
+
+#+begin_spacedquote
+Aggato ve pasannānaṁ, \\
+aggaṁ dhammaṁ vijānataṁ; \\
+Agge buddhe pasannānaṁ, \\
+dakkhiṇeyye anuttare.
+#+end_spacedquote
+
+# For those who, knowing the best teaching,
+# base their confidence on the best—
+# confident in the best Awakened One,
+# supremely worthy of a religious donation;
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| agga (adj.)                  | highest; supreme                                          |
+| pasāda (m.)                  | inspiration; faith; trust; confidence; lit. settling      |
+| pasanna (adj.)               | who has faith (in); who has confidence (in); lit. settled |
+| vijānāti                     | comprehends; understands                                  |
+| vijānataṁ (prp. of vijānāti) | for those knowing; for those who understand               |
+| dakkhiṇā (f.)                 | gift; donation                                            |
+| dakkhiṇeyya (adj.)            | worthy of offerings                                       |
+| anuttara (adj.)              | highest; unsurpassed; incomparable; lit. nothing higher   |
+
+\clearpage
+
+#+begin_spacedquote
+Agge dhamme pasannānaṁ, \\
+virāgūpasame sukhe; \\
+Agge saṅghe pasannānaṁ, \\
+puññakkhette anuttare.
+#+end_spacedquote
+
+# confident in the best teaching,
+# the bliss of fading and stilling;
+# confident in the best Saṅgha,
+# the supreme field of merit—
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| virāga (m.)        | fading of desire (for); dispassion (towards) |
+| upasamati          | becomes calm; ceases; is allayed             |
+| puñña (nt.)        | merit; good deed; spiritual wealth           |
+| khetta (nt.)       | field; plot of land                          |
+| puññakkhetta (nt.) | field of merit                               |
+
+#+begin_spacedquote
+Aggasmiṁ dānaṁ dadataṁ, \\
+aggaṁ puññaṁ pavaḍḍhati; \\
+Aggaṁ āyu ca vaṇṇo ca, \\
+yaso kitti sukhaṁ balaṁ.
+#+end_spacedquote
+
+# giving gifts to the best,
+# the best of merit grows:
+# the best lifespan, beauty,
+# fame, reputation, happiness, and strength.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| dadāti                   | gives; offers; donates                             |
+| dadanta (prp. of dadāti) | giving; offering; bestowing                        |
+| pavaḍḍhati                | increases; develops; grows                         |
+| āyu (nt.)                | life; longevity; age                               |
+| vaṇṇa (m.)                | beauty; good looks; colour; appearance; lit. cover |
+| yasas (m.)               | fame; reputation; renown                           |
+| kitti (f.)               | fame; renown; celebrity                            |
+
+\clearpage
+
+#+begin_spacedquote
+Aggassa dātā medhāvī, \\
+aggadhammasamāhito; \\
+Devabhūto manusso vā, \\
+aggappatto pamodatī”ti.
+#+end_spacedquote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| dātar (m.)                   | giver; donor; who gives                        |
+| medhā (f.)                   | wisdom; intelligence                           |
+| medhāvī (m.)                 | intelligent man; wise man; lit. who has wisdom |
+| samāhita (pp. of samādahati) | composed; centred; settled                     |
+| samāhita (adj. in comps.)    | having; who has; endowed (with)                |
+| patta (pp. of pāpuṇāti)       | reached; attained; have arrived (at)           |
+| pamodati                     | is delighted (with); is very happy (with)      |
+| modati [√mud + *a + ti]      | is happy; enjoys himself; rejoices             |
+| muditā (f.) [√mud + ita + ā] | happiness (for); appreciation                  |
+
+# An intelligent person gives to the best,
+# settled on the best teaching.
+# When they become a god or human,
+# they rejoice at reaching the best.”
+
+** Vocabulary                                                      :noexport:
+
+| squirrel                                                         | kalandaka (m.)                          |
+| bait; fodder; feeding                                            | nivāpa (m.)                             |
+| young boy; prince                                                | kumāra (m.)                             |
+| young girl; princess                                             | kumārī (f.)                             |
+| chariot; coach; carriage                                         | ratha (m.)                              |
+| one hundred maidens                                              | kumārisata (nt.)                        |
+| surrounds, follows                                               | parivāreti                              |
+| brother                                                          | bhātar (m.)                             |
+| any; whichever                                                   | yadeva [yaṃ + eva]                      |
+| woman; female                                                    | itthī (f.)                              |
+| man; person                                                      | purisa (m.)                             |
+| shelter; refuge; help; lit. going to                             | saraṇa (nt.)                             |
+| enjoys; finds pleasure (in)                                      | ramati                                  |
+| abstains (from); refrains (from); shuns; avoids                  | paṭiviramati [pati + vi + √ram + a + ti] |
+| abstained (from); desisted (from)                                | paṭivirata (pp. of paṭiviramati)         |
+| (1) death (2) schism; split; lit. breakup                        | bheda (m.)                              |
+| death; dying                                                     | maraṇa (nt.)                             |
+| good destination; happy fate; lit. going well                    | sugati (f.)                             |
+| is reborn (in); re-arises (in); lit. goes towards                | upapajjati                              |
+| state of misery; bad destination; hell; lit. going badly         | duggati (f.)                            |
+| then I; and I                                                    | sāhaṁ [so + ahaṁ]                       |
+| asks; enquires; questions                                        | pucchati                                |
+| what kind?                                                       | kathaṃrūpa                              |
+| in the teacher; in the master                                    | satthari (m.) [√sās + tar + i]          |
+| (1) ethical/moral conduct; virtue (2) behaviour; habit           | sīla (nt.)                              |
+| full; filled up; complete                                        | paripūra (adj.)                         |
+| who completely fulfils                                           | paripūrakārī (adj.) [paripūra + kārī]   |
+| as long as; as far as; of all; to the extent that                | yāvatā (ind.) [yāva + tā]               |
+| (1) foot (2) path; track; way                                    | pada (nt.)                              |
+| knows; perceives; conceives                                      | sañjānāti                               |
+| percipient (of); conscious (of)                                  | saññī (adj. from sañjānāti)             |
+| for them; to them; to those                                      | tesaṁ (pron.) [ta + esānaṃ]             |
+| highest; supreme                                                 | agga (adj.)                             |
+| says (to); tells (to); explains (to)                             | akkhāti                                 |
+| is considered; is said to be                                     | akkhāyati (pass. of akkhāti)            |
+| result; outcome; consequence; fruit; lit. ripening               | vipāka (m.) [vi + √pac + *a]            |
+| created; constructed; conditioned; fabricated; lit. put together | saṅkhata (pp. of saṅkharoti)             |
+| (1) excess; pleasure; indulgence (2) vanity; pride; conceit      | mada (m.) [√mad + a]                    |
+| removing pride; crushing conceit; lit. de-intoxicating           | nimmadana (nt.) [nir + √mad + ana]      |
+| thirsty; lit. wishing to drink                                   | pipāsa (adj.)                           |
+| removal of thirst                                                | pipāsavinaya (m.)                       |
+| (1) roost; perch; nest; home (2) attachment (to); clinging (to)  | ālaya (m.)                              |
+| abolishes, uproots, removes                                      | samugghāteti                            |
+| eradication; extermination; destruction                          | samugghāta (m. from samugghāteti)       |
+| (1) circle (2) cycle of existence; lit. round                    | vaṭṭa (nt.)                              |
+| breaking off cycle of existence                                  | vaṭṭupaccheda (m.)                       |
+| group; crowd                                                     | gaṇa (m.)                                |
+| disciple; pupil; follower                                        | sāvaka (m.)                             |
+| charming; pleasant; desirable; agreeable                         | kanta (adj.)                            |
+| breaks into pieces, transgresses                                 | khaṇḍeti                                 |
+| unbroken; unfragmented; whole                                    | akhaṇḍa (adj. from na khaṇḍeti)          |
+| cuts off; severs                                                 | chindati                                |
+| unbroken; flawless; without cracks                               | acchidda (adj. from na chindati)        |
+| spotted; blotchy; mottled; patchy                                | sabala (adj.)                           |
+| spotted; speckled; blemished                                     | kammāsa (adj.)                          |
+| cleansing; freeing; liberating                                   | bhujissa (adj.)                         |
+| praises; approves (of); commends                                 | pasaṁsati                               |
+| praised; commended; exalted                                      | pasattha (pp. of pasaṁsati)             |
+| touches; strokes; rubs                                           | parāmasati                              |
+| irreproachable; untouchable; untarnished; lit. not touched       | aparāmaṭṭha (pp. of na parāmasati)       |
+| leading (to); headed (to); conducive (to)                        | saṃvattanika (adj.)                     |
+| highest; supreme                                                 | agga (adj.)                             |
+| inspiration; faith; trust; confidence; lit. settling             | pasāda (m.)                             |
+| who has faith (in); who has confidence (in); lit. settled        | pasanna (adj.)                          |
+| comprehends; understands                                         | vijānāti                                |
+| for those knowing; for those who understand                      | vijānataṁ (prp. of vijānāti)            |
+| gift; donation                                                   | dakkhiṇā (f.)                            |
+| worthy of offerings                                              | dakkhiṇeyya (adj.)                       |
+| highest; unsurpassed; incomparable; lit. nothing higher          | anuttara (adj.)                         |
+| fading of desire (for); dispassion (towards)                     | virāga (m.)                             |
+| becomes calm; ceases; is allayed                                 | upasamati                               |
+| merit; good deed; spiritual wealth                               | puñña (nt.)                             |
+| field; plot of land                                              | khetta (nt.)                            |
+| field of merit                                                   | puññakkhetta (nt.)                      |
+| gives; offers; donates                                           | dadāti                                  |
+| giving; offering; bestowing                                      | dadanta (prp. of dadāti)                |
+| increases; develops; grows                                       | pavaḍḍhati                               |
+| life; longevity; age                                             | āyu (nt.)                               |
+| beauty; good looks; colour; appearance; lit. cover               | vaṇṇa (m.)                               |
+| fame; reputation; renown                                         | yasas (m.)                              |
+| fame; renown; celebrity                                          | kitti (f.)                              |
+| giver; donor; who gives                                          | dātar (m.)                              |
+| wisdom; intelligence                                             | medhā (f.)                              |
+| intelligent man; wise man; lit. who has wisdom                   | medhāvī (m.)                            |
+| composed; centred; settled                                       | samāhita (pp. of samādahati)            |
+| having; who has; endowed (with)                                  | samāhita (adj. in comps.)               |
+| reached; attained; have arrived (at)                             | patta (pp. of pāpuṇāti)                  |
+| is delighted (with); is very happy (with)                        | pamodati                                |
+| is happy; enjoys himself; rejoices                               | modati [√mud + *a + ti]                 |
+| happiness (for); appreciation                                    | muditā (f.) [√mud + ita + ā]            |
