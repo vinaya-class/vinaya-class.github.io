@@ -34,6 +34,8 @@
 
 [Closing](99-closing.md)
 
+[Further Reading](99-further-reading.md)
+
 <!-- [Profiles](99-profiles.md) -->
 
 <!-- [Questions](99-questions.md) -->

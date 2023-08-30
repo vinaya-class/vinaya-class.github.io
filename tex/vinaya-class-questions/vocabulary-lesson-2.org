@@ -41,9 +41,11 @@ Pāli Lessons::Lesson 2::2. Extra Challenge
 | cloth; garments                                                                  | dussa (nt.)                                           |   |
 | to/for her; to/for that                                                          | tassā (f.dat.sg.pron.) [ta + ssā]                     |   |
 | He gives her the cloth.                                                          | So tassā dussaṁ deti.                                 | s |
+| (1) man; person (2) servant; labourer (3) grammatical person                     | purisa (m.)                                           |   |
 | The man eats rice.                                                               | Naro bhattaṁ bhuñjati.                                | s |
 | The men are cooking.                                                             | Narā pacanti.                                         | s |
-| General Sīha goes up to the Buddha.                                              | Sīho Senāpati yena bhagavā ten'upasaṅkamati.           | s |
+| prince                                                                           | rājakumāra (m.)                                       |   |
+| Prince Abhaya goes up to the Buddha.                                             | Abhayo rājakumāro yena bhagavā ten'upasaṅkamati.       | s |
 | I see the moon.                                                                  | Candaṁ passāmi.                                       | s |
 | You (pl.) don't see the dogs.                                                    | Sunakhe na passatha.                                  | s |
 | The boys are running.                                                            | Dārakā dhāvanti.                                      | s |
@@ -232,6 +234,7 @@ Pāli Lessons::Lesson 2::2. Extra Challenge
 | indignant; angry; annoyed                                                        | kupita (pp. of kuppati)                               |   |
 | irritated; annoyed; displeased; lit. not own mind                                | anattamana (adj.) [na + atta + mana]                  |   |
 | expels (from); throws out; removes; lit. drags out                               | nikkaḍḍhati                                            |   |
+| I have need of a robe. (My need is fulfilled by a robe.)                         | Attho me āvuso cīvarena.                              | s |
 | congee; sour gruel; rice husk porridge                                           | kaṇājaka (nt.)                                         |   |
 | (1) rice water; congee (2) glue; sticky stuff                                    | kañjiya (nt.)                                         |   |
 | clean; clear; transparent                                                        | accha (adj.)                                          |   |
@@ -240,9 +243,9 @@ Pāli Lessons::Lesson 2::2. Extra Challenge
 | untreated soup; bean broth                                                       | akaṭayūsa (m.)                                         |   |
 | allows (to); permits (to)                                                        | anujānāti                                             |   |
 | He needed rice water (clear congee).                                             | Acchakañjiyā attho hoti.                              | s |
-| Bhikkhus, I allow rice water (clear congee).                                     | "Anujānāmi, bhikkhave, acchakañjin"ti.                | s |
+| Bhikkhus, I allow rice water (clear congee).                                     | Anujānāmi, bhikkhave, acchakañjiṁ.                    | s |
 | He needed bean broth.                                                            | Akaṭayūsena attho hoti.                                | s |
-| Bhikkhus, I allow bean broth.                                                    | "Anujānāmi, bhikkhave, akaṭayūsan"ti.                  | s |
+| Bhikkhus, I allow bean broth.                                                    | Anujānāmi, bhikkhave, akaṭayūsaṁ.                     | s |
 | pleasure; enjoyment; relish; delight                                             | nandi (f.)                                            |   |
 | is happy (with); delights (in); likes; enjoys                                    | nandati                                               |   |
 | ascetic; renunciant; holy man; monk; recluse; lit. who makes an effort; calm one | samaṇa (m.) [√sam + aṇa]                               |   |
@@ -314,20 +317,20 @@ Pāli Lessons::Lesson 2::2. Extra Challenge
 | ant                                                                                 | kipillika (m.)                                                     |   |
 | bed; sleeping place; couch; furniture                                               | sayana (nt.)                                                       |   |
 | gone to bed                                                                         | sayanagata (adj.)                                                  |   |
-| Where is Ven. Vajiro bhikkhu's spoon?                                               | Kattha āyasmato Vajiro bhikkhussa kaṭacchu hoti?                    | s |
+| Where is Ven. Vajiro bhikkhu's spoon?                                               | Kattha āyasmato Vajirassa bhikkhuno kaṭacchu hoti?                  | s |
 | I don't know. Do you see it?                                                        | Na jānāmi. Taṁ passasi?                                            | s |
-| This is his spoon. Give it to his attendant.                                        | Ayamassa kaṭacchu. Assaṁ / tassaṁ upaṭṭhākaṁ dehi.                 | s |
-| I will wash your cup.                                                               | Tuyhaṁ mallakaṁ dhovāmi / dhovissati.                              | s |
-| (Please) Wash my bowl.                                                              | Me pattaṁ dhova / dhovatha.                                        | s |
-| Where is your bowl?                                                                 | Kattha tuyhaṁ pattaṁ?                                              | s |
+| This is his spoon. Give it to his attendant.                                        | Ayamassa kaṭacchu. (Assaṁ / tassaṁ) upaṭṭhākassa dehi.              | s |
+| I will wash your cup.                                                               | Tuyhaṁ mallakaṁ dhovāmi / dhovissāmi.                              | s |
+| (Please) Wash my bowl.                                                              | Me pattaṁ dhova / dhoveyyāsi.                                      | s |
+| Where is your bowl?                                                                 | Kattha tuyhaṁ patto?                                               | s |
 | Having washed my bowl, you should put (it) in the cupboard.                         | Me pattaṁ dhovitvā, koṭṭhake odaheyya.                              | s |
 | (Please) you could wash these robes (clothes).                                      | Imāni vatthāni dhoveyyāsi.                                         | s |
 | Having been washed, they should be dried.                                           | Dhovitvā, visoseyyāsi / visosetabbāni.                             | s |
-| (Please) Give me (a) toothbrush.                                                    | Dantaponaṁ me dehi.                                                | s |
+| (Please) Give me (a) toothbrush.                                                    | Dantaponaṁ me dehi / deyyāsi.                                      | s |
 | (May you) Sleep well!                                                               | Sukhaṁ sehi!                                                       | s |
 | I trust Sir (you) slept well?                                                       | Kacci bhante sukhamasayittha?                                      | s |
 | No friend, I haven't slept well.                                                    | No hetaṁ, āvuso, na sukhamasayitthaṁ.                              | s |
-| There are in my bed a lot of ants.                                                  | Atthi me sayane bahu kipillikā.                                    | s |
+| There are in my bed a lot of ants.                                                  | Santi mama / me sayane bahu kipillikā.                             | s |
 | nods off; dozes off                                                                 | pacalāyati                                                         |   |
 | (1) from that (2) therefore; that is why                                            | tasmā                                                              |   |
 | dullness; drowsiness; fuzziness; sluggishness                                       | thina (nt.)                                                        |   |
@@ -371,11 +374,11 @@ Pāli Lessons::Lesson 2::2. Extra Challenge
 | washing water; rinsing water; lit. to be used                                       | paribhojanīya (adj.)                                               |   |
 | Before the meal, we should put out seats.                                           | Purebhattaṁ, āsane / āsanāni paññāpema.                            | s |
 | After the meal, we should sweep the place.                                          | Pacchābhattaṁ, taṇṭhānaṁ sammajjeyyāma.                            | s |
-| If the teacher wants coffee, we should prepare coffee.                              | Sace ācariyaṁ kāphīpānaṁ icchati, kāphīpānaṁ paṭiyādema.           | s |
+| If the teacher wants coffee, we should prepare coffee.                              | Sace ācariyo kāphīpānaṁ icchati, kāphīpānaṁ paṭiyādema.            | s |
 | If the assembly hall is dirty, it should be swept.                                  | Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā.         | s |
 | He should sweep the floor and he should expel the ants with this broom.             | Chamā ca sammajjeyya, kipillikā ca nikkaḍḍheyya iminā sammuñjaniyā. | s |
-| If there's no drinking water, drinking water should be provided.                    | Sace pānīyaṁ na hoti, pānīyaṁ upaṭṭhāpetabbaṁ.                     | s |
-| If there's no rinsing water, rinsing water should be provided.                      | Sace paribhojanīyaṁ na hoti, paribhojanīyaṁ upaṭṭhāpetabbaṁ.       | s |
+| If there's no drinking water, drinking water should be provided.                    | Sace pānīyaṁ natthi, pānīyaṁ upaṭṭhāpetabbaṁ.                      | s |
+| If there's no rinsing water, rinsing water should be provided.                      | Sace paribhojanīyaṁ natthi, paribhojanīyaṁ upaṭṭhāpetabbaṁ.        | s |
 | speech; talk                                                                        | bhāsa (m.)                                                         |   |
 | little; tiny; minute                                                                | thoka (adj.)                                                       |   |
 | is able (to)                                                                        | sakkoti                                                            |   |

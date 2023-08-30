@@ -59,7 +59,6 @@
 | for the warding off of future (mental) effluents                                            | samparāyikānaṁ āsavānaṁ paṭighātāya                                                 | s |
 | For what purpose have you come? (You what to do came?)                                      | Tvaṁ kiṁ kātuṁ āgato'si?                                                           | s |
 | From here, to where do you go?                                                              | Ito tvaṁ kuhiṁ gacchasi?                                                            | s |
-| General Sīha goes up to the Buddha.                                                         | Sīho Senāpati yena bhagavā ten'upasaṅkamati.                                         | s |
 | Give congee, give rice, give food!                                                          | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā!                                      | s |
 | Go at your convenience.                                                                     | Yassadāni tumhe kālaṁ maññatha.                                                     | s |
 | Go at your convenience.                                                                     | Yassadāni tvaṁ kālaṁ maññasi.                                                       | s |
@@ -186,6 +185,7 @@
 | Please sit here. Where does the master go for alms?                                         | Ettheva / Idha nisīdatha. Kuhiṁ / Kathaṁ piṇḍāya ayyo gacchatha?                    | s |
 | (Please) Wash my bowl.                                                                      | Me pattaṁ dhova / dhovatha.                                                         | s |
 | (Please) you could wash these robes (clothes).                                              | Imāni vatthāni dhoveyyāsi.                                                          | s |
+| Prince Abhaya goes up to the Buddha.                                                        | Abhayo rājakumāro yena bhagavā ten'upasaṅkamati.                                     | s |
 | Privately, he takes a seat.                                                                 | Raho nisajjaṁ kappeti.                                                              | s |
 | Rice cooked by the cook was eaten by the beggar's dog.                                      | Sūdena pacito odano yācakassa sunakhena khādito.                                    | s |
 | Right here friend. Do you come from the country Spain?                                      | Etthevaṁ āvuso. Spain-desamhā āgacchasi?                                            | s |

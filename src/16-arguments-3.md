@@ -98,6 +98,19 @@ being ill, can't wait to use the toilet, or thinking 'I'll be right back.'
 
 Nonetheless, it is better to give one's consent before leaving the meeting.
 
+Leaving the Pāṭimokkha recitation and coming back (e.g. toilet break) doesn't
+invalidate the *uposathakamma*, and the recitation does not have to be started
+from the beginning. The group may wait for the bhikkhu to return before making
+decisions, so that they can carry out other *saṅghakamma* together.
+
+The reason for joining a *saṅghakamma* is generally avoided is that when a
+larger group of bhikkhus is joining a smaller group, they could overrule
+decisions.
+
+<!-- latex
+\clearpage
+-->
+
 ## Pc 81, Complaining about favouritism
 
 The community is not allowed to transfer the ownership of *garubhaṇḍa* articles

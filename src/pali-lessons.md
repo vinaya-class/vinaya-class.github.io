@@ -27,6 +27,6 @@ When you import it into Anki for the first time, it will create the relevant car
 The above file gets updated as the lesson content develops. When you import it again, Anki creates duplicate cards, which can be removed with these steps:
 
 1. After importing, select Browse > Find Duplicates > 'Front' field can tag the duplicates.
-2. Search for: `tag:duplicate is:new`
+2. Search for: `tag:duplicate added:1` (tagged with 'duplicate' and added today)
 3. Which can be all deleted.
 4. Select the tag 'duplicate' from the sidebar and delete the tag itself, which will remove it from the existing notes.

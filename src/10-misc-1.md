@@ -9,7 +9,11 @@
 -   **Pc 66,** Travelling by arrangement with thieves
 -   **Pc 84,** Picking up a valuable
 
-## Note
+<!-- latex
+\bigskip
+-->
+
+*Note on principles:*
 
 - Pc 2 and 3 are 'conflict, bad speech, argument'
 - Pc 46, 85 are 'relationship with supporters'

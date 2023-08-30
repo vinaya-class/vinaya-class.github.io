@@ -202,3 +202,7 @@ would come under this rule.
 - saying, "Give X for Y" when engaging in trade with your parents
 - telling the steward, "Don't take it" when you think the steward is getting a
   bad deal
+
+## Further Reading
+
+See also: [Money and the Vinaya (PDF)](https://vinaya-class.github.io/includes/docs/money-and-the-vinaya.pdf)

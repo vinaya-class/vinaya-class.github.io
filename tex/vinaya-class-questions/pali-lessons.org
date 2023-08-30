@@ -28,8 +28,16 @@
 #+end_export
 
 * Tasks                                                            :noexport:
-** update cheat sheet
-** reading for Snp 2.1 Ratanasutta
+** dukkaṭa section chanting
+
+Ime kho pan'āyasmanto aṭṭhanavuti dve satāni (298) dukkaṭā dhammā uddesaṁ āgacchanti.
+
+1. A bhikkhu, with lustful intent, behaves in an unsuitable way with an inanimate object. (from Pr 1)
+2. A bhikkhu make a hut consisting only of mud. (from Pr 2)
+3. ...
+
+https://www.ancient-buddhist-texts.net/Textual-Studies/Grammar/Pali-Numbers.htm
+
 ** words sorting field
 
 - (1)
@@ -1015,21 +1023,21 @@ The Buddha is wandering in the land of the Kosalans...
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{The elders make an effort.}            | Therā viriyaṁ ārabhanti (/begins; undertakes/).           |
-| \fillin{8cm}{They give ear.}                        | Te sotaṁ odahanti (/applies; gives/).                     |
-| \fillin{8cm}{Privately, he takes a seat.}           | Raho (/ind. privately/) nisajjaṁ kappeti.                 |
-| \fillin{8cm}{Who seeks privacy, he wants solitude.} | Yo rahāyati (/seeks privacy/), so vivekaṁ icchati.        |
-| \fillin{8cm}{Discontent is a dauther of Māra.}      | Aratī ekā māradhītarā.                                    |
-| \fillin{8cm}{He gives her the cloth.}               | So tassā dussaṁ (/cloth/) deti.                           |
-| The man eats rice.                                  | \fillin{8cm}{Naro bhattaṁ bhuñjati.}                      |
-| The men are cooking.                                | \fillin{8cm}{Narā pacanti.}                               |
-| General Sīha goes up to the Buddha.                 | \fillin{8cm}{Sīho Senāpati yena bhagavā ten'upasaṅkamati.} |
-| I see the moon.                                     | \fillin{8cm}{Candaṁ passāmi.}                             |
-| You (pl.) don't see the dogs.                       | \fillin{8cm}{Sunakhe na passatha.}                        |
-| The boys are running.                               | \fillin{8cm}{Dārakā dhāvanti.}                            |
-| You are sitting here.                               | \fillin{8cm}{Idha nisīdasi.}                              |
-| She comes from there.                               | \fillin{8cm}{Sā tato āgacchati.}                          |
-| We run to the boys.                                 | \fillin{8cm}{Mayaṁ dārake dhāvāma.}                       |
+| \fillin{8cm}{The elders make an effort.}            | Therā viriyaṁ ārabhanti (/begins; undertakes/).               |
+| \fillin{8cm}{They give ear.}                        | Te sotaṁ odahanti (/applies; gives/).                         |
+| \fillin{8cm}{Privately, he takes a seat.}           | Raho (/ind. privately/) nisajjaṁ kappeti.                     |
+| \fillin{8cm}{Who seeks privacy, he wants solitude.} | Yo rahāyati (/seeks privacy/), so vivekaṁ icchati.            |
+| \fillin{8cm}{Discontent is a dauther of Māra.}      | Aratī ekā māradhītarā.                                        |
+| \fillin{8cm}{He gives her the cloth.}               | So tassā dussaṁ (/cloth/) deti.                               |
+| The man eats rice.                                  | \fillin{8cm}{Naro bhattaṁ bhuñjati.}                          |
+| The men are cooking.                                | \fillin{8cm}{Narā pacanti.}                                   |
+| Prince Abhaya goes up to the Buddha.                | \fillin{8cm}{Abhayo rājakumāro yena bhagavā ten'upasaṅkamati.} |
+| I see the moon.                                     | \fillin{8cm}{Candaṁ passāmi.}                                 |
+| You (pl.) don't see the dogs.                       | \fillin{8cm}{Sunakhe na passatha.}                            |
+| The boys are running.                               | \fillin{8cm}{Dārakā dhāvanti.}                                |
+| You are sitting here.                               | \fillin{8cm}{Idha nisīdasi.}                                  |
+| She comes from there.                               | \fillin{8cm}{Sā tato āgacchati.}                              |
+| We run to the boys.                                 | \fillin{8cm}{Mayaṁ dārake dhāvāma.}                           |
 
 #+latex: \normalArrayStrech
 
@@ -1042,6 +1050,10 @@ The Buddha is wandering in the land of the Kosalans...
 /kappati:/ [√kapp + a + ti]: it is suitable (for); it is proper (for); it is fitting (for); it is allowable
 
 /tassā:/ f.dat.sg.pron. to/for her; to/for that [ta + ssā]
+
+/purisa:/ m. (1) man; person (2) servant; labourer (3) grammatical person
+
+/rājakumāra:/ m. prince
 
 /yena ... ten'upasaṅkamati/: (idiom) wherever ... he approaches (him/it)
 
@@ -1226,7 +1238,8 @@ Dasa atthavase:
 /pesala:/ adj. well-behaved; good; honest\\
 /diṭṭha:/ pp. of √dis; seen; found; visible\\
 /samparāyika:/ adj. in the future; hereafter\\
-/pasanna:/ adj. who has faith (in); who has confidence (in); lit. settled\\
+/pasanna:/ adj. who has faith (in); who has confidence (in);\\
+lit. settled\\
 /appasanna:/ m. one without faith or confidence\\
 /pasāda:/ m. inspiration; faith; trust; confidence; lit. settling\\
 /bhiyyobhāva:/ m. growth (of); increase (of)\\
@@ -1370,8 +1383,8 @@ The optative cam also imply a polite imperative, "it would be good if you..."
 #+latex: \vspace*{-\baselineskip}
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ (SN 22.59)    | \fillin{8cm}{these volitions would not lead to affliction}      |
-| Yadā tumhe, bhaddiya, attanāva jāneyyātha... ([[https://suttacentral.net/an4.193/pli/ms][AN 4.193]]) | \fillin{8cm}{When (if) you, Bhaddiya, know this by yourself...} |
+| na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ (SN 22.59)                   | \fillin{8cm}{these volitions would not lead to affliction}      |
+| Yadā tumhe, bhaddiya, attanāva [attanā + eva] jāneyyātha... ([[https://suttacentral.net/an4.193/pli/ms][AN 4.193]]) | \fillin{8cm}{When (if) you, Bhaddiya, know this by yourself...} |
 
 #+latex: \normalArrayStrech
 #+latex: \vspace*{-0.5\baselineskip}
@@ -1516,14 +1529,19 @@ Uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya: sammukhāvinayo 
 
 \bigskip
 
+/Attho/ refers to its object in the instrumental: the need or goal is fulfilled by/with the object.
+
+/Attho me āvuso cīvarena./ (NP 10) "I have need of a robe." (My need is fulfilled by a robe.)
+
 /Hoti/ is intransitive, and always takes a nominative: /attho hoti/, "there is need".
 
-#+latex: \renewcommand{\arraystretch}{1.8}
+#+latex: \enlargethispage{\baselineskip}
+#+latex: \renewcommand{\arraystretch}{1.6}
 
-| (He) needed rice water (clear congee). | Acchakañjiyā attho hoti.[fn:mv-kd6]                |
-| Bhikkhus, I allow rice water.          | "Anujānāmi, bhikkhave, acchakañjin"ti.             |
-| By him bean broth is needed.           | \fillin{8cm}{Tena akaṭayūsena attho hoti.}          |
-| Bhikkhus, I allow bean broth.          | \fillin{8cm}{"Anujānāmi, bhikkhave, akaṭayūsan"ti.} |
+| (He) needed rice water (clear congee). | Acchakañjiyā attho hoti.[fn:mv-kd6]             |
+| Bhikkhus, I allow rice water.          | Anujānāmi, bhikkhave, acchakañjiṁ.              |
+| By him (/tena/) bean broth is needed.  | \fillin{8cm}{Tena akaṭayūsena attho hoti.}       |
+| Bhikkhus, I allow bean broth.          | \fillin{8cm}{Anujānāmi, bhikkhave, akaṭayūsaṁ.} |
 
 #+begin_twocols
 
@@ -1531,7 +1549,9 @@ Uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya: sammukhāvinayo 
 /socati:/ sorrows; grieves; mourns \\
 /laddhā:/ (abs. of labhati) having got; having obtained \\
 /tena hi:/ in that case; if that's so \\
-/kathaṁ:/ ind. How?
+/kathaṁ:/ ind. How? \\
+/ekamāsīna:/ [eka + āsīna] sitting alone \\
+/nābhikīrati:/ [na abhikirati] does not drown; does not overwhelm
 
 \columnbreak
 
@@ -1562,14 +1582,23 @@ Uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya: sammukhāvinayo 
 
 *** Readings
 
-#+begin_quote
+#+begin_twocols
 "Aghajātassa ve nandī, \\
 nandījātassa ve aghaṁ; \\
 Anandī anagho bhikkhu, \\
 evaṁ jānāhi āvuso"ti.
 
 ([[https://suttacentral.net/sn2.18/pli/ms][SN 2.18]])
-#+end_quote
+
+\columnbreak
+
+Piyato jāyatī soko, \\
+piyato jāyatī bhayaṁ; \\
+Piyato vippamuttassa, \\
+natthi soko kuto bhayaṁ.
+
+([[https://suttacentral.net/dhp209-220/pli/ms][Dhp 212]])
+#+end_twocols
 
 #+begin_quote
 \raggedright
@@ -1675,23 +1704,23 @@ pārisuddhā ti vedissāmi.
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | Where is Ven. Vajiro bhikkhu's spoon?                                                    |
-| \fillin{12cm}{Kattha āyasmato Vajiro bhikkhussa kaṭacchu hoti?}                           |
+| \fillin{12cm}{Kattha āyasmato Vajirassa bhikkhuno kaṭacchu hoti?}                         |
 | I don't know. Do you see it?                                                             |
 | \fillin{12cm}{Na jānāmi. Taṁ passasi?}                                                   |
 | This is his spoon. Give it to his attendant.                                             |
-| \fillin{12cm}{Ayamassa kaṭacchu. Assaṁ / tassaṁ upaṭṭhākaṁ dehi.}                        |
+| \fillin{12cm}{Ayamassa kaṭacchu. (Assaṁ / tassaṁ) upaṭṭhākassa dehi.}                     |
 | I will wash your cup.                                                                    |
-| \fillin{12cm}{Tuyhaṁ mallakaṁ dhovāmi / dhovissati.}                                     |
+| \fillin{12cm}{Tuyhaṁ mallakaṁ dhovāmi / dhovissāmi.}                                     |
 | (Please) Wash my bowl.                                                                   |
-| \fillin{12cm}{Me pattaṁ dhova / dhovatha.}                                               |
+| \fillin{12cm}{Me pattaṁ dhova / dhoveyyāsi.}                                             |
 | Where is your bowl?                                                                      |
-| \fillin{12cm}{Kattha tuyhaṁ pattaṁ?}                                                     |
+| \fillin{12cm}{Kattha tuyhaṁ patto?}                                                      |
 | Having washed my bowl, you should put (it) in the cupboard.                              |
 | \fillin{12cm}{Me pattaṁ dhovitvā, koṭṭhake odaheyya.}                                     |
 | (Please) you could wash these robes (clothes). Having been washed, they should be dried. |
 | \fillin{12cm}{Imāni vatthāni dhoveyyāsi. Dhovitvā, visoseyyāsi / visosetabbāni.}         |
 | (Please) Give me (a) toothbrush.                                                         |
-| \fillin{12cm}{Dantaponaṁ me dehi.}                                                       |
+| \fillin{12cm}{Dantaponaṁ me dehi / deyyāsi.}                                             |
 | (May you) Sleep well!                                                                    |
 | \fillin{12cm}{Sukhaṁ sehi!}                                                              |
 | I trust Sir (you) slept well?                                                            |
@@ -1699,7 +1728,7 @@ pārisuddhā ti vedissāmi.
 | No friend, I haven't slept well.                                                         |
 | \fillin{12cm}{No hetaṁ, āvuso, na sukhamasayitthaṁ.}                                     |
 | There are in my bed a lot of ants.                                                       |
-| \fillin{12cm}{Atthi me sayane bahu kipillikā.}                                           |
+| \fillin{12cm}{Santi mama / me sayane bahu kipillikā.}                                    |
 
 #+latex: \normalArrayStrech
 
@@ -1775,20 +1804,20 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Before the meal, we should put out seats.                                                |
-| \fillin{12cm}{Purebhattaṁ, āsane / āsanāni paññāpema.}                                   |
-| After the meal, we should sweep the place.                                               |
-| \fillin{12cm}{Pacchābhattaṁ, taṇṭhānaṁ sammajjeyyāma.}                                   |
-| If the teacher wants coffee, we should prepare coffee.                                   |
-| \fillin{12cm}{Sace ācariyaṁ kāphīpānaṁ icchati, kāphīpānaṁ paṭiyādema.}                  |
-| If the assembly hall is dirty, it should be swept.                                       |
-| \fillin{12cm}{Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā.}                |
-| He should sweep the floor and he should expel the ants with this broom.                  |
-| \fillin{12cm}{Chamā ca sammajjeyya, kipillikā ca nikkaḍḍheyya iminā sammuñjaniyā.}        |
-| If there's no drinking water, drinking water should be provided.                         |
-| \fillin{12cm}{Sace pānīyaṁ na hoti, pānīyaṁ upaṭṭhāpetabbaṁ.}                            |
-| If there's no rinsing water, rinsing water should be provided.                           |
-| \fillin{12cm}{Sace paribhojanīyaṁ na hoti, paribhojanīyaṁ upaṭṭhāpetabbaṁ.}              |
+| Before the meal, we should put out seats.                                         |
+| \fillin{12cm}{Purebhattaṁ, āsane / āsanāni paññāpema.}                            |
+| After the meal, we should sweep the place.                                        |
+| \fillin{12cm}{Pacchābhattaṁ, taṇṭhānaṁ sammajjeyyāma.}                            |
+| If the teacher wants coffee, we should prepare coffee.                            |
+| \fillin{12cm}{Sace ācariyo kāphīpānaṁ icchati, kāphīpānaṁ paṭiyādema.}            |
+| If the assembly hall is dirty, it should be swept.                                |
+| \fillin{12cm}{Sace upaṭṭhānasālā uklāpā hoti, upaṭṭhānasālā sammajjitabbā.}         |
+| He should sweep the floor and he should expel the ants with this broom.           |
+| \fillin{12cm}{Chamā ca sammajjeyya, kipillikā ca nikkaḍḍheyya iminā sammuñjaniyā.} |
+| If there's no drinking water, drinking water should be provided.                  |
+| \fillin{12cm}{Sace pānīyaṁ natthi, pānīyaṁ upaṭṭhāpetabbaṁ.}                      |
+| If there's no rinsing water, rinsing water should be provided.                    |
+| \fillin{12cm}{Sace paribhojanīyaṁ natthi, paribhojanīyaṁ upaṭṭhāpetabbaṁ.}        |
 
 #+latex: \normalArrayStrech
 

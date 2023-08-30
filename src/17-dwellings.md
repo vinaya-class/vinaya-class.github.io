@@ -57,6 +57,9 @@ his project is, and if people offer the materials, he may accept it.
 
 It is not an offense to build a hut for another's use.
 
+The offense is incurred *either* if (1) the hut exceeds the size, *or* (2) if he
+didn't obtain the approval of the community for the site.
+
 ## Sg 7, Large hut without approval
 
 Same terms as in *Sg 6*, but the bhikkhu in this case has a dedicated sponsor
@@ -158,6 +161,10 @@ eight finger-breadths long, from the lower edge of the frame to the floor.
 The long legs should be cut back to size.
 
 The purpose is to prevent making imposing furnishings.
+
+When visiting a lay-person whose house is furnished with elaborately decorated
+chairs or beds, a bhikkhu may sit on them without an offense, but lying down on
+them is a *dukkaṭa*. (Cv.VI.8)
 
 ## Pc 88, Cotton stuffing
 

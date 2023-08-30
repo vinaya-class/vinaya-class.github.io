@@ -251,3 +251,7 @@ Eating unannounced food offerings is to be acknoledgeded as bad conduct.
 - allowance for using fruit, roots, etc. growing in the dwelling or its vicinity
 - accepting the food outside the dwelling and eating it inside
 - accepting and eating juice or 7 day tonics
+
+## Further Reading
+
+See also: [Food and the Vinaya (PDF)](https://vinaya-class.github.io/includes/docs/food-and-the-vinaya.pdf)

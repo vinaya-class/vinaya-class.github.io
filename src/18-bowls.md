@@ -27,6 +27,8 @@ The offense occurs on the 10th dawnrise after receving it.
 
 There is no offense if the bowl is lost, destroyed or stolen before the 10 days are up.
 
+Using an undetermined bowl is a *dukkaṭa* offense.
+
 ## NP 22, Asking for new bowl
 
 *Origin:* a potter offers to make bowls for the bhikkhus. Some of them abuse the
@@ -97,4 +99,7 @@ be made of bone, ivory or horn.
 A bhikkhu should be aware of the civil law regarding the materials, such as a
 ban on ivory trade, or the border regulations on horn (and plant) materials in
 New Zealand.
+
+In some countries bhikkhus commonly use robe-tags, buttons, etc. made of bone or
+horn.
 
