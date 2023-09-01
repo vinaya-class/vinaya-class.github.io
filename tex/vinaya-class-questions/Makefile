@@ -16,6 +16,9 @@ pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
 
 pali-readings: export-pali-readings pali-readings.pdf
 
+pali-readings-answerkey: export-pali-readings
+	ANSWERKEY=TRUE make pali-readings-answerkey.pdf
+
 pali-lessons-answerkey: export-pali-lessons
 	ANSWERKEY=TRUE make pali-lessons-answerkey.pdf
 

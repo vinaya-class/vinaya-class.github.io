@@ -14,6 +14,8 @@ Someone familiar with the language may explain the grammar points, while the oth
 
 [pali-readings.pdf](./includes/docs/pali-readings.pdf)
 
+[pali-readings-answerkey.pdf](./includes/docs/pali-readings-answerkey.pdf)
+
 [![Pali Lessons](./includes/docs/pali-lessons-thumb.png)](./includes/docs/pali-lessons.pdf)
 
 A memory card deck for the [Anki application](https://apps.ankiweb.net/) is included below to help memorizing the vocabulary and sentences using the [Spaced Repetition](https://gwern.net/spaced-repetition) method.

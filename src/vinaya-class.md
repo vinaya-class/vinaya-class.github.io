@@ -25,6 +25,7 @@ Individual files:
 - [pali-lessons-answerkey.pdf](./includes/docs/pali-lessons-answerkey.pdf)
 - [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf)
 - [pali-readings.pdf](./includes/docs/pali-readings.pdf)
+- [pali-readings-answerkey.pdf](./includes/docs/pali-readings-answerkey.pdf)
 - [pali-lessons.apkg](./includes/docs/pali-lessons.apkg)
 - [pali-readings.apkg](./includes/docs/pali-readings.apkg)
 - [chanting-refcard.pdf](./includes/docs/chanting-refcard.pdf)
@@ -93,6 +94,8 @@ One lesson may take more than one session to study with a group. Someone familia
 [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf)
 
 [pali-readings.pdf](./includes/docs/pali-readings.pdf)
+
+[pali-readings-answerkey.pdf](./includes/docs/pali-readings-answerkey.pdf)
 
 A memory card deck for the [Anki application](https://apps.ankiweb.net/) is included below to help memorizing the vocabulary and sentences using the [Spaced Repetition](https://gwern.net/spaced-repetition) method.
 

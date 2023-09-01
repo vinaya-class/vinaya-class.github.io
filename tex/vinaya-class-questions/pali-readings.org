@@ -429,13 +429,14 @@ nisinnā kho cundī rājakumārī bhagavantaṁ etadavoca:
 #+end_spacedquote
 
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| kalandaka (m.)   | squirrel                 |
-| nivāpa (m.)      | bait; fodder; feeding    |
-| kumāra (m.)      | young boy; prince        |
-| kumārī (f.)      | young girl; princess     |
-| ratha (m.)       | chariot; coach; carriage |
-| kumārisata (nt.) | one hundred maidens      |
-| parivāreti       | surrounds, follows       |
+| veḷuvana (nt.) [veḷu + vana] | Bamboo Grove, a park outside Rājagaha; lit. bamboo forest |
+| kalandaka (m.)             | squirrel                                                  |
+| nivāpa (m.)                | bait; fodder; feeding                                     |
+| kumāra (m.)                | young boy; prince                                         |
+| kumārī (f.)                | young girl; princess                                      |
+| ratha (m.)                 | chariot; coach; carriage                                  |
+| kumārisata (nt.)           | one hundred maidens                                       |
+| parivāreti                 | surrounds, follows                                        |
 
 #+begin_spacedquote
 “Amhākaṁ, bhante, bhātā cundo nāma rājakumāro, so evamāha:
@@ -476,7 +477,7 @@ Kathaṁrūpesu sīlesu paripūrakārī ... no duggatin’”ti?
 #+end_spacedquote
 
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| sāhaṁ [so + ahaṁ]                     | then I; and I                                          |
+| sāhaṁ [sā + ahaṁ]                     | then I; and I                                          |
 | pucchati                              | asks; enquires; questions                              |
 | kathaṁrūpa                            | what kind?                                             |
 | satthari (m.) [√sās + tar + i]        | in the teacher; in the master                          |
@@ -658,7 +659,7 @@ aggappatto pamodatī”ti.
 #+latex: \renewcommand{\arraystretch}{1.6}
 
 #+ATTR_LATEX: :environment longtable
-| The Blessed One is staying in Rāgagaha.                                        |
+| The Blessed One is staying in Rājagaha.                                        |
 | \fillin{12cm}{bhagavā rājagahe viharati}                                       |
 | Cundī princess (/rājakumārī/) to the Blessed One said this ...                 |
 | \fillin{12cm}{cundī rājakumārī bhagavantaṁ etadavoca ...}                      |
@@ -691,6 +692,7 @@ aggappatto pamodatī”ti.
 
 ** Vocabulary                                                      :noexport:
 
+| Bamboo Grove, a park outside Rājagaha; lit. bamboo forest        | veḷuvana (nt.) [veḷu + vana]              |
 | squirrel                                                         | kalandaka (m.)                          |
 | bait; fodder; feeding                                            | nivāpa (m.)                             |
 | young boy; prince                                                | kumāra (m.)                             |

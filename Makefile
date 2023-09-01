@@ -69,7 +69,8 @@ pali-readings-pdf:
 	cd tex/vinaya-class-questions && \
 	make export-pali-readings && \
 	cd ../.. && \
-	./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings.tex
+	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings.tex && \
+	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings-answerkey.tex
 
 pali-lessons-anki-deck:
 	cp tex/vinaya-class-questions/exported/pali-lessons.apkg src/includes/docs/pali-lessons.apkg
