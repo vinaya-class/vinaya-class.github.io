@@ -47,13 +47,15 @@ Doesn't include animals smaller than visible to the naked eye. Doesn't include a
 
 Origin: Ven. Udāyin is killing crows by shooting them with arrows, cutting their heads off and putting them in a row on a stake. The Buddha scolds him, "How can you, foolish man, intentionally deprive a living thing of life? ..." ([Vibh. Pc 61](https://suttacentral.net/pli-tv-bu-vb-pc61/en/horner))
 
-Mercy killing by the owner, or euthanasia practices by vets fulfil effort. Having a pet means responsibility.
+Motive is irrelevant. Mercy killing by the owner, or euthanasia practices by vets fulfil effort. Having a pet means responsibility.
 
 An alternative possibility for example to crush morphine pills, dissolve in water and feed it to the animal when it is in pain.
 
 The local Animal Rights group may force the owner to allow the animal to be taken away and euthanised.
 
 Acting in doubt, going ahead anyway is dukkaṭa. Such as when the bhikkhu thinks that cleaning an item may or may not kill living beings. Trying carefully not to kill insects while cleaning is not an offense.
+
+Hitting an animal with the intention to kill it is a dukkaṭa offense. There is no offense if the intention was not to kill it, e.g. self-defense or warding off the animal.
 
 **Perception** is a factor. Stepping on a twig with the intention to crush a snake is dukkaṭa.
 
@@ -147,9 +149,11 @@ A specific command would be an offense ("dig a hole here"), but an indication ("
 \columnbreak
 -->
 
-To 'kappi' fruit is about the feelings of the donor, not killing the fruit or transfering kamma.
+To 'kappi' fruit is about the feelings of the donor, i.e. clarifying that they are not upset if the seeds get damaged.
 
-Knowingly eating un-kappied seeds is dukkaṭa.
+When lay people are not explained the reason, they tend to think they have to do something unwholesome, such as killing the fruit or taking on bad kamma, so that the bhikkhu doesn't have to do it.
+
+Knowingly eating un-kappied seeds is *dukkaṭa* only in the case when one is deliberately crushing the seeds. Cutting the seeds out or having no intention to crush them entails no offenses.
 
 Lighting a fire on the ground (*Pc 56*), it can damage or kill the plants and creatures living there.
 

@@ -61,26 +61,23 @@ Implicit or idiomatic:
 - 'I delight in an empty dwelling' (referring to jhāna)
 - 'I have no doubts about the Buddha's teaching' (referring to stream entry)
 
-Humblebrag:
+Gestures by agreement:
 
-- 'I am so dumb that before this retreat I didn't understand jhānas.'
-- 'I am a really slow learner, but I don't have any doubt that the Buddha is right.'
-- 'My meditation is nothing much, but you know, sometime you can see really interesting things...'
-
-Virtue signalling:
-
-- 'I have learnt to bow like this from a real Forest Kruba Ajahn.'
-- 'Those monks talk about football. How could they have even basic samādhi?'
+- 'The first who leaves their kuti is an arahant.'
 
 <!-- latex
 \clearpage
 -->
 
-Gestures by agreement:
+**False claims made in thought:**
 
-- 'The first who leaves their kuti is an arahant.'
+The general principle applies that the mere arising of a thought or mind-state is not an offense (See *Pr 2:* a bhikkhu, seeing an expensive garment, feels the desire to steal it).
 
-False claims made *in thought* are assigned a *dukkaṭa* by the Buddha. (Story: seen by a bhikkhu who could read minds and a devata.)
+Deliberately cultivating such thoughts or mind-states are nonetheless critized (e.g. one who might keep telling oneself 'I am stream-enterer, no matter what they say!').
+
+In some cases, false claims made in thought were assigned a *dukkaṭa* by the Buddha. See the [Vinītavatthu, case-studies under Pr 4:](https://suttacentral.net/pli-tv-bu-vb-pj4/en/brahmali) one bhikkhu rebuked by another bhikkhu who could read minds and, another bhikkhu rebuked by a devatā.
+
+> At one time a monk claimed a superhuman quality in private. A devatā rebuked him, saying, “No, Sir, you haven’t got it.” He became anxious … “There’s no offense entailing expulsion, but there’s an offense of wrong conduct (āpatti dukkaṭassa).”
 
 **Intention:** to misrepresent the truth, motivated by an evil desire.
 
@@ -105,18 +102,33 @@ Supporters may suggest states: 'We would like to invite four sotāpanna monks to
 
 There is no offense in coming, sitting, etc., as long as the intention is just to accept the invitation and not to imply a claim.
 
+<!-- latex
+\clearpage
+-->
+
 ### To impress
 
-Special practices (dhutaṅga, long periods of meditation, vegetarianism) out of the desire to impress others: dukkaṭa. Blameless reasons out of desire to practice are not an offense.
+Special practices (*dhutaṅga*, long periods of meditation, vegetarianism) out of the desire to impress others: *dukkaṭa*.
+
+Blameless reasons, out of the desire to practice are not an offense.
+
+Examples of **offensive non-offenses** which although don't fulfil the factor of Effort for *Pr 4*, are nonetheless motivated by the desire to win the respect or support of others thorough boasting.
+
+Humblebrag:
+
+- 'I am so dumb that before this retreat I didn't understand jhānas.'
+- 'I am a really slow learner, but I don't have any doubt that the Buddha is right.'
+- 'My meditation is nothing much, but you know, sometime you can see really interesting things...'
+
+Virtue signalling:
+
+- 'I have learnt to bow like this from a real Forest Kruba Ajahn.'
+- 'Those monks talk about football. How could they have even basic samādhi?'
 
 ### Non-offenses
 
 - mistaken and exaggerated understanding of one's mental states
 - not intending to boast, others trying to read a statement as an implied claim
-
-<!-- latex
-\clearpage
--->
 
 ## Pc 8, Telling unordained person about actual attainment
 
