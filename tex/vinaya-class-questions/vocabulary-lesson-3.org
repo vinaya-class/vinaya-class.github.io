@@ -264,7 +264,7 @@ Pāli Lessons::Lesson 3::1. Vocabulary
 | Like rivers full of water...                                                             | Yathā vārivahā pūrā...                                                   | s |
 | All the boys are crying.                                                                 | Sabbepime dārakā rodanti.                                                | s |
 | rice gruel; congee                                                                       | yāgu (f.)                                                                |   |
-| Give congee, give rice, give food!                                                       | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā!                           | s |
+| Give congee, give rice, give food!                                                       | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ detha!                           | s |
 | (1) death (2) schism; split; lit. breakup                                                | bheda (m.)                                                               |   |
 | He, from the breakup of the body, from after death...                                    | So, kāyassa bhedā, paraṁ maraṇā ...                                      | s |
 | enjoys; finds pleasure (in)                                                              | ramati                                                                   |   |
@@ -272,7 +272,7 @@ Pāli Lessons::Lesson 3::1. Vocabulary
 | really enjoying; very fond (of)                                                          | abhirata (adj. pp. of abhiramati)                                        |   |
 | first (1st); prime                                                                       | paṭhama (ord.)                                                            |   |
 | meditative calm; lit. meditating                                                         | jhāna (nt.)                                                              |   |
-| (Due to the) first jhāna there is delight in solitude.                                   | Paṭhamena jhānena suññāgāre abhirati.                                     | s |
+| (Due to the) first jhāna he delights in solitude (an empty dwelling).                    | Paṭhamena jhānena suññāgāre abhirati.                                     | s |
 | The elder goes to the village by air.                                                    | Thero ākāsena gāmaṁ gacchati.                                            | s |
 | A bhikkhu gives a bowl to a bhikkhu.                                                     | bhikkhu bhikkhussa pattaṁ deti                                           | s |
 | A bhikkhu walks to a village with a bhikkhunī.                                           | bhikkhu bhikkhuniyā gāmaṁ carati                                         | s |

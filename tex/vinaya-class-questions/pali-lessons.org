@@ -2740,14 +2740,14 @@ Possessive pronouns (genitive)
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| \fillin{8cm}{Like rivers full of water...}                           | Yathā vārivahā pūrā...                                       |
-| \fillin{8cm}{All the boys are crying:}                               | Sabbepime dārakā rodanti:                                    |
-| \fillin{8cm}{Give congee, give rice, give food!}                     | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ dethā.[fn:: Pc 65]   |
-| \fillin{8cm}{He, from the breakup of the body, from after death...}  | So, kāyassa bhedā (abl.), paraṁ maraṇā (abl.)...[fn:sn-42-3] |
-| \fillin{8cm}{(Due to the) first jhāna there is delight in solitude.} | Paṭhamena jhānena suññāgāre abhirati.[fn:: Pr 4, Pc 8]        |
-| The elder goes to the village by air.                                | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                  |
-| A bhikkhu gives a bowl to a bhikkhu.                                 | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
-| A bhikkhu walks to a village with a bhikkhunī.                       | \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}               |
+| \fillin{8cm}{Like rivers full of water...}                                          | Yathā vārivahā pūrā...                                       |
+| \fillin{8cm}{All the boys are crying:}                                              | Sabbepime dārakā rodanti:                                    |
+| \fillin{8cm}{Give congee, give rice, give food!}                                    | Yāguṁ detha, bhattaṁ detha, khādanīyaṁ detha![fn:: Pc 65]   |
+| \fillin{8cm}{He, from the breakup of the body, from after death...}                 | So, kāyassa bhedā (abl.), paraṁ maraṇā (abl.)...[fn:sn-42-3] |
+| \fillin{8cm}{(Due to the) first jhāna he delights in solitude (an empty dwelling).} | Paṭhamena jhānena suññāgāre abhirati.[fn:: Pr 4, Pc 8]        |
+| The elder goes to the village by air.                                               | \fillin{8cm}{Thero ākāsena gāmaṁ gacchati.}                  |
+| A bhikkhu gives a bowl to a bhikkhu.                                                | \fillin{8cm}{bhikkhu bhikkhussa pattaṁ deti}                 |
+| A bhikkhu walks to a village with a bhikkhunī.                                      | \fillin{8cm}{bhikkhu bhikkhuniyā gāmaṁ carati}               |
 
 #+latex: \begin{multicols}{2}
 

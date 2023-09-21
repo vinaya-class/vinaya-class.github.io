@@ -1,4 +1,4 @@
-% Created 2023-09-01 Fri 09:53
+% Created 2023-09-21 Thu 19:35
 % Intended LaTeX compiler: pdflatex
 \documentclass[11pt,oneside]{memoir}
 \input{./pali-lessons-preamble.tex}
@@ -38,16 +38,29 @@
 \newlength{\colOne}\setlength{\colOne}{0.35\linewidth}
 \newlength{\colTwo}\setlength{\colTwo}{0.6\linewidth}
 
-\chapter{Ratana Sutta Paritta (Snp 2.1)}
-\label{sec:org7dee0e3}
+\renewenvironment{quote}%
+{\list{}{%
+    \doubleLineSize
+    \listparindent 0pt
+    \itemindent    0pt
+    \leftmargin    3em
+    \rightmargin   3em
+    \parsep        0pt
+    \topsep        8pt
+    \partopsep     0pt}%
+\item[] \raggedright}%
+{\endlist}
 
-\begin{spacedquote}
+\chapter{Ratana Sutta Paritta (Snp 2.1)}
+\label{sec:org9d77ff4}
+
+\begin{quote}
 Yaṁ kiñci vittaṁ idha vā huraṁ vā, \\[0pt]
 Saggesu vā yaṁ ratanaṁ paṇītaṁ; \\[0pt]
 Na no samaṁ atthi tathāgatena, \\[0pt]
 Idampi buddhe ratanaṁ paṇītaṁ; \\[0pt]
 Etena saccena suvatthi hotu.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 yaṁ \ldots{} taṁ \ldots{} & what \ldots{} that \ldots{}\\[0pt]
@@ -62,13 +75,13 @@ sacca (nt.) & truth\\[0pt]
 suvatthi (f.) [su + √as + ti] & well being; prosperity\\[0pt]
 \end{longtable}
 
-\begin{spacedquote}
+\begin{quote}
 Khayaṁ virāgaṁ amataṁ paṇītaṁ, \\[0pt]
 Yadajjhagā sakyamunī samāhito; \\[0pt]
 Na tena dhammena samatthi kiñci, \\[0pt]
 Idampi dhamme ratanaṁ paṇītaṁ; \\[0pt]
 Etena saccena suvatthi hotu.
-\end{spacedquote}
+\end{quote}
 
 \enlargethispage{\baselineskip}
 
@@ -86,14 +99,14 @@ samāhita (pp. of samādahati) & composed; centred; settled\\[0pt]
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 Yaṁ buddhaseṭṭho parivaṇṇayī suciṁ, \\[0pt]
 Samādhimānantarikaññamāhu; \\[0pt]
 [samādhiṁ + ānantarikaṁ + yaṁ + āhu] \\[0pt]
 Samādhinā tena samo na vijjati, \\[0pt]
 Idampi dhamme ratanaṁ paṇītaṁ; \\[0pt]
 Etena saccena suvatthi hotu.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 seṭṭha (adj.) & (1) foremost; supreme; (2) chief; leader\\[0pt]
@@ -107,14 +120,14 @@ antara (nt.) & space between; interval; distance\\[0pt]
 vijjati [√vid + ya + ti] & (1) exists; is found; is present (2) is possible\\[0pt]
 \end{longtable}
 
-\begin{spacedquote}
+\begin{quote}
 Ye puggalā aṭṭha sataṁ pasatthā, \\[0pt]
 Cattāri etāni yugāni honti; \\[0pt]
 Te dakkhiṇeyyā sugatassa sāvakā, \\[0pt]
 Etesu dinnāni mahapphalāni; \\[0pt]
 Idampi saṅghe ratanaṁ paṇītaṁ, \\[0pt]
 Etena saccena suvatthi hotu.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 ye \ldots{} te \ldots{} & who \ldots{} they \ldots{}\\[0pt]
@@ -131,14 +144,14 @@ phala (nt.) & (1) fruit; berry (2) consequence; result\\[0pt]
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 Ye suppayuttā manasā daḷhena, \\[0pt]
 Nikkāmino gotamasāsanamhi; \\[0pt]
 Te pattipattā amataṁ vigayha, \\[0pt]
 Laddhā mudhā nibbutiṁ bhuñjamānā; \\[0pt]
 Idampi saṅghe ratanaṁ paṇītaṁ, \\[0pt]
 Etena saccena suvatthi hotu.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 payuñjati & harnesses; employs; applies\\[0pt]
@@ -161,14 +174,14 @@ bhuñjamāna (prp. of bhuñjati) & eating; consuming; enjoying\\[0pt]
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 Khīṇaṁ purāṇaṁ navaṁ natthi sambhavaṁ, \\[0pt]
 Virattacittāyatike bhavasmiṁ; \\[0pt]
 Te khīṇabījā avirūḷhichandā, \\[0pt]
 Nibbanti dhīrā yathāyaṁ padīpo; \\[0pt]
 Idampi saṅghe ratanaṁ paṇītaṁ, \\[0pt]
 Etena saccena suvatthi hotu.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 khīyati & is destroyed; is exhausted\\[0pt]
@@ -192,15 +205,15 @@ padīpa (m.) & lamp; light; lighting\\[0pt]
 \end{longtable}
 
 \chapter{Paṭhamabhavasutta (AN 3.76)}
-\label{sec:orge04d506}
+\label{sec:org22edd09}
 
 (\href{https://suttacentral.net/an3.76/pli/ms}{AN 3.76})
 
-\begin{spacedquote}
+\begin{quote}
 Atha kho āyasmā ānando yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ
 abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinno kho āyasmā ānando bhagavantaṁ
 etadavoca:
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 yena \ldots{} ten'upasaṅkamati (idiom) & wherever \ldots{} he approaches (him/it)\\[0pt]
@@ -211,13 +224,13 @@ vacati & speaks\\[0pt]
 avoca (aor. of vacati) & said (to)\\[0pt]
 \end{longtable}
 
-\begin{spacedquote}
+\begin{quote}
 “bhavo, bhavo'ti, bhante, vuccati. Kittāvatā nu kho, bhante, bhavo hotī”ti?
 
 “Kāmadhātuvepakkañca, ānanda, kammaṁ nābhavissa, api nu kho kāmabhavo paññāyethā”ti?
 
 “No hetaṁ, bhante”.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 bhava (m.) & being; becoming; existence\\[0pt]
@@ -238,11 +251,11 @@ paññāyetha (opt.reflx.3rd.sg. of paññāyeyya) & it itself would be evident;
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 “Iti kho, ānanda, kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho. Avijjānīvaraṇānaṁ
 sattānaṁ taṇhāsaṁyojanānaṁ hīnāya dhātuyā viññāṇaṁ
 patiṭṭhitaṁ\footnote{: \href{https://suttacentral.net/an3.77/en/sujato}{AN 3.77}: cetanā patiṭṭhitā patthanā patiṭṭhitā} evaṁ āyatiṁ punabbhavābhinibbatti hoti. (…)
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 khetta (nt.) & field; plot of land\\[0pt]
@@ -260,7 +273,7 @@ punabbhava (m.) & appearing again; renewed existence; rebirth; future life\\[0pt
 abhinibbatti (f.) & birth; becoming; production\\[0pt]
 \end{longtable}
 
-\begin{spacedquote}
+\begin{quote}
 Rūpadhātuvepakkañca, ānanda, kammaṁ nābhavissa, api nu kho rūpabhavo
 paññāyethā”ti?
 
@@ -278,19 +291,19 @@ paññāyethā”ti?
 “Iti kho, ānanda, kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho. Avijjānīvaraṇānaṁ
 sattānaṁ taṇhāsaṁyojanānaṁ paṇītāya dhātuyā viññāṇaṁ patiṭṭhitaṁ evaṁ āyatiṁ
 punabbhavābhinibbatti hoti. Evaṁ kho, ānanda, bhavo hotī”ti.
-\end{spacedquote}
+\end{quote}
 
 \chapter{Cundīsutta (AN 5.32)}
-\label{sec:orgdf6c05b}
+\label{sec:org99bf181}
 
 (\href{https://suttacentral.net/an5.32/en/sujato}{AN 5.32}, also in \href{https://suttacentral.net/iti90/en/thanissaro}{Iti 90}, \href{https://suttacentral.net/an4.34/en/sujato}{AN 4.34})
 
-\begin{spacedquote}
+\begin{quote}
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe. Atha kho cundī
 rājakumārī pañcahi rathasatehi pañcahi ca kumārisatehi parivutā yena bhagavā
 tenupasaṅkami; upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ
 nisinnā kho cundī rājakumārī bhagavantaṁ etadavoca:
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 veḷuvana (nt.) [veḷu + vana] & Bamboo Grove, a park outside Rājagaha; lit. bamboo forest\\[0pt]
@@ -303,7 +316,11 @@ kumārisata (nt.) & one hundred maidens\\[0pt]
 parivāreti & surrounds, follows\\[0pt]
 \end{longtable}
 
-\begin{spacedquote}
+
+\vspace*{-2\baselineskip}
+\enlargethispage{2\baselineskip}
+
+\begin{quote}
 “Amhākaṁ, bhante, bhātā cundo nāma rājakumāro, so evamāha:
 
 ‘yadeva so hoti itthī vā puriso vā
@@ -311,9 +328,7 @@ buddhaṁ saraṇaṁ gato, dhammaṁ saraṇaṁ gato, saṅghaṁ saraṇaṁ 
 pāṇātipātā paṭivirato, adinnādānā paṭivirato, kāmesumicchācārā paṭivirato,
 musāvādā paṭivirato, surāmerayamajjapamādaṭṭhānā paṭivirato,
 so kāyassa bhedā paraṁ maraṇā sugatiṁyeva upapajjati, no duggatin’ti.
-\end{spacedquote}
-
-\enlargethispage{2\baselineskip}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 bhātar (m.) & brother\\[0pt]
@@ -332,7 +347,7 @@ duggati (f.) & state of misery; bad destination; hell; lit. going badly\\[0pt]
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 Sāhaṁ, bhante, bhagavantaṁ pucchāmi:
 
 ‘kathaṁrūpe kho, bhante, satthari pasanno
@@ -340,7 +355,7 @@ kāyassa bhedā paraṁ maraṇā sugatiṁyeva upapajjati, no duggatiṁ?
 Kathaṁrūpe dhamme pasanno \ldots{}
 Kathaṁrūpe saṅghe pasanno \ldots{}
 Kathaṁrūpesu sīlesu paripūrakārī \ldots{} no duggatin’”ti?
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 sāhaṁ [sā + ahaṁ] & then I; and I\\[0pt]
@@ -352,13 +367,13 @@ paripūra (adj.) & full; filled up; complete\\[0pt]
 paripūrakārī (adj.) [paripūra + kārī] & who completely fulfils\\[0pt]
 \end{longtable}
 
-\begin{spacedquote}
+\begin{quote}
 “Yāvatā, cundi, sattā apadā vā dvipadā vā catuppadā vā bahuppadā vā rūpino vā
 arūpino vā saññino vā asaññino vā nevasaññināsaññino vā,
 tathāgato tesaṁ aggamakkhāyati arahaṁ sammāsambuddho.
 Ye kho, cundi, buddhe pasannā, agge te pasannā.
 Agge kho pana pasannānaṁ aggo vipāko hoti.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 yāvatā (ind.) [yāva + tā] & as long as; as far as; of all; to the extent that\\[0pt]
@@ -374,7 +389,7 @@ vipāka (m.) [vi + √pac + *a] & result; outcome; consequence; fruit; lit. ripe
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 Yāvatā, cundi, dhammā saṅkhatā, ariyo aṭṭhaṅgiko maggo tesaṁ aggamakkhāyati.
 Ye, cundi, ariye aṭṭhaṅgike magge pasannā, agge te pasannā.
 Agge kho pana pasannānaṁ aggo vipāko hoti.
@@ -390,7 +405,7 @@ yadidaṁ -- cattāri purisayugāni aṭṭha purisapuggalā, esa bhagavato sāv
 āhuneyyo pāhuneyyo dakkhiṇeyyo añjalikaraṇīyo anuttaraṁ puññakkhettaṁ lokassa.
 Ye kho, cundi, saṅghe pasannā, agge te pasannā.
 Agge kho pana pasannānaṁ aggo vipāko hoti.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 saṅkhata (pp. of saṅkharoti) & created; constructed; conditioned; fabricated; lit. put together\\[0pt]
@@ -409,13 +424,13 @@ sāvaka (m.) & disciple; pupil; follower\\[0pt]
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 Yāvatā, cundi, sīlāni, ariyakantāni sīlāni tesaṁ aggamakkhāyati, yadidaṁ --
 akhaṇḍāni acchiddāni asabalāni akammāsāni bhujissāni viññuppasatthāni
 aparāmaṭṭhāni samādhisaṁvattanikāni.
 Ye kho, cundi, ariyakantesu sīlesu paripūrakārino, agge te paripūrakārino.
 Agge kho pana paripūrakārīnaṁ aggo vipāko hotī'ti.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 kanta (adj.) & charming; pleasant; desirable; agreeable\\[0pt]
@@ -433,12 +448,12 @@ aparāmaṭṭha (pp. of na parāmasati) & irreproachable; untouchable; untarnis
 saṁvattanika (adj.) & leading (to); headed (to); conducive (to)\\[0pt]
 \end{longtable}
 
-\begin{spacedquote}
+\begin{quote}
 Aggato ve pasannānaṁ, \\[0pt]
 aggaṁ dhammaṁ vijānataṁ; \\[0pt]
 Agge buddhe pasannānaṁ, \\[0pt]
 dakkhiṇeyye anuttare.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 agga (adj.) & highest; supreme\\[0pt]
@@ -453,12 +468,12 @@ anuttara (adj.) & highest; unsurpassed; incomparable; lit. nothing higher\\[0pt]
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 Agge dhamme pasannānaṁ, \\[0pt]
 virāgūpasame sukhe; \\[0pt]
 Agge saṅghe pasannānaṁ, \\[0pt]
 puññakkhette anuttare.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 virāga (m.) & fading of desire (for); dispassion (towards)\\[0pt]
@@ -468,12 +483,12 @@ khetta (nt.) & field; plot of land\\[0pt]
 puññakkhetta (nt.) & field of merit\\[0pt]
 \end{longtable}
 
-\begin{spacedquote}
+\begin{quote}
 Aggasmiṁ dānaṁ dadataṁ, \\[0pt]
 aggaṁ puññaṁ pavaḍḍhati; \\[0pt]
 Aggaṁ āyu ca vaṇṇo ca, \\[0pt]
 yaso kitti sukhaṁ balaṁ.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 dadāti & gives; offers; donates\\[0pt]
@@ -487,12 +502,12 @@ kitti (f.) & fame; renown; celebrity\\[0pt]
 
 \clearpage
 
-\begin{spacedquote}
+\begin{quote}
 Aggassa dātā medhāvī, \\[0pt]
 aggadhammasamāhito; \\[0pt]
 Devabhūto manusso vā, \\[0pt]
 aggappatto pamodatī”ti.
-\end{spacedquote}
+\end{quote}
 
 \begin{longtable}{L{\colOne} L{\colTwo}}
 dātar (m.) & giver; donor; who gives\\[0pt]
@@ -509,7 +524,7 @@ muditā (f.) [√mud + ita + ā] & happiness (for); appreciation\\[0pt]
 \clearpage
 
 \section{Exercises}
-\label{sec:org2418cb4}
+\label{sec:org97336db}
 
 \renewcommand{\arraystretch}{1.6}
 
@@ -542,6 +557,376 @@ they fulfil (into, \emph{loc.}) the moral precepts\\[0pt]
 \fillin{12cm}{te sīlesu paripūrenti}\\[0pt]
 confident / faithful in the best teaching\\[0pt]
 \fillin{12cm}{agge dhamme pasannānaṁ}\\[0pt]
+\end{longtable}
+
+\normalArrayStrech
+
+\chapter{Indulgence in Pleasure}
+\label{sec:org5e0f134}
+\section{Two Kinds of Pleasant Feeling}
+\label{sec:org5c37e7f}
+
+\begin{quote}
+Sāmisaṁ vā sukhaṁ vedanaṁ vedayamāno ‘sāmisaṁ sukhaṁ vedanaṁ vedayāmī’ti pajānāti.
+
+Nirāmisaṁ vā sukhaṁ vedanaṁ vedayamāno ‘nirāmisaṁ sukhaṁ vedanaṁ vedayāmī’ti pajānāti. (\href{https://suttacentral.net/dn22/pli/ms}{DN 22})
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+sāmisa (adj.) [sa + āma + isa] & carnal; material; worldly; lit. with raw meat\\[0pt]
+nirāmisa (adj.) [nir + āma + isa] & not wordly; non-physical; spiritual\\[0pt]
+\end{longtable}
+
+\section{Pāsādikasutta (DN 29)}
+\label{sec:orga7d98bd}
+
+After the leader of the Jain sect, Nigaṇṭha Nāṭaputta died, his disciples are
+arguing and quarreling. Their lay supporters are disappointed in them and with a
+teaching poorly explained.
+
+Ven. Ānanda and the novice Cunda goes to tell the Buddha about it.
+
+He explains the various shortcomings of an incomplete spiritual path. One is fortunate
+(\emph{lābhā}) if one turns away from it. He explains the advantages of a complete
+teaching. One is fortunate if one practises following that system of training.
+
+Spiritual companions (\emph{sabrahmacārī}) should recite the teachings together
+(\emph{saṅgāyitabbadhamma}). They should reach agreement on correct understanding
+through discussion (\emph{saññāpetabbavidhi}).
+
+The Buddha gave teachings and made certain requisites allowable for the purpose of
+restrining defilements in the present and future.
+
+\begin{quote}
+Diṭṭhadhammikānaṁ cevāhaṁ, cunda, āsavānaṁ saṁvarāya dhammaṁ desemi;
+samparāyikānañca āsavānaṁ paṭighātāya.
+\end{quote}
+
+The Jain practice is characterized by deprivation and self-torment, which can be impressive to witness.
+Comparatively, the disciples of the Buddha are living in comfort.
+He responds to the possible criticism that the spiritual path he teaches indulges in worldly vices,
+while at the same time showing that this path cultivates the type of pleasant feelings
+which lead to awakening and liberation.
+
+\clearpage
+
+\subsection{Indulgence in pleasure (sukhallikānuyoga)}
+\label{sec:orga26b234}
+
+\begin{quote}
+Cattārome, cunda, sukhallikānuyogā hīnā gammā pothujjanikā anariyā
+anatthasaṁhitā na nibbidāya na virāgāya na nirodhāya na upasamāya na abhiññāya
+na sambodhāya na nibbānāya saṁvattanti. Katame cattāro?
+Idha, cunda, ekacco bālo pāṇe vadhitvā vadhitvā attānaṁ sukheti pīṇeti. [..]
+adinnaṁ ādiyitvā [\ldots{}] musā bhaṇitvā [\ldots{}]
+
+Puna caparaṁ, cunda, idhekacco pañcahi kāmaguṇehi samappito samaṅgībhūto paricāreti. [\ldots{}]
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+cattārome [cattāro + ime] & these four\\[0pt]
+sukhallikā (f.)  [√sukh + a + lla + ikā] & worldly pleasure; hedonism\\[0pt]
+anuyoga (m.) & practice of; devotion to; pursuit of; lit. yoking near\\[0pt]
+sukhallikānuyoga (m.) & devotion to pleasure\\[0pt]
+ekacca (pron.) & certain; one of; some of them\\[0pt]
+pāṇa (m.) & breath; living being\\[0pt]
+vadheti & kills; slaughters; slays\\[0pt]
+sukheti & makes happy\\[0pt]
+pīṇeti & gladdens; pleases; satisfies\\[0pt]
+ādiyati & (1) takes; grasps; embraces (2) steals; takes\\[0pt]
+bhaṇati & preaches\\[0pt]
+samappita (pp. of samappeti) & provided (with); filled (with); having\\[0pt]
+samaṅgībhūta (adj.) [samaṅga + bhūta] & endowed (with); provided (with); possessing\\[0pt]
+paricāreti & enjoys oneself; amuses oneself; indulges (in); lit. causes to go around\\[0pt]
+\end{longtable}
+
+\begin{quote}
+Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:
+
+‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+ṭhānaṁ vijjati (idiom) & it is possible; lit. a basis exists\\[0pt]
+tittha (nt.) & bank; shore; lit. crossing place\\[0pt]
+titthiya (m.) & teacher of another sect; lit. fording place\\[0pt]
+aññatitthiya (adj.) [añña + titthiya] & follower of another sect; lit. another fording place\\[0pt]
+anuyutta (adj.) & devoted to; practised; lit. yoked near\\[0pt]
+\end{longtable}
+
+\clearpage
+
+\begin{quote}
+Te vo ‘mā hevaṁ’ tissu vacanīyā. [Te vo 'mā hi evaṁ'iti assu vacanīyā.]
+
+Na te vo sammā vadamānā vadeyyuṁ, abbhācikkheyyuṁ asatā abhūtena.
+
+Cattārome, cunda, sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya upasamāya
+abhiññāya sambodhāya nibbānāya saṁvattanti. Katame cattāro?
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+tissu [iti + assu] & \\[0pt]
+vacanīya (ptp. of vacati) & should be said; should be answered\\[0pt]
+vadamāna (prp. of vadati) & speaking; saying\\[0pt]
+ācikkhati & informs; tells (to); talks about\\[0pt]
+abbhācikkhati [abhi + ācikkhati] & misrepresents; falsely accuses\\[0pt]
+asatā (ind.) [na + √as + a + tā] & falsely; unjustly; lit. as not being\\[0pt]
+abhūtena (ind.) [na + √bhū + ta + ena] & falsely; untruthfully; lit. with something nonexistent\\[0pt]
+ekantanibbidā (f.) & complete dis-enchantment; total disinterest; lit. only dispassion\\[0pt]
+\end{longtable}
+
+\begin{quote}
+Idha, cunda, bhikkhu vivicceva kāmehi vivicca akusalehi dhammehi savitakkaṁ
+savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati. Ayaṁ
+paṭhamo sukhallikānuyogo.
+
+Puna caparaṁ, cunda, bhikkhu vitakkavicārānaṁ vūpasamā
+ajjhattaṁ sampasādanaṁ cetaso ekodibhāvaṁ avitakkaṁ avicāraṁ samādhijaṁ pītisukhaṁ
+dutiyaṁ jhānaṁ upasampajja viharati. Ayaṁ dutiyo sukhallikānuyogo.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+√vic & (root) separate\\[0pt]
+viviccati [vi + √vic + ya + ti] & is separate (from); is detached (from); is disengaged (from)\\[0pt]
+vivicca (ger. of viviccati) & separating (from); aloof (from)\\[0pt]
+viveka (m.) [vi + √vic + *a] & (1) seclusion; solitude; detachment (2) discrimination; understanding\\[0pt]
+vivekaja (adj.) [viveka + ja] & born from seclusion; (or) born from discrimination\\[0pt]
+vūpasama (m.) & peace (of); calming (of); subsiding (of); settling (of)\\[0pt]
+ajjhatta (adj.) [adhi + atta] & inner; internal; personal; in oneself\\[0pt]
+pasīdati & (1) is bright; is calm; becomes clear (2) gains confidence; is inspired (3) is pleased; is happy; is appeased (4) settles down; subsides; calms down\\[0pt]
+sampasādana (nt. from sampasīdati) & calming; tranquillising; pacifying; settling\\[0pt]
+cetaso (m.) & of the mind; for (one having such a) mind\\[0pt]
+ekodibhāva (m.) [ekodi + bhāva] & singleness; integration; unification; lit. unified state\\[0pt]
+\end{longtable}
+
+\begin{quote}
+Puna caparaṁ, cunda, bhikkhu pītiyā ca virāgā
+upekkhako ca viharati, sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti,
+yaṁ taṁ ariyā ācikkhanti ‘upekkhako satimā sukhavihārī’ti
+tatiyaṁ jhānaṁ upasampajja viharati. Ayaṁ tatiyo sukhallikānuyogo.
+
+Puna caparaṁ, cunda, bhikkhu sukhassa ca pahānā dukkhassa ca pahānā
+pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipārisuddhiṁ
+catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ catuttho sukhallikānuyogo.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+upekkhaka (adj.) & balanced; equanimous; non-reactive; looking on; lit. onlooker\\[0pt]
+sampajāna (adj.) & clearly aware; fully knowing; completely comprehending\\[0pt]
+pahāna (nt. from pajahati) & giving up (of); letting go (of); removal (of); abandoning (of)\\[0pt]
+pubbeva [pubba + eva] & just before; previous to; as before\\[0pt]
+somanassa (nt.) [su + √man + as + *ya] & (mental) pleasure; happiness; joy\\[0pt]
+domanassa (nt.) & (mental) suffering; distress; depression; grief\\[0pt]
+atthaṁ gacchati (idiom) & disappears; dissolves; vanishes; lit. goes home\\[0pt]
+atthaṅgama (m.) [atthaṁ + gama] & disappearance; settling down; subsiding; lit. going home\\[0pt]
+upekkhāsatipārisuddhi (f.) & purification of awareness by equanimity\\[0pt]
+\end{longtable}
+
+\begin{quote}
+Ime kho, cunda, cattāro sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya
+upasamāya abhiññāya sambodhāya nibbānāya saṁvattanti.
+
+Ṭhānaṁ kho panetaṁ, cunda, vijjati yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:
+
+‘ime cattāro sukhallikānuyoge anuyuttā samaṇā sakyaputtiyā viharantī’ti.
+
+Te vo ‘evaṁ’ tissu vacanīyā. Sammā te vo vadamānā vadeyyuṁ, na te vo abbhācikkheyyuṁ asatā abhūtena.
+
+Sukhallikānuyogānisaṁsa
+
+Ṭhānaṁ kho panetaṁ, cunda, vijjati, yaṁ aññatitthiyā paribbājakā evaṁ vadeyyuṁ:
+
+‘ime panāvuso, cattāro sukhallikānuyoge anuyuttānaṁ viharataṁ kati phalāni katānisaṁsā pāṭikaṅkhā’ti?
+
+Evaṁvādino, cunda, aññatitthiyā paribbājakā evamassu vacanīyā:
+\end{quote}
+
+\clearpage
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+ānisaṁsa (m.) & benefit (in); good result (of)\\[0pt]
+kati (pron.) [ka + ti] & How many?\\[0pt]
+paṭikaṅkhati & anticipates; expects; awaits; wishes for\\[0pt]
+pāṭikaṅkha (adj. ptp. of paṭikaṅkhati) & to be expected; can be anticipated; lit. to be wished\\[0pt]
+\end{longtable}
+
+\begin{quote}
+‘ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṁ viharataṁ cattāri phalāni
+cattāro ānisaṁsā pāṭikaṅkhā. Katame cattāro?
+
+Idhāvuso, bhikkhu tiṇṇaṁ saṁyojanānaṁ parikkhayā sotāpanno hoti avinipātadhammo
+niyato sambodhiparāyaṇo. Idaṁ paṭhamaṁ phalaṁ, paṭhamo ānisaṁso.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+saṁyojana (nt.) & fetter; chain; bond; lit. yoking together\\[0pt]
+parikkhaya (m.) & exhaustion; slow destruction; extinction; depletion\\[0pt]
+sotāpanna (adj.) [sota + āpanna] & who has entered the stream\\[0pt]
+vinipāta (m.) & state of suffering; purgatory; underworld; lit. bad fall\\[0pt]
+avinipātadhamma (adj.) & not liable to states of suffering; lit. not bad fall nature\\[0pt]
+niyata (adj.) & (1) controlled; restrained (2) certain; unavoidable; of fixed destiny; lit. controlled down\\[0pt]
+parāyaṇa (adj.) & destined (for); culminating (in); going towards; lit. going beyond\\[0pt]
+sambodhiparāyaṇa (adj.) & destined for full awakening\\[0pt]
+\end{longtable}
+
+\begin{quote}
+Puna caparaṁ, āvuso, bhikkhu tiṇṇaṁ saṁyojanānaṁ parikkhayā rāgadosamohānaṁ
+tanuttā sakadāgāmī hoti, sakideva imaṁ lokaṁ āgantvā dukkhassantaṁ karoti. Idaṁ
+dutiyaṁ phalaṁ, dutiyo ānisaṁso.
+
+Puna caparaṁ, āvuso, bhikkhu pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā
+opapātiko hoti, tattha parinibbāyī anāvattidhammo tasmā lokā. Idaṁ tatiyaṁ
+phalaṁ, tatiyo ānisaṁso.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+tanutta (nt.) & reduction; diminution; decrease; lit. thinness; thin state\\[0pt]
+sakadāgāmī (adj.) & once-returner\\[0pt]
+sakideva [saki + eva] & only once; just one time\\[0pt]
+dukkhassanta (m.) [dukkhassa + anta] & end of suffering\\[0pt]
+orambhāgiya (adj.) & lower; lit. connected to the lower part\\[0pt]
+opapātika (adj.) & spontaneously reborn; spontaneously generated\\[0pt]
+anāvattidhamma (adj.) & not destined to return; lit. non-returning nature\\[0pt]
+\end{longtable}
+
+\begin{quote}
+Puna caparaṁ, āvuso, bhikkhu āsavānaṁ khayā anāsavaṁ cetovimuttiṁ paññāvimuttiṁ
+diṭṭheva dhamme sayaṁ abhiññā sacchikatvā upasampajja viharati. Idaṁ catutthaṁ
+phalaṁ catuttho ānisaṁso.
+
+Ime kho, āvuso, cattāro sukhallikānuyoge anuyuttānaṁ viharataṁ imāni cattāri
+phalāni, cattāro ānisaṁsā pāṭikaṅkhā’ti.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+anāsava (adj.) & taint-less; undefiled\\[0pt]
+cetovimuttī (adj.) & liberated by mind\\[0pt]
+paññāvimuttī (adj.) & liberated by wisdom\\[0pt]
+sayaṁ (ind.) & by one’s own; oneself; one’s own\\[0pt]
+abhiññā (f.) & direct knowledge; higher understanding; lit. complete knowledge\\[0pt]
+\end{longtable}
+
+\section{Jhānādisutta (SN 53.1-12)}
+\label{sec:orgac4b7b9}
+
+\begin{quote}
+Seyyathāpi, bhikkhave, gaṅgā nadī pācīnaninnā pācīnapoṇā pācīnapabbhārā;
+
+evameva kho, bhikkhave, bhikkhu cattāro jhāne bhāvento cattāro jhāne
+bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+nadī (f.) & river\\[0pt]
+pācīna (adj.) & eastern\\[0pt]
+ninna (adj.) & sloping towards; inclining to; lit. bent down\\[0pt]
+poṇa (adj.) & sloping down to; inclining down to; leading to\\[0pt]
+pabbhāra (adj.) & sloping towards; inclining towards; leading to\\[0pt]
+pabbhāra (m.) & mountain side; mountain slope\\[0pt]
+\end{longtable}
+
+\clearpage
+
+\section{Cetanākaraṇīyasutta (AN 10.2)}
+\label{sec:org7c6e09f}
+
+\begin{quote}
+“Sīlavato, bhikkhave, sīlasampannassa na cetanāya karaṇīyaṁ: ‘avippaṭisāro me
+uppajjatū’ti. Dhammatā esā, bhikkhave, yaṁ sīlavato sīlasampannassa avippaṭisāro
+uppajjati.
+
+Avippaṭisārissa, bhikkhave, na cetanāya karaṇīyaṁ: ‘pāmojjaṁ me uppajjatū’ti.
+Dhammatā esā, bhikkhave, yaṁ avippaṭisārissa pāmojjaṁ jāyati.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+sīlavata (nt.) & precepts and practices; ethics and observances\\[0pt]
+sampanna (adj.) & (1) fully grown; ripe; lit. succeeded (2) accomplished (in); fulfilled\\[0pt]
+sīlasampanna (adj.) & accomplished in virtue; lit. succeeded in behaviour\\[0pt]
+cetanā (f.) & intending; willing\\[0pt]
+karaṇīya (nt. / ptp.) & (1) duty; obligation; lit. to be done (2) should be done\\[0pt]
+vippaṭisāra (m.) & remorse; regret; lit. remembering back negatively\\[0pt]
+pāmojja (nt.) & joy; happiness; gladness\\[0pt]
+\end{longtable}
+
+\begin{quote}
+Sīlavato \ldots{}
+avippaṭisāro \ldots{}
+pāmojjaṁ jāyati \ldots{}
+pīti uppajjati \ldots{}
+kāyo passambhati \ldots{}
+sukhaṁ vediyati \ldots{}
+cittaṁ samādhiyati \ldots{}
+yathābhūtaṁ jānāti passati \ldots{}
+nibbindati virajjati \ldots{}
+vimuttiñāṇadassanaṁ sacchikaroti.
+
+Iti kho, bhikkhave, nibbidāvirāgo vimuttiñāṇadassanattho vimuttiñāṇadassanānisaṁso;
+
+yathābhūtañāṇadassanaṁ nibbidāvirāgatthaṁ nibbidāvirāgānisaṁsaṁ;
+
+samādhi \ldots{} sukhaṁ \ldots{} passaddhi \ldots{} pīti \ldots{} pāmojjaṁ \ldots{} avippaṭisāro \ldots{}
+
+kusalāni sīlāni avippaṭisāratthāni avippaṭisārānisaṁsāni.
+
+Iti kho, bhikkhave, dhammā dhamme abhisandenti, dhammā dhamme paripūrenti apārā pāraṁ gamanāyā”ti.
+\end{quote}
+
+\begin{longtable}{L{\colOne} L{\colTwo}}
+attha & (8) for the purpose of; for the sake of; for the benefit of\\[0pt]
+passambhati [pa + √sambh + a + ti] & calms down; relaxes; becomes quiet\\[0pt]
+passaddhi (f.) [pa + √sambh + ti] & calmness; tranquillity; peace; stillness; serenity\\[0pt]
+abhisandeti & fills up; fills to the brim; overflows; lit. causes to overflow\\[0pt]
+apāra (nt.) & near shore\\[0pt]
+pāra (nt.) & far shore\\[0pt]
+gamanāya (nt.) & to go (to); for going to see; for visiting\\[0pt]
+\end{longtable}
+
+\clearpage
+
+\section{Exercises}
+\label{sec:org6df3ef6}
+
+\vspace*{-0.5\baselineskip}
+\enlargethispage{2\baselineskip}
+\renewcommand{\arraystretch}{1.4}
+
+\begin{longtable}{l}
+This bhikkhu comes from the town Ericeira.\\[0pt]
+\fillin{12cm}{Eso bhikkhu Ericeira nigamasmā āgacchati.}\\[0pt]
+He needed food (there was a need), and a coffee-drink.\\[0pt]
+\fillin{12cm}{Attho maṁ bhattena ca kāphī-pānena ca. / Bhattañca kāphī-pānañca attho hoti.}\\[0pt]
+Having walked for alms,\\[0pt]
+\fillin{12cm}{(So,) Piṇḍāya caritvā,}\\[0pt]
+he gained (\emph{labbhati}) many fruits and a coffe-drink from lay supporters.\\[0pt]
+\fillin{12cm}{bahu phalāni ca kāphī-pānañca upāsakehi labbhati.}\\[0pt]
+From here, he goes to the eating-hall to eat.\\[0pt]
+\fillin{12cm}{Tato dāna-sālaṁ / bhattaggaṁ bhuñjituṁ gacchati.}\\[0pt]
+After the meal, the hall should be swept.\\[0pt]
+\fillin{12cm}{Pacchābhattaṁ, taṇṭhānaṁ / dāna-sālaṁ sammajjitabbaṁ.}\\[0pt]
+Having eaten, having entered his hut, he meditates (\emph{jhāyati}).\\[0pt]
+\fillin{12cm}{Bhuñjitvā, so kuṭiṁ pavisitvā, jhāyati.}\\[0pt]
+The lay woman offers many material (\emph{āmisa}) offerings for the support of the holy life.\\[0pt]
+\fillin{12cm}{Upāsikā / -āyo bahu āmisā dānā deti brahmacariyānuggahāya.}\\[0pt]
+He understands that pleasant feeling.\\[0pt]
+\fillin{12cm}{So taṁ sukhaṁ vedanaṁ pajānāti.}\\[0pt]
+The Blessed One teaches the Teaching for the restraint of defilements.\\[0pt]
+\fillin{12cm}{Bhagavā āsavānaṁ saṁvarāya dhammaṁ deseti.}\\[0pt]
+Someone (\emph{ekacca}), the fool, having killed (\emph{vadhitvā}) breathing-things, makes himself happy (\emph{sukheti}).\\[0pt]
+\fillin{12cm}{Ekacco bālo pāṇe vadhitvā attānaṁ sukheti.}\\[0pt]
+And further, here someone, with the five strands of sensuality amuses himself (\emph{paricāreti}).\\[0pt]
+\fillin{12cm}{Puna caparaṁ, idhekacco pañcahi kāmaguṇehi attānaṁ paricāreti.}\\[0pt]
+It doesn't lead to disenchantment and dispassion.\\[0pt]
+\fillin{12cm}{Na nibbidāya na virāgāya saṁvattati.}\\[0pt]
+Sectarians (gone-forth) might / could speak like this:\\[0pt]
+\fillin{12cm}{Paribbājakā evaṁ vadeyyuṁ:}\\[0pt]
+We don't see the advantages (\emph{ānisaṁsa}) in this Discipline of the Noble Ones.\\[0pt]
+\fillin{12cm}{Na passāma ānisaṁsā ete ariyassa vinaye.}\\[0pt]
+For one of excellent morality (\emph{sīlasampanna}), non-remorse (\emph{avippaṭisāra}) arises.\\[0pt]
+\fillin{12cm}{Yaṁ sīlasampannassa avippaṭisāro uppajjati.}\\[0pt]
+For one of non-remorse, gladness (\emph{pāmojja}) is born.\\[0pt]
+\fillin{12cm}{Yaṁ avippaṭisārissa pāmojjaṁ jāyati.}\\[0pt]
 \end{longtable}
 
 \normalArrayStrech
