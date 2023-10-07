@@ -1,6 +1,7 @@
 # -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
 #+LATEX_CLASS: memoir
 #+LATEX_HEADER: \input{./pali-lessons-preamble.tex}
+#+LATEX_HEADER: \maxtocdepth{section}
 #+LANGUAGE: en_GB
 #+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{}
 #+TITLE: Pali Readings
@@ -866,7 +867,7 @@ aggappatto pamodatī”ti.
 | is happy; enjoys himself; rejoices                               | modati [√mud + *a + ti]                 |
 | happiness (for); appreciation                                    | muditā (f.) [√mud + ita + ā]            |
 
-* Indulgence in Pleasure
+* Indulgence in Pleasure (1)
 ** Two Kinds of Pleasant Feeling
 
 #+begin_quote
@@ -998,6 +999,58 @@ dutiyaṁ jhānaṁ upasampajja viharati. Ayaṁ dutiyo sukhallikānuyogo.
 | cetaso (m.)                        | of the mind; for (one having such a) mind                                                                             |
 | ekodibhāva (m.) [ekodi + bhāva]    | singleness; integration; unification; lit. unified state                                                              |
 
+\clearpage
+
+** Exercises
+
+#+latex: \vspace*{-0.5\baselineskip}
+#+latex: \enlargethispage{2\baselineskip}
+#+latex: \renewcommand{\arraystretch}{1.4}
+
+#+ATTR_LATEX: :environment longtable
+| This bhikkhu comes from the town Ericeira.                                                                  |
+| \fillin{12cm}{Eso bhikkhu Ericeira nigamasmā āgacchati.}                                                    |
+| He needed food (there was a need), and a coffee-drink.                                                      |
+| \fillin{12cm}{Attho maṁ bhattena ca kāphī-pānena ca. / Bhattañca kāphī-pānañca attho hoti.}                 |
+| Having walked for alms,                                                                                     |
+| \fillin{12cm}{(So,) Piṇḍāya caritvā,}                                                                        |
+| he gained (/labbhati/) many fruits and a coffe-drink from lay supporters.                                   |
+| \fillin{12cm}{bahu phalāni ca kāphī-pānañca upāsakehi labbhati.}                                            |
+| From here, he goes to the eating-hall to eat.                                                               |
+| \fillin{12cm}{Tato dāna-sālaṁ / bhattaggaṁ bhuñjituṁ gacchati.}                                            |
+| After the meal, the hall should be swept.                                                                   |
+| \fillin{12cm}{Pacchābhattaṁ, taṇṭhānaṁ / dāna-sālaṁ sammajjitabbaṁ.}                                       |
+| Having eaten, having entered his hut, he meditates (/jhāyati/).                                             |
+| \fillin{12cm}{Bhuñjitvā, so kuṭiṁ pavisitvā, jhāyati.}                                                      |
+| The lay woman offers many material (/āmisa/) offerings for the support of the holy life.                    |
+| \fillin{12cm}{Upāsikā / -āyo bahu āmisā dānā deti brahmacariyānuggahāya.}                                   |
+| He understands that pleasant feeling.                                                                       |
+| \fillin{12cm}{So taṁ sukhaṁ vedanaṁ pajānāti.}                                                             |
+| The Blessed One teaches the Teaching for the restraint of defilements.                                      |
+| \fillin{12cm}{Bhagavā āsavānaṁ saṁvarāya dhammaṁ deseti.}                                                  |
+| Someone (/ekacca/), the fool, having killed (/vadhitvā/) breathing-things, makes himself happy (/sukheti/). |
+| \fillin{12cm}{Ekacco bālo pāṇe vadhitvā attānaṁ sukheti.}                                                   |
+| And further, here someone, with the five strands of sensuality amuses himself (/paricāreti/).               |
+| \fillin{12cm}{Puna caparaṁ, idhekacco pañcahi kāmaguṇehi attānaṁ paricāreti.}                               |
+| It doesn't lead to disenchantment and dispassion.                                                           |
+| \fillin{12cm}{Na nibbidāya na virāgāya saṁvattati.}                                                         |
+| Sectarians (gone-forth) might / could speak like this:                                                      |
+| \fillin{12cm}{Paribbājakā evaṁ vadeyyuṁ:}                                                                   |
+| We don't see the advantages (/ānisaṁsa/) in this Discipline of the Noble Ones.                              |
+| \fillin{12cm}{Na passāma ānisaṁsā ete ariyassa vinaye.}                                                     |
+| For one of excellent morality (/sīlasampanna/), non-remorse (/avippaṭisāra/) arises.                         |
+| \fillin{12cm}{Yaṁ sīlasampannassa avippaṭisāro uppajjati.}                                                  |
+| For one of non-remorse, gladness (/pāmojja/) is born.                                                       |
+| \fillin{12cm}{Yaṁ avippaṭisārissa pāmojjaṁ jāyati.}                                                         |
+
+#+latex: \normalArrayStrech
+
+* Indulgence in Pleasure (2)
+** Pāsādikasutta, cont. (DN 29)
+
+#+latex: \vspace*{-1.5\baselineskip}
+#+latex: \enlargethispage{\baselineskip}
+
 #+begin_quote
 Puna caparaṁ, cunda, bhikkhu pītiyā ca virāgā
 upekkhako ca viharati, sato ca sampajāno, sukhañca kāyena paṭisaṁvedeti,
@@ -1009,6 +1062,8 @@ pubbeva somanassadomanassānaṁ atthaṅgamā adukkhamasukhaṁ upekkhāsatipā
 catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ catuttho sukhallikānuyogo.
 #+end_quote
 
+#+latex: \vspace*{-0.5\baselineskip}
+
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
 | upekkhaka (adj.)                       | balanced; equanimous; non-reactive; looking on; lit. onlooker  |
 | sampajāna (adj.)                       | clearly aware; fully knowing; completely comprehending                  |
@@ -1019,6 +1074,8 @@ catutthaṁ jhānaṁ upasampajja viharati. Ayaṁ catuttho sukhallikānuyogo.
 | atthaṁ gacchati (idiom)                | disappears; dissolves; vanishes; lit. goes home                         |
 | atthaṅgama (m.) [atthaṁ + gama]        | disappearance; settling down; subsiding; lit. going home            |
 | upekkhāsatipārisuddhi (f.)             | purification of awareness by equanimity                                 |
+
+#+latex: \vspace*{-1.5\baselineskip}
 
 #+begin_quote
 Ime kho, cunda, cattāro sukhallikānuyogā ekantanibbidāya virāgāya nirodhāya
@@ -1100,6 +1157,51 @@ phalāni, cattāro ānisaṁsā pāṭikaṅkhā’ti.
 | sayaṁ (ind.)        | by one’s own; oneself; one’s own                                |
 | abhiññā (f.)        | direct knowledge; higher understanding; lit. complete knowledge |
 
+\clearpage
+
+** Exercises
+
+#+latex: \vspace*{-0.5\baselineskip}
+#+latex: \enlargethispage{2\baselineskip}
+#+latex: \renewcommand{\arraystretch}{1.4}
+
+#+ATTR_LATEX: :environment longtable
+| Friend, let us go to the Bamboo Grove.                                          |
+| \fillin{12cm}{Āvuso, veḷuvanaṁ gacchāma.}                                        |
+| I will not go, but let the master go.                                           |
+| \fillin{12cm}{Ahaṁ na gacchissāmi, kho pana / atha kho ayyo gacchatu.}          |
+| It is going to rain, the master should take an umbrella.                        |
+| \fillin{12cm}{Devo vassissati, ayyo chattaṁ hareyya / haratu.}                  |
+| Don't forget (neglect) your sandals.                                            |
+| \fillin{12cm}{Tumhākaṁ upāhanāyo / pādukāyo mā ariñcasi.}                       |
+| Welcome Sir. You seem tired, (body/limbs) covered with veins.                   |
+| \fillin{12cm}{Svāgataṁ bhante. Tumhe kilantaṁ dissati, dhamanisanthataṁ.}      |
+| Having returned, I will prepare a cup of juice for you.                         |
+| \fillin{12cm}{Paccāgantvā, tuyhaṁ udaka'mallako / yūsaṁ / pānaṁ paṭiyādessāmi.} |
+| Good idea (well-thought). You are an intelligent man.                           |
+| \fillin{12cm}{Sucintitaṁ. Tumhe eko puriso paṇḍito / medhāvī.}                  |
+| Where is the sugar or honey?                                                    |
+| \fillin{12cm}{Kattha phāṇitaṁ vā madhuṁ vā?}                                    |
+| I'm sorry. We don't have. / There isn't.                                        |
+| \fillin{12cm}{Khamāpana / Vippaṭisāraṁ. Mayaṁ na labhāma. / Etaṁ natthi.}       |
+| Never mind. I will drink it without sugar.                                      |
+| \fillin{12cm}{Tiṭṭhatu. Ahaṁ taṁ phāṇitaṁ vinā pivissāmi.}                      |
+| Please give me the bean-broth (i.e. soya milk).                                 |
+| \fillin{12cm}{Detha me muggayūsaṁ.}                                             |
+| Sir, is this your cup?                                                          |
+| \fillin{12cm}{Bhante, imaṁ mallakaṁ tumhākaṁ / mallako āyasmatassa?}           |
+| No, friend. My cup is here. That is yours.                                      |
+| \fillin{12cm}{No hetaṁ āvuso. Mama mallako idhāsi. Taṁ tumhākaṁ.}              |
+| Please wash this cup and spoon.                                                 |
+| \fillin{12cm}{Dhovetha imaṁ mallakañca dabbiñca / kaṭacchuñca.}                 |
+| Thank you friend, I am delighted.                                               |
+| \fillin{12cm}{Anumodāmi, ayaṁ pamodito / pamudito.}                             |
+| May you abide equanimous, mindful and happy.                                    |
+| \fillin{12cm}{Upekkhako sato sukhito viharatu.}                                 |
+
+#+latex: \normalArrayStrech
+
+* Indulgence in Pleasure (3)
 ** Jhānādisutta (SN 53.1-12)
 
 # https://suttacentral.net/sn53.1-12/pli/ms
@@ -1118,8 +1220,6 @@ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 | poṇa (adj.)      | sloping down to; inclining down to; leading to |
 | pabbhāra (adj.) | sloping towards; inclining towards; leading to |
 | pabbhāra (m.)   | mountain side; mountain slope                  |
-
-\clearpage
 
 ** Cetanākaraṇīyasutta (AN 10.2)
 
@@ -1177,47 +1277,8 @@ Iti kho, bhikkhave, dhammā dhamme abhisandenti, dhammā dhamme paripūrenti ap�
 
 \clearpage
 
-** Exercises
+** Exercises                                                       :noexport:
 
-#+latex: \vspace*{-0.5\baselineskip}
-#+latex: \enlargethispage{2\baselineskip}
-#+latex: \renewcommand{\arraystretch}{1.4}
+I’ve done some work. But while working my body got tired. I’d better have a lie down.
 
-#+ATTR_LATEX: :environment longtable
-| This bhikkhu comes from the town Ericeira.                                                                  |
-| \fillin{12cm}{Eso bhikkhu Ericeira nigamasmā āgacchati.}                                                    |
-| He needed food (there was a need), and a coffee-drink.                                                      |
-| \fillin{12cm}{Attho maṁ bhattena ca kāphī-pānena ca. / Bhattañca kāphī-pānañca attho hoti.}                 |
-| Having walked for alms,                                                                                     |
-| \fillin{12cm}{(So,) Piṇḍāya caritvā,}                                                                        |
-| he gained (/labbhati/) many fruits and a coffe-drink from lay supporters.                                   |
-| \fillin{12cm}{bahu phalāni ca kāphī-pānañca upāsakehi labbhati.}                                            |
-| From here, he goes to the eating-hall to eat.                                                               |
-| \fillin{12cm}{Tato dāna-sālaṁ / bhattaggaṁ bhuñjituṁ gacchati.}                                            |
-| After the meal, the hall should be swept.                                                                   |
-| \fillin{12cm}{Pacchābhattaṁ, taṇṭhānaṁ / dāna-sālaṁ sammajjitabbaṁ.}                                       |
-| Having eaten, having entered his hut, he meditates (/jhāyati/).                                             |
-| \fillin{12cm}{Bhuñjitvā, so kuṭiṁ pavisitvā, jhāyati.}                                                      |
-| The lay woman offers many material (/āmisa/) offerings for the support of the holy life.                    |
-| \fillin{12cm}{Upāsikā / -āyo bahu āmisā dānā deti brahmacariyānuggahāya.}                                   |
-| He understands that pleasant feeling.                                                                       |
-| \fillin{12cm}{So taṁ sukhaṁ vedanaṁ pajānāti.}                                                             |
-| The Blessed One teaches the Teaching for the restraint of defilements.                                      |
-| \fillin{12cm}{Bhagavā āsavānaṁ saṁvarāya dhammaṁ deseti.}                                                  |
-| Someone (/ekacca/), the fool, having killed (/vadhitvā/) breathing-things, makes himself happy (/sukheti/). |
-| \fillin{12cm}{Ekacco bālo pāṇe vadhitvā attānaṁ sukheti.}                                                   |
-| And further, here someone, with the five strands of sensuality amuses himself (/paricāreti/).               |
-| \fillin{12cm}{Puna caparaṁ, idhekacco pañcahi kāmaguṇehi attānaṁ paricāreti.}                               |
-| It doesn't lead to disenchantment and dispassion.                                                           |
-| \fillin{12cm}{Na nibbidāya na virāgāya saṁvattati.}                                                         |
-| Sectarians (gone-forth) might / could speak like this:                                                      |
-| \fillin{12cm}{Paribbājakā evaṁ vadeyyuṁ:}                                                                   |
-| We don't see the advantages (/ānisaṁsa/) in this Discipline of the Noble Ones.                              |
-| \fillin{12cm}{Na passāma ānisaṁsā ete ariyassa vinaye.}                                                     |
-| For one of excellent morality (/sīlasampanna/), non-remorse (/avippaṭisāra/) arises.                         |
-| \fillin{12cm}{Yaṁ sīlasampannassa avippaṭisāro uppajjati.}                                                  |
-| For one of non-remorse, gladness (/pāmojja/) is born.                                                       |
-| \fillin{12cm}{Yaṁ avippaṭisārissa pāmojjaṁ jāyati.}                                                         |
-
-#+latex: \normalArrayStrech
-
+‘ahaṁ kho kammaṁ akāsiṁ. Kammaṁ kho pana me karontassa kāyo kilanto. Handāhaṁ nipajjāmī’ti.
