@@ -54,7 +54,7 @@ Pāli Readings::2. Paṭhamabhavasutta (AN 3.76)::1. Vocabulary
 
 Pāli Readings::3. Cundīsutta (AN 5.32)::1. Vocabulary
 * Further quotes                                                   :noexport:
-** Related to Paṭhamabhavasutta (AN 3.76)                          :noexport:
+** Related to Paṭhamabhavasutta (AN 3.76)
 
 Upayo, bhikkhave, avimutto, anupayo vimutto. Rūpupayaṁ vā, bhikkhave, viññāṇaṁ
 tiṭṭhamānaṁ tiṭṭheyya, rūpārammaṇaṁ rūpappatiṭṭhaṁ nandūpasecanaṁ vuddhiṁ
@@ -112,7 +112,7 @@ two sources of dukkha
 - one only needs to be looked at (anupekkati?)
 - one should be gone against to stop it
 
-** Similes to the Hindrances                                       :noexport:
+** Similes to the Hindrances
 
 ([[https://suttacentral.net/dn2/pli/ms][DN 2]])
 
@@ -157,6 +157,33 @@ sabbāvato kāyassa vivekajena pītisukhena apphuṭaṁ hoti.
 # Quite secluded from sensual pleasures, secluded from unskillful qualities, they
 # enter and remain in the first absorption, which has the rapture and bliss born
 # of seclusion, while placing the mind and keeping it connected.
+** Related to jhāna
+
+uid:sn36.15/en/sujato
+
+#+begin_quote
+Atha kho panānanda, mayā anupubbasaṅkhārānaṁ nirodho akkhāto.
+#+end_quote
+
+uid:sn22.43/pli/ms
+
+#+begin_quote
+Tesaṁ pahānā na paritassati, aparitassaṁ sukhaṁ viharati, sukhavihārī bhikkhu ‘tadaṅganibbuto’ti vuccati.
+#+end_quote
+
+The passage about the jhanas and samapattis is here:
+
+uid:mn52/en/sujato
+
+#+begin_quote
+so iti paṭisañcikkhati – ‘idampi paṭhamaṃ jhānaṃ abhisaṅkhataṃ abhisañcetayitaṃ. yaṃ kho pana kiñci abhisaṅkhataṃ abhisañcetayitaṃ tadaniccaṃ nirodhadhamma’nti pajānāti.
+#+end_quote
+
+Notice the typo in the quote:
+
+It should read
+nirodhadhamman’ti
+
 * Ratana Sutta Paritta (Snp 2.1)
 
 #+begin_quote
@@ -1220,6 +1247,7 @@ bahulīkaronto nibbānaninno hoti nibbānapoṇo nibbānapabbhāro.
 | poṇa (adj.)      | sloping down to; inclining down to; leading to |
 | pabbhāra (adj.) | sloping towards; inclining towards; leading to |
 | pabbhāra (m.)   | mountain side; mountain slope                  |
+| bhāventa        | (prp. of bhāveti) cultivating; developing      |
 
 ** Cetanākaraṇīyasutta (AN 10.2)
 
@@ -1277,8 +1305,304 @@ Iti kho, bhikkhave, dhammā dhamme abhisandenti, dhammā dhamme paripūrenti ap�
 
 \clearpage
 
-** Exercises                                                       :noexport:
+** Exercises
 
-I’ve done some work. But while working my body got tired. I’d better have a lie down.
+**Break down the sentence and fill out the details where applicable. (pos = part of speech)**
 
-‘ahaṁ kho kammaṁ akāsiṁ. Kammaṁ kho pana me karontassa kāyo kilanto. Handāhaṁ nipajjāmī’ti.
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+Iti ajjhattaṁ vā dhammesu dhammānupassī viharati, bahiddhā vā dhammesu
+dhammānupassī viharati, ajjhattabahiddhā vā dhammesu dhammānupassī viharati.
+Samudaya-dhammānupassī vā dhammesu viharati, vaya-dhammānupassī vā dhammesu
+viharati, samudaya-vaya-dhammānupassī vā dhammesu viharati.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word          | pos                  |                         | meaning                          | construction           |
+|---------------+----------------------+-------------------------+----------------------------------+------------------------|
+| Iti           | ind                  |                         | this                             |                        |
+| ajjhattaṁ     | ind                  | adv.acc.sg.             | internally                       | adhi + atta            |
+| → ajjhatta    | adj                  |                         | internal                         |                        |
+| vā            | ind                  | conj.                   | or                               |                        |
+| dhammesu      | noun                 | masc.loc.pl.            | in mental phenomena              |                        |
+| dhammānupassī | adj                  |                         | observing phenomena              | dhamma + anupassī      |
+| → anupassī    | adj                  |                         | observing                        | anupassati             |
+| → anupassati  | verb                 | pr.3rd.sg.              | sees; observes                   |                        |
+| viharati,     | \fillin{1.5cm}{verb} | \fillin{2cm}{pr.3rd.sg} | \fillin{4cm}{dwells}             | \fillin{4cm}{}         |
+| bahiddhā      | \fillin{1.5cm}{ind}  | \fillin{2cm}{adv.}      | \fillin{4cm}{externally}         | \fillin{4cm}{bahiddha} |
+| → bahiddha    | \fillin{1.5cm}{adj}  | \fillin{2cm}{}          | \fillin{4cm}{external}           | \fillin{4cm}{}         |
+| samudaya      | \fillin{1.5cm}{noun} | \fillin{2cm}{masc.}     | \fillin{4cm}{origin; appearance} | \fillin{4cm}{}         |
+| vaya          | \fillin{1.5cm}{noun} | \fillin{2cm}{masc.}     | \fillin{4cm}{dissolution}        | \fillin{4cm}{}         |
+
+‘Atthi dhammā’ti vā panassa sati paccupaṭṭhitā hoti
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word           | pos                    |                                | meaning                                   | construction                  |
+|----------------+------------------------+--------------------------------+-------------------------------------------+-------------------------------|
+| ‘Atthi         | \fillin{1.5cm}{verb}   | \fillin{2cm}{pr.3rd.pl.}       | \fillin{4cm}{there are}                   | \fillin{4cm}{√as + ti}        |
+| dhammā         | \fillin{1.5cm}{noun}   | \fillin{2cm}{masc.pl.}         | \fillin{4cm}{mental phenomena}            | \fillin{4cm}{}                |
+| ’ti            | \fillin{1.5cm}{ind}    | \fillin{2cm}{}                 | \fillin{4cm}{quote mark}                  | \fillin{4cm}{iti}             |
+| vā             | \fillin{1.5cm}{ind}    | \fillin{2cm}{conj.}            | \fillin{4cm}{or}                          | \fillin{4cm}{}                |
+| panassa        | \fillin{1.5cm}{sandhi} | \fillin{2cm}{}                 | \fillin{4cm}{and for him}                 | \fillin{4cm}{pana + assa}     |
+| → pana         | \fillin{1.5cm}{ind}    | \fillin{2cm}{}                 | \fillin{4cm}{moreover; and so}            | \fillin{4cm}{}                |
+| → assa         | \fillin{1.5cm}{pron}   | \fillin{2cm}{masc.dat.}        | \fillin{4cm}{for him}                     | \fillin{4cm}{ima + ssa}       |
+| sati           | \fillin{1.5cm}{noun}   | \fillin{2cm}{fem.nom.sg.}      | \fillin{4cm}{mindfulness}                 | \fillin{4cm}{}                |
+| paccupaṭṭhitā   | \fillin{1.5cm}{adj}    | \fillin{2cm}{pp.; fem.nom.sg.} | \fillin{4cm}{is present; is established}  | \fillin{4cm}{pati + upaṭṭhāti} |
+| → paccupaṭṭhāti | \fillin{1.5cm}{verb}   | \fillin{2cm}{pr.3rd.sg.}       | \fillin{4cm}{attends to}                  | \fillin{4cm}{}                |
+| → upaṭṭhāti     | \fillin{1.5cm}{verb}   | \fillin{2cm}{pr.3rd.sg.}       | \fillin{4cm}{is nearby; lit. stands near} | \fillin{4cm}{}                |
+| hoti           | \fillin{1.5cm}{verb}   | \fillin{2cm}{pr.3rd.sg.}       | \fillin{4cm}{is; exists}                  | \fillin{4cm}{√hū + a + ti}    |
+
+yāvadeva ñāṇamattāya paṭissatimattāya
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word            | pos                    |                           | meaning                                      | construction              |
+|-----------------+------------------------+---------------------------+----------------------------------------------+---------------------------|
+| yāvadeva        | \fillin{1.5cm}{sandhi} | \fillin{2cm}{}            | \fillin{4cm}{only for; as much as}           | \fillin{4cm}{yāva + eva}  |
+| ñāṇamattāya      | \fillin{1.5cm}{noun}   | \fillin{2cm}{fem.dat.sg.} | \fillin{4cm}{for a degree of (mere) knowing} | \fillin{4cm}{}            |
+| → ñāṇa           | \fillin{1.5cm}{noun}   | \fillin{2cm}{nt.}         | \fillin{4cm}{knowledge; understanding}       | \fillin{4cm}{}            |
+| → mattā         | \fillin{1.5cm}{noun}   | \fillin{2cm}{}            | \fillin{4cm}{quantity; degree of}            | \fillin{4cm}{}            |
+| paṭissatimattāya | \fillin{1.5cm}{noun}   | \fillin{2cm}{fem.dat.sg.} | \fillin{4cm}{for a degree of mindfulness}    | \fillin{4cm}{}            |
+| → paṭissati      | \fillin{1.5cm}{noun}   | \fillin{2cm}{fem.}        | \fillin{4cm}{self-awareness; remembering}    | \fillin{4cm}{pati + sati} |
+
+anissito ca viharati, na ca kiñci loke upādiyati.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word        | pos                  |                            | meaning                             | construction                 |
+|-------------+----------------------+----------------------------+-------------------------------------+------------------------------|
+| anissito    | \fillin{1.5cm}{adj}  | \fillin{2cm}{pp.neg.nom.}  | \fillin{4cm}{detached; independent} | \fillin{4cm}{a + nissita}    |
+| → nissayati | \fillin{1.5cm}{verb} | \fillin{2cm}{pr.3rd.sg.}   | \fillin{4cm}{depends on; relies on} | \fillin{4cm}{}               |
+| ca          | \fillin{1.5cm}{ind}  | \fillin{2cm}{conj.}        | \fillin{4cm}{and}                   | \fillin{4cm}{}               |
+| viharati,   | \fillin{1.5cm}{verb} | \fillin{2cm}{pr.3rd.sg.}   | \fillin{4cm}{dwells}                | \fillin{4cm}{}               |
+| na          | \fillin{1.5cm}{ind}  | \fillin{2cm}{neg.}         | \fillin{4cm}{not}                   | \fillin{4cm}{}               |
+| ca          | \fillin{1.5cm}{ind}  | \fillin{2cm}{conj.}        | \fillin{4cm}{and}                   | \fillin{4cm}{}               |
+| kiñci       | \fillin{1.5cm}{ind}  | \fillin{2cm}{}             | \fillin{4cm}{something; anything}   | \fillin{4cm}{ka + iṁ + ci}   |
+| loke        | \fillin{1.5cm}{noun} | \fillin{2cm}{masc.loc.sg.} | \fillin{4cm}{in the world}          | \fillin{4cm}{}               |
+| upādiyati.  | \fillin{1.5cm}{verb} | \fillin{2cm}{pr.3rd.sg.}   | \fillin{4cm}{grasps; clings to}     | \fillin{4cm}{upa + ādiyati}  |
+| → ādiyati   | \fillin{1.5cm}{verb} | \fillin{2cm}{pr.3rd.sg.}   | \fillin{4cm}{takes; grasps}         | \fillin{4cm}{√ādā + ya + ti} |
+
+#+latex: \normalArrayStrech
+
+\clearpage
+
+* Pabbajitaabhiṇhasutta (AN 10.48)
+
+**Break down the sentence and fill out the details where applicable. (pos = part of speech)**
+
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+'Dasayime, bhikkhave, dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā. Katame dasa?
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word              | pos                    |                              | meaning                                | construction                              |
+|-------------------+------------------------+------------------------------+----------------------------------------+-------------------------------------------|
+| Dasayime,         | \fillin{1.5cm}{sandhi} | \fillin{2cm}{}               | \fillin{4cm}{these ten}                | \fillin{4cm}{dasa + ime}                  |
+| bhikkhave,        | \fillin{1.5cm}{noun}   | \fillin{2cm}{masc.voc.pl.}   | \fillin{4cm}{monks!}                   | \fillin{4cm}{}                            |
+| dhammā            | \fillin{1.5cm}{noun}   | \fillin{2cm}{masc.nom.pl.}   | \fillin{4cm}{things, qualities}        | \fillin{4cm}{}                            |
+| pabbajitena       | \fillin{1.5cm}{noun}   | \fillin{2cm}{masc.instr.sg.} | \fillin{4cm}{by a monastic / exiled}   | \fillin{4cm}{pp. of pabbajati}            |
+| abhiṇhaṁ          | \fillin{1.5cm}{ind}    | \fillin{2cm}{}               | \fillin{4cm}{continuously; repeatedly} | \fillin{4cm}{}                            |
+| paccavekkhitabbā. | \fillin{1.5cm}{adj}    | \fillin{2cm}{ptp.}           | \fillin{4cm}{should be reviewed}       | \fillin{4cm}{pati + ava + √ikkh + itabba} |
+| → ikkhati         | \fillin{1.5cm}{verb}   | \fillin{2cm}{}               | \fillin{4cm}{looks at}                 | \fillin{4cm}{}                            |
+| Katame            | \fillin{1.5cm}{pron}   | \fillin{2cm}{nt.nom.pl.}     | \fillin{4cm}{Which one (of many)?}     | \fillin{4cm}{ka + tama}                   |
+| dasa?             | \fillin{1.5cm}{ord}    | \fillin{2cm}{}               | \fillin{4cm}{ten}                      | \fillin{4cm}{}                            |
+
+‘Vevaṇṇiyamhi ajjhupagato’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word           | pos                  |                     | meaning                                    | construction                                      |
+|----------------+----------------------+---------------------+--------------------------------------------+---------------------------------------------------|
+| ‘Vevaṇṇiyamhi  | \fillin{1.5cm}{}     | \fillin{2cm}{}      | \fillin{4cm}{I am not coloured}            | \fillin{4cm}{vevaṇṇiya + amhi}                    |
+| → vevaṇṇiya    | \fillin{1.5cm}{}     | \fillin{2cm}{nt.}   | \fillin{4cm}{change of social order}       | \fillin{4cm}{lit. discolouration; removed colour} |
+| → vaṇṇa        | \fillin{1.5cm}{noun} | \fillin{2cm}{masc.} | \fillin{4cm}{colour; appearance}           | \fillin{4cm}{lit. cover}                          |
+| ajjhupagato’ti | \fillin{1.5cm}{pp.}  | \fillin{2cm}{}      | \fillin{4cm}{who has reached / arrived at} | \fillin{4cm}{adhi + upagata}                      |
+
+‘Parapaṭibaddhā me jīvikā’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word           | pos                  |                    | meaning                                                  | construction             |
+|----------------+----------------------+--------------------+----------------------------------------------------------+--------------------------|
+| ‘Parapaṭibaddhā | \fillin{1.5cm}{adj}  | \fillin{2cm}{}     | \fillin{4cm}{bound to other people; supported by others} | \fillin{4cm}{}           |
+| → para         | \fillin{1.5cm}{pron} | \fillin{2cm}{}     | \fillin{4cm}{other; another person}                      |                          |
+| → paṭibandhati  | \fillin{1.5cm}{verb} | \fillin{2cm}{}     | \fillin{4cm}{attaches; binds (onto); lit. ties back}     | \fillin{4cm}{}           |
+| me             | \fillin{1.5cm}{pron} | \fillin{2cm}{}     | \fillin{4cm}{my; mine}                                   | \fillin{4cm}{}           |
+| jīvikā’ti      | \fillin{1.5cm}{noun} | \fillin{2cm}{fem.} | \fillin{4cm}{livelihood; way of life}                    | \fillin{4cm}{√jīv + ikā} |
+
+\clearpage
+
+‘Añño me ākappo karaṇīyo’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word            | pos                   |                            | meaning                             | construction   |
+|-----------------+-----------------------+----------------------------+-------------------------------------+----------------|
+| ‘Añño           | \fillin{1.5cm}{pron}  | \fillin{2cm}{nom.}         | \fillin{4cm}{another; other}        | \fillin{4cm}{} |
+| me              | \fillin{1.5cm}{pron}  | \fillin{2cm}{}             | \fillin{4cm}{my; mine}              | \fillin{4cm}{} |
+| ākappo          | \fillin{1.5cm}{noun}  | \fillin{2cm}{masc.nom.sg.} | \fillin{4cm}{conduct; behaviour}    | \fillin{4cm}{} |
+| karaṇīyo’ti     | \fillin{1.5cm}{adj}   | \fillin{2cm}{}             | \fillin{4cm}{should be done}        | \fillin{4cm}{} |
+| → yogo karaṇīyo | \fillin{1.5cm}{idiom} | \fillin{2cm}{}             | \fillin{4cm}{effort should be made} | \fillin{4cm}{} |
+
+‘Kacci nu kho me attā sīlato na upavadatī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word          | pos                   |                            | meaning                                              | construction   |
+|---------------+-----------------------+----------------------------+------------------------------------------------------+----------------|
+| ‘Kacci nu kho | \fillin{1.5cm}{idiom} | \fillin{2cm}{}             | \fillin{4cm}{Is it so? Perhaps?}                     | \fillin{4cm}{} |
+| me            | \fillin{1.5cm}{pron}  | \fillin{2cm}{}             | \fillin{4cm}{me; mine}                               | \fillin{4cm}{} |
+| attā          | \fillin{1.5cm}{noun}  | \fillin{2cm}{masc.nom.pl.} | \fillin{4cm}{self}                                   | \fillin{4cm}{} |
+| sīlato        | \fillin{1.5cm}{noun}  | \fillin{2cm}{nt.abl.}      | \fillin{4cm}{from/about my conduct}                  | \fillin{4cm}{} |
+| na            | \fillin{1.5cm}{neg}   | \fillin{2cm}{}             | \fillin{4cm}{}                                       | \fillin{4cm}{} |
+| upavadatī’ti  | \fillin{1.5cm}{verb}  | \fillin{2cm}{}             | \fillin{4cm}{blames; criticizes; finds fault (with)} | \fillin{4cm}{} |
+
+‘Kacci nu kho maṁ anuvicca viññū sabrahmacārī sīlato na upavadantī’ti pabbajitena abhiṇhaṁ \\
+paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word          | pos                   |                            | meaning                                              | construction                     |
+|---------------+-----------------------+----------------------------+------------------------------------------------------+----------------------------------|
+| ‘Kacci nu kho | \fillin{1.5cm}{idiom} | \fillin{2cm}{}             | \fillin{4cm}{Is it so? Perhaps?}                     | \fillin{4cm}{}                   |
+| maṁ           | \fillin{1.5cm}{pron}  | \fillin{2cm}{}             | \fillin{4cm}{me; mine}                               | \fillin{4cm}{}                   |
+| anuvicca      | \fillin{1.5cm}{adj}   | \fillin{2cm}{ger.}         | \fillin{4cm}{investigating; finding out}             | \fillin{4cm}{anuvijjati}         |
+| viññū         | \fillin{1.5cm}{adj}   | \fillin{2cm}{}             | \fillin{4cm}{wise; intelligent}                      | \fillin{4cm}{}                   |
+| sabrahmacārī  | \fillin{1.5cm}{noun}  | \fillin{2cm}{masc.nom.pl.} | \fillin{4cm}{holy co-travellers}                     | \fillin{4cm}{sa + brahma + cārī} |
+| sīlato        | \fillin{1.5cm}{noun}  | \fillin{2cm}{nt.abl.}      | \fillin{4cm}{from/about my conduct}                  | \fillin{4cm}{}                   |
+| na            | \fillin{1.5cm}{neg}   | \fillin{2cm}{}             | \fillin{4cm}{}                                       | \fillin{4cm}{}                   |
+| upavadantī’ti | \fillin{1.5cm}{verb}  | \fillin{2cm}{}             | \fillin{4cm}{blames; criticizes; finds fault (with)} | \fillin{4cm}{}                   |
+
+\clearpage
+
+‘Sabbehi me piyehi manāpehi nānābhāvo vinābhāvo’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word         | pos |   | meaning | construction |
+|--------------+-----+---+---------+--------------|
+| ‘Sabbehi     |     |   |         |              |
+| me           |     |   |         |              |
+| piyehi       |     |   |         |              |
+| manāpehi     |     |   |         |              |
+| nānābhāvo    |     |   |         |              |
+| vinābhāvo’ti |     |   |         |              |
+
+‘Kammassakomhi kammadāyādo kammayoni kammabandhu kammapaṭisaraṇo,
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word            | pos |   | meaning | construction |
+|-----------------+-----+---+---------+--------------|
+| ‘Kammassakomhi  |     |   |         |              |
+| → kammasaka     |     |   |         |              |
+| kammadāyādo     |     |   |         |              |
+| → dāyāda        |     |   |         |              |
+| kammayoni       |     |   |         |              |
+| → yoni          |     |   |         |              |
+| kammabandhu     |     |   |         |              |
+| → bandhu        |     |   |         |              |
+| kammapaṭisaraṇo, |     |   |         |              |
+| → paṭisaraṇa     |     |   |         |              |
+
+yaṁ kammaṁ karissāmi kalyāṇaṁ vā pāpakaṁ vā tassa dāyādo bhavissāmī’ti pabbajitena abhiṇhaṁ \\
+paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word          | pos |   | meaning | construction |
+|---------------+-----+---+---------+--------------|
+| yaṁ           |     |   |         |              |
+| kammaṁ        |     |   |         |              |
+| karissāmi     |     |   |         |              |
+| kalyāṇaṁ      |     |   |         |              |
+| vā            |     |   |         |              |
+| pāpakaṁ       |     |   |         |              |
+| vā            |     |   |         |              |
+| tassa         |     |   |         |              |
+| dāyādo        |     |   |         |              |
+| bhavissāmī’ti |     |   |         |              |
+
+‘Kathaṁbhūtassa me rattindivā vītivattantī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word            | pos |   | meaning | construction |
+|-----------------+-----+---+---------+--------------|
+| ‘Kathaṁbhūtassa |     |   |         |              |
+| me              |     |   |         |              |
+| rattindivā      |     |   |         |              |
+| → ratta         |     |   |         |              |
+| → divā          |     |   |         |              |
+| vītivattantī’ti |     |   |         |              |
+| → vītivattati   |     |   |         |              |
+| → vattati       |     |   |         |              |
+| → vītipatati    |     |   |         |              |
+| → patati        |     |   |         |              |
+
+‘Kacci nu kho'haṁ suññāgāre abhiramāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word          | pos |   | meaning | construction |
+|---------------+-----+---+---------+--------------|
+| ‘Kacci nu kho |     |   |         |              |
+| 'haṁ          |     |   |         |              |
+| suññāgāre     |     |   |         |              |
+| → agāra       |     |   |         |              |
+| abhiramāmī’ti |     |   |         |              |
+| → ramati      |     |   |         |              |
+
+\clearpage
+
+‘Atthi nu kho me uttari manussadhammā alamariya-ñāṇadassana-viseso adhigato,
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word          | pos |   | meaning | construction |
+|---------------+-----+---+---------+--------------|
+| ‘Atthi nu kho |     |   |         |              |
+| me            |     |   |         |              |
+| uttari        |     |   |         |              |
+| manussadhammā |     |   |         |              |
+| alamariya     |     |   |         |              |
+| ñāṇadassana   |     |   |         |              |
+| viseso        |     |   |         |              |
+| adhigato,     |     |   |         |              |
+
+so'haṁ pacchime kāle sabrahmacārīhi puṭṭho na maṅku bhavissāmī’ti pabbajitena abhiṇhaṁ \\
+paccavekkhitabbaṁ.
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{1.5cm} L{2cm} L{4cm} L{4cm}
+| word           | pos |   | meaning | construction |
+|----------------+-----+---+---------+--------------|
+| so'haṁ         |     |   |         |              |
+| pacchime       |     |   |         |              |
+| kāle           |     |   |         |              |
+| sabrahmacārīhi |     |   |         |              |
+| puṭṭho          |     |   |         |              |
+| na             |     |   |         |              |
+| maṅku          |     |   |         |              |
+| bhavissāmī’ti  |     |   |         |              |
+
+Ime kho, bhikkhave, dasa dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā'ti.
+
+#+latex: \normalArrayStrech
+
+* Ekavihāra                                                        :noexport:
+
+\clearpage
+
+\vspace*{2\baselineskip}
+
+*Ekavihāriyattheragāthā (Thag 10.2)*
+
+\vspace*{1\baselineskip}
+
+“Purato pacchato vāpi,\\
+aparo ce na vijjati;\\
+Atīva phāsu bhavati,\\
+ekassa vasato vane.
+
+[...]
+
+Mālute upavāyante,\\
+sīte surabhigandhike;\\
+Avijjaṁ dālayissāmi,\\
+nisinno nagamuddhani.
+
+[...]
+
+Sohaṁ paripuṇṇasaṅkappo,\\
+cando pannaraso yathā;\\
+Sabbāsavaparikkhīṇo,\\
+natthi dāni punabbhavo”ti.
+
+* Exercises                                                        :noexport:
+

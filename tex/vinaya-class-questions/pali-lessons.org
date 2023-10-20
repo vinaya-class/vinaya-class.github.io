@@ -21,6 +21,9 @@
 
 }
 
+\newlength{\colOne}\setlength{\colOne}{0.35\linewidth}
+\newlength{\colTwo}\setlength{\colTwo}{0.6\linewidth}
+
 \bigskip
 \tableofcontents*
 
@@ -2979,7 +2982,7 @@ I want another thing.
 
 \cleartonewsheet
 
-* Lesson 4                                                         :noexport:
+* Lesson 4
 ** Review Exercises
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -2989,18 +2992,616 @@ I want another thing.
 | Bahuṁ ve saraṇaṁ yanti pabbatāni vanāni ca. (Dhp 188)                                     |
 | \fillin{12cm}{To many refuges they go, to mountains and forest glades.}                   |
 | Anissito ca viharati, na ca kiñci loke upādiyati. (DN 22)                                 |
-| \fillin{12cm}{They dwell detached, not grasping at anything in the world.}                |
+| \fillin{12cm}{He dwells detached, not grasping at anything in the world.}                 |
+| If the cooks here would not cook, where should we go to eat?                              |
+| \fillin{12cm}{Sace sūdā idha na paceyyuṁ, kuhiṁ bhuñjituṁ gaccheyyāma?}                   |
+| Go and converse with the wise man.                                                        |
+| \fillin{8cm}{Gacchatha, paṇḍitena saddhiṁ sallapatha.}                                    |
+
+#+latex: \normalArrayStrech
+
+\bigskip
 
 /ramati:/ enjoys; takes delight (in) \\
 /yanti:/ they go \\
 /pabbata:/ nt. mountain; hill \\
 /vana:/ nt. wood; forest; grove \\
 /anissita:/ pp. of [na + nissayati]; detached (from); disengaged (from) \\
-/upādiyati:/ grasps; holds (onto); takes possession (of); lit. takes near
+/upādiyati:/ grasps; holds (onto); takes possession (of); lit. takes near \\
+/sallapati:/ talks; speaks; converses
+
+\clearpage
+
+** Adverbs of Place
+
+*-ttha "place"*
+
+| ta    | that       | + ttha | tattha (tatra) | there          |
+| ima   | this       | + ttha | ettha          | here           |
+| ya    | whatever   | + ttha | yattha (yatra) | wherever       |
+| ka    | what?      | + ttha | kattha         | where?         |
+| sabba | all, every | + ttha | sabbattha      | everywhere     |
+| eka   | one        | + ttha | ekattha        | in one place   |
+| añña  | another    | + ttha | aññattha       | somewhere else |
+
+*-to "from a place"*
+
+| ka      | what?    | + to | kuto      | from where               |
+| ta      | that     | + to | tato      | from there               |
+| eka     | one      | + to | ekato     | from one side            |
+| pari    | around   | + to | parito    | from all around          |
+| pura    | in front | + to | purato    | in front of              |
+| samanta | all      | + to | samantato | from all every direction |
+
+*-hiṁ*
+
+| ka     | what?    | + hiṁ | kuhiṁ | where?   |
+| ta     | that     | + hiṁ | tahiṁ | there    |
+| ya     | whatever | + hiṁ | yahiṁ | wherever |
+
+\clearpage
+
+** Past Participle (-ta, -ita, -na)
+
+# Maitreya: Lesson 15, p.43
+# Bodhirasa: Class
+
+Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi rules complicate the exact forms.
+
+| rukkho patito                     | the fallen tree                      |
+| antarāyiko dhammo vutto bhagavatā | said to be an obstacle by the Buddha |
+| Pubbe'bhinno mallako.             | The cup is already broken.           |
+
+\null
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Icchitaṃ patthitaṃ tumhaṃ khippameva samijjhatu.          |
+| \fillin{12cm}{May your hopes and wishes succeed quickly.} |
+| 'Kālo, bhante, niṭṭhitaṁ bhattan'ti.                       |
+| \fillin{12cm}{Sir, it's time. The meal is ready.}         |
+
+#+latex: \normalArrayStrech
+
+\bigskip
+
+#+begin_twocols
+/patito:/ pp.nom. of /patati/\\
+/vutto:/ pp.nom. of /vacati/\\
+/icchati:/ wants; desires\\
+
+\columnbreak
+
+/pattheti:/ wishes (for)\\
+/khippaṁ:/ ind. quickly\\
+/samijjhati:/ achieves; succeeds \\
+/niṭṭhāti:/ finished; completed; ready; prepared
+#+end_twocols
+
+When the subject is in instrumental case, the past participle is passive.
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| \fillin{8cm}{Migo purisena diṭṭho.}                | The deer (/miga/) was seen by the man.                     |
+| \fillin{8cm}{Vyādhena hataṁ migaṁ ahaṁ passāmi.} | I see the deer killed (/hata/) by the huntsman (/vyādha/). |
+| \fillin{8cm}{Gāmamhā āgataṁ purisaṁ na passāmi.}  | I do not see the man that has come from the village.       |
+
+#+latex: \normalArrayStrech
+
+Some frequent examples:
+
+#+begin_widecols
+
+| bhavati   | √bhū  | to be      | bhūta            | became      |
+| passati   | √dis  | to see     | di\textbf{ṭṭ}ha   | seen        |
+| gacchati  | √gam  | to go      | gata             | gone        |
+| karoti    | √kar  | to do      | kata             | done        |
+| labhati   | √labh | to get     | la\textbf{dd}ha  | received    |
+| jānāti    | √ñā   | to know    | ñāta             | known       |
+| bhāsati   | √bhās | to speak   | bhāsita          | spoken      |
+| pabbajati | √vaj  | to go on   | pabbajita        | ordained    |
+| ṭhahati    | √ṭhā   | to stand   | ṭhita             | stood       |
+
+\columnbreak
+
+| bhāveti   | √bhū  | bhāve      | bhāvita          | developed   |
+| deseti    | √dis  | dese       | desita           | preached    |
+| passati   | √dis  | passa      | passita          | seen        |
+| vedayati  | √vid  | vedaya     | vedayita         | experienced |
+| chindati  | √chid | to cut     | chi\textbf{nn}a  | cut         |
+| khīyati   | √khī  | to destroy | khīna            | destroyed   |
+| nisīdati  | √sad  | to sink    | nisi\textbf{nn}a | seated      |
+| pajahati  | √hā   | to abandon | pah\textbf{ī}na  | abandoned   |
+
+#+end_widecols
+
+#+latex: \clearpage
+
+** Aorist Past Tense
+
+# Bodhirasa: Class 4
+# Maitreya: Lesson 8
+
+#+latex: {\centering\par
+#+latex: \begin{multicols}{2}
+
+Verbal terminations:
+
+|       | *sg.*  | *pl.*            |
+| *1st* | -iṁ    | -(i)mhā, -(i)mha |
+| *2nd* | -o, -i | -(i)ttha         |
+| *3rd* | -i     | -(i)ṁsu, -uṁ     |
+
+#+latex: \columnbreak
+
+Root: /√dhāv/ (to run), base: /dhāva/
+
+|       | *sg.*          | *pl.*              |
+| *1st* | adhāviṁ        | adhāvimhā          |
+| *2nd* | adhāvo, adhāvi | adhāvittha         |
+| *3rd* | adhāvi         | adhāviṁsu, adhāvuṁ |
+
+#+latex: \end{multicols}
+#+latex: \par}
+
+The /a-/ is prefixed to the verbs, but optionally it may be dropped, e.g.
+/dhāviṁ, kiṇiṁ, desesiṁ, kariṁ, haniṁ,/ etc.
+
+For verbs ending in /-e/, an /s/ is inserted: /desesiṁ, desesi, desesuṁ,/ etc.
+
+Some roots ending in long vowels also get the /s/ aorist ending. In the plural case, the long vowel is shortened:
+/aṭṭhā\textbf{siṁ}:/ I stood, /aṭṭhā\textbf{si}:/ you stood, /aṭṭha\textbf{ttha}:/ you all stood.
+
+See the Appendix for the aorist conjugation of the irregular /√as/ and /√hū/ (to be).
+
+The particle /mā/ + aorist verb expresses a prohibition in the present or future.
+
+*Examples:*
+
+Tatra kho bhagavā bhikkhū āmantesi: “bhikkhavo”ti.
+
+/āmanteti:/ invites; calls; summons
+
+# There the Buddha addressed the mendicants, “Mendicants!”
+
+“Bhadante”ti te bhikkhū bhagavato paccassosuṁ. Bhagavā etadavoca:
+
+/paccassosuṁ:/ aor.3rd.pl. of paṭissuṇāti \\
+/paṭissuṇāti:/ agrees; assents (to); lit. listens back
+
+# “Venerable sir,” they replied. The Buddha said this:
+
+“Bhūtapubbaṁ, bhikkhave, asurā deve abhiyaṁsu. (SN 11.1)
+
+# “Once upon a time, mendicants, the demons marched against the gods.
+
+/abhiyāti:/ invades; attacks
+
+Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
+
+/attamana:/ adj. pleased; happy; delighted; satisfied; lit. own mind \\
+/abhinanduṁ:/ aor.3rd.pl. of abhinandati \\
+/abhinandati:/ delights (in); is pleased (with)
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| \fillin{8cm}{Ven. Ānanda approached the Blessed One.}   | Āyasmā ānando yena bhagavā tenupasaṅkami. |
+| \fillin{8cm}{Having bowed, sat to one side.}            | Abhivādetvā ekamantaṁ nisīdi.             |
+| They went there.                                        | \fillin{8cm}{Te tatra gacchiṁsu.}         |
+| We dwelt here.                                          | \fillin{8cm}{Mayaṁ idha avasimhā.}        |
+| When did you come from there?                           | \fillin{8cm}{Kadā tvaṁ tato āgacchi?}     |
+| \fillin{8cm}{Because I knew it, therfore I said it.}    | Yato ahaṁ ajāniṁ tato avadiṁ.             |
+| \fillin{8cm}{Don't stay here.}                          | Tumhe mā idha vasittha.                   |
+| \fillin{8cm}{If it be so, I should come here.}          | Yadi evaṁ siyā, ahaṁ idha āgaccheyyāmi.   |
+
+#+latex: \normalArrayStrech
+
+** Causative: Having It Done (-e, -aya, -āpe, -āpaya)
+
+# Maitreya: Lesson 31, p.129
+
+The causative base is formed by adding /-e, -aya, -āpe, -āpaya/ either to the root or the verbal base.
+The base thus formed is conjugated in all tenses and moods.
+
+The causative form of a transitive verb takes two objects in the accusative.
+
+#+begin_quote
+/Atha kho Suppavāsā [...] dārakaṁ Bhagavantaṁ vandāpesi./ (Ud 2.8)
+
+Then the lady Suppavāsā made her boy bow to the Blessed One.
+#+end_quote
+
+Sometimes the agent who was caused to do the action is in the instrumental case.
+
+#+begin_quote
+/Atha kho devahito brāhmaṇo uṇhodakassa kājaṁ *purisena* gāhāpetvā phāṇitassa ca puṭaṁ āyasmato upavāṇassa pādāsi./ (SN 7.13)
+
+Then Devahita the brahmin having had a carrying-pole feched with hot water *by a man*, he also presented Upavāna with a jar of molasses.
+#+end_quote
+
+Some verbs can take two objects as a double accusative:
+
+#+latex: \begin{multicols}{3}
+
+| duh  | to milk     |
+| yāc  | to beg      |
+| rudh | to obstruct |
+
+#+latex: \columnbreak
+
+| bhikkh | to beg food |
+| sās    | to instruct |
+| nī     | to lead     |
+
+#+latex: \columnbreak
+
+| vah | to carry     |
+| har | to take away |
+
+#+latex: \end{multicols}
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| Pañhaṁ taṁ, samaṇa, pucchissāmi. (SN 10.12) | \fillin{8cm}{I will ask you a question, ascetic.} |
+| \fillin{8cm}{Puriso gāviṁ gāmaṁ nayati.}    | The man leads (/nayati/) the ox to the village.   |
 
 #+latex: \normalArrayStrech
 
 \clearpage
+
+** Exercises
+*** Reading: Uttiyasutta (SN 47.16)
+
+# At Sāvatthī.
+
+Sāvatthinidānaṁ.
+
+# Then Venerable Uttiya went up to the Buddha … and asked him,
+
+Atha kho āyasmā uttiyo yena bhagavā tenupasaṅkami ... ekamantaṁ nisinno kho āyasmā uttiyo bhagavantaṁ etadavoca:
+
+# “Sir, may the Buddha please teach me Dhamma in brief. When I’ve heard it, I’ll live alone, withdrawn, diligent, keen, and resolute.”
+
+“sādhu me, bhante, bhagavā saṅkhittena dhammaṁ desetu, yamahaṁ bhagavato dhammaṁ sutvā eko vūpakaṭṭho appamatto ātāpī pahitatto vihareyyan”ti.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| saṅkhittena (ind.) | in brief; concisely; briefly                              |
+| vūpakaṭṭha (adj.)  | pp. of vūpakāseti, caus; secluded (from); isolated (from) |
+| pahitatta (adj.)  | resolute; determined; lit. applied self                   |
+
+# “Well then, Uttiya, you should purify the starting point of skillful qualities.
+
+“Tasmātiha tvaṁ, uttiya, ādimeva visodhehi kusalesu dhammesu.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| ādimeva (sandhi.abl.) [ādi + eva] | from the very beginning                  |
+| ādi (m.)                          | beginning; starting point                |
+| visodheti                         | cleans; purifies; lit. causes to be pure |
+
+# What is the starting point of skillful qualities? Well purified ethics and correct view.
+
+Ko cādi kusalānaṁ dhammānaṁ? Sīlañca suvisuddhaṁ, diṭṭhi ca ujukā.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| ujuka (adj.)  [√uj + u + ka] | straigh; upright |
+
+# When your ethics are well purified and your view is correct, you should develop the four kinds of mindfulness meditation, depending on and grounded on ethics.
+
+Yato ca kho te, uttiya, sīlañca suvisuddhaṁ bhavissati, diṭṭhi ca ujukā, tato
+tvaṁ, uttiya, sīlaṁ nissāya sīle patiṭṭhāya cattāro satipaṭṭhāne bhāveyyāsi.
+
+Katame cattāro? Idha tvaṁ, uttiya, kāye kāyānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ;
+
+# What four? Meditate observing an aspect of the body—keen, aware, and mindful, rid of covetousness and bitterness for the world.
+
+... vedanāsu ... citte ... dhammesu dhammānupassī viharāhi ātāpī sampajāno satimā, vineyya loke abhijjhādomanassaṁ.
+
+# When you develop these four kinds of mindfulness meditation, depending on and grounded on ethics, you’ll pass beyond Death’s domain.”
+
+Yato kho tvaṁ, uttiya, sīlaṁ nissāya sīle patiṭṭhāya ime cattāro satipaṭṭhāne
+evaṁ bhāvessasi, tato tvaṁ, uttiya, gamissasi maccudheyyassa pāran”ti.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| maccudheyya (nt.) [maccu + dheyya] | realm of death; power of death                                      |
+| dheyya (nt.)                       | realm (of); sphere (of); power (of); influence (of); lit. to be put |
+| pāra (nt.)                         | over; beyond; far shore                                             |
+
+# And then Venerable Uttiya approved and agreed with what the Buddha said. He got up from his seat, bowed, and respectfully circled the Buddha, keeping him on his right, before leaving.
+
+Atha kho āyasmā uttiyo bhagavato bhāsitaṁ abhinanditvā anumoditvā uṭṭhāyāsanā
+bhagavantaṁ abhivādetvā padakkhiṇaṁ katvā pakkāmi.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| uṭṭhāyāsanā (ger.) [uṭṭhāya + āsanā] | rising from one's seat                  |
+| padakkhiṇaṁ katvā (idiom.)         | having circled around to the right      |
+| pakkāmi (aor.+abl. of pakkamati)   | left; departed (from); went away (from) |
+
+\clearpage
+
+# Then Uttiya, living alone, withdrawn, diligent, keen, and resolute, soon realized the supreme end of the spiritual path in this very life. He lived having achieved with his own insight the goal for which gentlemen rightly go forth from the lay life to homelessness.
+
+Atha kho āyasmā uttiyo eko vūpakaṭṭho appamatto ātāpī pahitatto viharanto
+nacirasseva -- yassatthāya kulaputtā sammadeva agārasmā anagāriyaṁ pabbajanti,
+tadanuttaraṁ -- brahmacariyapariyosānaṁ diṭṭheva dhamme sayaṁ abhiññā sacchikatvā
+upasampajja vihāsi.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| nacirasseva (sandhi) [na + cira + ssa + eva] | after no long time                                 |
+| yassatthāya (ind.) [yassa + attha + āya]     | for which purpose                                  |
+| sammadeva (sandhi) [sammā + eva]             | properly; rightly                                  |
+| tadanuttaraṁ brahmacariyapariyosānaṁ (idiom) | idiom. that unsurpassed goal of the spiritual path |
+| pariyosānaṁ                                  |                                                    |
+| sayaṁ (ind.) [sa + a + aṁ]                   | by one's own; oneself                              |
+
+# He understood: “Rebirth is ended; the spiritual journey has been completed; what had to be done has been done; there is no return to any state of existence.”
+
+“Khīṇā jāti, vusitaṁ brahmacariyaṁ, kataṁ karaṇīyaṁ, nāparaṁ itthattāyā”ti abbhaññāsi.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| abbhaññāsi (aor.2nd.sg.) | understood experintially; realized         |
+| abhijānāti               | directly knows; understands experientially |
+
+# And Venerable Uttiya became one of the perfected.
+
+Aññataro ca panāyasmā uttiyo arahataṁ ahosīti.
+
+*** Translate                                                      :noexport:
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| So tehi dhammehi cittaṁ paṭivāpetvā ...                                                        |
+| \fillin{12cm}{He turns his mind away from those phenomena, ...}                                |
+| ... amatāya dhātuyā cittaṁ upasaṁharati.[fn::MN 64, AN 9.36]                                   |
+| \fillin{12cm}{... and, inclines his mind to the property of deathlessness.}                    |
+| Navo setu gahakārena kato hoti.                                                                |
+| \fillin{12cm}{The new bridge has been built by the carpenter.}                                 |
+| Alagaddena daṭṭho migo tatth'eva patitvā mato.                                                  |
+| \fillin{12cm}{The deer bitten by the snake fell down and died there.}                          |
+| Ahaṁ hiyyo bhātikassa gehe vasitvā ajja pāto'va idhāgacchiṁ.                                   |
+| \fillin{12cm}{Having stayed in my brother's house yesterday, I came here early morning today.} |
+| The Buddha expounded the doctrine for abandoning of lust, anger and delusion.                  |
+| \fillin{12cm}{Buddho rāgassa dosassa mohassa pahānāya dhammaṁ desesi.}                         |
+| They gave ear to hear the teaching of the Buddha.                                              |
+| \fillin{12cm}{Te Buddhassa dhammaṁ sotuṁ sotaṁ odahiṁsu.}                                     |
+| Monks made an attempt to attain Arahatship.                                                    |
+| \fillin{12cm}{Bhikkhū arahattaṁ pāpunituṁ viriyaṁ ārabhiṁsu.}                                 |
+| The monk went to the forest and sat down at the foot of a tree.                                |
+| \fillin{12cm}{Bhikkhu araññaṁ / vanaṁ gantvā rukkhassa mūle nisīdi.}                           |
+
+#+latex: \normalArrayStrech
+
+\bigskip
+
+#+begin_twocols
+/paṭivāpeti:/ withdraws; pulls back; turns away\\
+/upasaṁharati:/ focuses; concentrates; applies\\
+/setu:/ m. bridge\\
+/gahakāra:/ m. house builder; carpenter
+
+\columnbreak
+
+/alagadda:/ m. snake\\
+/daṭṭha:/ pp. of /ḍaṁsati/; bitten; stung\\
+/bhātika:/ m. brother\\
+/pāto:/ ind. early; in the morning\\
+/odahati:/ pays attention
+#+end_twocols
+
+\clearpage
+
+*** Readings                                                       :noexport:
+
+Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ. (Pc 10)
+
+------
+
+“Kāmarāgena ḍayhāmi,\\
+cittaṁ me pariḍayhati;\\
+Sādhu nibbāpanaṁ brūhi,\\
+anukampāya gotamā”ti.
+
+“Saññāya vipariyesā,\\
+cittaṁ te pariḍayhati;\\
+Nimittaṁ parivajjehi,\\
+subhaṁ rāgūpasaṁhitaṁ.
+
+Saṅkhāre parato passa,\\
+dukkhato mā ca attato;\\
+Nibbāpehi mahārāgaṁ,\\
+mā ḍayhittho punappunaṁ.
+
+Asubhāya cittaṁ bhāvehi,\\
+ekaggaṁ susamāhitaṁ;\\
+Sati kāyagatā tyatthu,\\
+nibbidābahulo bhava.
+
+Animittañca bhāvehi,
+mānānusayamujjaha;\\
+Tato mānābhisamayā,\\
+upasanto carissasī”ti.
+
+(SN 8.4)
+
+------
+
+Katamo cānanda, maggo, katamā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ
+pahānāya? Idhānanda, bhikkhu upadhivivekā akusalānaṁ dhammānaṁ pahānā sabbaso
+kāyaduṭṭhullānaṁ paṭippassaddhiyā vivicceva kāmehi vivicca akusalehi dhammehi
+savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
+So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ
+viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato
+parato palokato suññato anattato samanupassati. So tehi dhammehi cittaṁ
+paṭivāpeti.
+
+So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati: ‘etaṁ
+santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo
+taṇhākkhayo virāgo nirodho nibbānan’ti.
+
+So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti; no ce āsavānaṁ khayaṁ pāpuṇāti teneva
+dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā
+opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā. Ayampi kho,
+ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya.
+
+(MN 64)
+
+-----
+
+‘Paṭhamampāhaṁ, bhikkhave, jhānaṁ nissāya āsavānaṁ khayaṁ vadāmī’ti, iti kho
+panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? Idha, bhikkhave, bhikkhu vivicceva
+kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati. So yadeva tattha hoti
+rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ, te dhamme aniccato
+dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato
+samanupassati. So tehi dhammehi cittaṁ paṭivāpeti.
+
+So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati: ‘etaṁ
+santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo
+taṇhākkhayo virāgo nirodho nibbānan’ti.
+
+So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti. No ce āsavānaṁ khayaṁ
+pāpuṇāti, teneva dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ
+saṁyojanānaṁ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā
+lokā.
+
+(AN 9.36)
+*** Extra Challenge: What did I do yesterday?                      :noexport:
+
+My name is ...
+
+: Ahaṁ bhante ... nāma.
+
+I am three vassas, I am junior.
+
+: Ahaṁ tayovasso'mhi, ahaṁ navako.
+
+I live at the monastery in a kuti / room.
+
+: Vasati ārāme ekā kuṭiyā / eko aggamhi.
+
+Yesterday, What did I do ?
+
+: Hiyyo api nu kiṁ akāsiṁ?
+
+Yesterday, having woken up, I dressed, and went to the Dhamma Hall.
+
+: Hiyyo, pabujjhitvā, acchādesiṁ ca dhammasālaṁ gacchiṁ.
+
+pabujjhati
+acchādeti
+
+I washed my face.
+
+: Me mukhaṁ dhoviṁ.
+
+mukha nt.
+
+Having put on my robes, I entered the Dhamma Hall.
+
+: Nivāsetvā / cīvaramādāya, dhammasālaṁ pavisiṁ.
+
+nivāseti
+pattacīvaramādāya
+
+We meditated together for an hour, then we recited a sutta.
+
+: Jhāyimhā eka kālāya, atha kho ekaṁ suttaṁ uddissimhā.
+
+kālā
+masc. times of day; hours; seasons
+
+yāma
+masc. watch (of the night); one eighth of the day; about three hours
+
+nikkhanto paṭhamo yāmo
+It is the first watch
+
+nikkhante paṭhame yāme
+when the first part of the night was over
+
+ajjatanāya
+ind. for today; today; in the next 24 hours
+
+An ārāmika prepared breakfast. We ate bread, butter, honey and fruits.
+
+: Eko ārāmiko pātarāsabhattaṁ paṭiyādesi. Bhuñjimhā pūpaṁ ca navanītaṁ ca madhuṁ ca phalāni ca.
+
+phala nt. fruit
+sappi nt. ghee, clarified butter
+navanīta nt. fresh butter
+madhu nt. honey
+
+pūpa m. cake; break
+paṭiyādeti
+pātarāsabhatta
+
+Then, having taken my robe and bowl, I set out walking. Having walked, I entered Ericeira for alms.
+
+: Atha kho pattacīvaramādāya cārikaṁ pakkamiṁ / pakkāmiṁ.
+: Caritvā Ericeiraṁ piṇḍāya pavisiṁ.
+
+Having returned, I shared the food with the community.
+
+: Paṭikkamitvā, bhattaṁ saṇgehi saddhiṁ saṁvibhajiṁ.
+
+paṭikkamati
+
+Yesterday was a hot day. My body was covered with sweat, so I washed my body and limbs.
+
+Before the meal, I put out water and prepared a seat for my teacher.
+
+The lay supporters cooked food in the kitchen.
+
+When it was time to eat, a bhikkhu received the food, and we chanted the anumodana.
+
+We ate the food in silence.
+
+After eating, first I washed my teacher's bowl, then I washed my bowl.
+
+Having cleaned my teeth, I returned to my kuti / room.
+
+I was tired and I slept.
+
+Later, I memorized the teachings and I meditated.
+
+Then for me it is like this, 'I've done some work. But while working my body got tired. I'd better have a lie down.'
+
+Atha kho mayhaṁ evaṁ hoti: 'ahaṁ kho kammaṁ akāsiṁ. Kammaṁ kho pana me karontassa kāyo kilanto. Handāhaṁ nipajjāmī'ti. (AN 8.80)
+
+* Lesson 5                                                         :noexport:
+** Review Exercises
+
+#+latex: \renewcommand{\arraystretch}{1.8}
+
+| \fillin{8cm}{Why does that man depart now from here?}       | Idāni kasmā so puriso ito nikkhamati?                            |
+| \fillin{8cm}{The wise one dispels negligence by diligence.} | Paṇḍito appamādena pamādaṁ nudati.                               |
+| One should defeat anger by means of non-anger.              | \fillin{8cm}{Akkoddhena jine / jineyya kodhaṁ.}                  |
+| We read our lessons here, but you are playing over there.   | \fillin{8cm}{Mayaṁ idha pāṭhe paṭhāma, tumhe pana tatra kīḷatha.} |
+
+\null
+
+| Mayaṁ ajja isino assamaṁ daṭṭhuṁ pabbataṁ abhiruhissāma.                            |
+| \fillin{12cm}{We will today climb the mountain to see the seer's hermitage.}        |
+| If you become lazy, you will not meditate and contemplate.                          |
+| \fillin{12cm}{Sace tvaṁ kusīto / alaso bhaveyyāsi, na jhāyissasi nijjhāyissasi ca.} |
+
+#+latex: \normalArrayStrech
+
+\bigskip
+
+#+begin_twocols
+/nudati:/ drives out; expels; removes\\
+/jināti:/ conquers; overcomes; defeats\\
+/kodha:/ m. anger; wrath; rage; temper\\
+/isi:/ m. seer; sage\\
+/assama:/ m.  monastery; hermitage; ashram\\
+
+\columnbreak
+
+/daṭṭhuṁ:/ inf. of √dis; to see\\
+/abhiruhati:/ ascends; mounts; climbs\\
+/kusīta:/ adj. lazy; slack; apathetic\\
+/jhāyati:/ thinks; meditates\\
+/nijjhāyati:/ meditates; reflects; considers
+#+end_twocols
 
 ** Present Participle (-nt, -māna)
 
@@ -3293,374 +3894,6 @@ santī āpatti āvikātabbā, \\
 ([[https://suttacentral.net/pli-tv-bu-pm/pli/ms][Nidāna]])
 
 *** TODO Extra Challenge                                           :noexport:
-* Lesson 5                                                         :noexport:
-** Review Exercises
-
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| \fillin{8cm}{Why does that man depart now from here?}       | Idāni kasmā so puriso ito nikkhamati?                            |
-| \fillin{8cm}{You converse with the wise man.}               | Tumhe paṇḍitehi saddhiṁ sallapatha.                              |
-| \fillin{8cm}{The wise one dispels negligence by diligence.} | Paṇḍito appamādena pamādaṁ nudati.                               |
-| One should defeat anger by means of non-anger.              | \fillin{8cm}{Akkoddhena jine / jineyya kodhaṁ.}                  |
-| We read our lessons here, but you are playing over there.   | \fillin{8cm}{Mayaṁ idha pāṭhe paṭhāma, tumhe pana tatra kīḷatha.} |
-
-\null
-
-| Mayaṁ ajja isino assamaṁ daṭṭhuṁ pabbataṁ abhiruhissāma.                     |
-| \fillin{12cm}{We will today climb the mountain to see the seer's hermitage.} |
-| If you become lazy, you will not meditate and contemplate.                          |
-| \fillin{12cm}{Sace tvaṁ kusīto / alaso bhaveyyāsi, na jhāyissasi nijjhāyissasi ca.} |
-| If the cooks would not cook, where should we go to eat?                             |
-| \fillin{12cm}{Sace sūdā na paceyyuṁ, mayaṁ bhuñjituṁ kuhiṁ gaccheyyāma?}           |
-
-#+latex: \normalArrayStrech
-
-\bigskip
-
-#+begin_twocols
-/nudati:/ drives out; expels; removes\\
-/jināti:/ conquers; overcomes; defeats\\
-/kodha:/ m. anger; wrath; rage; temper\\
-/isi:/ m. seer; sage\\
-/assama:/ m.  monastery; hermitage; ashram\\
-
-\columnbreak
-
-/daṭṭhuṁ:/ inf. of √dis; to see\\
-/abhiruhati:/ ascends; mounts; climbs\\
-/kusīta:/ adj. lazy; slack; apathetic\\
-/jhāyati:/ thinks; meditates\\
-/nijjhāyati:/ meditates; reflects; considers
-#+end_twocols
-
-\clearpage
-
-** Adverbs of Place
-
-*-ttha "place"*
-
-| ta    | that       | + ttha | tattha (tatra) | there          |
-| ima   | this       | + ttha | ettha          | here           |
-| ya    | whatever   | + ttha | yattha (yatra) | wherever       |
-| ka    | what?      | + ttha | kattha         | where?         |
-| sabba | all, every | + ttha | sabbattha      | everywhere     |
-| eka   | one        | + ttha | ekattha        | in one place   |
-| añña  | another    | + ttha | aññattha       | somewhere else |
-
-*-to "from a place"*
-
-| ka      | what?    | + to | kuto      | from where               |
-| ta      | that     | + to | tato      | from there               |
-| eka     | one      | + to | ekato     | from one side            |
-| pari    | around   | + to | parito    | from all around          |
-| pura    | in front | + to | purato    | in front of              |
-| samanta | all      | + to | samantato | from all every direction |
-
-*-hiṁ*
-
-| ka     | what?    | + hiṁ | kuhiṁ | where?   |
-| ta     | that     | + hiṁ | tahiṁ | there    |
-| ya     | whatever | + hiṁ | yahiṁ | wherever |
-
-** Past Participle (-ta, -ita, -na)
-
-# Maitreya: Lesson 15, p.43
-# Bodhirasa: Class
-
-Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi rules complicate the exact forms.
-
-| rukkho patito                     | the fallen tree                      |
-| antarāyiko dhammo vutto bhagavatā | said to be an obstacle by the Buddha |
-| Pubbe'bhinno mallako.             | The cup is already broken.           |
-
-\null
-
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| Icchitaṃ patthitaṃ tumhaṃ khippameva samijjhatu.         |
-| \fillin{12cm}{May your hopes and wishes succeed quickly.} |
-
-#+latex: \normalArrayStrech
-
-\bigskip
-
-#+begin_twocols
-/patito:/ pp.nom. of /patati/\\
-/vutto:/ pp.nom. of /vacati/\\
-/icchati:/ wants; desires\\
-
-\columnbreak
-
-/pattheti:/ wishes (for)\\
-/khippaṁ:/ ind. quickly\\
-/samijjhati:/ achieves; succeeds
-#+end_twocols
-
-\clearpage
-
-When the subject is in instrumental case, the past participle is passive.
-
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| \fillin{8cm}{Migo purisena diṭṭho.}                | The deer (/miga/) was seen by the man.                     |
-| \fillin{8cm}{Vyādhena hataṁ migaṁ ahaṁ passāmi.} | I see the deer killed (/hata/) by the huntsman (/vyādha/). |
-| \fillin{8cm}{Gāmamhā āgataṁ purisaṁ na passāmi.}  | I do not see the man that has come from the village.       |
-
-#+latex: \normalArrayStrech
-
-Some frequent examples:
-
-| bhavati   | √bhū  | to be      | bhūta            | became      |
-| passati   | √dis  | to see     | di\textbf{ṭṭ}ha   | seen        |
-| gacchati  | √gam  | to go      | gata             | gone        |
-| karoti    | √kar  | to do      | kata             | done        |
-| labhati   | √labh | to get     | la\textbf{dd}ha  | received    |
-| jānāti    | √ñā   | to know    | ñāta             | known       |
-| bhāsati   | √bhās | to speak   | bhāsita          | spoken      |
-| pabbajati | √vaj  | to go on   | pabbajita        | ordained    |
-| ṭhahati    | √ṭhā   | to stand   | ṭhita             | stood       |
-| bhāveti   | √bhū  | bhāve      | bhāvita          | developed   |
-| deseti    | √dis  | dese       | desita           | preached    |
-| passati   | √dis  | passa      | passita          | seen        |
-| vedayati  | √vid  | vedaya     | vedayita         | experienced |
-| chindati  | √chid | to cut     | chi\textbf{nn}a  | cut         |
-| khīyati   | √khī  | to destroy | khīna            | destroyed   |
-| nisīdati  | √sad  | to sink    | nisi\textbf{nn}a | seated      |
-| pajahati  | √hā   | to abandon | pah\textbf{ī}na  | abandoned   |
-
-#+latex: \clearpage
-
-** Aorist Past Tense
-
-# Bodhirasa: Class 4
-# Maitreya: Lesson 8
-
-#+latex: {\centering\par
-#+latex: \begin{multicols}{2}
-
-Verbal terminations:
-
-|       | *sg.*  | *pl.*            |
-| *1st* | -iṁ    | -(i)mhā, -(i)mha |
-| *2nd* | -o, -i | -(i)ttha         |
-| *3rd* | -i     | -(i)ṁsu, -uṁ     |
-
-#+latex: \columnbreak
-
-Root: /√dhāv/ (to run), base: /dhāva/
-
-|       | *sg.*          | *pl.*              |
-| *1st* | adhāviṁ        | adhāvimhā          |
-| *2nd* | adhāvo, adhāvi | adhāvittha         |
-| *3rd* | adhāvi         | adhāviṁsu, adhāvuṁ |
-
-#+latex: \end{multicols}
-#+latex: \par}
-
-The /a-/ is prefixed to the verbs, but optionally it may be dropped, e.g.
-/dhāviṁ, kiṇiṁ, desesiṁ, kariṁ, haniṁ,/ etc.
-
-For verbs ending in /-e/, an /s/ is inserted: /desesiṁ, desesi, desesuṁ,/ etc.
-
-Some roots ending in long vowels also get the /s/ aorist ending. In the plural case, the long vowel is shortened:
-/aṭṭhā\textbf{siṁ}:/ I stood, /aṭṭhā\textbf{si}:/ you stood, /aṭṭha\textbf{ttha}:/ you all stood.
-
-See the Appendix for the aorist conjugation of the irregular /√as/ and /√hū/ (to be).
-
-The particle /mā/ + aorist verb expresses a prohibition in the present or future.
-
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| They went there.                                     | \fillin{8cm}{Te tatra gacchiṁsu.}       |
-| We dwelt here.                                       | \fillin{8cm}{Mayaṁ idha avasimhā.}      |
-| When did you come from there?                        | \fillin{8cm}{Kadā tvaṁ tato āgacchi?}   |
-| \fillin{8cm}{Because I knew it, therfore I said it.} | Yato ahaṁ ajāniṁ tato avadiṁ.          |
-| \fillin{8cm}{Don't stay here.}                       | Tumhe mā idha vasittha.                 |
-| \fillin{8cm}{If it be so, I should come here.}       | Yadi evaṁ siyā, ahaṁ idha āgaccheyyāmi. |
-
-#+latex: \normalArrayStrech
-
-** Causative: Having It Done (-e, -aya, -āpe, -āpaya)
-
-# Maitreya: Lesson 31, p.129
-
-The causative base is formed by adding /-e, -aya, -āpe, -āpaya/ either to the root or the verbal base.
-The base thus formed is conjugated in all tenses and moods.
-
-The causative form of a transitive verb takes two objects in the accusative.
-
-#+begin_quote
-/Atha kho Suppavāsā [...] dārakaṁ Bhagavantaṁ vandāpesi./ (Ud 2.8)
-
-Then the lady Suppavāsā made her boy bow to the Blessed One.
-#+end_quote
-
-Sometimes the agent who was caused to do the action is in the instrumental case.
-
-#+begin_quote
-/Atha kho devahito brāhmaṇo uṇhodakassa kājaṁ *purisena* gāhāpetvā phāṇitassa ca puṭaṁ āyasmato upavāṇassa pādāsi./ (SN 7.13)
-
-Then Devahita the brahmin having had a carrying-pole feched with hot water *by a man*, he also presented Upavāna with a jar of molasses.
-#+end_quote
-
-#+latex: \clearpage
-
-Some verbs can take two objects as a double accusative:
-
-#+latex: \begin{multicols}{3}
-
-| duh  | to milk     |
-| yāc  | to beg      |
-| rudh | to obstruct |
-
-#+latex: \columnbreak
-
-| bhikkh | to beg food |
-| sās    | to instruct |
-| nī     | to lead     |
-
-#+latex: \columnbreak
-
-| vah | to carry     |
-| har | to take away |
-
-#+latex: \end{multicols}
-
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| Pañhaṁ taṁ, samaṇa, pucchissāmi. (SN 10.12) | \fillin{8cm}{I will ask you a question, ascetic.} |
-| \fillin{8cm}{Puriso gāviṁ gāmaṁ nayati.}    | The man leads (/nayati/) the ox to the village.   |
-
-#+latex: \normalArrayStrech
-
-\clearpage
-
-** Exercises
-*** Translate
-
-#+latex: \renewcommand{\arraystretch}{1.8}
-
-| So tehi dhammehi cittaṁ paṭivāpetvā ...                                                        |
-| \fillin{12cm}{He turns his mind away from those phenomena, ...}                                |
-| ... amatāya dhātuyā cittaṁ upasaṁharati.[fn::MN 64, AN 9.36]                                   |
-| \fillin{12cm}{... and, inclines his mind to the property of deathlessness.}                    |
-| Navo setu gahakārena kato hoti.                                                                |
-| \fillin{12cm}{The new bridge has been built by the carpenter.}                                 |
-| Alagaddena daṭṭho migo tatth'eva patitvā mato.                                                  |
-| \fillin{12cm}{The deer bitten by the snake fell down and died there.}                          |
-| Ahaṁ hiyyo bhātikassa gehe vasitvā ajja pāto'va idhāgacchiṁ.                                   |
-| \fillin{12cm}{Having stayed in my brother's house yesterday, I came here early morning today.} |
-| The Buddha expounded the doctrine for abandoning of lust, anger and delusion.                  |
-| \fillin{12cm}{Buddho rāgassa dosassa mohassa pahānāya dhammaṁ desesi.}                         |
-| They gave ear to hear the teaching of the Buddha.                                              |
-| \fillin{12cm}{Te Buddhassa dhammaṁ sotuṁ sotaṁ odahiṁsu.}                                     |
-| Monks made an attempt to attain Arahatship.                                                    |
-| \fillin{12cm}{Bhikkhū arahattaṁ pāpunituṁ viriyaṁ ārabhiṁsu.}                                 |
-| The monk went to the forest and sat down at the foot of a tree.                                |
-| \fillin{12cm}{Bhikkhu araññaṁ / vanaṁ gantvā rukkhassa mūle nisīdi.}                           |
-
-#+latex: \normalArrayStrech
-
-\bigskip
-
-#+begin_twocols
-/paṭivāpeti:/ withdraws; pulls back; turns away\\
-/upasaṁharati:/ focuses; concentrates; applies\\
-/setu:/ m. bridge\\
-/gahakāra:/ m. house builder; carpenter
-
-\columnbreak
-
-/alagadda:/ m. snake\\
-/daṭṭha:/ pp. of /ḍaṁsati/; bitten; stung\\
-/bhātika:/ m. brother\\
-/pāto:/ ind. early; in the morning\\
-/odahati:/ pays attention
-#+end_twocols
-
-\clearpage
-
-*** Readings
-
-Yo pana bhikkhu pathaviṁ khaṇeyya vā khaṇāpeyya vā, pācittiyaṁ. (Pc 10)
-
-------
-
-“Kāmarāgena ḍayhāmi,\\
-cittaṁ me pariḍayhati;\\
-Sādhu nibbāpanaṁ brūhi,\\
-anukampāya gotamā”ti.
-
-“Saññāya vipariyesā,\\
-cittaṁ te pariḍayhati;\\
-Nimittaṁ parivajjehi,\\
-subhaṁ rāgūpasaṁhitaṁ.
-
-Saṅkhāre parato passa,\\
-dukkhato mā ca attato;\\
-Nibbāpehi mahārāgaṁ,\\
-mā ḍayhittho punappunaṁ.
-
-Asubhāya cittaṁ bhāvehi,\\
-ekaggaṁ susamāhitaṁ;\\
-Sati kāyagatā tyatthu,\\
-nibbidābahulo bhava.
-
-Animittañca bhāvehi,
-mānānusayamujjaha;\\
-Tato mānābhisamayā,\\
-upasanto carissasī”ti.
-
-(SN 8.4)
-
-------
-
-Katamo cānanda, maggo, katamā paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ
-pahānāya? Idhānanda, bhikkhu upadhivivekā akusalānaṁ dhammānaṁ pahānā sabbaso
-kāyaduṭṭhullānaṁ paṭippassaddhiyā vivicceva kāmehi vivicca akusalehi dhammehi
-savitakkaṁ savicāraṁ vivekajaṁ pītisukhaṁ paṭhamaṁ jhānaṁ upasampajja viharati.
-So yadeva tattha hoti rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ
-viññāṇagataṁ te dhamme aniccato dukkhato rogato gaṇḍato sallato aghato ābādhato
-parato palokato suññato anattato samanupassati. So tehi dhammehi cittaṁ
-paṭivāpeti.
-
-So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati: ‘etaṁ
-santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo
-taṇhākkhayo virāgo nirodho nibbānan’ti.
-
-So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti; no ce āsavānaṁ khayaṁ pāpuṇāti teneva
-dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ parikkhayā
-opapātiko hoti, tattha parinibbāyī, anāvattidhammo tasmā lokā. Ayampi kho,
-ānanda, maggo ayaṁ paṭipadā pañcannaṁ orambhāgiyānaṁ saṁyojanānaṁ pahānāya.
-
-(MN 64)
-
------
-
-‘Paṭhamampāhaṁ, bhikkhave, jhānaṁ nissāya āsavānaṁ khayaṁ vadāmī’ti, iti kho
-panetaṁ vuttaṁ. Kiñcetaṁ paṭicca vuttaṁ? Idha, bhikkhave, bhikkhu vivicceva
-kāmehi …pe… paṭhamaṁ jhānaṁ upasampajja viharati. So yadeva tattha hoti
-rūpagataṁ vedanāgataṁ saññāgataṁ saṅkhāragataṁ viññāṇagataṁ, te dhamme aniccato
-dukkhato rogato gaṇḍato sallato aghato ābādhato parato palokato suññato anattato
-samanupassati. So tehi dhammehi cittaṁ paṭivāpeti.
-
-So tehi dhammehi cittaṁ paṭivāpetvā amatāya dhātuyā cittaṁ upasaṁharati: ‘etaṁ
-santaṁ etaṁ paṇītaṁ yadidaṁ sabbasaṅkhārasamatho sabbūpadhipaṭinissaggo
-taṇhākkhayo virāgo nirodho nibbānan’ti.
-
-So tattha ṭhito āsavānaṁ khayaṁ pāpuṇāti. No ce āsavānaṁ khayaṁ
-pāpuṇāti, teneva dhammarāgena tāya dhammanandiyā pañcannaṁ orambhāgiyānaṁ
-saṁyojanānaṁ parikkhayā opapātiko hoti tattha parinibbāyī anāvattidhammo tasmā
-lokā.
-
-(AN 9.36)
-
-*** Extra Challenge: Reading NP 10                                 :noexport:
-
-Read the text of [[https://suttacentral.net/pli-tv-bu-vb-np10/en/brahmali][NP 10]] as recited:
-
-Bhikkhuṁ paneva uddissa rājā vā rājabhoggo vā brāhmaṇo vā gahapatiko vā dūtena cīvaracetāpannaṁ pahiṇeyya...
-
 * Lesson 6                                                         :noexport:
 ** Passive
 
