@@ -320,10 +320,10 @@ saddhiṁ:
 - together (with); with
 
 saṁvidhāya:
-- ger of saṃvidahati, trans (+acc)
+- ger of saṁvidahati, trans (+acc)
 - arranging; organising; planning
 
-saṃvidahati:
+saṁvidahati:
 - pr, trans (+acc)
 - arranges; organises; plans
 
@@ -482,7 +482,7 @@ Personal pronouns in nominative case:
 | *3rd.nt.*   | taṁ, tad    | tāni            |
 | *3rd.fem.*  | sā          | tā, tāyo        |
 
-/sā taṃ bhāsati:/ she speaks (to) him/them
+/sā taṁ bhāsati:/ she speaks (to) him/them
 
 #+latex: \vspace*{-\baselineskip}
 
@@ -500,9 +500,9 @@ Pronouns take on the person and number of the noun they represent.
 
 A relative sentence begins with a relative clause, followed by a demonstrative:
 
-| /yo/   | /gilānaṃ/  | /upaṭṭhāti/ |
+| /yo/   | /gilānaṁ/  | /upaṭṭhāti/ |
 | he who | to the ill | attends    |
-| /so/   | /maṃ/      | /upaṭṭhāti/ |
+| /so/   | /maṁ/      | /upaṭṭhāti/ |
 | he     | to me      | attends    |
 
 #+latex: \bigskip
@@ -543,6 +543,77 @@ nouns. /mā + aorist past/ is a (present) prohibition.
 This the most common declension, worth memorizing by heart. 87% of all masculine
 nouns are ending in *-a*, \mbox{97\% of} all neuter nouns are ending in *-aṁ*, in
 addition to adjectives and participles with the same declensions.
+
+** Attribution, Nominal Sentence (A is B)
+
+Although word order varies relatively freely, Subject Object Verb is the most common:
+
+| Dārako    | samaṇaṁ   | (hoti.)      |                    |
+| /nom.sg./ | /acc.sg./ | /pr.3rd.sg./ |                    |
+| the boy   | a monk    | he is        | The boy is a monk. |
+
+In Pāli, the definite and indefinite articles (a, an, the) are not specified. Sometimes /eko/ fulfils this role.
+
+In an attribute sentence, /hoti/ is often omitted as it can be easily inferred.
+The attribute can be also placed in the nominative case and follows the subject:
+
+| Dārako    | samaṇo.   |
+| /nom.sg./ | /nom.sg./ |
+
+The nominatives may form pairs, read them as equational phrases: /A/ is the /B/,
+and /C/ is the /D/, etc. Such a sequence forms a "nominal clause".
+
+#+latex: {\centering
+/Kammaṁ khettaṁ viññāṇaṁ bījaṁ taṇhā sneho./
+#+latex: \par}
+
+| kammaṁ → khettaṁ    | viññāṇaṁ → bījaṁ      | taṇhā → sneho.      |
+| action is the field | awareness is the seed | craving is the sap. |
+
+** Breaking Noun Compounds
+
+Two or more noun-stems can be combined to form long words. In order to correctly
+read the meaning, we have to recognize the type of the compound.
+
+#+begin_twocols
+
+*Tappurisa* expresses: /A/ has *case-relation* to /B/.
+
+/brahma-loko:/ world /of/ Brahma (gen.) \\
+/arañña-vāso:/ living /in/ forest (loc.)
+
+*Kammadhāraya* expresses: /A/ is an *attribute* of /B/, \\
+or /A/ is *equivalent* to /B/.
+
+/mahā-nadī:/ great river \\
+/rāja-isi:/  a king (who is a) sage
+
+*Dvanda* expresses: a list, with no added meaning.
+
+/nāma-rūpaṁ:/ name & form \\
+/buddha-dhamma-saṇgha:/ Buddha & dhamma & saṇgha
+
+\columnbreak
+
+*Bahubbīhi:* a compound is used to qualify something else.
+
+/buddha-bhāsito dhammo:/ the Buddha-spoken doctrine \\
+/brāhmaṇo chinna-kukkucco:/ a brahmin (whose) worries (are) cut
+
+*Avyayībhāva:* a prefix or indeclinable + noun functions as an adverb.
+
+/paṭisotaṁ:/ against the stream \\
+/yathābhūtaṁ:/ as it is
+
+*Digu* is a numerical /kammadhāraya/.
+
+/ekapuggalo:/ one person \\
+/ticīvaraṁ:/ three robes
+
+#+end_twocols
+
+See /Compounds of Nouns: Overview/ on p.\pageref{compounds-overview}, for more
+examples and /Appendix: Compound Types/ on p.\pageref{compound-types}.
 
 ** Simple Present Tense (-āmi, -asi, -ati)
 
@@ -831,7 +902,7 @@ The Buddha is wandering in the land of the Kosalans...
 | Yes.                                              | Āma / Evaṁ bhante.                        |
 | No.                                               | No hetaṁ, bhante.                         |
 | Never mind (leave it aside).                      | Tiṭṭhatu, bhante.                          |
-| It is hot today.                                  | Ajj'āccuṇhaṃ. [ajja (ind.) + ati  + uṇha] |
+| It is hot today.                                  | Ajj'āccuṇhaṁ. [ajja (ind.) + ati  + uṇha] |
 | It is cold today.                                 | Ajj'ātisītaṁ.                             |
 | Excuse me!                                        | Okāsa, bhante.                            |
 | Welcome here.                                     | Svāgataṁ.                                 |
@@ -969,7 +1040,7 @@ The Buddha is wandering in the land of the Kosalans...
 | \textbf{[B]} Thank you friend, I am tired from coming on the journey.                           |
 | \fillin{12cm}{Anumodāmi āvuso. Kilamathena addhānaṁ āgato.}                                     |
 | \textbf{[A]} Why is that? Today is not hot.                                                     |
-| \fillin{12cm}{Taṁ kissa hetu? Na ajj'āccuṇhaṃ / ajjūṇho.}                                       |
+| \fillin{12cm}{Taṁ kissa hetu? Na ajj'āccuṇhaṁ / ajjūṇho.}                                       |
 | \textbf{[B]} Having walked for alms, having received a lot of food, my bowl is heavy.           |
 | \fillin{12cm}{Piṇḍāya caritvā / gatvā, bahu khādanīyaṁ paṭiggahetvā / labbhitvā, me patto garo.} |
 | \textbf{[B]} I got more food than (of) Ven. Kovilo. I will share with him.                      |
@@ -1062,6 +1133,140 @@ The Buddha is wandering in the land of the Kosalans...
 
 #+latex: \clearpage
 
+** Compounds of Nouns: Overview
+
+\label{compounds-overview}
+
+#+latex: {\footnotesize
+See also: /Appendix: Compound Types/ on p.\pageref{compound-types}. Grammar
+term: a /substantive/, a.k.a. /nominal/, is a word or a group of words that
+functions as a noun or noun phrase, including adjectives or verbal forms.
+#+latex: }
+
+#+latex: \hspace{-20pt}%
+#+latex: \begin{minipage}{\linewidth+10pt}%
+
+#+ATTR_LATEX: :environment longtable
+| *Tappurisa*                                               | *Kammadhāraya*                   | *Dvanda*                    | *Bahubbīhi*                                   |
+| expresses:                                                | /A/ is an *attribute* of /B/     | *List*                      | /AB/ is a *quality* of /C/                    |
+| /A/ has *case-relation* to /B/                            | /A/ is *equivalent* to /B/       |                             | /AB/ → obj. outside of the comp.              |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| $A \xrightarrow{\text{case}} B$                           | an /A/-like /B/                  | $A \mathbin{\&} B$          | $[A B] \rightarrow C$                         |
+|                                                           | an /A/ that is /B/               |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| *Case relation:* any except nom. voc.                     | /A/ /B/ in same case             | /A/ /B/ in same case        | case depends on $[A B]$                       |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /brahma-loko/                                             | /mahā-nadī/                      | /samaṇa-brāhmaṇā/           | /su-desito dhammo/                            |
+| $A \xrightarrow{\text{gen}} B$                            | $A_{\text{adj}} B_{\text{sub}}$  |                             | $A_{\text{adj}} B_{\text{sub}} \rightarrow C$ |
+| world /of/ Brahma                                         | great river                      | recluses & priests          | the well-taught doctrine                      |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /arañña-vāso/                                             | /sabba-seta/                     | /nāma-rūpaṁ/                | /brāhmaṇo chinna-kukkucco/                    |
+| $A \xrightarrow{\text{loc}} B$                            | $A_{\text{adj}} B_{\text{adj}}$  |                             | $C \leftarrow A_{\text{adj}} B_{\text{sub}}$  |
+| living /in/ forest                                        | all white                        | name & form                 | a brahmin (whose) worries (are) cut           |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /rukkha-patito/                                           | /mano-seṭṭha/                     | /jarā-maraṇaṁ/              | /buddha-bhāsito dhammo/                       |
+| $A \xrightarrow{\text{abl}} B$                            | $A_{\text{sub}} B_{\text{adj}}$  |                             | $A_{\text{sub}} B_{\text{adj}} \rightarrow C$ |
+| fallen /from/ tree                                        | mind as foremost                 | old age & death             | the Buddha-spoken doctrine                    |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /saraṇa-gamanaṁ/                                          | /sāriputta-thera/                | /hattha-pādaṁ/              | /kām'-andho puriso/                           |
+| $A \xrightarrow{\text{acc}} B$                            | $A_{\text{sub}} B_{\text{sub}}$  |                             | $A_{\text{sub}} B_{\text{adj}} \rightarrow C$ |
+| going /for/ refuge                                        | Sāriputta, the elder             | hands & feet                | a desire-blinded man                          |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /kūṭāgārasālā/                                             | /mukha-canda/                    | /candima-suriyā/            | /pīti-sukhaṁ paṭhamaṁ jhānaṁ/                 |
+| $A \xrightarrow{\text{gen}} B \xrightarrow{\text{gen}} C$ | $A_{\text{sub}} B_{\text{sub}}$  |                             | $A \mathbin{\&} B \rightarrow C$              |
+| hall /of/ house /with/ a ridge                            | moon-like face                   | moon & sun                  | the 1st jhāna (that is) joy & ease            |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| *Avyayībhāva*                                             |                                  | *Digu*                      | sub-type of                                   |
+| Adverbial                                                 |                                  | Numerical                   | /kammadhāraya/                                |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| adv. don't take a case                                    |                                  | /A/ /B/ in same case        |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| $A_{\text{prefix}} B_{\text{noun}}$                       | $A_{\text{ind}} B_{\text{noun}}$ | $A_{\text{num}} B$ (sg.nt.) | $A_{\text{num}} B$ (not nt.)                  |
+| /paṭisotaṁ/                                                | /yathābhūtaṁ/                    | /sattāhaṁ/                  | /ekapuggalo/                                  |
+| against the stream                                        | as it is                         | seven days                  | one person                                    |
+| /nimmakasaṁ/                                              | /yāvajīvaṁ/                      | /saḷāyatanaṁ/                | /tibhavā/                                     |
+| mosquito-free                                             | for the length of life           | six senses                  | three spheres of existence                    |
+| /ajjhattaṁ/ [adhi + atta]                                 | /pacchābhattaṁ/                  | /ticīvaraṁ/                 | /catuddisā/                                   |
+| inner; personal; subjective                               | after the meal                   | three robes                 | four directions                               |
+
+#+latex: \end{minipage}
+
+\clearpage
+
+*** Memory Aids
+
+#+ATTR_LATEX: :environment longtable :align L{4cm} L{4cm} L{4cm} L{4cm}
+| *Tappurisa*                                                    | *Kammadhāraya*                                             | *Dvanda*                                                        | *Bahubbīhi*                                                     |
+| case-relation                                                  | attribute / equivalent                                     | List                                                            | quality of                                                      |
+| $A \xrightarrow{\text{case}} B$                                | an /A/-like /B/                                            | $A \mathbin{\&} B$                                              | $[A B] \rightarrow C$                                           |
+|                                                                | an /A/ that is /B/                                         |                                                                 |                                                                 |
+|                                                                |                                                            |                                                                 |                                                                 |
+| \includegraphics[width=4cm]{./images/tapping-bad-case.jpeg}    | \includegraphics[width=4cm]{./images/gramma-likes-ya.jpeg} | \includegraphics[width=4cm]{./images/vandas-shopping-list.jpeg} | \includegraphics[width=4cm]{./images/bad-hungry-bees-hive.jpeg} |
+| Tapping a /purisa/ on his shoulder: "You are a bad case!"      | Gramma likes ya!                                           | Vanda's shopping list                                           | A \textbf{Ba}d \textbf{Hu}ngry \textbf{Bee}'s \textbf{Hi}ve     |
+|                                                                |                                                            |                                                                 |                                                                 |
+| *Avyayībhāva*                                                  |                                                            | *Digu*                                                          |                                                                 |
+| Adverbial                                                      |                                                            | Numerical                                                       |                                                                 |
+|                                                                |                                                            |                                                                 |                                                                 |
+| \includegraphics[width=4cm]{./images/adverbial-compounds.jpeg} |                                                            | \includegraphics[width=4cm]{./images/two-cows-dii-gu.jpeg}      |                                                                 |
+| Adversary adverbial compounds                                  |                                                            | Two cows                                                        |                                                                 |
+
+\clearpage
+
+**** Prompts                                                       :noexport:
+
+Create an image:
+A man is tapping another man on the shoulder and says "you are a bad case!".
+This is a language book illustration. Use black and white. Use comic style, line art style.
+
+Create an image:
+Gramma likes ya!
+This is a language book illustration. Use black and white. Use comic style, line art style.
+
+Create an image: Vanda's Shopping List. This is a language book illustration. Use black and white. Use comic style, line art style.
+
+Create an image:
+Bad Hungry Bees' Hive.
+This is a language book illustration. Use black and white. Use comic style, line art style.
+
+Create an image:
+Grammar illustraion for adverbial compounds.
+This is a language book illustration. Use black and white. Use comic style, line art style.
+
+Create an image:
+Adversary adverbs manga.
+This is a language book illustration. Use black and white. Use comic style, line art style.
+
+Create an image:
+Two cows. One cow says "di", the other cow says "gu".
+This is a language book illustration. Use black and white. Use comic style, line art style.
+
+*** Reading Compounds                                              :noexport:
+
+# uid:s0514a3.att/pli/cst4
+
+vidhurajātakavaṇṇanā, catuposathakaṇḍaṁ
+
+paṇḍu kisiyāsi dubbalāti ...
+
+kāḷapabbatamuddhani puṇṇakaṁ nāma yakkhasenāpatiṁ
+attano ñāṇabaleneva dametvā nibbisevanaṁ katvā
+pañcasīlesu patiṭṭhāpento attano jīvitaṁ dāpesi
+
+\clearpage
+
+*** Refereces                                                      :noexport:
+
+# uid:s0514a3.att/pli/cst4
+
+# https://thejatakatales.com/vidhurapandita-jataka-545/
+
 ** Declensions (-a)
 *** Vocative Case: nara / narā -- Hey, man!
 
@@ -1130,7 +1335,7 @@ The particle /mā/ is used to express a prohibition.
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Buddho paṭiggaṇhā\textbf{tu} accayantaṃ.  | \fillin{8cm}{May the Buddha accept (that) transgression.} |
+| Buddho paṭiggaṇhā\textbf{tu} accayantaṁ.  | \fillin{8cm}{May the Buddha accept (that) transgression.} |
 | Phāsu (comfortably) vihara\textbf{tu}!   | \fillin{8cm}{Let him live comfortably!}                   |
 | Vassasataṁ jīv\textbf{a}!                | \fillin{8cm}{May you live 100 years!}                     |
 | Samitaṁ (/calm/) ved\textbf{ehi}!        | \fillin{8cm}{May you feel calm!}                          |
@@ -1173,8 +1378,8 @@ The particles *saddhiṁ, saha* used with the instrumental case, expresses the m
 | \fillin{8cm}{ācariyena / ācariyā saddhiṁ}           | together with the teacher                            |
 | \fillin{8cm}{viññūhi saddhiṁ}                       | together with the wise men                           |
 | Etena saccena suvatthi [su + atthi] hotu. ([[https://suttacentral.net/snp2.1/pli/ms][Snp 2.1]]) | \fillin{8cm}{By this truth may there be well-being.} |
-| \fillin{8cm}{Ahaṃ mittena saddhiṃ gāmaṁ gacchāmi.} | I, together with a friend, go to the village.        |
-| \fillin{8cm}{Mātugāmena saddhiṃ cārikaṁ carati.}    | He wanders about with a woman. (/mātugāma/)          |
+| \fillin{8cm}{Ahaṁ mittena saddhiṁ gāmaṁ gacchāmi.} | I, together with a friend, go to the village.        |
+| \fillin{8cm}{Mātugāmena saddhiṁ cārikaṁ carati.}    | He wanders about with a woman. (/mātugāma/)          |
 
 | Aṭṭhi tacena onaddhaṁ, saha vatthebhi[fn:vatthebhi]\space sobhati. (MN 82) |
 | \fillin{10cm}{A bone covered with skin; it looks beautiful with clothes.} |
@@ -1204,7 +1409,7 @@ Plural: /-naṁ/ is added to the noun-stem and the final vowel of the stem becom
 /Buddhānaṁ, munīnaṁ, vidūnaṁ./
 
 #+begin_quote
-Saṅgho imaṃ kaṭhinadussaṃ āyasmato Amarassa deti. ([[https://suttacentral.net/pli-tv-kd7/pli/ms][Vin. Kd 7]])
+Saṅgho imaṁ kaṭhinadussaṁ āyasmato Amarassa deti. ([[https://suttacentral.net/pli-tv-kd7/pli/ms][Vin. Kd 7]])
 #+end_quote
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -2172,7 +2377,7 @@ whichever (masc.nom.sg. of /ya/)
 
 #+latex: \end{multicols}
 
-/Ahaṃ bhante tisaraṇena saha aṭṭhasīlāni (nt.acc.pl.) yācāmi./
+/Ahaṁ bhante tisaraṇena saha aṭṭhasīlāni (nt.acc.pl.) yācāmi./
 
 /Yathārūpaṁ parisaṁ alaṁ yojanagaṇanānipi dassanāya gantuṁ./ (AN 4.190)
 
@@ -2265,7 +2470,7 @@ The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used i
 
 | Parisuddho no kāyasamācāro bhavissati. (MN 39) | \fillin{8cm}{Our bodily behaviour should be purified.}  |
 | \fillin{8cm}{brāhmaṇā karissanti ...}           | Brahmans will do ....                                   |
-| Sādhu suṭṭhu bhante saṃvarissāmi.               | \fillin{8cm}{Well indeed, Sir., I shall be restrained.} |
+| Sādhu suṭṭhu bhante saṁvarissāmi.               | \fillin{8cm}{Well indeed, Sir., I shall be restrained.} |
 
 \null
 
@@ -2803,7 +3008,7 @@ Possessive pronouns (genitive)
 
 #+latex: \end{multicols}
 
-| Dānaṃ dadantu saddhāya, sīlaṃ rakkhantu sabbadā.                                     |
+| Dānaṁ dadantu saddhāya, sīlaṁ rakkhantu sabbadā.                                     |
 | \fillin{12cm}{May they give gifts with conviction, may they always maintain virtue.} |
 | Bhāvanābhiratā hontu, gacchantu devatā-gatā.[fn:: Dukkhappattā... chant]             |
 | \fillin{12cm}{May they delight in meditation, may they go to the devas.}             |
@@ -3056,7 +3261,7 @@ Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi r
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| Icchitaṃ patthitaṃ tumhaṃ khippameva samijjhatu.          |
+| Icchitaṁ patthitaṁ tumhaṁ khippameva samijjhatu.          |
 | \fillin{12cm}{May your hopes and wishes succeed quickly.} |
 | 'Kālo, bhante, niṭṭhitaṁ bhattan'ti.                       |
 | \fillin{12cm}{Sir, it's time. The meal is ready.}         |
@@ -3254,7 +3459,7 @@ Some verbs can take two objects as a double accusative:
 
 #+latex: \renewcommand{\arraystretch}{1.8}
 
-| So tehi dhammehi cittaṁ paṭivāpetvā ...                                                        |
+| So tehi dhammehi cittaṁ paṭivāpetvā ...                                                         |
 | \fillin{12cm}{He turns his mind away from those phenomena, ...}                                |
 | ... amatāya dhātuyā cittaṁ upasaṁharati.[fn::MN 64, AN 9.36]                                   |
 | \fillin{12cm}{... and, inclines his mind to the property of deathlessness.}                    |
@@ -3270,7 +3475,7 @@ Some verbs can take two objects as a double accusative:
 | \fillin{12cm}{Te Buddhassa dhammaṁ sotuṁ sotaṁ odahiṁsu.}                                     |
 | Monks made an attempt to attain Arahatship.                                                    |
 | \fillin{12cm}{Bhikkhū arahattaṁ pāpunituṁ viriyaṁ ārabhiṁsu.}                                 |
-| The monk went to the forest and sat down at the foot of a tree.                                |
+| The monk, having gone to the forest, sat down at the foot of a tree.                           |
 | \fillin{12cm}{Bhikkhu araññaṁ / vanaṁ gantvā rukkhassa mūle nisīdi.}                           |
 
 #+latex: \normalArrayStrech
@@ -3470,8 +3675,7 @@ Later, I memorized the teachings and I meditated.
 Then for me it is like this, 'I've done some work. But while working my body got tired. I'd better have a lie down.'
 
 Atha kho mayhaṁ evaṁ hoti: 'ahaṁ kho kammaṁ akāsiṁ. Kammaṁ kho pana me karontassa kāyo kilanto. Handāhaṁ nipajjāmī'ti. (AN 8.80)
-
-* Lesson 5                                                         :noexport:
+* Lesson 5
 ** Review Exercises
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -3507,6 +3711,8 @@ Atha kho mayhaṁ evaṁ hoti: 'ahaṁ kho kammaṁ akāsiṁ. Kammaṁ kho pana
 /jhāyati:/ thinks; meditates\\
 /nijjhāyati:/ meditates; reflects; considers
 #+end_twocols
+
+\clearpage
 
 ** Present Participle (-nt, -māna)
 
@@ -3761,7 +3967,7 @@ vuddhiyeva, bhikkhave, bhikkhūnaṁ pāṭikaṅkhā, no parihāni. ([[https://
 
 ------
 
-Sampanna-sīlā viharissāma sampanna-pāṭimokkhā, pāṭimokkha-saṃvara-saṃvutā
+Sampanna-sīlā viharissāma sampanna-pāṭimokkhā, pāṭimokkha-saṁvara-saṁvutā
 viharissāma ācāra-gocara-sampannā. (Sīl'uddesa-pāṭha)
 
 -------
@@ -4516,21 +4722,291 @@ constr: \textbf{a} + √as + i → \textbf{ā}si
 
 *The particle /mā/* standing before an imperative verb expresses a prohibition: /mā gaccha/ (don't go!)
 
-/jhāyatha, bhikkhave, mā pamādaṃ attha/ (MN 19 simpl) Meditate, monks! Don’t be negligent!
+/jhāyatha, bhikkhave, mā pamādaṁ attha/ (MN 19 simpl) Meditate, monks! Don’t be negligent!
 
 The verb is often in the aorist past tense, but the meaning is in the present or even the future.
 
 | mā āgacchi | Don't come!           |
 | mā kari    | Don't do! Don't make! |
 
-/mā akāsi pāpakaṃ kammaṃ/ (SN 10.5) Don’t do evil deeds.
+/mā akāsi pāpakaṁ kammaṁ/ (SN 10.5) Don’t do evil deeds.
 
-/kiṃ nu kujjhasi? mā kujjhi!/ (SN 21.9) Why are you angry? Don't be angry!
+/kiṁ nu kujjhasi? mā kujjhi!/ (SN 21.9) Why are you angry? Don't be angry!
 
 *The particle /no/* can express the meaning "not" (among other meanings).
 
-/Ime dhammā saṃyogāya saṃvattanti, no visaṃyogāya./ (AN 8.53) \\
+/Ime dhammā saṁyogāya saṁvattanti, no visaṁyogāya./ (AN 8.53) \\
 These qualities lead to attachment, not to detachment.
+
+\clearpage
+
+** Compound Types
+
+\label{compound-types}
+
+The names of compound types are autological, they are examples of the type of compound itself.
+
+*** Tappurisa (expr: case-relation)
+
+The first member qualifies the second with a case-relation, for any oblique case, i.e. except /nominative/ and /vocative/.
+
+The inflection of the final member determines its role in the sentence.
+
+The name /tappurisa/ (Sk /tatpuruṣa/) means "his man", i.e. the worker /
+employee / servant of him. It is analysed as /tassa purisa/ / /tvasya puruṣa/,
+hence a compound with a hidden genitive case relationship between the two words.
+
+/Guṇakathaṁ deseti./ He teaches a tale (of) virtue.
+
+/Buddha-bhāsito dhammo kalyāṇo hoti./ The doctrine spoken (by) the Buddha is auspicious.
+
+| brahma-loko   | gen | world of Brahma    |
+| rāja-putto    | gen | son of king        |
+| buddha-dhammo | gen | doctrine of Buddha |
+
+The final member as a participle:
+
+| arañña-gato      | acc | gone /to/ forest               |
+| buddha-bhāsito   | gen | spoken /by/ Buddha             |
+| rukkha-patito    | abl | fallen /from/ tree             |
+| saraṇa-gamanaṁ   | acc | going /for/ refuge             |
+| arañña-vāso      | loc | living /in/ forest             |
+| yakkha-senā-pati | gen | lord /of/ the army /of/ demons |
+
+Stems are joined by the rules of sandhi:
+
+/kūṭāgārasālā (kūṭa + agāra + sālā)/: ridged-house-hall: hall /of/ house /with/ a ridge
+
+Final member can be a specialized abbreviated form:
+
+| -kara  | kamma-karo   | action-doing (worker)     |
+| -kāra  | kumbha-kāro  | pot-making (potter)       |
+| -dhara | dhamma-dharo | doctrine-holding (expert) |
+| -ṭṭha   | thala-ṭṭho    | dry-ground-standing       |
+| -hara  | pāṇa-haro     | life-taking               |
+
+*** Kammadhāraya (expr: attribution, equivalence)
+
+One member of the compound is an attibute to the other: 'an /A/-like /B/', or 'a
+/B/ that is /A/'. (A.k.a. adjectival compounds.)
+
+/micchā-vācā:/ $A_{\text{adj}} B_{\text{sub}}$ wrong-speech, speech (that is) wrong
+
+house-boat: a boat (that is) a house
+
+Difference to /tappurisa/: if the members were not compounded, the two words
+would be in the same case, because one qualifies the other, rather than having a
+case-relationship between them.
+
+It is as if the members had a nominative case relationship $A_{\text{nom.}}
+B_{\text{nom.}}$, which doesn exist for /tappurisa/.
+
+Always has two members and takes one of four forms:
+
+Adjective and substantive nouns:
+
+| A[adj] - B[sub]   | green-house |
+| A[adj/v] - B[adj] | soft-spoken |
+| A[sub] - B[adj]   | ice-cold    |
+| A[sub] - B[sub]   | house-boat  |
+
+: A[adj] - B[sub]
+
+| mahā-nadī      | great-river   |
+| kalyāṇa-mitta  | good-friend   |
+| baddha-miga    | trapped-deer  |
+| paññatta-āsana | arranged-seat |
+| kaṇha-sappa    | black-snake   |
+
+: A[adj] - B[adj]
+: A[adv] - B[vadj]
+
+| sabba-seta    | all-white     |
+| sammā-vimutti | rightly-freed |
+| micchā-vācā   | wrong-speech  |
+
+: A[sub] - B[adj]
+
+| manoseṭṭha      | mind as foremost |
+| pāṇa-piya      | dear as life     |
+| saṇkha-likhita | smooth as shell  |
+
+: A[sub] - B[sub]
+
+A is B
+
+| rāja-isi        | king-sage            |
+| sāriputta-thera | Sāriputta, the elder |
+
+a B like A
+
+| muni-puṅgava | bull like sage          |
+| mukha-canda  | moon like face          |
+| akkhi-tārakā | star like eyes          |
+| sīla-dhana   | wealth like/of morality |
+| paññā-sattha | sword like/of wisdom    |
+
+*** Dvanda (expr: a list)
+
+Two or more nouns come together in a conjunction (and, or), with no added meaning.
+
+The name /dvanda/ (Sk /dvaṃdva/) means /dva/ (two) + /dva/ two = a pair, a
+couple, with a hidden conjunction (and / or).
+
+: A + B
+
+bittersweet: bitter & sweet
+
+| samaṇa-brāhmaṇa      | recluses & priests       |
+| buddha-dhamma-saṇgha | Buddha & dhamma & saṇgha |
+
+The /dvanda/ can be part of a /tappurisa/:
+
+/[buddha-dhamma-saṇgha]-guṇe/ (acc.pl.) /na jānāti./
+
+He knows not the virtues (of) the Buddha & Dhamma & Saṇgha.
+
+The members are in stem form, the final member is declined to indicate its role in the sentence.
+
+*Plurality:*
+
+/Dvanda/ are normally plural, and take the gender of the last member.
+
+| upāsaka-upāsikāyo | male & female devotees |
+
+But they can be taken as a unit, or collective, when the members are a natural
+pair, and the compound will be singular, and often in the neuter gender.
+
+| hattha-pādaṁ | hands & feet |
+
+Grammatically it is treated as a single unit, the members can have either
+singular or plural meaning, which is understood only from context.
+
+| jarā-maraṇaṁ   | decay & death |
+| candima-suriyā | moon & sun    |
+
+In Pāli, the more pivotal member is at the end (unlike in English).
+
+*** Bahubbīhi (expr: compound as a quality)
+
+A compound is used as an adjective to qualify another separate word.
+
+(A.k.a. exocentric compounts, because they qualify something outside of themselves.)
+
+The name /bahubbīhi/ (Sk /bahuvrīhi/) means /bahu/ (lots) + /vīhi/ (rice paddy).
+It is referring to a word which is not present in the compound itself,
+in that case a man or a country who has lots of rice paddy, i.e. a rich farmer,
+a rich agricultrual land, depending on the context.
+
+: [A-B] -> C
+: grey-haired lady
+
+Equivalent to a relative clause:
+
+: [A-B] -> C
+: a C 'whose B is A'
+
+bare-foot girl: a girl 'whose feet are bare'
+
+Hence, /bahubbīhi/ are other compounds used as an adjective.
+
+_Kammadhāraya (adj. + noun):_
+
+| su-desito dhammo  | the well-taught doctrine |
+| su-sajjitaṁ puraṁ | a well-prepared city     |
+
+Since it is an adjective, the final member of the compound changes gender:
+
+| suvaṇṇa-vaṇṇā devatā | a gold-coloured deity |
+| pahūta-jivho rājā   | a broad-tongued king  |
+
+(/vaṇṇa/ is masc., but here it is fem. to agree with /devatā/)
+
+(/jivha/ is fem., but here it is masc. to agree with /rāja/)
+
+As relative pronouns, when the first member is a past participle:
+
+| jit'-indriyo samaṇo | a subdued-senses recluse |
+
+A recluse (whose) senses (have been) subdued.
+
+(The past participle gives it a more present-perfective sense.)
+
+| brāhmaṇo chinna-kukkucco | a cut-worries brahmin |
+
+A brahmin (whose) worries (have been) cut.
+
+| ārūḷha-naro rukkho | an ascended-man tree |
+
+The tree (which has been) ascended (by) a man.
+
+| āgata-samaṇo saṁghārāmo | an arrive-recluse monastery |
+
+The monastery (to which) a recluse (has) come.
+
+| yaṁ kiñci samudaya-dhammaṁ | arising-natured whatever |
+| sabbaṁ taṁ nirodha-dhammaṁ | ceasing-natured all that |
+
+Whatever (has) a nature (of) arising,\\
+all that (has) a nature (of) ceasing.
+
+Similar to a case-relation between the compound and the qualified word.
+
+_Tappurisa:_
+
+(Compound members have a case-relation)
+
+| buddha-bhāsito dhammo | the Buddha-spoken doctrine |
+
+the doctrine (that is) spoken (by) the Buddha
+
+| kām'-andho puriso | a desire-blinded man |
+
+a man (who is) blinded (by) desire
+
+_Dvanda:_
+
+pīti-sukhaṁ paṭhamaṁ jhānaṁ
+
+the 1st jhāna (that is) joy & ease
+
+*** Avyayībhāva (expr: adverbial)
+
+Compounds that function as adverbs or indeclinables. The first member predominates the second.
+
+*** Digu (expr: numerical kammadhāraya)
+
+/Digu/ means 'two cows'. The first member is a number. A subtype of /kammadhāraya/.
+
+The name /digu/ (Sk /dvigu/), means /di/ (two) + /gu/ (cow) = two cows. It is two words in the same case, but one is a numeral.
+
+\clearpage
+
+*** References                                                     :noexport:
+
+email: [[mu4e:msgid:c49e8c1e221ec80c22bbede2262f0f11a63dafe7.camel@gmail.com][Pāḷi Compounds]]
+
+https://www.digitalpalireader.online/docs/pali/compound.htm
+
+Bhaddacak, p.532
+
+p.21 Compounds of nouns samāsa
+https://host.pariyatti.org/plc/EngPaliGrammar_w.audio.pdf
+
+Bomhart, p.113
+https://www.researchgate.net/publication/287194846_An_Introductory_Grammar_of_the_Pali_Language
+https://ibc-elibrary.thanhsiang.org/files/public/An%20Introductory%20Grammar%20of%20the%20Pali%20Language%20-%20Bomhard.pdf
+
+Duroiselle, p.91
+https://www.baus.org/en/wp-content/uploads/2021/07/Duroiselle2008.pdf
+
+Tappurisa: [[https://www.youtube.com/watch?v=hke5_dV3PWE][Warder's 'Intro to Pali': Chapter 13 | Learn Pali Language - YouTube]]
+
+Dvanda: [[https://www.youtube.com/watch?v=Vr4Xux3UO0Y&t=161s][Warder's 'Intro to Pali': Chapter 15 | Learn Pali Language - YouTube]]
+
+Kammadhāraya: [[https://www.youtube.com/watch?v=rKPmMaIJM_o&t=752s][Warder's 'Intro to Pali': Chapter 16 | Learn Pali Language - YouTube]]
+
+Bahubbīhi: [[https://www.youtube.com/watch?v=n5Dkvn2IQ_8&t=416s][Warder's 'Intro to Pali': Chapter 19 | Learn Pali Language - YouTube]]
 
 * Vocabulary: Words
 

@@ -3,6 +3,7 @@
 #+AUTHOR: The Bhikkhu Saṅgha
 #+LATEX_CLASS: memoir
 #+LATEX_CLASS_OPTIONS: [a4paper]
+#+LATEX_HEADER: \usepackage{mathtools}
 #+LATEX_HEADER: \input{./vocabulary-preamble.tex}
 #+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t title:nil num:2 ^:{} creator:nil timestamp:nil html-postamble:nil
 #+HTML_HEAD_EXTRA: <style> h1, h2, h3, h4, h5, h6 { font-family: 'Spectral'; font-weight: normal; margin-top: 0em; margin-bottom: 0.5em; } h2, h3 { font-size: 1.2em; text-decoration: underline; } table { border-color: white; } </style>
@@ -496,3 +497,62 @@ Possessive pronouns (genitive)
 | yesterday                       | hīyo           |
 
 #+latex: \end{multicols}
+
+\clearpage
+
+** Compounds of Nouns: Overview
+
+#+latex: \hspace{-20pt}%
+#+latex: \begin{minipage}{\linewidth+10pt}%
+
+#+ATTR_LATEX: :environment longtable
+| *Tappurisa*                                               | *Kammadhāraya*                   | *Dvanda*                    | *Bahubbīhi*                                   |
+| expresses:                                                | /A/ is an *attribute* of /B/     | *List*                      | /AB/ is a *quality* of /C/                    |
+| /A/ has *case-relation* to /B/                            | /A/ is *equivalent* to /B/       |                             | /AB/ → obj. outside of the comp.              |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| $A \xrightarrow{\text{case}} B$                           | an /A/-like /B/                  | $A \mathbin{\&} B$          | $[A B] \rightarrow C$                         |
+|                                                           | an /A/ that is /B/               |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| *Case relation:* any except nom. voc.                     | /A/ /B/ in same case             | /A/ /B/ in same case        | case depends on $[A B]$                       |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /brahma-loko/                                             | /mahā-nadī/                      | /samaṇa-brāhmaṇā/           | /su-desito dhammo/                            |
+| $A \xrightarrow{\text{gen}} B$                            | $A_{\text{adj}} B_{\text{sub}}$  |                             | $A_{\text{adj}} B_{\text{sub}} \rightarrow C$ |
+| world /of/ Brahma                                         | great river                      | recluses & priests          | the well-taught doctrine                      |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /arañña-vāso/                                             | /sabba-seta/                     | /nāma-rūpaṁ/                | /brāhmaṇo chinna-kukkucco/                    |
+| $A \xrightarrow{\text{loc}} B$                            | $A_{\text{adj}} B_{\text{adj}}$  |                             | $C \leftarrow A_{\text{adj}} B_{\text{sub}}$  |
+| living /in/ forest                                        | all white                        | name & form                 | a brahmin (whose) worries (are) cut           |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /rukkha-patito/                                           | /mano-seṭṭha/                     | /jarā-maraṇaṁ/              | /buddha-bhāsito dhammo/                       |
+| $A \xrightarrow{\text{abl}} B$                            | $A_{\text{sub}} B_{\text{adj}}$  |                             | $A_{\text{sub}} B_{\text{adj}} \rightarrow C$ |
+| fallen /from/ tree                                        | mind as foremost                 | old age & death             | the Buddha-spoken doctrine                    |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /saraṇa-gamanaṁ/                                          | /sāriputta-thera/                | /hattha-pādaṁ/              | /kām'-andho puriso/                           |
+| $A \xrightarrow{\text{acc}} B$                            | $A_{\text{sub}} B_{\text{sub}}$  |                             | $A_{\text{sub}} B_{\text{adj}} \rightarrow C$ |
+| going /for/ refuge                                        | Sāriputta, the elder             | hands & feet                | a desire-blinded man                          |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| /kūṭāgārasālā/                                             | /mukha-canda/                    | /candima-suriyā/            | /pīti-sukhaṁ paṭhamaṁ jhānaṁ/                 |
+| $A \xrightarrow{\text{gen}} B \xrightarrow{\text{gen}} C$ | $A_{\text{sub}} B_{\text{sub}}$  |                             | $A \mathbin{\&} B \rightarrow C$              |
+| hall /of/ house /with/ a ridge                            | moon-like face                   | moon & sun                  | the 1st jhāna (that is) joy & ease            |
+|                                                           |                                  |                             |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| *Avyayībhāva*                                             |                                  | *Digu*                      | sub-type of                                   |
+| Adverbial                                                 |                                  | Numerical                   | /kammadhāraya/                                |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| adv. don't take a case                                    |                                  | /A/ /B/ in same case        |                                               |
+|-----------------------------------------------------------+----------------------------------+-----------------------------+-----------------------------------------------|
+| $A_{\text{prefix}} B_{\text{noun}}$                       | $A_{\text{ind}} B_{\text{noun}}$ | $A_{\text{num}} B$ (sg.nt.) | $A_{\text{num}} B$ (not nt.)                  |
+| /paṭisotaṁ/                                                | /yathābhūtaṁ/                    | /sattāhaṁ/                  | /ekapuggalo/                                  |
+| against the stream                                        | as it is                         | seven days                  | one person                                    |
+| /nimmakasaṁ/                                              | /yāvajīvaṁ/                      | /saḷāyatanaṁ/                | /tibhavā/                                     |
+| mosquito-free                                             | for the length of life           | six senses                  | three spheres of existence                    |
+| /ajjhattaṁ/ [adhi + atta]                                 | /pacchābhattaṁ/                  | /ticīvaraṁ/                 | /catuddisā/                                   |
+| inner; personal; subjective                               | after the meal                   | three robes                 | four directions                               |
+
+#+latex: \end{minipage}
