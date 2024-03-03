@@ -1,0 +1,420 @@
+# -*- flyspell-lazy-local: nil; mode: Org; eval: (progn (flycheck-mode 0) (flyspell-mode 0) (toggle-truncate-lines 1)) -*-
+#+LATEX_CLASS: memoir
+#+LATEX_HEADER: \input{./pali-lessons-preamble.tex}
+#+LATEX_HEADER: \maxtocdepth{section}
+#+LANGUAGE: en_GB
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{}
+#+TITLE: Pali Readings with Sentence Analysis
+#+AUTHOR: The Bhikkhu Saṅgha
+
+#+begin_export latex
+\frontmatter
+
+{\centering
+
+{\Huge Pāḷi Readings with Sentence Analysis}
+
+\bigskip
+\href{https://vinaya-class.github.io}{https://vinaya-class.github.io}
+
+{\scshape\small last updated on}\\
+\today
+
+}
+
+\bigskip
+\tableofcontents*
+
+\mainmatter
+
+\yournamefalse
+
+\newlength{\colOne}\setlength{\colOne}{0.35\linewidth}
+\newlength{\colTwo}\setlength{\colTwo}{0.6\linewidth}
+
+\renewenvironment{quote}%
+{\list{}{%
+    \doubleLineSize
+    \listparindent 0pt
+    \itemindent    0pt
+    \leftmargin    3em
+    \rightmargin   3em
+    \parsep        0pt
+    \topsep        8pt
+    \partopsep     0pt}%
+\item[] \raggedright}%
+{\endlist}
+#+end_export
+
+* Decks                                                            :noexport:
+
+Pāli Readings::7. The Weaver's Daughter (Dhp 174 and Commentary Story)::1. Vocabulary
+
+* The Weaver's Daughter (Dhp 174 and Comm.)
+** Dhp 174 Verse                                                   :noexport:
+
+**Pesakāradhītāvatthu**
+
+- Dhp 174 Verse ([[https://suttacentral.net/dhp167-178/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.0.12.0.0.m][DPR]], [[http://localhost:4848/suttas/dhp167-178/pli/ms?quote=Andhabh%25C5%25ABto%2520aya%25E1%25B9%2581%2520loko&window_type=Sutta+Study][Simsapa]])
+- Commentary ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.4.6.x.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=andhabh%25C5%25ABtoti%2520ima%25E1%25B9%2581%2520dhammadesana%25E1%25B9%2581&window_type=Sutta+Study][Simsapa]])
+
+#+begin_quote
+Andhabhūto ayaṁ loko,
+tanukettha vipassati;
+Sakuṇo jālamuttova,
+appo saggāya gacchati.
+#+end_quote
+
+Compound of /pesa-kāra-dhītā-vatthu/:
+
+: [[[pesaṁ + kāra] + dhītar] + vatthu]
+:
+:    acc. tappurisa
+:    who makes the weaving
+:
+:                  gen. tappurisa
+:                  daughter of...
+:
+:                            gen. tappurisa
+:                            story of...
+
+Construct the English word order from back to front:
+
+#+begin_quote
+The story (/vatthu/) of the daughter (/dhītar/) of (he) who makes (/√kar/) the weaving (/pesa/).
+#+end_quote
+
+Suffixing languages can follow the Pāli order, e.g. Hungarian: /A ruhaszövő lányának története/.
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H
+| pesakāra (m.) | weaver; embroiderer            |                         |
+| dhītar (f.)   | daughter                       |                         |
+| vatthu (nt.)  | story; case; example; instance | pesakāradhītā{{vatthu}} |
+
+** Imaṁ dhammadesanaṁ satthā...                                    :noexport:
+
+#+begin_quote
+Andhabhūto'ti:
+
+Imaṁ dhammadesanaṁ satthā aggāḷave cetiye viharanto ekaṁ pesakāradhītaraṁ ārabbha kathesi.
+
+Ekadivasañhi āḷavivāsino satthari āḷaviṁ sampatte nimantetvā dānaṁ adaṁsu.
+
+Satthā bhattakiccāvasāne anumodanaṁ karonto:
+
+"Addhuvaṁ me jīvitaṁ, dhuvaṁ me maraṇaṁ,
+
+avassaṁ mayā maritabbameva, maraṇapariyosānaṁ me jīvitaṁ,
+
+jīvitameva aniyataṁ, maraṇaṁ niyatanti,
+
+evaṁ maraṇassatiṁ bhāvetha.
+
+Yesañhi maraṇassati abhāvitā, te pacchime kāle āsīvisaṁ disvā
+
+bhītaadaṇḍapuriso viya santāsappattā bheravaravaṁ ravantā kālaṁ karonti.
+
+Yesaṁ pana maraṇassati bhāvitā, te dūratova āsīvisaṁ disvā
+
+daṇḍakena gahetvā chaḍḍetvā ṭhitapuriso viya pacchime kāle na santasanti,
+
+tasmā maraṇassati bhāvetabbā"ti āha.
+
+Taṁ dhammadesanaṁ sutvā avasesajanā sakiccappasutāva ahesuṁ.
+
+Ekā pana soḷasavassuddesikā pesakāradhītā
+
+"Aho, buddhānaṁ kathā nāma acchariyā, mayā pana maraṇassatiṁ bhāvetuṁ vaṭṭatī"ti
+
+rattindivaṁ maraṇassatimeva bhāvesi.
+
+Satthāpi tato nikkhamitvā jetavanaṁ agamāsi.
+
+Sāpi kumārikā tīṇi vassāni maraṇassatiṁ bhāvesiyeva.
+#+end_quote
+
+** Athekadivasaṁ satthā...                                         :noexport:
+
+#+begin_quote
+Athekadivasaṁ satthā paccūsasamaye lokaṁ olokento
+
+taṁ kumārikaṁ attano ñāṇajālassa antopaviṭṭhaṁ disvā
+
+"kiṁ nu kho bhavissatī"ti upadhārento
+
+"imāya kumārikāya mama dhammadesanāya sutadivasato paṭṭhāya
+
+tīṇi vassāni maraṇassati bhāvitā,
+
+idānāhaṁ tattha gantvā imaṁ kumārikaṁ cattāro pañhe pucchitvā
+
+tāya vissajjentiyā catūsu ṭhānesu sādhukāraṁ datvā imaṁ gāthaṁ bhāsissāmi.
+#+end_quote
+
+** Sā gāthāvasāne...                                               :noexport:
+
+[[https://www.tldraw.com/r/-fq8IgiR00U5fbrdXIIMK?viewport=0,0,1920,443&page=page:page][tldraw]]
+
+#+begin_quote
+Sā gāthāvasāne sotāpattiphale patiṭṭhahissati
+
+taṁ nissāya mahājanassāpi sātthikā dhammadesanā bhavissati
+
+ñatvā
+
+pañcasatabhikkhuparivāro jetavanā nikkhamitvā anupubbena aggāḷavavihāraṁ agamāsi.
+
+Āḷavivāsino 'satthā āgato'ti sutvā taṁ vihāraṁ gantvā nimantayiṁsu.
+
+Tadā sāpi kumārikā satthu āgamanaṁ sutvā
+
+'Āgato kira mayhaṁ pitā, sāmi, ācariyo puṇṇacandamukho mahāgotamabuddho'ti
+
+tuṭṭhamānasā
+
+'Ito me tiṇṇaṁ saṁvaccharānaṁ matthake suvaṇṇavaṇṇo satthā diṭṭhapubbo,
+
+idānissa suvaṇṇavaṇṇaṁ sarīraṁ daṭṭhuṁ madhurojañca varadhammaṁ sotuṁ labhissāmī'ti
+
+cintesi.
+#+end_quote
+
+** Pitā panassā...                                                 :noexport:
+
+[[https://www.tldraw.com/r/6Qv6MmqStHjkhZTp-mcw2?viewport=24,35,1920,971&page=page:page][tldraw]]
+
+#+begin_quote
+Pitā panassā sālaṁ gacchanto āha
+
+"Amma, parasantako me sāṭako āropito,
+
+tassa vidatthimattaṁ aniṭṭhitaṁ,
+
+taṁ ajja niṭṭhāpessāmi,
+
+sīghaṁ me tasaraṁ vaṭṭetvā āhareyyāsī'ti.
+
+Sā cintesi –
+
+'Ahaṁ satthu dhammaṁ sotukāmā, pitā ca maṁ evaṁ āha.
+
+Kiṁ nu kho satthu dhammaṁ suṇāmi,
+
+udāhu pitu tasaraṁ vaṭṭetvā harāmī'ti?
+
+Athassā etadahosi:
+
+'Pitā maṁ tasare anāhariyamāne potheyyapi pahareyyapi,
+
+tasmā tasaraṁ vaṭṭetvā tassa datvā pacchā dhammaṁ sossāmī'ti
+
+Pīṭhake nisīditvā tasaraṁ vaṭṭesi.
+#+end_quote
+
+** Āḷavivāsinopi satthāraṁ parivisitvā...                          :noexport:
+
+[[https://www.tldraw.com/r/WGEIqUYjILmuGt2xttasg?viewport=21,-19,1920,687&page=page:page][tldraw]]
+
+#+begin_quote
+Āḷavivāsinopi satthāraṁ parivisitvā
+
+pattaṁ gahetvā anumodanatthāya aṭṭhaṁsu.
+
+Satthā 'yamahaṁ kuladhītaraṁ nissāya tiṁsayojanamaggaṁ āgato,
+
+sā ajjāpi okāsaṁ na labhati.
+
+Tāya okāse laddhe anumodanaṁ karissāmī'ti
+
+tuṇhībhūto ahosi.
+
+Evaṁ tuṇhībhūtampi satthāraṁ sadevake loke
+
+koci kiñci vattuṁ na visahati.
+
+Sāpi kho kumārikā tasaraṁ vaṭṭetvā pacchiyaṁ ṭhapetvā
+
+pitu santikaṁ gacchamānā parisapariyante ṭhatvā
+
+satthāraṁ olokayamānāva aṭṭhāsi.
+
+Satthāpi gīvaṁ ukkhipitvā taṁ olokesi.
+
+Sā olokitākāreneva aññāsi –
+
+'Satthā evarūpāya parisāya majjhe nisīditvāva
+
+maṁ olokento mamāgamanaṁ paccāsīsati,
+
+attano santikaṁ āgamanameva paccāsīsatī'ti.
+
+Sā tasarapacchiṁ ṭhapetvā satthu santikaṁ agamāsi.
+
+Kasmā pana naṁ satthā olokesīti?
+
+Evaṁ kirassa ahosi:
+
+'Esā ettova gacchamānā puthujjanakālakiriyaṁ katvā
+
+aniyatagatikā bhavissati,
+
+mama santikaṁ āgantvā gacchamānā sotāpattiphalaṁ patvā
+
+niyatagatikā hutvā tusitavimāne nibbattissatī'ti.
+
+Tassā kira taṁ divasaṁ maraṇato mutti nāma natthi.
+#+end_quote
+
+** Sā olokitasaññāṇeneva...
+
+#+begin_quote
+Sā olokitasaññāṇeneva satthāraṁ upasaṅkamitvā
+
+chabbaṇṇaraṁsīnaṁ antaraṁ pavisitvā vanditvā ekamantaṁ aṭṭhāsi.
+
+Tathārūpāya parisāya majjhe nisīditvā
+
+tuṇhībhūtaṁ satthāraṁ vanditvā ṭhitakkhaṇeyeva taṁ āha –
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H
+| olokita (pp.)        | being looked at                             | Sā {{olokita}}saññāṇeneva satthāraṁ upasaṅkamitvā |
+| saññāṇa (nt.)        | mental noting; lit. marking                 | Sā olokita{{saññāṇe}}neva satthāraṁ upasaṅkamitvā |
+| chabbaṇṇaraṁsi (f.) | six-coloured light-ray                      | {{chabbaṇṇaraṁsīnaṁ}} antaraṁ pavisitvā           |
+| antaraṁ (ind.)      | inside; near to; across; in the vicinity of | chabbaṇṇaraṁsīnaṁ {{antaraṁ}} pavisitvā           |
+| aṭṭhāsi              | stood (aor.2nd/3rd. of tiṭṭhati)            | pavisitvā vanditvā ekamantaṁ {{aṭṭhāsi}}           |
+| parisā (f.)          | assembly; meeting; forum; gathering; group  | Tathārūpāya {{parisāya}} majjhe nisīditvā          |
+| tuṇhībhūta (pp.)     | silent; quiet; mute                         | {{tuṇhībhūtaṁ}} satthāraṁ vanditvā                |
+| khaṇa (m.)           | moment; instant; point in time; opportunity | ṭhita{{kkhaṇe}}yeva taṁ āha                        |
+
+#+latex: \enlargethispage{\baselineskip}
+#+latex: \sentenceDiaSolution{./images/dhp174-sa-olokita.png}
+
+\clearpage
+
+#+begin_quote
+'kumārike, kuto āgacchasī'ti? 'na jānāmi, bhante'ti.
+
+'kattha gamissasī'ti? 'na jānāmi, bhante'ti.
+
+'na jānāsī'ti? 'jānāmi, bhante'ti.
+
+'jānāsī'ti? 'na jānāmi, bhante'ti.
+
+Iti naṁ satthā cattāro pañhe pucchi.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H
+| kuto (ind.)   | from where? [ka + to]           | Kumārike, {{kuto}} āgacchasi?             |
+| kattha (ind.) | where? [ka + ttha]              | {{Kattha}} gamissasi?                     |
+| naṁ (pron.)  | him, her, it (nt.acc.sg. of ta) | Iti {{naṁ}} satthā cattāro pañhe pucchi. |
+
+#+latex: \sentenceDiaSolution{./images/dhp174-kumarike-kuto.png}
+
+\clearpage
+
+#+begin_quote
+Mahājano ujjhāyi -- 'ambho, passatha,
+
+Ayaṁ pesakāradhītā sammāsambuddhena saddhiṁ icchiticchitaṁ kathesi,
+
+nanu nāma imāya 'Kuto āgacchasī'ti vutte
+
+'Pesakāragehato'ti vattabbaṁ.
+
+'Kahaṁ gacchasī'ti vutte
+
+'Pesakārasāla'nti vattabbaṁ siyā'ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H
+| ujjhāyi       | complained; grumbled (about); lit. thought down (aor. of /ujjhayati/) | Mahājano {{ujjhāyi}}                                                    |
+| ambho (ind.)  | Hey! Look here!                                                       |                                                                         |
+| icchiticchita | whatever one wishes; whichever desired; [icchita + icchita]           | Ayaṁ pesakāradhītā sammāsambuddhena saddhiṁ {{icchiticchitaṁ}} kathesi |
+| nanu nāma     | surely certainly                                                      |                                                                         |
+| vutta (pp.)   | said; told; spoken; mentioned                                         | imāya 'Kuto āgacchasī'ti {{vutte}}                                      |
+| kahaṁ (ind.) | where? [ka + haṁ]                                                    |                                                                         |
+| siyā          | could be; may be; might be; should be (opt. of /atthi/, irreg)        | 'Pesakārasāla'nti vattabbaṁ {{siyā}}.                                  |
+
+#+latex: \sentenceDiaSolution{./images/dhp174-mahajano-ujjhayi.png}
+
+\clearpage
+
+#+begin_quote
+Satthā mahājanaṁ nissaddaṁ katvā,
+
+'Kumārike, tvaṁ kuto āgacchasī'ti vutte
+
+'Kasmā na jānāmīti vadesī'ti pucchi.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H
+| nissadda (adj.) | silent, noiseless [nis + sadda]                           | Satthā mahājanaṁ {{nissaddaṁ}} katvā |
+
+#+latex: \sentenceDiaSolution{./images/dhp174-sattha-mahajanam.png}
+
+\clearpage
+
+#+begin_quote
+Bhante, tumhe mama pesakāragehato āgatabhāvaṁ jānātha,
+
+'Kuto āgatāsī'ti pucchantā pana
+
+'Kuto āgantvā idha nibbattāsī'ti pucchatha.
+
+Ahaṁ pana na jānāmi 'Kuto ca āgantvā idha nibbattāmhī'ti.
+
+Athassā satthā 'Sādhu sādhu, kumārike,
+
+mayā pucchitapañhova tayā vissajjito'ti
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H
+| āgatabhāva      | came to be (in this state) [āgata + bhāva]                | mama pesakāragehato {{āgatabhāvaṁ}}  |
+| nibbatta (pp.)  | arisen from; reborn from; lit. come out [nī + √vatt + ta] | Kuto āgantvā idha {{nibbatt}}āsi?     |
+| asi (pr.)       | you are (pr.2nd.sg. of /atthi/)                           | Kuto āgantvā idha nibbatt{{āsi}}?     |
+
+#+latex: \sentenceDiaSolution{./images/dhp174-mama-pesakaragehato.png}
+
+\clearpage
+
+#+begin_quote
+Paṭhamaṁ sādhukāraṁ datvā uttarimpi pucchi --
+
+'Kattha gamissasīti puna puṭṭhā kasmā "na jānāmī"ti vadesī'ti?
+
+Bhante, tumhe maṁ tasarapacchiṁ gahetvā
+
+pesakārasālaṁ gacchantiṁ jānātha,
+
+'ito gantvā kattha nibbattissasī'ti pucchatha.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H
+| sādhukāra (m.) | applause; approval; cheering; well wishing | Paṭhamaṁ {{sādhukāraṁ}} datvā uttarimpi pucchi |
+| uttari (ind.)  | furthermore; what is more; moreover        | Paṭhamaṁ sādhukāraṁ datvā {{uttarimpi}} pucchi |
+
+#+latex: \sentenceDiaSolution{./images/dhp174-pathamam-sadhukaram.png}
+
+\clearpage
+
+#+begin_quote
+Ahañca ito cutā na jānāmi 'kattha gantvā nibbattissāmī'ti.
+
+Athassā satthā 'mayā pucchitapañhoyeva tayā vissajjito'ti
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H
+| cuta (pp.) | passed away; died (pp. of /cavati/) | Ahañca ito {{cutā}} na jānāmi... |
+
+#+latex: \sentenceDiaSolution{./images/dhp174-ito-cuta.png}
+
+*** Notes                                                          :noexport:
+
+[[https://www.tldraw.com/r/2HWzHDCOVwmraubVSKWC2?viewport=15,364,1920,694&page=page:page][tldraw]]
+
+** Dutiyaṁ sādhukāraṁ...                                           :noexport:
+
+#+begin_quote
+Dutiyaṁ sādhukāraṁ datvā uttarimpi pucchi –
+#+end_quote

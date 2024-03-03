@@ -39,6 +39,34 @@
   \end{minipage}%
 }
 
+\newlength\@tmp@width
+\newlength\@tmp@height
+
+\renewcommand*{\printchaptertitleHook}{%
+  \AddToShipoutPictureBG*{%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-95mm}){%
+      \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
+    }%
+  }%
+}
+
+\newcommand*\sentenceDiaMsg{\textbf{Exercise:} Draw a sentence analysis diagram below and indicate declensions.}
+
+\newcommand*\sentenceDiaSolution[2][0.4]{%
+  \ifanswerkey%
+    \hspace*{-\spinemargin}%
+    \begin{minipage}{\paperwidth}%
+      \centering%
+      \includegraphics[scale=#1]{#2}%
+    \end{minipage}%
+  \else%
+    \settototalheight{\@tmp@height}{\includegraphics[scale=#1]{#2}}%
+    \begin{minipage}[\@tmp@height]{\linewidth}%
+      \sentenceDiaMsg%
+    \end{minipage}%
+  \fi%
+}
+
 \usepackage{cwpuzzle}
 
 \renewcommand\PuzzleCluePre{%

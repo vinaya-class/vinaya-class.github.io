@@ -53,6 +53,17 @@ Pāli Readings::1. Ratana Sutta Paritta (Snp 2.1)::1. Vocabulary
 Pāli Readings::2. Paṭhamabhavasutta (AN 3.76)::1. Vocabulary
 
 Pāli Readings::3. Cundīsutta (AN 5.32)::1. Vocabulary
+
+Pāli Readings::4. Indulgence in Pleasure::1. Vocabulary
+
+Pāli Readings::4. Indulgence in Pleasure::2. Vocabulary
+
+Pāli Readings::4. Indulgence in Pleasure::3. Vocabulary
+
+Pāli Readings::5. Uttiyasutta (SN 47.16)::1. Vocabulary
+
+Pāli Readings::6. Right Thought (SN 14.12, Iti 87)::1. Vocabulary
+
 * Further quotes                                                   :noexport:
 ** Related to Paṭhamabhavasutta (AN 3.76)
 

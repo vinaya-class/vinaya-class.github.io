@@ -16,8 +16,13 @@ pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
 
 pali-readings: export-pali-readings pali-readings.pdf
 
+pali-readings-with-sentence-analysis: export-pali-readings-with-sentence-analysis pali-readings-with-sentence-analysis.pdf
+
 pali-readings-answerkey: export-pali-readings
 	ANSWERKEY=TRUE make pali-readings-answerkey.pdf
+
+pali-readings-with-sentence-analysis-answerkey: export-pali-readings-with-sentence-analysis
+	ANSWERKEY=TRUE make pali-readings-with-sentence-analysis-answerkey.pdf
 
 pali-lessons-answerkey: export-pali-lessons
 	ANSWERKEY=TRUE make pali-lessons-answerkey.pdf
@@ -51,6 +56,12 @@ export-pali-cheatsheet:
 
 export-pali-readings:
 	emacs --batch -L -l 'pali-readings.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+
+export-pali-readings-with-sentence-analysis:
+	emacs --batch -L -l 'pali-readings-with-sentence-analysis.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+
+export-pali-readings-vocab-to-anki:
+	../../scripts/export-vocab-org-to-anki.py ./pali-readings-with-sentence-analysis.org ./exported/pali-readings-with-sentence-analysis.apkg "Pāli Readings::7. The Weaver's Daughter (Dhp 174 and Commentary Story)::1. Vocabulary"
 
 %.pdf: %.tex
 	$(LATEX) $(LATEX_OPTS) $<

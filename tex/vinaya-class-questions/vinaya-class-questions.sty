@@ -46,6 +46,7 @@
 \usepackage{xcolor}
 \usepackage{graphicx}
 \usepackage{calc}
+\usepackage{eso-pic}
 \usepackage{enumitem}
 \usepackage{multicol}
 \usepackage{comment}
@@ -147,6 +148,8 @@
 
 \setsecnumdepth{part}
 
+\newcommand{\printchaptertitleHook}{}
+
 \newcommand*{\theChapterTitle}{}% FIXME This shouldn't be necessary.
 
 \makechapterstyle{vinaya-class}{%
@@ -157,6 +160,7 @@
   \renewcommand*{\printchapternum}{}
   \renewcommand*{\afterchapternum}{}
   \renewcommand*{\printchaptertitle}[1]{%
+    \printchaptertitleHook%
     \memRTLraggedright%
     {\spectralScFont\LARGE\selectfont\MakeTextLowercase{##1}}%
     \ifyourname%

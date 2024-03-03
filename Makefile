@@ -1,7 +1,10 @@
-all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf pali-lessons-pdf pali-cheatsheet-pdf pali-readings-pdf pali-lessons-anki-deck pali-readings-anki-deck vinaya-class-zip
+all: chapters-to-tex vinaya-class-notes-pdf vinaya-class-questions-A-pdf vinaya-class-questions-B-pdf vinaya-class-questions-A-answerkey-pdf vinaya-class-questions-B-answerkey-pdf chanting-refcard-pdf schedule-pdf sign-up-sheet-pdf class-rules-pdf vinayakamma-chart-pdf sanghadisesa-procedure-pdf pali-lessons-pdf pali-cheatsheet-pdf pali-readings-pdf pali-readings-with-sentence-analysis-pdf pali-lessons-anki-deck pali-readings-anki-deck pali-readings-with-sentence-analysis-anki-deck vinaya-class-zip
 
 dist:
 	./scripts/dist.sh
+
+serve:
+	python3 -m http.server -d book/ 5000
 
 chapters-to-tex:
 	./scripts/chapters_to_tex.sh
@@ -72,11 +75,21 @@ pali-readings-pdf:
 	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings.tex && \
 	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings-answerkey.tex
 
+pali-readings-with-sentence-analysis-pdf:
+	cd tex/vinaya-class-questions && \
+	make export-pali-readings-with-sentence-analysis && \
+	cd ../.. && \
+	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings-with-sentence-analysis.tex && \
+	ANSWERKEY=TRUE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings-with-sentence-analysis-answerkey.tex
+
 pali-lessons-anki-deck:
 	cp tex/vinaya-class-questions/exported/pali-lessons.apkg src/includes/docs/pali-lessons.apkg
 
 pali-readings-anki-deck:
 	cp tex/vinaya-class-questions/exported/pali-readings.apkg src/includes/docs/pali-readings.apkg
+
+pali-readings-with-sentence-analysis-anki-deck:
+	cp tex/vinaya-class-questions/exported/pali-readings-with-sentence-analysis.apkg src/includes/docs/pali-readings-with-sentence-analysis.apkg
 
 vinaya-class-zip:
 	cd src/includes/docs && zip vinaya-class.zip *.pdf *.apkg

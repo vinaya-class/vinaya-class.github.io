@@ -16,6 +16,10 @@ Someone familiar with the language may explain the grammar points, while the oth
 
 [pali-readings-answerkey.pdf](./includes/docs/pali-readings-answerkey.pdf)
 
+[pali-readings-with-sentence-analysis.pdf](./includes/docs/pali-readings-with-sentence-analysis.pdf)
+
+[pali-readings-with-sentence-analysis-answerkey.pdf](./includes/docs/pali-readings-with-sentence-analysis-answerkey.pdf)
+
 [![Pali Lessons](./includes/docs/pali-lessons-thumb.png)](./includes/docs/pali-lessons.pdf)
 
 A memory card deck for the [Anki application](https://apps.ankiweb.net/) is included below to help memorizing the vocabulary and sentences using the [Spaced Repetition](https://gwern.net/spaced-repetition) method.
@@ -23,6 +27,8 @@ A memory card deck for the [Anki application](https://apps.ankiweb.net/) is incl
 [pali-lessons.apkg](./includes/docs/pali-lessons.apkg)
 
 [pali-readings.apkg](./includes/docs/pali-readings.apkg)
+
+[pali-readings-with-sentence-analysis.apkg](./includes/docs/pali-readings-with-sentence-analysis.apkg)
 
 When you import it into Anki for the first time, it will create the relevant card decks.
 
