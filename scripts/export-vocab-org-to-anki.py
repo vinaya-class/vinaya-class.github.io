@@ -49,7 +49,17 @@ def export_vocab(org_path: Path, apkg_path: Path, deck_name: str):
         # cols[0] is empty b/c of split on the the first "|"
         word = cols[1]
         meaning = cols[2]
+
+        # Replace the markers {{  }} with <b> </b>
         example = cols[3].replace("{{", "<b>").replace("}}", "</b>")
+
+        # Org-more /italics/
+        pat_italic = re.compile(r"/\b([^/]+)\b/")
+        pat_repl = "<i>\1</i>"
+
+        word = pat_italic.sub(pat_repl, word)
+        meaning = pat_italic.sub(pat_repl, meaning)
+        example = pat_italic.sub(pat_repl, example)
 
         front = f"""
         <div style="font-size: 1.5em; padding: 1em;">{word}</div>

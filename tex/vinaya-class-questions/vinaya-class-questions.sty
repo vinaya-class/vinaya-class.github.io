@@ -37,7 +37,15 @@
   BoldItalicFont = Crimson-BoldItalic.otf,
 ]{Crimson-Roman.otf}
 
+% Missing ṁ
 \newfontfamily\spectralScFont[Numbers=Lining]{SpectralSC-Medium.otf}
+
+% SmallCaps is missing ṁ
+\newfontfamily\notoSerifFont[
+  ItalicFont = NotoSerif-Italic.ttf,
+  BoldFont = NotoSerif-Bold.ttf,
+  BoldItalicFont = NotoSerif-BoldItalic.ttf,
+]{NotoSerif-Regular.ttf}
 
 \newfontfamily\symbolFont{DejaVuSans.ttf}
 
@@ -188,7 +196,7 @@
 }
 
 \newcommand\sectionFmt[1]{%
-  \spectralScFont\fontsize{12}{15}\selectfont%
+  \notoSerifFont\fontsize{12}{15}\selectfont%
   \memRTLraggedright%
   \textbf{#1}%
 }
@@ -244,9 +252,9 @@
 \makeoddfoot{chapterpage}{}{}{}
 
 \makepagestyle{toprule}
-\makeevenhead{toprule}{{\spectralScFont\selectfont\theChapterTitle}}{}{{\spectralScFont\selectfont\thepage}}
+\makeevenhead{toprule}{{\notoSerifFont\selectfont\theChapterTitle}}{}{{\notoSerifFont\selectfont\thepage}}
 \makeevenfoot{toprule}{}{}{}
-\makeoddhead{toprule}{{\spectralScFont\selectfont\thepage}}{}{{\spectralScFont\selectfont\theChapterTitle}}
+\makeoddhead{toprule}{{\notoSerifFont\selectfont\thepage}}{}{{\notoSerifFont\selectfont\theChapterTitle}}
 \makeoddfoot{toprule}{}{}{}
 
 \makeheadrule{toprule}{\textwidth}{\normalrulethickness}

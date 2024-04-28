@@ -44,7 +44,15 @@
 
 \renewcommand*{\printchaptertitleHook}{%
   \AddToShipoutPictureBG*{%
-    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-95mm}){%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-100mm}){%
+      \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
+    }%
+  }%
+}
+
+\newcommand*{\casesLegendHeaderBG}{%
+  \AddToShipoutPictureBG{%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-84mm}){%
       \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
     }%
   }%
