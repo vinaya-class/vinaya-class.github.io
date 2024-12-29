@@ -58,6 +58,15 @@
   }%
 }
 
+\newcommand*{\casesLegendHeaderBGHere}{%
+  \AddToShipoutPictureBG*{%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-84mm}){%
+      \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
+    }%
+  }%
+}
+
+
 \newcommand*\sentenceDiaMsg{\textbf{Exercise:} Draw a sentence analysis diagram below and indicate declensions.}
 
 \newcommand*\sentenceDiaSolution[2][0.4]{%

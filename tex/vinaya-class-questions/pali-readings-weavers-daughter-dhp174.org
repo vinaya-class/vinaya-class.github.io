@@ -4,7 +4,7 @@
 #+LATEX_HEADER: \maxtocdepth{section}
 #+LANGUAGE: en_GB
 #+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{}
-#+TITLE: Pali Readings with Sentence Analysis
+#+TITLE: Pāli Readings: The Weaver's Daughter (Dhp 174 and Comm.)
 #+AUTHOR: The Bhikkhu Saṅgha
 
 #+begin_export latex
@@ -12,7 +12,7 @@
 
 {\centering
 
-{\Huge Pāḷi Readings with Sentence Analysis}
+{\Huge Pāḷi Readings: The Weaver's Daughter (Dhp 174 and Comm.)}
 
 \bigskip
 \href{https://vinaya-class.github.io}{https://vinaya-class.github.io}
@@ -68,6 +68,7 @@ missing diagrams before "sā gāthāvasāne"
 - Adjust diagram
 - Remove cases legend
 - Edit > Export As > PNG (Transparent ON)
+  - add white bg with Gimp because tldraw exports with and off-white background
 - Open in Gimp, add white background
 
 : make pali-readings-with-sentence-analysis-answerkey
@@ -727,6 +728,8 @@ Sakuṇo jālamuttova, appo saggāya gacchatī'ti.
 *** Notes                                                          :noexport:
 
 [[https://www.tldraw.com/r/cqzpiCQjhK5fbD4MeVdy_?viewport=0,0,1920,975&page=page:page][tldraw]]
+
+[[https://www.tldraw.com/r/kNDOrmZjJSYXiaHFU-h2G?d=v146.-137.1879.1015.cT0odx4F1mcVXkZ-UMFXF][tldraw (new scheme)]]
 
 [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=dutiya%25E1%25B9%2581%2520s%25C4%2581dhuk%25C4%2581ra%25E1%25B9%2581%2520datv%25C4%2581&window_type=Sutta+Study][dutiyaṁ sādhukāraṁ datvā]]
 

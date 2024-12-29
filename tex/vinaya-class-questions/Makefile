@@ -14,12 +14,15 @@ pali-lessons: export-pali-lessons pali-lessons.pdf
 
 pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
 
-pali-readings: export-pali-readings pali-readings.pdf
+pali-readings-next:
+	make export-pali-readings-next && \
+	cd ../.. && \
+	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings-next.tex
 
 pali-readings-with-sentence-analysis: export-pali-readings-with-sentence-analysis pali-readings-with-sentence-analysis.pdf
 
-pali-readings-answerkey: export-pali-readings
-	ANSWERKEY=TRUE make pali-readings-answerkey.pdf
+pali-readings-next-answerkey: export-pali-readings-next
+	ANSWERKEY=TRUE make pali-readings-next-answerkey.pdf
 
 pali-readings-with-sentence-analysis-answerkey: export-pali-readings-with-sentence-analysis
 	ANSWERKEY=TRUE make pali-readings-with-sentence-analysis-answerkey.pdf
@@ -54,8 +57,8 @@ export-vocabulary-sentences:
 export-pali-cheatsheet:
 	emacs --batch -L -l 'pali-cheatsheet.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 
-export-pali-readings:
-	emacs --batch -L -l 'pali-readings.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+export-pali-readings-next:
+	emacs --batch -L -l 'pali-readings-next.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 
 export-pali-readings-with-sentence-analysis:
 	emacs --batch -L -l 'pali-readings-with-sentence-analysis.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'

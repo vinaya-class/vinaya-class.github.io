@@ -4,7 +4,7 @@
 #+LATEX_HEADER: \maxtocdepth{section}
 #+LANGUAGE: en_GB
 #+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{}
-#+TITLE: Pali Readings
+#+TITLE: Pali Readings (2023)
 #+AUTHOR: The Bhikkhu Saṅgha
 
 #+begin_export latex
@@ -1920,7 +1920,6 @@ Ime kho, bhikkhave, dasa dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā'ti.
 #+latex: \normalArrayStrech
 
 \clearpage
-
 * Ekavihāra                                                        :noexport:
 
 \clearpage
