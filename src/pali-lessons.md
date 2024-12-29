@@ -44,8 +44,6 @@ A memory card deck for the [Anki application](https://apps.ankiweb.net/) is incl
 
 [pali-lessons.apkg](./includes/docs/pali-lessons.apkg)
 
-[pali-readings.apkg](./includes/docs/pali-readings.apkg)
-
 When you import it into Anki for the first time, it will create the relevant card decks.
 
 The above file gets updated as the lesson content develops. When you import it again, Anki creates duplicate cards, which can be removed with these steps:
@@ -60,6 +58,8 @@ The above file gets updated as the lesson content develops. When you import it a
 [pali-readings-2023.pdf](./includes/docs/pali-readings-2023.pdf)
 
 [pali-readings-2023-answerkey.pdf](./includes/docs/pali-readings-2023-answerkey.pdf)
+
+[pali-readings-2023.apkg](./includes/docs/pali-readings-2023.apkg)
 
 [pali-readings-weavers-daughter-dhp174.pdf](./includes/docs/pali-readings-weavers-daughter-dhp174.pdf)
 
