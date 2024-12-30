@@ -15,14 +15,18 @@ Print the [pali-readings-next.pdf][next], the PDF is updated the day before the 
 The [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf) may also be useful.
 
 Bring colour pens for marking the cases, at least
-<span style="color: red">red</span>,
-<span style="color: green">green</span> and
-<span style="color: blue">blue</span>
-for
-<span style="color: red">nom.</span>,
-<span style="color: green">acc.</span> and
-<span style="color: blue">inst</span>.
-A 12-shade colour-pencil pack has all the necessary shades.
+<span style="color: #e03131">red</span>,
+<span style="color: #4cb05e">green</span> and
+<span style="color: #4ba1f1">blue</span>.
+A 12-shade colour-pencil pack has all the necessary shades:
+<span style="color: #e03131">nom</span>,
+<span style="color: #4cb05e">acc</span>,
+<span style="color: #4ba1f1">inst</span>,
+<span style="color: #f1ac4b">dat</span>,
+<span style="color: #4465e9">abl</span>,
+<span style="color: #e16919">gen</span>,
+<span style="color: #ae3ec9">loc</span>,
+<span style="color: #e085f4">voc</span> and pencil gray for <span style="color: #9fa8b2">verb</span>.
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLisbon&title=P%C4%81li%20Readings&src=Y185NTYzYzc3OWJkYTdhYWUyMzY0ZWE0M2QxZmZkMTI3M2JmNDQ0MTk4NTliMGNiZDA5N2M0MjA5YjVjZjRkMWFiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y183OTY3NGJjMDcwYzcxNDgwNzFjMzMxNGUxNjVhMjEyY2JiOGYzNTIwMTExYzQyNjQ2ODRkMzhkNTdhNTdjMGU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
