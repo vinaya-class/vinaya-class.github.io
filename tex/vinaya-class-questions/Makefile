@@ -14,10 +14,10 @@ pali-lessons: export-pali-lessons pali-lessons.pdf
 
 pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
 
-pali-readings-next:
-	make export-pali-readings-next && \
-	cd ../.. && \
-	ANSWERKEY=FALSE ./scripts/compile_tex.sh ./tex/vinaya-class-questions/pali-readings-next.tex
+pali-readings-next: export-pali-readings-next pali-readings-next.pdf
+
+pali-readings-next-upload: pali-readings-next
+	rclone copyto pali-readings-next.pdf "gambhiro.sumedharama:/Pāli Readings/pali-readings-next.pdf"
 
 pali-readings-with-sentence-analysis: export-pali-readings-with-sentence-analysis pali-readings-with-sentence-analysis.pdf
 

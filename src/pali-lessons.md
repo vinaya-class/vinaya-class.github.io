@@ -6,7 +6,11 @@ Meetings on every **Wednesday 13:00** (Europe/Lisbon time), except when it falls
 
 Zoom Meeting: [Invite Link][zoom-link], Meeting ID: `871 8546 9048`, Passcode: `suttanta`
 
-Print the [pali-readings-next.pdf](./includes/docs/pali-readings-next.pdf), the PDF is updated the day before the meeting.
+[zoom-link]: https://us02web.zoom.us/j/87185469048?pwd=b9RVHZm6Tfrm1AIMIQ5st657X8twdq.1
+
+Print the [pali-readings-next.pdf][next], the PDF is updated the day before the meeting.
+
+[next]: https://drive.google.com/file/d/13PMtUN7PHcLJy1lMJY4_d3O-EgbuZbX_/view?usp=sharing
 
 The [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf) may also be useful.
 
@@ -19,8 +23,6 @@ for
 <span style="color: green">acc.</span> and
 <span style="color: blue">inst</span>.
 A 12-shade colour-pencil pack has all the necessary shades.
-
-[zoom-link]: https://us02web.zoom.us/j/87185469048?pwd=b9RVHZm6Tfrm1AIMIQ5st657X8twdq.1
 
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FLisbon&title=P%C4%81li%20Readings&src=Y185NTYzYzc3OWJkYTdhYWUyMzY0ZWE0M2QxZmZkMTI3M2JmNDQ0MTk4NTliMGNiZDA5N2M0MjA5YjVjZjRkMWFiQGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&src=Y183OTY3NGJjMDcwYzcxNDgwNzFjMzMxNGUxNjVhMjEyY2JiOGYzNTIwMTExYzQyNjQ2ODRkMzhkNTdhNTdjMGU1QGdyb3VwLmNhbGVuZGFyLmdvb2dsZS5jb20&color=%237CB342&color=%23009688" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
