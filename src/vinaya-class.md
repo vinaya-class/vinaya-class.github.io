@@ -83,36 +83,9 @@ class, discussing the possible solutions.
 
 ## Pāli Lessons
 
-These lessons can be included during a Vinaya study period. The material focues on the language forms used in the Pāṭimokkha, and introduces Pāli readings from the rules and examples from the daily chants which bhikkhus have already memorized.
+[Pāli readings](/pali-lessons.html) and lesson materials.
 
-One lesson may take more than one session to study with a group. Someone familiar with the language may explain the grammar points, while the others may take turns in solving the exercises.
-
-[pali-lessons.pdf](./includes/docs/pali-lessons.pdf)
-
-[pali-lessons-answerkey.pdf](./includes/docs/pali-lessons-answerkey.pdf)
-
-[pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf)
-
-[pali-readings-2023.pdf](./includes/docs/pali-readings-2023.pdf)
-
-[pali-readings-2023-answerkey.pdf](./includes/docs/pali-readings-2023-answerkey.pdf)
-
-A memory card deck for the [Anki application](https://apps.ankiweb.net/) is included below to help memorizing the vocabulary and sentences using the [Spaced Repetition](https://gwern.net/spaced-repetition) method.
-
-[pali-lessons.apkg](./includes/docs/pali-lessons.apkg)
-
-[pali-readings-2023.apkg](./includes/docs/pali-readings-2023.apkg)
-
-When you import it into Anki for the first time, it will create the relevant card decks.
-
-The above file gets updated as the lesson content develops. When you import it again, Anki creates duplicate cards, which can be removed with these steps:
-
-1. After importing, select Browse > Find Duplicates > 'Front' field can tag the duplicates.
-2. Search for: `tag:duplicate added:1` (tagged with 'duplicate' and added today)
-3. Which can be all deleted.
-4. Select the tag 'duplicate' from the sidebar and delete the tag itself, which will remove it from the existing notes.
-
-[![Pali Lessons](./includes/docs/pali-lessons-thumb.png)](./includes/docs/pali-lessons.pdf)
+[![Pali Lessons](./includes/docs/pali-lessons-thumb.png)](/pali-lessons.html)
 
 ## Chanting Refcard
 
