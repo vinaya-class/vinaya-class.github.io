@@ -776,7 +776,134 @@ The Buddha is wandering in the land of the Kosalans...
 
 \clearpage
 
+** Declension Cases Overview
+
+#+ATTR_LATEX: :center nil
+| 1. Nominative   | subject performing the action       | Who is giving?                |
+| 2. Accusative   | direct object                       | What is he/she giving?        |
+| 3. Instrumental | means, instrument                   | With/by/through what?         |
+| 4. Dative       | indirect object, recipient, purpose | To whom? For what?            |
+| 5. Ablative     | motion/separation from, comparison  | From where? Better than what? |
+| 6. Genitive     | possession, relationship            | Whose?                        |
+| 7. Locative     | location, time                      | Where?                        |
+| 8. Vocative     | direct address                      | Form, bhikkhus, is not-self.  |
+
+#+latex: \bigskip {\centering
+#+latex: Mnemonics:
+#+latex: \par}
+
+| 1. *Nominate* who will do it.      | 5. Pieces fall from the *ablative* heat-shield. |
+| 2. Give an objective *accusation*. | 6. The *genitive* glues possessions to people.  |
+| 3. Fix it with this *instrument*.  | 7. *Locate* him in space and time.              |
+| 4. *Donate* a date to him.         | 8. Shout a *vocal* address.                     |
+
+Origin of the word "Dative":
+
+| PIE root:      | /√do-/ to give                                                   |
+| Latin:         | /donum/ gift, /donatio/ a giving, /dativus/ pertaining to giving |
+| Pāli/Sanskrit: | /dadāti/ gives [√dā + dā + a → dadā]                             |
+
+Origin of the word "Ablative":
+
+| Latin   | PIE      | Pāli/Sanskrit    |                   |                                 |
+| /ab-/   | /√apo/   | /apa-/           | off, away from    | apocalypse, apology, apostle    |
+| /ferre/ | /√bher-/ | /√bhar/ / /√bhṛ/ | to carry, to bear | birth, bring, burden,           |
+|         |          |                  |                   | differ, offer, suffer, transfer |
+
+\clearpage
+
 ** Exercises
+*** Cases Exercise: The Elephant
+
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Jetavane hatthinī soṇḍāya vā dīghahatthena vā
+
+attano hatthipotakassa tiṇaṁ datvā,
+#+end_quote
+
+\bigskip
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| hatthinī (f.) | female elephant [hatthī + inī] |
+| soṇḍā (f.)    | elephant's trunk               |
+| hattha (m.)   | hand                           |
+| potaka (m.)   | young animal                   |
+| tiṅa (nt.)    | grass; straw                   |
+
+# At Jetavana, the elephant gave grass to her own baby-elephant by the trunk (or by the long hand),
+
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+| word             | meaning                            | case                |
+|------------------+------------------------------------+---------------------|
+| Jetavane         | \fillin{5cm}{at Jetavana}          | \fillin{3cm}{loc.}  |
+| hatthinī         | \fillin{5cm}{the female elephant}  | \fillin{3cm}{nom.}  |
+| soṇḍāya vā       | \fillin{5cm}{by the trunk}         | \fillin{3cm}{inst.} |
+| dīghahatthena vā | \fillin{5cm}{or by the long hand}  | \fillin{3cm}{inst.} |
+| attano           | \fillin{5cm}{her own}              | \fillin{3cm}{gen.}  |
+| hatthipotakassa  | \fillin{5cm}{to the baby-elephant} | \fillin{3cm}{dat.}  |
+| tiṇaṁ           | \fillin{5cm}{grass}                | \fillin{3cm}{acc.}  |
+| datvā            | \fillin{5cm}{having given}         | \fillin{3cm}{ger.}  |
+
+#+latex: \normalArrayStrech
+
+#+begin_export latex
+\bigskip
+\ifanswerkey
+{\centering \includegraphics[width=0.5\linewidth]{./images/jetavane-hatthini.png} \par}
+\else
+{\centering \includegraphics[width=0.5\linewidth]{./images/jetavane-hatthini-no-text.png} \par}
+\fi
+#+end_export
+
+\clearpage
+
+#+begin_quote
+tato soṇḍato mahāsaddaṁ pahiṇi.
+
+Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
+#+end_quote
+
+\bigskip
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| pahiṇi (aor.)  | sent; aor. of pahiṇāti    |
+| kucchi (m.)    | stomach; belly            |
+| mahanta (adj.) | big; large                |
+| ahosi (aor.)   | was; became; aor. of hoti |
+
+# then sent a loud noise from the trunk.
+# The belly of this baby elephant grew large with grass.
+
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+| word            | meaning                             | case                  |
+|-----------------+-------------------------------------+-----------------------|
+| tato            | \fillin{5cm}{then}                  | \fillin{3cm}{ind.}    |
+| soṇḍato         | \fillin{5cm}{from the trunk}        | \fillin{3cm}{abl.}    |
+| mahāsaddaṁ     | \fillin{5cm}{a loud noise}          | \fillin{3cm}{acc.}    |
+| pahiṇi          | \fillin{5cm}{sent (→ pahiṇāti)}     | \fillin{3cm}{aor.}    |
+| imassa          | \fillin{5cm}{pron. of this (→ ima)} | \fillin{3cm}{gen.sg.} |
+| hatthipotakassa | \fillin{5cm}{of the baby elephant}  | \fillin{3cm}{gen.}    |
+| tiṇena          | \fillin{5cm}{with grass}            | \fillin{3cm}{inst.}   |
+| kucchi          | \fillin{5cm}{belly, stomach}        | \fillin{3cm}{nom.}    |
+| mahanto         | \fillin{5cm}{adj. great, large}     | \fillin{3cm}{nom.}    |
+| ahosi           | \fillin{5cm}{was, became (→ hoti)}  | \fillin{3cm}{aor.}    |
+
+#+latex: \normalArrayStrech
+
+#+begin_export latex
+\ifanswerkey
+{\centering \includegraphics[width=0.5\linewidth]{./images/sondato-mahasaddam-pahini.png} \par}
+\else
+{\centering \includegraphics[width=0.5\linewidth]{./images/sondato-mahasaddam-pahini-no-text.png} \par}
+\fi
+#+end_export
+
+\clearpage
+
 *** Translate
 
 #+latex: \renewcommand{\arraystretch}{1.8}
@@ -1412,6 +1539,12 @@ Plural: /-naṁ/ is added to the noun-stem and the final vowel of the stem becom
 Saṅgho imaṁ kaṭhinadussaṁ āyasmato Amarassa deti. ([[https://suttacentral.net/pli-tv-kd7/pli/ms][Vin. Kd 7]])
 #+end_quote
 
+Origin of the word "Dative":
+
+| PIE root:      | /√do-/ to give                                                   |
+| Latin:         | /donum/ gift, /donatio/ a giving, /dativus/ pertaining to giving |
+| Pāli/Sanskrit: | /dadāti/ gives [√dā + dā + a → dadā]                             |
+
 #+latex: \renewcommand{\arraystretch}{1.8}
 
 | Homage to the Buddha.                            | \fillin{8cm}{Namo Buddhāya / Buddhassa.}                          |
@@ -1419,6 +1552,17 @@ Saṅgho imaṁ kaṭhinadussaṁ āyasmato Amarassa deti. ([[https://suttacentr
 | We eat the almsfood not for fun or indulgence... | \fillin{8cm}{Mayaṁ piṇḍapātaṁ bhuñjāma neva davāya, na madāya...} |
 
 #+latex: \normalArrayStrech
+
+**** The name 'Dative case'                                        :noexport:
+
+The name 'Dative case' is from the PIE root /√do-/ 'to give'.
+
+- <https://www.etymonline.com/word/dative>
+- <https://www.etymonline.com/word/*do->
+- <https://www.etymonline.com/word/donate>
+- <https://www.wisdomlib.org/definition/dadati>
+- PTS dadāti <https://dsal.uchicago.edu/cgi-bin/app/pali_query.py?qs=dad%C4%81ti&searchhws=yes&matchtype=exact>
+- <https://en.wiktionary.org/wiki/dad%C4%81ti>
 
 *** Readings
 
@@ -2838,6 +2982,13 @@ becomes /-hi/, e.g.: /Buddhehi, munīhi, senānīhi, garūhi, vidūhi/.
 
 # Maitreya: p.41
 
+Origin of the word "Ablative":
+
+| Latin   | PIE      | Pāli/Sanskrit    |                   |                                 |
+| /ab-/   | /√apo/   | /apa-/           | off, away from    | apocalypse, apology, apostle    |
+| /ferre/ | /√bher-/ | /√bhar/ / /√bhṛ/ | to carry, to bear | birth, bring, burden,           |
+|         |          |                  |                   | differ, offer, suffer, transfer |
+
 *The suffix /-to/* forms adverbs with an ablative sense. /Buddhato/: from the Buddha. E.g.: /munito, senānito, garuto, viduto/.
 
 Not to be confused with nominative forms:
@@ -2901,6 +3052,13 @@ mā ḍayhittho punappunaṁ. ([[https://suttacentral.net/sn8.4/pli/ms][SN 8.4]]
 #+end_widecols
 
 #+latex: \clearpage
+
+**** The name 'Ablative case'                                      :noexport:
+
+- <https://www.etymonline.com/word/ablative#etymonline_v_45>
+- <https://www.etymonline.com/word/ab->
+- <https://www.etymonline.com/word/*apo->
+- <https://www.etymonline.com/word/*bher-#etymonline_v_52553>
 
 ** Pronouns
 

@@ -4,4 +4,23 @@
 
 \def\maketitle{}
 
+\usepackage{eso-pic}
+
+\newcommand*{\casesLegendHeaderBG}{%
+  \AddToShipoutPictureBG{%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-84mm}){%
+      \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
+    }%
+  }%
+}
+
+\newcommand*{\casesLegendHeaderBGHere}{%
+  \AddToShipoutPictureBG*{%
+    \put(\LenToUnit{\paperwidth-25mm-\spinemargin},\LenToUnit{\paperheight-84mm}){%
+      \includegraphics[width=25mm]{./images/cases-legend-white-large.png}%
+    }%
+  }%
+}
+
+
 \makeatother

@@ -54,8 +54,8 @@
 
 pali execrise: sentences from satipatthana? dasadhamma? anumodana?
 
-"Jetavane hatthinī soṇḍāya vā dīghahatthena vā attano hatthipotakassa tiṇaṃ datvā,
-tato vīriyārambhāya soṇḍato mahāsaddaṃ pahiṇi."
+"Jetavane hatthinī soṇḍāya vā dīghahatthena vā attano hatthipotakassa tiṇaṁ datvā,
+tato vīriyārambhāya soṇḍato mahāsaddaṁ pahiṇi."
 
 Continue the above Pali sentence with another sentence like "Imassa hatthipotakassa ... hoti."
 
@@ -75,7 +75,7 @@ In this Pali sentence:
 - "Ahosi" is the past tense of "hoti" meaning "became" or "grew"
 
 1. Imassa:
-- Genitive singular form of "ayaṃ" (this)
+- Genitive singular form of "ayaṁ" (this)
 - Means "of this"
 
 2. Hatthipotakassa:
@@ -101,23 +101,23 @@ In this Pali sentence:
 
 -----
 
-Panassa hatthipotakassa domanassaṃ uppajjati, so kadaliphalaṃ khādituṃ icchati" translates to:
+Panassa hatthipotakassa domanassaṁ uppajjati, so kadaliphalaṁ khādituṁ icchati" translates to:
 
 "This baby elephant became unhappy, he wants to eat banana."
 
 In this Pali translation:
 - "Panassa" means "for this"
 - "Hatthipotakassa" means "for the baby elephant"
-- "Domanassaṃ" means "unhappiness" or "displeasure"
+- "Domanassaṁ" means "unhappiness" or "displeasure"
 - "Uppajjati" means "arises" or "is born" (which we can interpret as "became" in this context)
 - "So" means "he"
-- "Kadaliphalaṃ" means "banana" (literally "fruit of the plantain")
-- "Khādituṃ" means "to eat"
+- "Kadaliphalaṁ" means "banana" (literally "fruit of the plantain")
+- "Khādituṁ" means "to eat"
 - "Icchati" means "wants" or "desires"
 
 -----
 
-The added part "Panassa hatthipotakassa tiṇaṃ khādituṃ na ruccati" can be translated as:
+The added part "Panassa hatthipotakassa tiṇaṁ khādituṁ na ruccati" can be translated as:
 
 "However, the baby elephant does not like to eat grass."
 
@@ -125,12 +125,12 @@ In this continuation:
 - "Pana" means "however" or "but"
 - "Assa" is a genitive pronoun meaning "his" or "its"
 - "Hatthipotakassa" is "of the baby elephant" (genitive)
-- "Tiṇaṃ khādituṃ" means "to eat grass"
+- "Tiṇaṁ khādituṁ" means "to eat grass"
 - "Na ruccati" means "does not like" or "is not pleased"
 
 -----
 
-"Imassa hatthipotakassa sikkhāpanatthāya mātā punappunaṃ tiṇaṃ adāsi."
+"Imassa hatthipotakassa sikkhāpanatthāya mātā punappunaṁ tiṇaṁ adāsi."
 
 The added part translates to:
 
@@ -138,248 +138,551 @@ The added part translates to:
 
 ------
 
-"Imassa hatthipotakassa bhojanaṃ datvā, mātā taṃ uyyojesi, 'Idāni tvaṃ sayameva
-tiṇaṃ khādituṃ sikkhāhī'ti."
+"Imassa hatthipotakassa bhojanaṁ datvā, mātā taṁ uyyojesi, 'Idāni tvaṁ sayameva
+tiṇaṁ khādituṁ sikkhāhī'ti."
 
 Which translates to:
 
 "Having given food to this baby elephant, the mother encouraged it, saying, 'Now
 you must learn to eat grass by yourself.'"
 
-* More                                                             :noexport:
-** Chanting: Mettāya, bhikkhave
+* 2025-01-08
+** Declension Cases Overview
 
-\casesLegendHeaderBGHere
+#+ATTR_LATEX: :center nil
+| 1. Nominative   | subject performing the action       | Who is giving?                |
+| 2. Accusative   | direct object                       | What is he/she giving?        |
+| 3. Instrumental | means, instrument                   | With/by/through what?         |
+| 4. Dative       | indirect object, recipient, purpose | To whom? For what?            |
+| 5. Ablative     | motion/separation from, comparison  | From where? Better than what? |
+| 6. Genitive     | possession, relationship            | Whose?                        |
+| 7. Locative     | location, time                      | Where?                        |
+| 8. Vocative     | direct address                      | Form, bhikkhus, is not-self.  |
 
-#+begin_quote
-Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya
+#+latex: \bigskip {\centering
+#+latex: Mnemonics:
+#+latex: \par}
 
-vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasānisaṁsā pāṭikaṅkhā.
+| 1. *Nominate* who will do it.      | 5. Pieces fall from the *ablative* heat-shield. |
+| 2. Give an objective *accusation*. | 6. The *genitive* glues possessions to people.  |
+| 3. Fix it with this *instrument*.  | 7. *Locate* him in space and time.              |
+| 4. *Donate* a date to him.         | 8. Shout a *vocal* address.                     |
 
-Katame ekādasa? Sukhaṁ supati, sukhaṁ paṭibujjhati, na pāpakaṁ supinaṁ passati,
+Origin of the word "Dative":
 
-manussānaṁ piyo hoti, amanussānaṁ piyo hoti, devatā rakkhanti,
+| PIE root:      | /√do-/ to give                                                   |
+| Latin:         | /donum/ gift, /donatio/ a giving, /dativus/ pertaining to giving |
+| Pāli/Sanskrit: | /dadāti/ gives [√dā + dā + a → dadā]                             |
 
-nāssa aggi vā visaṁ vā satthaṁ vā kamati,
+Origin of the word "Ablative":
 
-tuvaṭaṁ cittaṁ samādhiyati, mukhavaṇṇo vippasīdati,
-
-asammūḷho kālaṁ karoti, uttari appaṭivijjhanto brahmalokūpago hoti.
-#+end_quote
-
-\vspace*{2\baselineskip}
-
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| āsevita (pp.)          | practised persistently; pp of āsevati                   |
-| pāṭikaṅkha (ptp. +dat) | to be expected (for); certain (for); can be anticipated |
-|                        | ptp of paṭikaṅkhati                                     |
-
-*** Links
-
-[[http://localhost:4848/suttas/an11.15/pli/ms?window_type=Sutta+Study][AN 11.15 (SSP)]]
-
-** Chanting: Āyudo balado dhīro
-
-\casesLegendHeaderBGHere
-
-#+begin_quote
-Āyudo balado dhīro, / vaṇṇado paṭibhānado;
-
-Sukhassa dātā medhāvī, / sukhaṁ so adhigacchati.
-
-Āyuṁ datvā balaṁ vaṇṇaṁ, / sukhañca paṭibhānado;
-
-Dīghāyu yasavā hoti, / yattha yatthūpapajjatī”ti.
-#+end_quote
-
-\vspace*{2\baselineskip}
-
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| āyuda (adj.)    | giving life [āyu + da]                                      |
-| dhīra (m.)      | wise man; intelligent person [√dhī + ra]                    |
-| paṭibhāna (nt.) | wit; intelligence; quick response                           |
-|                 | lit. speaking back [pati + √bhaṇ + *a]                      |
-| medhāvī (m.)    | intelligent man; who has good judgment; lit. who has wisdom |
-|                 | [√medh + ā + vī]                                            |
-| yasavant (adj.) | famous; renowned                                            |
-| yattha (ind.)   | wherever; where                                             |
-| upapajjati      | is reborn (in); re-arises (in); lit. goes towards           |
+| Latin   | PIE      | Pāli/Sanskrit    |                   |                                 |
+| /ab-/   | /√apo/   | /apa-/           | off, away from    | apocalypse, apology, apostle    |
+| /ferre/ | /√bher-/ | /√bhar/ / /√bhṛ/ | to carry, to bear | birth, bring, burden,           |
+|         |          |                  |                   | differ, offer, suffer, transfer |
 
 \clearpage
 
-*** Links                                                          :noexport:
-** Akusala / Kusala (MN 9)                                         :noexport:
+** Cases Exercise: The Elephant
 
-definition of akusala (rāga, dosa, moha (avijjā))
+\casesLegendHeaderBGHere
 
-and kusala (arāga...)
+#+begin_quote
+Jetavane hatthinī soṇḍāya vā dīghahatthena vā
 
-** Jaṭā Sutta (SN 7.6)                                             :noexport:
+attano hatthipotakassa tiṇaṁ datvā,
 
-Sāvatthinidānaṁ. Atha kho jaṭābhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami;
+tato soṇḍato mahāsaddaṁ pahiṇi.
 
-upasaṅkamitvā bhagavatā saddhiṁ sammodi.
+Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
+#+end_quote
 
-Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi.
-
-Ekamantaṁ nisinno kho jaṭābhāradvājo brāhmaṇo bhagavantaṁ gāthāya ajjhabhāsi:
-
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| sammodati (+instr)               | greets; exchanges pleasantries (with)        |
-| bhagavatā                        | instr.sg. of bhagavant                       |
-| sammodanīya (ptp.)               | lit. to be enjoyed; ptp. of sammodati        |
-| sāraṇīya (ptp.)                  | polite; lit. to be desired; ptp of sārajjati |
-| vītisāreti                       | conducts, concludes (a conversation)         |
-| gāthā (f.)                       | verse; poem; stanza; lit. song               |
-| ajjhabhāsi (aor. +acc & +instr)  | addressed; spoke (to someone with)           |
-
-“Antojaṭā bahijaṭā, / Jaṭāya jaṭitā pajā;
-
-Taṁ taṁ gotama pucchāmi, / Ko imaṁ vijaṭaye jaṭan”ti.
-
-“Sīle patiṭṭhāya naro sapañño, / Cittaṁ paññañca bhāvayaṁ;
-
-Ātāpī nipako bhikkhu, / So imaṁ vijaṭaye jaṭaṁ.
-
-Yesaṁ rāgo ca doso ca, / Avijjā ca virājitā;
-
-Khīṇāsavā arahanto, / Tesaṁ vijaṭitā jaṭā.
-
-Yattha nāmañca rūpañca, / Asesaṁ uparujjhati;
-
-Paṭighaṁ rūpasaññā ca, / Etthesā chijjate jaṭā”ti.
-
-Evaṁ vutte, jaṭābhāradvājo bhagavantaṁ etadavoca:
-
-“abhikkantaṁ, bho gotama …pe… aññataro ca panāyasmā bhāradvājo arahataṁ ahosī”ti.
+# At Jetavana, the elephant gave grass to her own baby-elephant by the trunk (or by the long hand),
+# then sent a loud noise from the trunk.
+# The belly of this baby elephant grew large with grass.
 
 \bigskip
 
-([[http://localhost:4848/suttas/s0301a.att/pli/cst4?quote=ja%25E1%25B9%25AD%25C4%2581pa%25C3%25B1hassa%2520pana%2520pucchitatt%25C4%2581&window_type=Sutta+Study][Aṭṭhakathā]]) jaṭāsuttavaṇṇanā:
+| hatthinī (f.) | female elephant [hatthī + inī] | pahiṇi (aor.)  | sent; aor. of pahiṇāti    |
+| soṇḍā (f.)    | elephant's trunk               | kucchi (m.)    | stomach; belly            |
+| hattha (m.)   | hand                           | mahanta (adj.) | big; large                |
+| potaka (m.)   | young animal                   | ahosi (aor.)   | was; became; aor. of hoti |
+| tiṅa (nt.)    | grass; straw                   |                |                           |
 
-\textbf{jaṭābhāradvājo}ti bhāradvājovesa, jaṭāpañhassa pana pucchitattā saṅgītikārehi evaṃ vutto.
+#+latex: \enlargethispage{\baselineskip}
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+| word             | meaning                            | case                |
+|------------------+------------------------------------+---------------------|
+| Jetavane         | \fillin{5cm}{at Jetavana}          | \fillin{3cm}{loc.}  |
+| hatthinī         | \fillin{5cm}{the female elephant}  | \fillin{3cm}{nom.}  |
+| soṇḍāya vā       | \fillin{5cm}{by the trunk}         | \fillin{3cm}{inst.} |
+| dīghahatthena vā | \fillin{5cm}{or by the long hand}  | \fillin{3cm}{inst.} |
+| attano           | \fillin{5cm}{her own}              | \fillin{3cm}{gen.}  |
+| hatthipotakassa  | \fillin{5cm}{to the baby-elephant} | \fillin{3cm}{dat.}  |
+| tiṇaṁ           | \fillin{5cm}{grass}                | \fillin{3cm}{acc.}  |
+| datvā            | \fillin{5cm}{having given}         | \fillin{3cm}{ger.}  |
+| tato            | \fillin{5cm}{then}                  | \fillin{3cm}{ind.}    |
+| soṇḍato         | \fillin{5cm}{from the trunk}        | \fillin{3cm}{abl.}    |
+| mahāsaddaṁ     | \fillin{5cm}{a loud noise}          | \fillin{3cm}{acc.}    |
+| pahiṇi          | \fillin{5cm}{sent (→ pahiṇāti)}     | \fillin{3cm}{aor.}    |
+| imassa          | \fillin{5cm}{pron. of this (→ ima)} | \fillin{3cm}{gen.sg.} |
+| hatthipotakassa | \fillin{5cm}{of the baby elephant}  | \fillin{3cm}{gen.}    |
+| tiṇena          | \fillin{5cm}{with grass}            | \fillin{3cm}{inst.}   |
+| kucchi          | \fillin{5cm}{belly, stomach}        | \fillin{3cm}{nom.}    |
+| mahanto         | \fillin{5cm}{adj. great, large}     | \fillin{3cm}{nom.}    |
+| ahosi           | \fillin{5cm}{was, became (→ hoti)}  | \fillin{3cm}{aor.}    |
+
+#+latex: \normalArrayStrech
+
+\clearpage
+
+** AN 10.81 Vāhanasutta, The lotus simile to Vāhana
+
+([[https://suttacentral.net/an10.81/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=a.9.0.0.1.3.0.m][DPR]], [[http://localhost:4848/suttas/an10.81/pli/ms?window_type=Sutta+Study][SSP]], Nibbāna Sermon 18)
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre.
+
+Atha kho āyasmā vāhano yena bhagavā tenupasaṅkami;
+
+upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.
+
+Ekamantaṁ nisinno kho āyasmā vāhano bhagavantaṁ etadavoca:
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| tīra (nt.)                        | shore, riverbank                       |
+| pokkhara (nt.)                    | blue lotus flower                      |
+| yena ... ten'upasaṅkamati (idiom) | wherever ... he approaches (him/it)    |
+| abhivādeti                        | bows down (to); pays high respect (to) |
+| anta (m.)                         | end; side; extreme                     |
+| ekamantaṁ (ind.)                 | to one side; aside [ekaṁ + anta + aṁ] |
+| nisīdati                          | sits (on); sits down                   |
+| vacati                            | speaks                                 |
+| avoca (aor. of vacati)            | said (to)                              |
+
+#+begin_quote
+“Katihi nu kho, bhante, dhammehi tathāgato nissaṭo visaṁyutto vippamutto
+
+vimariyādīkatena cetasā viharatī”ti?
+#+end_quote
+
+# Detached, disengaged and released from how many things does the Tathāgata
+# dwell with an unrestricted mind?
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| kati (interr.)        | how many?                                      |
+| nissaṭa (pp. +abl)    | escaped (from), freed (from); pp. of nissarati |
+| visaṁyutta (pp. +abl) | detached (from)                                |
+| vippamutta (pp. +abl) | released (from)                                |
+| vimariyādīkata (adj.) | unbounded [vi + mariyādā + kata]               |
+| mariyādā (f.)         | boundary, border, limit                        |
+
+#+begin_quote
+“Dasahi kho, vāhana, dhammehi tathāgato nissaṭo visaṁyutto vippamutto vimariyādīkatena
+cetasā viharati. Katamehi dasahi? Rūpena kho, vāhana, tathāgato nissaṭo visaṁyutto
+vippamutto vimariyādīkatena cetasā viharati, vedanāya ... saññāya ... saṅkhārehi ... viññāṇena
+... jātiyā ... jarāya ... maraṇena ... dukkhehi ... kilesehi kho, vāhana, tathāgato nissaṭo
+visaṁyutto vippamutto vimariyādīkatena cetasā viharati.
+#+end_quote
+
+\clearpage
+
+#+begin_quote
+Seyyathāpi, vāhana, uppalaṁ vā padumaṁ vā puṇḍarīkaṁ vā
+
+udake jātaṁ udake saṁvaḍḍhaṁ udakā paccuggamma ṭhitaṁ anupalittaṁ udakena;
+
+evamevaṁ kho, vāhana, imehi dasahi dhammehi tathāgato nissaṭo visaṁyutto
+
+vippamutto vimariyādīkatena cetasā viharatī”ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| uppala, paduma, puṇḍarīka (nt.) | types of lotus                                           |
+| udaka (nt.)                     | water                                                    |
+| vaḍḍhati                        | increases (in); grows (in)                               |
+| paccuggamma (ger. +abl)         | going out (from), emerging (from); ger of paccuggacchati |
+| tiṭṭhati                        | stands                                                   |
+| anupalitta (pp. +instr)         | not smeared (by), untainted (by); [na + upalitta]                      |
+
+*** Related                                                        :noexport:
+
+> *Diṭṭhe kho ahaṁ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto
+> visaṁyutto vimariyādikatena cetasā viharāmi.*[^fn526]
+
+> Friends, with regard to the seen, I dwell unattracted, unrepelled,
+> independent, uninvolved, released, unshackled, with a mind free from barriers.
+
+> *Iti ajjhattaṁ vā kāye kāyānupassī viharati, bahiddhā vā kāye kāyānupassī
+> viharati, ajjhattabahiddhā vā kāye kāyānupassī viharati; samudayadhammānupassī
+> vā kāyasmiṁ viharati, vayadhammānupassī vā kāyasmiṁ viharati,
+> samudayavayadhammānupassī vā kāyasmiṁ viharati; 'atthi kāyo'ti vā pan'assa
+> sati paccupaṭṭhitā hoti, yāvadeva ñāṇamattāya paṭissatimattāya; anissito ca
+> viharati, na ca kiñci loke upādiyati*.[^fn145]
+>
+> In this way he abides contemplating the body as a body internally, or he
+
+DN 22 / MN 10
+
+> *Passati Bhagavā cakkhunā rūpaṁ, chandarāgo Bhagavato natthi, suvimuttacitto
+> Bhagavā.*[^fn611]
+>
+> The Exalted One sees forms with the eye, but there is no desire or attachment
+> in him, well freed in mind is the Exalted One.
+
+[^fn611]: S IV 164, *Koṭṭhikasutta*
+
+> *Evaṁ sammā vimuttacittassa kho, āvuso, bhikkhuno bhusā cepi cakkhuviññeyyā
+> rūpā cakkhussa āpāthaṁ āgacchanti, nevassa cittaṁ pariyādiyanti,
+> amissīkatamevassa cittaṁ hoti ṭhitaṁ āneñjappattaṁ, vayaṁ cassānupassati*.
+> *Bhusā cepi sotaviññeyyā saddā ... bhūsa cepi ghānaviññeyyā gandhā ... bhūsa
+> cepi jivhāviññeyyā rasā ... bhūsa cepi kāyaviññeyyā phoṭṭhabbā ... bhūsa cepi
+> manoviññeyyā dhammā manassa āpāthaṁ āgacchanti, nevassa cittaṁ pariyādiyanti,
+> amissīkatamevassa cittaṁ hoti ṭhitaṁ āneñjappattaṁ, vayaṁ
+> cassānupassati*.[^fn613]
+>
+> Friend, in the case of a monk who is fully released, even if many forms
+> cognizable by the eye come within the range of vision, they do not overwhelm
+> his mind, his mind remains unalloyed, steady and unmoved, he sees its passing
+> away. Even if many sounds cognizable by the ear come within the range of
+> hearing ... even if many smells cognizable by the nose ... even if many tastes
+> cognizable by the tongue ... even if many tangibles cognizable by the body ...
+> even if many mind-objects cognizable by the mind come within the range of the
+> mind, they do not overwhelm his mind, his mind remains unalloyed, steady and
+> unmoved, he sees its passing away.
+
+[^fn613]: A IV 404, *Silāyūpasutta*
+
+* 2024-12-27                                                       :noexport:
+** Ratana sutta: khīṇaṁ purāṇaṁ...
+
+#+begin_quote
+Khīṇaṁ purāṇaṁ navaṁ natthi sambhavaṁ,
+
+Viratta- cittāyatike bhavasmiṁ;
+
+Te khīṇa- bījā avirūḷhi- chandā,
+
+Nibbanti dhīrā yathā- yaṁ padīpo;
+
+Idampi saṅghe ratanaṁ paṇītaṁ,
+
+Etena saccena suvatthi hotu.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| khīyati                       | is destroyed; is exhausted                                 |
+| khīṇa (pp. of khīyati)         | consumed; destroyed                                        |
+| khaya (m. from khīyati)       | wearing away; destruction                                  |
+| purāṇa (adj.)                  | previous; old; ancient                                     |
+| nava (adj.)                   | new; fresh                                                 |
+| sambhavati                    | comes to be; happens; occurs                               |
+| sambhava (m. from sambhavati) | birth; origin; source (of)                                 |
+| rajjati                       | finds pleasure (in); is enamoured (with)                   |
+| virajjati                     | becomes detached (from); loses interest (in)               |
+| viratta (pp. of virajjati)    | detached (from); without desire (for); lost interest (in)  |
+| āyati (f.)                    | future; upcoming                                           |
+| āyatika (adj. from āyati)     | upcoming; future                                           |
+| bīja (nt.)                    | seed; germ                                                 |
+| virūḷhi (f.)                   | growth; increase                                           |
+| chanda (m.)                   | (1) interest; desire; wish (2) consent; agreement          |
+| nibbāti                       | is extinguished; goes out; lit. blows away                 |
+| dhīra (adj.)                  | (1) stable; constant; reliable; firm (2) wise; intelligent |
+| padīpa (m.)                   | lamp; light; lighting                                      |
+
+(tesaṁ,) purāṇaṁ kammaṁ khīṇaṁ hoti
+
+navaṁ sambhavaṁ natthi
+
+kammaṁ: nt. nom/acc. sg.
+
+kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho (AN 3.76)
 
 *** Links                                                          :noexport:
 
-[[id:5f92c53b-fbf1-4505-a191-a507b8fb14c2][Jaṭā Sutta (SN 7.6)]]
+[[http://localhost:4848/suttas/snp2.1/pli/ms?quote=Kh%25C4%25AB%25E1%25B9%2587a%25E1%25B9%2581%2520pur%25C4%2581%25E1%25B9%2587a%25E1%25B9%2581&window_type=Sutta+Study][Khīṇaṁ purāṇaṁ...]]
 
-[[http://localhost:4848/suttas/sn7.6/pli/ms?window_type=Sutta+Study][SN 7.6 Jaṭāsutta (SSP)]], the tangle within and without
+[[https://www.tldraw.com/r/hXdaGU7vKip5vHbAkQa8D?d=v-278.-199.1553.811.page][tldraw board]]
 
-Translation by Bh Bodhi: [[http://localhost:4848/suttas/sn1.23/en/bodhi?window_type=Sutta+Study][SN 1.23 (SSP)]]
+*** Analysis                                                       :noexport:
 
-DPPN:
+Provide a word-by-word grammar analysis of the following Pali text.
+Indicate omitted subjects, objects or verbs (e.g. hoti).
 
-DPPN: Bhāradvāja. The name of a brahmin clan; about twenty individuals belonging to
-this clan are mentioned in the Pitakas.
+: Khīṇaṁ purāṇaṁ navaṁ natthi sambhavaṁ,
+: Virattacittāyatike bhavasmiṁ;
 
-Jaṭā bhāradvāja: A brahmin of the Bhāradvājagotta.
+The construction follows a parallel structure:
+[tesaṁ] khīṇaṁ purāṇaṁ [hoti] - "the old is destroyed [for them]"
 
-The Commentary (SA.i.179) says that he was given this name by the Recensionists
-because he asked a question about jatā (tangle).
+Khīṇaṁ:
+- Root: √khī (to waste away, be exhausted)
+- Past participle of khīyati
+- Nominative/accusative singular neuter
+- Meaning: exhausted, destroyed
 
-([[http://localhost:4848/suttas/s0301a.att/pli/cst4?quote=ja%25E1%25B9%25AD%25C4%2581pa%25C3%25B1hassa%2520pana%2520pucchitatt%25C4%2581&window_type=Sutta+Study][Aṭṭhakathā]]) jaṭāsuttavaṇṇanā:
+purāṇaṁ:
+- Adjective
+- Nominative/accusative singular neuter
+- Meaning: old, former
 
-__jaṭābhāradvājo__ti bhāradvājovesa, jaṭāpañhassa pana pucchitattā saṅgītikārehi evaṃ vutto.
+navaṁ:
+- Adjective
+- Nominative/accusative singular neuter
+- Meaning: new
 
-([[http://localhost:4848/suttas/s0301t.tik/pli/cst4?quote=antoja%25E1%25B9%25AD%25C4%2581%2520bahija%25E1%25B9%25AD%25C4%2581&window_type=Sutta+Study][Ṭīkā]]) jaṭāsuttavaṇṇanā:
+natthi:
+- na (negative particle) + atthi (from √as, to be)
+- 3rd person singular present indicative
+- Meaning: is not, does not exist
 
-__jaṭāpañhassā__ti ‘‘antojaṭā bahijaṭā’’ti evaṁ jaṭāpariyāyassa pañhassa.
+sambhavaṁ:
+- Prefix saṁ + √bhū (to become)
+- Nominative/accusative singular neuter
+- Action noun/gerund
+- Meaning: arising, origination
 
-**** Meter
+Viratta-cittāyatike:
+- Compound word (tatpurusa):
+  * viratta: past participle of virajjati (vi + √raj)
+  * citta: mind
+  * āyatika: future, what lies ahead
+- Locative singular
+- Meaning: in future becoming
 
-2.3 Siloka (Śloka) a.k.a. Vatta (Vaktra) & Anuṭṭhubha (Anuṣṭubh)
-https://ancient-buddhist-texts.net/Textual-Studies/Outline/2-Outline-03.htm
+bhavasmiṁ:
+- Root: √bhū (to become)
+- Locative singular masculine
+- Meaning: in existence
 
-: A Siloka verse normally consists of 4 lines (sometimes 6, rarely 5) with 8
-: syllables to the line, organised in dissimilar pairs which are repeated to make
-: up a verse (note that owing to resolution sometimes a Siloka line may contain 9
-: syllables).
+: Te khīṇabījā avirūḷhichandā,
+: Nibbanti dhīrā yathāyaṁ padīpo;
 
-What is the meter of Jaṭā Sutta (SN 7.6)?
+Te:
+- Demonstrative pronoun, nominative plural masculine
+- "They, those"
 
-“Antojaṭā bahijaṭā,
-jaṭāya jaṭitā pajā;
-Taṁ taṁ gotama pucchāmi,
-ko imaṁ vijaṭaye jaṭan”ti.
+khīṇabījā:
+- Compound adjective (bahuvrīhi), nominative plural masculine
+- khīṇa (destroyed) + bīja (seed)
+- "Those whose seeds are destroyed"
 
-------
+avirūḷhichandā:
+- Compound adjective (bahuvrīhi), nominative plural masculine
+- a (negative) + virūḷhi (growth) + chanda (desire)
+- "Those whose desire for growth has ceased"
 
-NORBU: The verse you've quoted from the Jaṭā Sutta (SN 7.6) is in a meter known
-as Śloka (also spelled Sloka) in Sanskrit, or Siloka in Pali. This is one of the
-most common meters used in Sanskrit and Pali poetry, including many Buddhist
-texts.
+Nibbanti:
+- Verb, 3rd person plural present indicative
+- Root: √nibbā (to be extinguished)
+- "They are extinguished"
 
-The Śloka meter consists of four padas (lines) of eight syllables each, making a
-total of 32 syllables per verse. The basic structure is as follows:
+dhīrā:
+- Adjective/noun, nominative plural masculine
+- "The wise ones"
 
-1st line: 8 syllables
-2nd line: 8 syllables
-3rd line: 8 syllables
-4th line: 8 syllables
+yathā:
+- Indeclinable, adverb of comparison
+- "Just as, like"
 
-In the verse you've provided:
+ayaṁ:
+- Demonstrative pronoun, nominative singular masculine
+- "This"
 
-"Antojaṭā bahijaṭā, (8 syllables)
-jaṭāya jaṭitā pajā; (8 syllables)
-Taṁ taṁ gotama pucchāmi, (8 syllables)
-ko imaṁ vijaṭaye jaṭan"ti. (8 syllables)
+padīpo:
+- Noun, nominative singular masculine
+- "Lamp"
+* Dhammapada 21-23                                                 :noexport:
+** Chanting: Yaṅkiñci ratanaṁ loke
 
-Each line indeed contains 8 syllables, conforming to the Śloka meter. This meter
-is widely used in Buddhist literature, including the Dhammapada and many suttas,
-due to its simplicity and ease of memorization, which was crucial in the oral
-transmission of these teachings.
+#+begin_quote
+Yaṅkiñci ratanaṁ loke vijjati
 
--------
+vividhaṁ puthu ratanaṁ buddhasamaṁ natthi
 
-Question: What is the history of the Śloka / Siloka meter?
+tasmā sotthī bhavantu te
+#+end_quote
 
-NORBU: The Śloka meter has a long and significant history in Indian literature,
-including Buddhist texts. Here's an overview of its development and importance:
+\vspace*{2\baselineskip}
 
-1. Vedic Origins: The Śloka meter evolved from the Vedic Anuṣṭubh meter, which
-   was used in the Rigveda. The Anuṣṭubh consisted of four padas of eight
-   syllables each, much like the Śloka.
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| vividha (adj.)   | various kinds of; assorted; multiple |
+| puthu (ind.)     | far and wide; all over               |
+| sama (adj.)      | level; even; balanced                |
+| sama (nt.)       | similarity; equality                 |
+| sotthi (f. +dat) | safety (for); well-being (for)       |
+|                  | abstr, from atthi (+dat)             |
 
-2. Epic Period: The Śloka gained prominence during the composition of the great
-   Indian epics, the Ramayana and the Mahabharata (circa 5th-4th century BCE).
-   It became the primary meter for narrative poetry.
+** Dhammapada: Sāmāvatīvatthu (Dhp 21-23)
 
-3. Classical Sanskrit: In classical Sanskrit literature, the Śloka became highly
-   refined. Poets like Kalidasa (c. 4th-5th century CE) used it extensively in
-   their works.
+#+begin_quote
+Appamādo amatapadaṁ,
 
-4. Buddhist Adoption: As Buddhism emerged and spread, it adopted the Śloka meter
-   for its own texts. Many suttas in the Pali Canon, including parts of the
-   Sutta Nipata and the entire Dhammapada, use this meter.
+pamādo maccuno padaṁ;
 
-5. Flexibility and Popularity: The Śloka's popularity stemmed from its
-   flexibility. It allowed for variations in the arrangement of long and short
-   syllables, making it adaptable to different linguistic contexts.
+Appamattā na mīyanti,
 
-6. Mnemonic Device: In oral traditions, the Śloka's rhythmic structure made it
-   an excellent mnemonic device for preserving and transmitting teachings.
+ye pamattā yathā matā.
+#+end_quote
 
-7. Pan-Indian Usage: The Śloka transcended linguistic and religious boundaries,
-   being used in Sanskrit, Pali, and various Prakrits, and in Hindu, Buddhist,
-   and Jain texts.
+\vspace*{2\baselineskip}
 
-8. Continued Use: Even in modern times, the Śloka remains a popular meter in
-   Indian languages for religious and didactic poetry.
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| appamāda (m.) | lit. not heedless; [na + pamajjati] |
+| maccu (m.)    | death                               |
+| mīyati        | is killed; dies; pass of marati     |
 
-The Śloka's enduring popularity in Buddhist literature demonstrates its
-effectiveness in conveying complex philosophical and spiritual concepts in a
-memorable form. Its use in texts like the Jaṭā Sutta exemplifies how Buddhist
-teachers adapted existing cultural forms to spread the Dhamma.
-** Chanting
+\clearpage
+\casesLegendHeaderBGHere
 
-uppannāya taṇhā꜔꜒ya ponobhavikāya na vasa꜔꜒ṁ gacchissa꜔꜒nti
+#+begin_quote
+Evaṁ visesato ñatvā,
 
-Ye ca kho tvaṁ, gotami, dhamme jāneyyāsi:
-‘ime dhammā virāgāya saṁvattanti, no sarāgāya;
+appamādamhi paṇḍitā;
 
-** Vinaya
+Appamāde pamodanti,
 
-tinaṁ vā...
+ariyānaṁ gocare ratā.
+#+end_quote
+
+\vspace*{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| visesato (ind.)     | distinctly; clearly                          |
+| pamodati (pr. +loc) | is delighted (with/about)                    |
+| gocara (m.)         | food; grazing; pasture                       |
+|                     | lit. (where the) cows walk [go + cara]       |
+| rata (pp. +loc)     | pleased (with/about); enjoying; pp of ramati |
+
+#+begin_quote
+Te jhāyino sātatikā,
+
+niccaṁ daḷhaparakkamā;
+
+Phusanti dhīrā nibbānaṁ,
+
+yogakkhemaṁ anuttaraṁ.
+#+end_quote
+
+\vspace*{2\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| jhāyī (adj.)          | meditating; contemplating; from jhāyati       |
+| sātatika (adj.)       | persevering; consistent                       |
+| daḷhaparakkama (adj.) | making continuous effort; [daḷha + parakkama] |
+| daḷha (pp.)           | firm; steady; strenuous                       |
+| phusati               | touches; contacts; feels; experiences         |
+| yoga (m.)             | yoke; bond; attachment                        |
+
+*** Links                                                          :noexport:
+
+[[http://localhost:4848/suttas/dhp21-32/pli/ms?quote=Appam%25C4%2581do%2520amatapada%25E1%25B9%2581&window_type=Sutta+Study][Dhp 21]]
+* Pārājika 4                                                       :noexport:
+** Exercise
+
+#+begin_quote
+Yasmā ca kho bhikkhave
+
+\vin atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
+
+Tasmā jātassa bhūtassa katassa saṅkhatassa
+
+\vin nissaraṇaṁ paññāyati.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| paññāyati | is clearly known; is evident; pass. of pajānāti |
+
+#+begin_quote
+Yan-dunnimittaṁ avamaṅgalañ-ca, yo cāmanāpo sakuṇassa saddo
+
+Pāpaggaho dussupinaṁ akantaṁ, buddhānubhāvena vināsamentu
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| gaha (m.)     | (1) grip; grabbing; from gaṇhāti  |
+|               | (2) planet; lit. what is grasped  |
+| ānubhāva (m.) | power; ability                    |
+| vināsa (m.)   | destruction; ruin; from vinassati |
+| eti (+acc)    | comes (to); goes (to); becomes     |
+
+\vspace*{2\baselineskip}
+
+** Pārājika 4
+
+#+begin_quote
+Yo pana bhikkhu anabhijānaṁ uttari-manussa-dhammaṁ
+
+attūpanāyikaṁ alam-ariya-ñāṇa-dassanaṁ samudācareyya
+
+“iti jānāmi, iti passāmī”ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| attūpanāyika (adj.) | referring to oneself [atta + upanāyika] |
+| samudācarati        | asserts; announces                      |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Tato aparena samayena
+
+samanuggāhiyamāno vā asamanuggāhiyamāno vā
+
+āpanno visuddhāpekkho evaṁ vadeyya,
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| apara (adj.)                    | another; after                                       |
+| samaya (m.)                     | time; occasion                                       |
+| āpanna (pp. + acc.)             | fallen into; pp. of āpajjati                         |
+| samanuggāhiyamāna (prp. +instr) | being closely questioned (by); lit. being dived into |
+|                                 | [saṁ + anu + √gāh + īya + māna]                     |
+| apekkha (adj.)                  | looking (for); desiring                              |
+
+\vspace*{2\baselineskip}
+
+#+begin_quote
+“Ajānam-evaṁ āvuso avacaṁ 'jānāmi', apassaṁ 'passāmi'.
+
+Tucchaṁ musā vilapi”nti.
+
+Aññatra adhimānā: ayam-pi pārājiko hoti asaṁvāso.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
+| tucchaṁ (ind.) | emptily; vainly; without substance [tuccha + aṁ] |
+| musā (ind.)     | falsely; untruthfully                             |
+| vilapi          | talked nonsense; aor. of vilapati                 |
+
+*** Links                                                          :noexport:
+
+[[http://localhost:4848/suttas/pli-tv-bu-pm/pli/ms?quote=Yo%2520pana%2520bhikkhu%2520anabhij%25C4%2581na%25E1%25B9%2581&window_type=Sutta+Study][Pr 4 (SSP)]]
+
+** Closing of Pr 4                                                 :noexport:
+
+#+begin_quote
+Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā,
+
+yesaṁ bhikkhu aññataraṁ vā aññataraṁ vā āpajjitvā
+
+na labhati bhikkhūhi saddhiṁ saṁvāsaṁ.
+
+Yathā pure, tathā pacchā: pārājiko hoti asaṁvāso.
+#+end_quote
+
+#+begin_quote
+Tatth'āyasmante pucchāmi: kacci'ttha parisuddhā?
+
+Dutiyampi ... tatiyampi ...
+
+Parisuddh'etth'āyasmanto, tasmā tuṇhī,
+
+evam-etaṁ dhārayāmi.
+#+end_quote
 
 * Name-and-Form                                                    :noexport:
 ** Links                                                           :noexport:
@@ -518,9 +821,9 @@ hypnotic suggestion
 #+begin_quote
 Jetavane hatthinī soṇḍāya vā dīghahatthena vā
 
-attano hatthipotakassa tiṇaṃ datvā,
+attano hatthipotakassa tiṇaṁ datvā,
 
-tato vīriyārambhāya soṇḍato mahāsaddaṃ pahiṇi.
+tato vīriyārambhāya soṇḍato mahāsaddaṁ pahiṇi.
 
 Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 #+end_quote
@@ -541,12 +844,12 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | dīghahatthena vā | \fillin{5cm}{or by the long hand}   | \fillin{3cm}{inst.}   |
 | attano           | \fillin{5cm}{her own}               | \fillin{3cm}{gen.}    |
 | hatthipotakassa  | \fillin{5cm}{to the baby-elephant}  | \fillin{3cm}{dat.}    |
-| tiṇaṃ           | \fillin{5cm}{grass}                 | \fillin{3cm}{acc.}    |
+| tiṇaṁ           | \fillin{5cm}{grass}                 | \fillin{3cm}{acc.}    |
 | datvā            | \fillin{5cm}{having given}          | \fillin{3cm}{ger.}    |
 | tato             | \fillin{5cm}{then}                  | \fillin{3cm}{ind.}    |
 | vīriyārambhāya   | \fillin{5cm}{for making effort}     | \fillin{3cm}{dat.}    |
 | soṇḍato          | \fillin{5cm}{from the trunk}        | \fillin{3cm}{abl.}    |
-| mahāsaddaṃ      | \fillin{5cm}{a loud noise}          | \fillin{3cm}{acc.}    |
+| mahāsaddaṁ      | \fillin{5cm}{a loud noise}          | \fillin{3cm}{acc.}    |
 | pahiṇi           | \fillin{5cm}{sent (→ pahiṇāti)}     | \fillin{3cm}{aor.}    |
 | imassa           | \fillin{5cm}{pron. of this (→ ima)} | \fillin{3cm}{gen.sg.} |
 | hatthipotakassa  | \fillin{5cm}{of the baby elephant}  | \fillin{3cm}{gen.}    |
@@ -568,333 +871,327 @@ water-depth measurement or medical probe), and the French word is
 Proto-Indo-European
 
 https://en.wiktionary.org/wiki/sonde#French
-* Pārājika 4                                                       :noexport:
-** Exercise
+* More                                                             :noexport:
+** Akuppā me vimutti / kuppapaṭicca santi
+*** akuppā me vimutti
 
 #+begin_quote
-Yasmā ca kho bhikkhave
+Ñāṇañca pana me dassanaṁ udapādi, akuppā me vimutti ayam-antimā jāti, natthi dāni punabbhavo'ti.
 
-\vin atthi ajātaṁ abhūtaṁ akataṁ asaṅkhataṁ
+Idam-avoca bhagavā. Attamanā pañcavaggiyā bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
 
-Tasmā jātassa bhūtassa katassa saṅkhatassa
+Imasmiñca pana veyyākaraṇasmiṁ bhaññamāne āyasmato koṇḍaññassa virajaṁ vītamalaṁ dhammacakkhuṁ udapādi:
 
-\vin nissaraṇaṁ paññāyati.
+yaṁ kiñci samudaya-dhammaṁ sabban-taṁ nirodha-dhamman'ti.
 #+end_quote
 
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| paññāyati | is clearly known; is evident; pass. of pajānāti |
+Dhammacakkappavattana
+
+*** akuppā cetovimutti
+
+The term *akuppā cetovimutti*, "unshakeable deliverance of the mind", expresses
+the same idea. Sometimes the Buddha refers to Nibbāna as *akuppā
+cetovimutti*.[^fn285] All other such deliverances are shakeable, or irritable.
+
+MN 29 Mahāsāropamasutta [[http://localhost:4848/suttas/mn29/pli/ms?quote=akupp%25C4%2581%2520cetovimutti&window_type=Sutta+Study][SSP]]
+
+*** acalaṁ sukhaṁ
+
+Sermon 8
+
+# Then, in which sense is Nibbāna called *dhuva*? In the sense that the experience
+# of Nibbāna is irreversible. That is why it is referred to as *acalaṁ
+# sukhaṁ*, "unshakeable bliss".
+
+Ud 8.10 [[http://localhost:4848/suttas/ud8.10/pli/ms?quote=acala%25E1%25B9%2581%2520sukhan&window_type=Sutta+Study][SSP]]
+Thag 3.16 Vimala Thera [[http://localhost:4848/suttas/thag3.16/pli/ms?quote=patthento%2520acala%25E1%25B9%2581%2520sukha%25E1%25B9%2581&window_type=Sutta+Study][SSP]]
 
 #+begin_quote
-Yan-dunnimittaṁ avamaṅgalañ-ca, yo cāmanāpo sakuṇassa saddo
+Atha kho bhagavā etamatthaṁ viditvā tāyaṁ velāyaṁ imaṁ udānaṁ udānesi:
 
-Pāpaggaho dussupinaṁ akantaṁ, buddhānubhāvena vināsamentu
+“Ayoghanahatasseva,
+jalato jātavedaso;
+Anupubbūpasantassa,
+yathā na ñāyate gati.
+
+Evaṁ sammāvimuttānaṁ,
+kāmabandhoghatārinaṁ;
+Paññāpetuṁ gati natthi,
+pattānaṁ acalaṁ sukhan”ti.
 #+end_quote
 
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| gaha (m.)     | (1) grip; grabbing; from gaṇhāti  |
-|               | (2) planet; lit. what is grasped  |
-| ānubhāva (m.) | power; ability                    |
-| vināsa (m.)   | destruction; ruin; from vinassati |
-| eti (+acc)    | comes (to); goes (to); becomes     |
+*** kuppapaṭicca santi
 
-\vspace*{2\baselineskip}
+# As the expression *kuppapaṭicca santi*, "peace dependent on
+# irritability", implies, they are irritable and shakeable.
 
-** Pārājika 4
+Snp 4.3 Duṭṭhaṭṭhakasutta ([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.4.0.0.3.0.2.m][DPR]], [[http://localhost:4848/suttas/snp4.3/pli/ms?quote=Ta%25E1%25B9%2581%2520nissito%2520kuppapa%25E1%25B9%25ADiccasanti%25E1%25B9%2581&window_type=Sutta+Study][SSP]])
 
 #+begin_quote
-Yo pana bhikkhu anabhijānaṁ uttari-manussa-dhammaṁ
+Sakañhi diṭṭhiṁ kathamaccayeyya,
+Chandānunīto ruciyā niviṭṭho;
+...
 
-attūpanāyikaṁ alam-ariya-ñāṇa-dassanaṁ samudācareyya
+Santo ca bhikkhu abhinibbutatto,
+Itihanti sīlesu akatthamāno;
+Tamariyadhammaṁ kusalā vadanti,
+Yassussadā natthi kuhiñci loke.
 
-“iti jānāmi, iti passāmī”ti.
+Pakappitā saṅkhatā yassa dhammā,
+Purakkhatā santi avīvadātā;
+Yadattani passati ānisaṁsaṁ,
+Taṁ nissito kuppapaṭiccasantiṁ.
+
+Diṭṭhīnivesā na hi svātivattā,
+Dhammesu niccheyya samuggahītaṁ;
+Tasmā naro tesu nivesanesu,
+Nirassatī ādiyatī ca dhammaṁ.
+
+Dhonassa hi natthi kuhiñci loke,
+Pakappitā diṭṭhi bhavābhavesu;
+Māyañca mānañca pahāya dhono,
+Sa kena gaccheyya anūpayo so.
 #+end_quote
 
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| attūpanāyika (adj.) | referring to oneself [atta + upanāyika] |
-| samudācarati        | asserts; announces                      |
+*** kiṁ kuppissati
 
-\clearpage
+Sermon 14
+
+> *amiyyamāno kiṁ kuppissati, akuppamāno kissa pihessati,*
+>
+> not dying, how shall he be shaken, and being unshaken, what shall he long
+> for?
+
+> *Yatthaṭṭhitaṁ maññussavā nappavattanti, maññussave kho pana nappavattamāne
+> muni santo ti vuccatīti, iti yaṁ taṁ vuttaṁ, idam etaṁ paṭicca
+> vuttaṁ*.[^fn479]
+
+[^fn479]: M III 246, *Dhātuvibhaṅgasutta*
+
+** Chanting: Mettāya, bhikkhave
+
 \casesLegendHeaderBGHere
 
 #+begin_quote
-Tato aparena samayena
+Mettāya, bhikkhave, cetovimuttiyā āsevitāya bhāvitāya bahulīkatāya yānīkatāya
 
-samanuggāhiyamāno vā asamanuggāhiyamāno vā
+vatthukatāya anuṭṭhitāya paricitāya susamāraddhāya ekādasānisaṁsā pāṭikaṅkhā.
 
-āpanno visuddhāpekkho evaṁ vadeyya,
-#+end_quote
+Katame ekādasa? Sukhaṁ supati, sukhaṁ paṭibujjhati, na pāpakaṁ supinaṁ passati,
 
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| apara (adj.)                    | another; after                                       |
-| samaya (m.)                     | time; occasion                                       |
-| āpanna (pp. + acc.)             | fallen into; pp. of āpajjati                         |
-| samanuggāhiyamāna (prp. +instr) | being closely questioned (by); lit. being dived into |
-|                                 | [saṁ + anu + √gāh + īya + māna]                     |
-| apekkha (adj.)                  | looking (for); desiring                              |
+manussānaṁ piyo hoti, amanussānaṁ piyo hoti, devatā rakkhanti,
 
-\vspace*{2\baselineskip}
+nāssa aggi vā visaṁ vā satthaṁ vā kamati,
 
-#+begin_quote
-“Ajānam-evaṁ āvuso avacaṁ 'jānāmi', apassaṁ 'passāmi'.
+tuvaṭaṁ cittaṁ samādhiyati, mukhavaṇṇo vippasīdati,
 
-Tucchaṁ musā vilapi”nti.
-
-Aññatra adhimānā: ayam-pi pārājiko hoti asaṁvāso.
-#+end_quote
-
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| tucchaṁ (ind.) | emptily; vainly; without substance [tuccha + aṁ] |
-| musā (ind.)     | falsely; untruthfully                             |
-| vilapi          | talked nonsense; aor. of vilapati                 |
-
-*** Links                                                          :noexport:
-
-[[http://localhost:4848/suttas/pli-tv-bu-pm/pli/ms?quote=Yo%2520pana%2520bhikkhu%2520anabhij%25C4%2581na%25E1%25B9%2581&window_type=Sutta+Study][Pr 4 (SSP)]]
-
-** Closing of Pr 4                                                 :noexport:
-
-#+begin_quote
-Uddiṭṭhā kho āyasmanto cattāro pārājikā dhammā,
-
-yesaṁ bhikkhu aññataraṁ vā aññataraṁ vā āpajjitvā
-
-na labhati bhikkhūhi saddhiṁ saṁvāsaṁ.
-
-Yathā pure, tathā pacchā: pārājiko hoti asaṁvāso.
-#+end_quote
-
-#+begin_quote
-Tatth'āyasmante pucchāmi: kacci'ttha parisuddhā?
-
-Dutiyampi ... tatiyampi ...
-
-Parisuddh'etth'āyasmanto, tasmā tuṇhī,
-
-evam-etaṁ dhārayāmi.
-#+end_quote
-
-* Dhammapada 21-23                                                 :noexport:
-** Chanting: Yaṅkiñci ratanaṁ loke
-
-#+begin_quote
-Yaṅkiñci ratanaṁ loke vijjati
-
-vividhaṁ puthu ratanaṁ buddhasamaṁ natthi
-
-tasmā sotthī bhavantu te
+asammūḷho kālaṁ karoti, uttari appaṭivijjhanto brahmalokūpago hoti.
 #+end_quote
 
 \vspace*{2\baselineskip}
 
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| vividha (adj.)   | various kinds of; assorted; multiple |
-| puthu (ind.)     | far and wide; all over               |
-| sama (adj.)      | level; even; balanced                |
-| sama (nt.)       | similarity; equality                 |
-| sotthi (f. +dat) | safety (for); well-being (for)       |
-|                  | abstr, from atthi (+dat)             |
+| āsevita (pp.)          | practised persistently; pp of āsevati                   |
+| pāṭikaṅkha (ptp. +dat) | to be expected (for); certain (for); can be anticipated |
+|                        | ptp of paṭikaṅkhati                                     |
 
-** Dhammapada: Sāmāvatīvatthu (Dhp 21-23)
+*** Links
 
-#+begin_quote
-Appamādo amatapadaṁ,
+[[http://localhost:4848/suttas/an11.15/pli/ms?window_type=Sutta+Study][AN 11.15 (SSP)]]
 
-pamādo maccuno padaṁ;
+** Chanting: Āyudo balado dhīro
 
-Appamattā na mīyanti,
-
-ye pamattā yathā matā.
-#+end_quote
-
-\vspace*{2\baselineskip}
-
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| appamāda (m.) | lit. not heedless; [na + pamajjati] |
-| maccu (m.)    | death                               |
-| mīyati        | is killed; dies; pass of marati     |
-
-\clearpage
 \casesLegendHeaderBGHere
 
 #+begin_quote
-Evaṁ visesato ñatvā,
+Āyudo balado dhīro, / vaṇṇado paṭibhānado;
 
-appamādamhi paṇḍitā;
+Sukhassa dātā medhāvī, / sukhaṁ so adhigacchati.
 
-Appamāde pamodanti,
+Āyuṁ datvā balaṁ vaṇṇaṁ, / sukhañca paṭibhānado;
 
-ariyānaṁ gocare ratā.
+Dīghāyu yasavā hoti, / yattha yatthūpapajjatī”ti.
 #+end_quote
 
 \vspace*{2\baselineskip}
 
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| visesato (ind.)     | distinctly; clearly                          |
-| pamodati (pr. +loc) | is delighted (with/about)                    |
-| gocara (m.)         | food; grazing; pasture                       |
-|                     | lit. (where the) cows walk [go + cara]       |
-| rata (pp. +loc)     | pleased (with/about); enjoying; pp of ramati |
+| āyuda (adj.)    | giving life [āyu + da]                                      |
+| dhīra (m.)      | wise man; intelligent person [√dhī + ra]                    |
+| paṭibhāna (nt.) | wit; intelligence; quick response                           |
+|                 | lit. speaking back [pati + √bhaṇ + *a]                      |
+| medhāvī (m.)    | intelligent man; who has good judgment; lit. who has wisdom |
+|                 | [√medh + ā + vī]                                            |
+| yasavant (adj.) | famous; renowned                                            |
+| yattha (ind.)   | wherever; where                                             |
+| upapajjati      | is reborn (in); re-arises (in); lit. goes towards           |
 
-#+begin_quote
-Te jhāyino sātatikā,
+\clearpage
 
-niccaṁ daḷhaparakkamā;
+*** Links                                                          :noexport:
+** Jaṭā Sutta (SN 7.6)                                             :noexport:
 
-Phusanti dhīrā nibbānaṁ,
+Sāvatthinidānaṁ. Atha kho jaṭābhāradvājo brāhmaṇo yena bhagavā tenupasaṅkami;
 
-yogakkhemaṁ anuttaraṁ.
-#+end_quote
+upasaṅkamitvā bhagavatā saddhiṁ sammodi.
 
-\vspace*{2\baselineskip}
+Sammodanīyaṁ kathaṁ sāraṇīyaṁ vītisāretvā ekamantaṁ nisīdi.
+
+Ekamantaṁ nisinno kho jaṭābhāradvājo brāhmaṇo bhagavantaṁ gāthāya ajjhabhāsi:
 
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| jhāyī (adj.)          | meditating; contemplating; from jhāyati       |
-| sātatika (adj.)       | persevering; consistent                       |
-| daḷhaparakkama (adj.) | making continuous effort; [daḷha + parakkama] |
-| daḷha (pp.)           | firm; steady; strenuous                       |
-| phusati               | touches; contacts; feels; experiences         |
-| yoga (m.)             | yoke; bond; attachment                        |
+| sammodati (+instr)               | greets; exchanges pleasantries (with)        |
+| bhagavatā                        | instr.sg. of bhagavant                       |
+| sammodanīya (ptp.)               | lit. to be enjoyed; ptp. of sammodati        |
+| sāraṇīya (ptp.)                  | polite; lit. to be desired; ptp of sārajjati |
+| vītisāreti                       | conducts, concludes (a conversation)         |
+| gāthā (f.)                       | verse; poem; stanza; lit. song               |
+| ajjhabhāsi (aor. +acc & +instr)  | addressed; spoke (to someone with)           |
+
+“Antojaṭā bahijaṭā, / Jaṭāya jaṭitā pajā;
+
+Taṁ taṁ gotama pucchāmi, / Ko imaṁ vijaṭaye jaṭan”ti.
+
+“Sīle patiṭṭhāya naro sapañño, / Cittaṁ paññañca bhāvayaṁ;
+
+Ātāpī nipako bhikkhu, / So imaṁ vijaṭaye jaṭaṁ.
+
+Yesaṁ rāgo ca doso ca, / Avijjā ca virājitā;
+
+Khīṇāsavā arahanto, / Tesaṁ vijaṭitā jaṭā.
+
+Yattha nāmañca rūpañca, / Asesaṁ uparujjhati;
+
+Paṭighaṁ rūpasaññā ca, / Etthesā chijjate jaṭā”ti.
+
+Evaṁ vutte, jaṭābhāradvājo bhagavantaṁ etadavoca:
+
+“abhikkantaṁ, bho gotama …pe… aññataro ca panāyasmā bhāradvājo arahataṁ ahosī”ti.
+
+\bigskip
+
+([[http://localhost:4848/suttas/s0301a.att/pli/cst4?quote=ja%25E1%25B9%25AD%25C4%2581pa%25C3%25B1hassa%2520pana%2520pucchitatt%25C4%2581&window_type=Sutta+Study][Aṭṭhakathā]]) jaṭāsuttavaṇṇanā:
+
+\textbf{jaṭābhāradvājo}ti bhāradvājovesa, jaṭāpañhassa pana pucchitattā saṅgītikārehi evaṁ vutto.
 
 *** Links                                                          :noexport:
 
-[[http://localhost:4848/suttas/dhp21-32/pli/ms?quote=Appam%25C4%2581do%2520amatapada%25E1%25B9%2581&window_type=Sutta+Study][Dhp 21]]
-* 2024-12-27
-** Ratana sutta: khīṇaṁ purāṇaṁ...
+[[id:5f92c53b-fbf1-4505-a191-a507b8fb14c2][Jaṭā Sutta (SN 7.6)]]
 
-#+begin_quote
-Khīṇaṁ purāṇaṁ navaṁ natthi sambhavaṁ,
+[[http://localhost:4848/suttas/sn7.6/pli/ms?window_type=Sutta+Study][SN 7.6 Jaṭāsutta (SSP)]], the tangle within and without
 
-Viratta- cittāyatike bhavasmiṁ;
+Translation by Bh Bodhi: [[http://localhost:4848/suttas/sn1.23/en/bodhi?window_type=Sutta+Study][SN 1.23 (SSP)]]
 
-Te khīṇa- bījā avirūḷhi- chandā,
+DPPN:
 
-Nibbanti dhīrā yathā- yaṁ padīpo;
+DPPN: Bhāradvāja. The name of a brahmin clan; about twenty individuals belonging to
+this clan are mentioned in the Pitakas.
 
-Idampi saṅghe ratanaṁ paṇītaṁ,
+Jaṭā bhāradvāja: A brahmin of the Bhāradvājagotta.
 
-Etena saccena suvatthi hotu.
-#+end_quote
+The Commentary (SA.i.179) says that he was given this name by the Recensionists
+because he asked a question about jatā (tangle).
 
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| khīyati                       | is destroyed; is exhausted                                 |
-| khīṇa (pp. of khīyati)         | consumed; destroyed                                        |
-| khaya (m. from khīyati)       | wearing away; destruction                                  |
-| purāṇa (adj.)                  | previous; old; ancient                                     |
-| nava (adj.)                   | new; fresh                                                 |
-| sambhavati                    | comes to be; happens; occurs                               |
-| sambhava (m. from sambhavati) | birth; origin; source (of)                                 |
-| rajjati                       | finds pleasure (in); is enamoured (with)                   |
-| virajjati                     | becomes detached (from); loses interest (in)               |
-| viratta (pp. of virajjati)    | detached (from); without desire (for); lost interest (in)  |
-| āyati (f.)                    | future; upcoming                                           |
-| āyatika (adj. from āyati)     | upcoming; future                                           |
-| bīja (nt.)                    | seed; germ                                                 |
-| virūḷhi (f.)                   | growth; increase                                           |
-| chanda (m.)                   | (1) interest; desire; wish (2) consent; agreement          |
-| nibbāti                       | is extinguished; goes out; lit. blows away                 |
-| dhīra (adj.)                  | (1) stable; constant; reliable; firm (2) wise; intelligent |
-| padīpa (m.)                   | lamp; light; lighting                                      |
+([[http://localhost:4848/suttas/s0301a.att/pli/cst4?quote=ja%25E1%25B9%25AD%25C4%2581pa%25C3%25B1hassa%2520pana%2520pucchitatt%25C4%2581&window_type=Sutta+Study][Aṭṭhakathā]]) jaṭāsuttavaṇṇanā:
 
-(tesaṁ,) purāṇaṁ kammaṁ khīṇaṁ hoti
+__jaṭābhāradvājo__ti bhāradvājovesa, jaṭāpañhassa pana pucchitattā saṅgītikārehi evaṁ vutto.
 
-navaṁ sambhavaṁ natthi
+([[http://localhost:4848/suttas/s0301t.tik/pli/cst4?quote=antoja%25E1%25B9%25AD%25C4%2581%2520bahija%25E1%25B9%25AD%25C4%2581&window_type=Sutta+Study][Ṭīkā]]) jaṭāsuttavaṇṇanā:
 
-kammaṁ: nt. nom/acc. sg.
+__jaṭāpañhassā__ti ‘‘antojaṭā bahijaṭā’’ti evaṁ jaṭāpariyāyassa pañhassa.
 
-kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho (AN 3.76)
+**** Meter
 
-*** Links                                                          :noexport:
+2.3 Siloka (Śloka) a.k.a. Vatta (Vaktra) & Anuṭṭhubha (Anuṣṭubh)
+https://ancient-buddhist-texts.net/Textual-Studies/Outline/2-Outline-03.htm
 
-[[http://localhost:4848/suttas/snp2.1/pli/ms?quote=Kh%25C4%25AB%25E1%25B9%2587a%25E1%25B9%2581%2520pur%25C4%2581%25E1%25B9%2587a%25E1%25B9%2581&window_type=Sutta+Study][Khīṇaṁ purāṇaṁ...]]
+: A Siloka verse normally consists of 4 lines (sometimes 6, rarely 5) with 8
+: syllables to the line, organised in dissimilar pairs which are repeated to make
+: up a verse (note that owing to resolution sometimes a Siloka line may contain 9
+: syllables).
 
-[[https://www.tldraw.com/r/hXdaGU7vKip5vHbAkQa8D?d=v-278.-199.1553.811.page][tldraw board]]
+What is the meter of Jaṭā Sutta (SN 7.6)?
 
-*** Analysis                                                       :noexport:
+“Antojaṭā bahijaṭā,
+jaṭāya jaṭitā pajā;
+Taṁ taṁ gotama pucchāmi,
+ko imaṁ vijaṭaye jaṭan”ti.
 
-Provide a word-by-word grammar analysis of the following Pali text.
-Indicate omitted subjects, objects or verbs (e.g. hoti).
+------
 
-: Khīṇaṁ purāṇaṁ navaṁ natthi sambhavaṁ,
-: Virattacittāyatike bhavasmiṁ;
+NORBU: The verse you've quoted from the Jaṭā Sutta (SN 7.6) is in a meter known
+as Śloka (also spelled Sloka) in Sanskrit, or Siloka in Pali. This is one of the
+most common meters used in Sanskrit and Pali poetry, including many Buddhist
+texts.
 
-The construction follows a parallel structure:
-[tesaṃ] khīṇaṁ purāṇaṁ [hoti] - "the old is destroyed [for them]"
+The Śloka meter consists of four padas (lines) of eight syllables each, making a
+total of 32 syllables per verse. The basic structure is as follows:
 
-Khīṇaṁ:
-- Root: √khī (to waste away, be exhausted)
-- Past participle of khīyati
-- Nominative/accusative singular neuter
-- Meaning: exhausted, destroyed
+1st line: 8 syllables
+2nd line: 8 syllables
+3rd line: 8 syllables
+4th line: 8 syllables
 
-purāṇaṁ:
-- Adjective
-- Nominative/accusative singular neuter
-- Meaning: old, former
+In the verse you've provided:
 
-navaṁ:
-- Adjective
-- Nominative/accusative singular neuter
-- Meaning: new
+"Antojaṭā bahijaṭā, (8 syllables)
+jaṭāya jaṭitā pajā; (8 syllables)
+Taṁ taṁ gotama pucchāmi, (8 syllables)
+ko imaṁ vijaṭaye jaṭan"ti. (8 syllables)
 
-natthi:
-- na (negative particle) + atthi (from √as, to be)
-- 3rd person singular present indicative
-- Meaning: is not, does not exist
+Each line indeed contains 8 syllables, conforming to the Śloka meter. This meter
+is widely used in Buddhist literature, including the Dhammapada and many suttas,
+due to its simplicity and ease of memorization, which was crucial in the oral
+transmission of these teachings.
 
-sambhavaṁ:
-- Prefix saṁ + √bhū (to become)
-- Nominative/accusative singular neuter
-- Action noun/gerund
-- Meaning: arising, origination
+-------
 
-Viratta-cittāyatike:
-- Compound word (tatpurusa):
-  * viratta: past participle of virajjati (vi + √raj)
-  * citta: mind
-  * āyatika: future, what lies ahead
-- Locative singular
-- Meaning: in future becoming
+Question: What is the history of the Śloka / Siloka meter?
 
-bhavasmiṁ:
-- Root: √bhū (to become)
-- Locative singular masculine
-- Meaning: in existence
+NORBU: The Śloka meter has a long and significant history in Indian literature,
+including Buddhist texts. Here's an overview of its development and importance:
 
-: Te khīṇabījā avirūḷhichandā,
-: Nibbanti dhīrā yathāyaṁ padīpo;
+1. Vedic Origins: The Śloka meter evolved from the Vedic Anuṣṭubh meter, which
+   was used in the Rigveda. The Anuṣṭubh consisted of four padas of eight
+   syllables each, much like the Śloka.
 
-Te:
-- Demonstrative pronoun, nominative plural masculine
-- "They, those"
+2. Epic Period: The Śloka gained prominence during the composition of the great
+   Indian epics, the Ramayana and the Mahabharata (circa 5th-4th century BCE).
+   It became the primary meter for narrative poetry.
 
-khīṇabījā:
-- Compound adjective (bahuvrīhi), nominative plural masculine
-- khīṇa (destroyed) + bīja (seed)
-- "Those whose seeds are destroyed"
+3. Classical Sanskrit: In classical Sanskrit literature, the Śloka became highly
+   refined. Poets like Kalidasa (c. 4th-5th century CE) used it extensively in
+   their works.
 
-avirūḷhichandā:
-- Compound adjective (bahuvrīhi), nominative plural masculine
-- a (negative) + virūḷhi (growth) + chanda (desire)
-- "Those whose desire for growth has ceased"
+4. Buddhist Adoption: As Buddhism emerged and spread, it adopted the Śloka meter
+   for its own texts. Many suttas in the Pali Canon, including parts of the
+   Sutta Nipata and the entire Dhammapada, use this meter.
 
-Nibbanti:
-- Verb, 3rd person plural present indicative
-- Root: √nibbā (to be extinguished)
-- "They are extinguished"
+5. Flexibility and Popularity: The Śloka's popularity stemmed from its
+   flexibility. It allowed for variations in the arrangement of long and short
+   syllables, making it adaptable to different linguistic contexts.
 
-dhīrā:
-- Adjective/noun, nominative plural masculine
-- "The wise ones"
+6. Mnemonic Device: In oral traditions, the Śloka's rhythmic structure made it
+   an excellent mnemonic device for preserving and transmitting teachings.
 
-yathā:
-- Indeclinable, adverb of comparison
-- "Just as, like"
+7. Pan-Indian Usage: The Śloka transcended linguistic and religious boundaries,
+   being used in Sanskrit, Pali, and various Prakrits, and in Hindu, Buddhist,
+   and Jain texts.
 
-ayaṁ:
-- Demonstrative pronoun, nominative singular masculine
-- "This"
+8. Continued Use: Even in modern times, the Śloka remains a popular meter in
+   Indian languages for religious and didactic poetry.
 
-padīpo:
-- Noun, nominative singular masculine
-- "Lamp"
+The Śloka's enduring popularity in Buddhist literature demonstrates its
+effectiveness in conveying complex philosophical and spiritual concepts in a
+memorable form. Its use in texts like the Jaṭā Sutta exemplifies how Buddhist
+teachers adapted existing cultural forms to spread the Dhamma.
+** Chanting
 
+uppannāya taṇhā꜔꜒ya ponobhavikāya na vasa꜔꜒ṁ gacchissa꜔꜒nti
+
+Ye ca kho tvaṁ, gotami, dhamme jāneyyāsi:
+‘ime dhammā virāgāya saṁvattanti, no sarāgāya;
+
+** Vinaya
+
+tinaṁ vā...
