@@ -748,7 +748,7 @@ Like a curse, it falls, *old age*.
 | The lion eats the disciple.                                       | \fillin{8cm}{Sīho sāvakaṁ khādati.}     |
 | They fill up (/paripūreti/) the ocean (/sāgara/).[fn:yatha-chant] | \fillin{8cm}{Paripūrenti sāgaraṁ.}      |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 *(b)* "*Where* is he going to?" Indicates where the subject is *going to* or *going along*. \\
 A.k.a. "the accusative of motion".
@@ -772,7 +772,7 @@ The Buddha is wandering in the land of the Kosalans...
 | The birds fly *to the sal trees.* (/sālarukkha/)    | \fillin{8cm}{Sakuṇā sālarukkhe uḍḍayant.} |
 | We enter (/pavisati/) *the hut.* (/agāra/)          | \fillin{8cm}{Agāraṁ pavisāma.}           |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -847,7 +847,7 @@ attano hatthipotakassa tiṇaṁ datvā,
 | tiṇaṁ           | \fillin{5cm}{grass}                | \fillin{3cm}{acc.}  |
 | datvā            | \fillin{5cm}{having given}         | \fillin{3cm}{ger.}  |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 #+begin_export latex
 \bigskip
@@ -892,7 +892,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | mahanto         | \fillin{5cm}{adj. great, large}     | \fillin{3cm}{nom.}    |
 | ahosi           | \fillin{5cm}{was, became (→ hoti)}  | \fillin{3cm}{aor.}    |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 #+begin_export latex
 \ifanswerkey
@@ -915,7 +915,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | Cattāro satipaṭṭhānā satta bojjhaṅge paripūrenti.[fn:mn-118] | \fillin{8cm}{The 4 found. of mindf. fulfil the 7 fact. of enligh.  } |
 | \fillin{8cm}{Sunakhā biḷāre bhussanti.}                      | The dogs are barking at the cats (/biḷāra/).                          |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 *** Extra Challenge: Pāli Chat
 **** Greetings: Getting By
@@ -939,7 +939,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | I hope you're keeping well Ven., I hope you're getting by? |
 | \fillin{12cm}{Kacci, bhante, khamanīyaṁ kacci yāpanīyaṁ?}  |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -978,7 +978,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | That's where I, Ven., am coming from.                                          |
 | \fillin{12cm}{Tato ahaṁ, bhante, āgacchāmi.}                                   |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -1012,7 +1012,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | This morning I am entering the town Ericeira for alms-round.                                |
 | \fillin{12cm}{Idha pubbaṇhasamayaṁ Ericeira-nigamaṁ piṇḍāya pavisāmi.}                      |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -1079,7 +1079,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | Are you at your mother and father's house?                             |
 | \fillin{12cm}{Api nu Idāni mātāpitūgāraṁ / -garamhi / -gare viharasi?} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -1151,7 +1151,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | \textbf{[B]} Go at your convenience.                                                               |
 | \fillin{12cm}{Yassadāni tumhe kālaṁ maññatha.}                                                     |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -1187,7 +1187,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | \textbf{[A]} Wait right here Sir, I will bring (it to you).                                     |
 | \fillin{12cm}{Ettheva bhante, tiṭṭha / tiṭṭhatha. (Taṁ taṁ) āharissāmi.}                         |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 #+begin_export latex
 % \cleartonewsheet
@@ -1240,7 +1240,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | She comes from there.                               | \fillin{8cm}{Sā tato āgacchati.}                              |
 | We run to the boys.                                 | \fillin{8cm}{Mayaṁ dārake dhāvāma.}                           |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 /dhītar:/ f. daughter
 
@@ -1472,7 +1472,7 @@ The particle /mā/ is used to express a prohibition.
 | Suṇātu me bhante saṅgho ...               | \fillin{8cm}{Let the Sangha hear me.}                     |
 | Pārisuddhiṁ āyasmanto ārocetha.          | \fillin{8cm}{Let the Venerables declare purity.}          |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 *** Instrumental Case: narena -- with, by, because of the man
 
@@ -1511,7 +1511,7 @@ The particles *saddhiṁ, saha* used with the instrumental case, expresses the m
 | Aṭṭhi tacena onaddhaṁ, saha vatthebhi[fn:vatthebhi]\space sobhati. (MN 82) |
 | \fillin{10cm}{A bone covered with skin; it looks beautiful with clothes.} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 - /onaddha/: pp. of onandhati, covered (with); wrapped (with)
 - /vattha/: nt. cloth; clothes; robe
@@ -1551,7 +1551,7 @@ Origin of the word "Dative":
 | It leads to Nibbāna.                             | \fillin{8cm}{Nibbānāya saṁvattati.}                               |
 | We eat the almsfood not for fun or indulgence... | \fillin{8cm}{Mayaṁ piṇḍapātaṁ bhuñjāma neva davāya, na madāya...} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 **** The name 'Dative case'                                        :noexport:
 
@@ -1605,7 +1605,7 @@ lit. settled\\
 | atha tumhe, kālāmā, upasampajja vihareyyātha. ([[https://suttacentral.net/an3.65/pli/ms][AN 3.65]])                      |
 | \fillin{12cm}{then you, K., having entered them you should abide in them...} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 /upasampajja:/ undertaking; entering on; attaining; ger. of /upasampajjati/
 
@@ -1674,7 +1674,7 @@ is slaughtered
 | Rice cooked by the cook was eaten (/khādito/)               | \fillin{8cm}{Sūdena pacitvā odanaṁ / pacito odano}       |
 | by the beggar's (/yācaka/) dog.                             | \fillin{8cm}{yācakassa sunakhena khādito.}               |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -1738,7 +1738,7 @@ The optative cam also imply a polite imperative, "it would be good if you..."
 | na'y'idaṁ saṅkhārā ābādhāya saṁvatteyyuṁ (SN 22.59)                   | \fillin{8cm}{these volitions would not lead to affliction}      |
 | Yadā tumhe, bhaddiya, attanāva [attanā + eva] jāneyyātha... ([[https://suttacentral.net/an4.193/pli/ms][AN 4.193]]) | \fillin{8cm}{When (if) you, Bhaddiya, know this by yourself...} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 #+latex: \vspace*{-0.5\baselineskip}
 
 /ābādha:/ m. illness; affliction. /saṁvattati:/ leads (to); results (in); causes
@@ -1928,7 +1928,7 @@ Uppannuppannānaṁ adhikaraṇānaṁ samathāya vūpasamāya: sammukhāvinayo 
 | Kathaṁ taṁ ekamāsīnaṁ, aratī nābhikīrati?                                         |
 | \fillin{12cm}{How does discontent not overwhelm you as you sit alone?}             |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -2082,7 +2082,7 @@ pārisuddhā ti vedissāmi.
 | There are in my bed a lot of ants.                                                       |
 | \fillin{12cm}{Santi mama / me sayane bahu kipillikā.}                                    |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -2171,7 +2171,7 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 | If there's no rinsing water, rinsing water should be provided.                    |
 | \fillin{12cm}{Sace paribhojanīyaṁ natthi, paribhojanīyaṁ upaṭṭhāpetabbaṁ.}        |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -2264,7 +2264,7 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 | Yesterday I came here.                                             |
 | \fillin{12cm}{Hīyo'ham idh'āgacchiṁ.}                              |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -2345,7 +2345,7 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 | I have fourteen rupees.                                                             |
 | \fillin{12cm}{Cuddasa rūpiyāni mama santike santi.}                                 |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -2396,7 +2396,7 @@ kaṇṇasotāni āviñcheyyāsi, pāṇinā gattāni anumajjeyyāsi."
 | The elder goes to the village with the disciple (/sāvaka/).                 | \fillin{8cm}{Thero sāvakena saddhiṁ gāmaṁ gacchati.}    |
 | The elder gives the robe to the disciple.                                   | \fillin{8cm}{Thero sāvakassa cīvaraṁ deti.}             |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 #+latex: \bigskip
 #+latex: \begin{multicols}{2}
 
@@ -2631,7 +2631,7 @@ The verb /atthi/ (he is) is not used in the future tense, /bhavissati/ is used i
 /paggaṇhāti:/ holds up; raises up
 #+end_widecols
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -2681,7 +2681,7 @@ irregular forms.
 | Yathārupe adinnādāne rājāno coraṁ gahetvā, haneyyuṁ vā... (Pr 2)                             |
 | \fillin{12cm}{The sort of stealing for which kings, having caught a thief, would beat or...} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 *The suffix -ya* is also used to form gerunds. These are common with with verbs having a prefix.
 
@@ -2780,7 +2780,7 @@ receiving; according (to); lit. taking \\
 | After burning the tree with fire, they may make ash.                               |
 | \fillin{12cm}{Rukkhaṁ agginā jhāpetvā masiṁ kareyya.}                              |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -2889,7 +2889,7 @@ The infinitive may be translated as "to see" / "in order to see" / "for the purp
 | \fillin{8cm}{Mayaṁ ketuṁ tahiṁ na gacchāma.}          | We don't go there to buy.                             |
 | \fillin{8cm}{Mayaṁ hantuṁ na icchāma.}                 | We don't like to kill.                                |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 /sayituṁ:/ lie down, sleep
 
@@ -2943,7 +2943,7 @@ long or remain short.
 | They, having seen the disadvantage in sensual pleasures, | \fillin{8cm}{Te kāmesu ādīnavaṁ disvā,}  |
 | go forth in the bhikkhu-saṅgha.                           | \fillin{8cm}{bhikkhu-saṅghe pabbajanti.}  |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 /makkaṭa:/ m. monkey; ape
 
@@ -3175,7 +3175,7 @@ Possessive pronouns (genitive)
 
 /rakkhati:/ protects; guards \\
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -3361,7 +3361,7 @@ I want another thing.
 | Go and converse with the wise man.                                                        |
 | \fillin{8cm}{Gacchatha, paṇḍitena saddhiṁ sallapatha.}                                    |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \bigskip
 
@@ -3424,7 +3424,7 @@ Generally formed by adding /-ta, -ita, -na/ to the verbal root or base. Sandhi r
 | 'Kālo, bhante, niṭṭhitaṁ bhattan'ti.                       |
 | \fillin{12cm}{Sir, it's time. The meal is ready.}         |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \bigskip
 
@@ -3449,7 +3449,7 @@ When the subject is in instrumental case, the past participle is passive.
 | \fillin{8cm}{Vyādhena hataṁ migaṁ ahaṁ passāmi.} | I see the deer killed (/hata/) by the huntsman (/vyādha/). |
 | \fillin{8cm}{Gāmamhā āgataṁ purisaṁ na passāmi.}  | I do not see the man that has come from the village.       |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 Some frequent examples:
 
@@ -3557,7 +3557,7 @@ Idamavoca bhagavā. Attamanā te bhikkhū bhagavato bhāsitaṁ abhinanduṁ.
 | \fillin{8cm}{Don't stay here.}                          | Tumhe mā idha vasittha.                   |
 | \fillin{8cm}{If it be so, I should come here.}          | Yadi evaṁ siyā, ahaṁ idha āgaccheyyāmi.   |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 ** Causative: Having It Done (-e, -aya, -āpe, -āpaya)
 
@@ -3608,7 +3608,7 @@ Some verbs can take two objects as a double accusative:
 | Pañhaṁ taṁ, samaṇa, pucchissāmi. (SN 10.12) | \fillin{8cm}{I will ask you a question, ascetic.} |
 | \fillin{8cm}{Puriso gāviṁ gāmaṁ nayati.}    | The man leads (/nayati/) the ox to the village.   |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -3636,7 +3636,7 @@ Some verbs can take two objects as a double accusative:
 | The monk, having gone to the forest, sat down at the foot of a tree.                           |
 | \fillin{12cm}{Bhikkhu araññaṁ / vanaṁ gantvā rukkhassa mūle nisīdi.}                           |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \bigskip
 
@@ -3850,7 +3850,7 @@ Atha kho mayhaṁ evaṁ hoti: 'ahaṁ kho kammaṁ akāsiṁ. Kammaṁ kho pana
 | If you become lazy, you will not meditate and contemplate.                          |
 | \fillin{12cm}{Sace tvaṁ kusīto / alaso bhaveyyāsi, na jhāyissasi nijjhāyissasi ca.} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \bigskip
 
@@ -3935,7 +3935,7 @@ Since the present participles are verbs, they can take an object in the accusati
 | Seyyathāpi bhikkhave makkaṭo araññe pavane caramāno... (SN 12.61)                     |
 | \fillin{12cm}{Just like, monks, a monkey roaming around in a forest wilderness...}   |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 /maccha-gumba:/ m. school of fish \\
 /pavana:/ nt. woodland; forest
@@ -3967,7 +3967,7 @@ Adjectives as predicates should agree with the subject in gender, number and cas
 | aviddasū yattha sitā puthujjanā. (Thag 19.1)                     |
 | \fillin{12cm}{an ignorant ordinary person is bound to them.}     |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 /citra:/ diverse \\
 /madhura:/ sweet, lovely \\
@@ -3982,7 +3982,7 @@ Adjectives as predicates should agree with the subject in gender, number and cas
 | Saṅkhārā sassatā natthi | \fillin{8cm}{There are no eternal conditioned things} |
 | taṁ musā               | \fillin{8cm}{it's a lie}                              |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 *Past participles* as predicate:
 
@@ -4014,7 +4014,7 @@ Opened are the gates of the deathless for them, let the hearers show faith.
 | Sace manussattaṁ āgacchati yattha yattha paccājāyati appabhogo hoti. (MN 135)              |
 | \fillin{12cm}{If he comes back to the human state, then wherever he is reborn he is poor.} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \bigskip
 
@@ -4088,7 +4088,7 @@ time; occasion; lit. come together
 | When the road becomes safe, then we shall set out from here.               |
 | \fillin{12cm}{Yadā maggo khemo bhavissati, tadā mayaṁ ito nikkhamissāma.}  |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \bigskip
 

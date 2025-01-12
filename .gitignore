@@ -5,6 +5,7 @@ tex/schedule/sign-up-sheet.pdf
 tex/schedule/class-rules.pdf
 tex/vinaya-class-notes/vinaya-class-notes.pdf
 tex/vinaya-class-questions/*.pdf
+tex/vinaya-class-questions/*.apkg
 tex/vinaya-class-questions/crosswords/*.pdf
 tex/chanting-refcard/chanting-refcard.pdf
 tex/chanting-refcard/chanting-refcard-4on1.pdf
@@ -53,3 +54,35 @@ tags
 # Other
 .sass-cache/
 .Rhistory
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# pyenv
+.python-version
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/

@@ -12,9 +12,28 @@ Whiteboard: [Pāli Readings (tldraw.com)][tldraw-readings]
 
 [zoom-link]: https://us02web.zoom.us/j/87185469048?pwd=b9RVHZm6Tfrm1AIMIQ5st657X8twdq.1
 
-Print the [pali-readings-next.pdf][next], the PDF is updated the day before the meeting.
+The PDF is updated the day before the meeting to allow printing.
 
-[next]: https://drive.google.com/file/d/13PMtUN7PHcLJy1lMJY4_d3O-EgbuZbX_/view?usp=sharing
+<div style="display: flex; gap: 0.5em;">
+<div style="width: 50%;">
+
+[pali-readings-next.pdf][next-pdf]
+
+[![Readings PDF Download](./includes/docs/pdf-example.png)][next-pdf]
+
+</div>
+<div style="width: 50%;">
+
+[pali-readings-next.apkg][next-anki]
+
+[![Anki Deck Download](./includes/docs/anki-example.png)][next-anki]
+
+</div>
+</div>
+
+[next-pdf]: https://drive.google.com/file/d/13PMtUN7PHcLJy1lMJY4_d3O-EgbuZbX_/view?usp=sharing
+
+[next-anki]: https://drive.google.com/file/d/1hpKQ3rrDMi7ErH22kUUlvDKATZZ7yTO5/view?usp=sharing
 
 The [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf) may also be useful.
 

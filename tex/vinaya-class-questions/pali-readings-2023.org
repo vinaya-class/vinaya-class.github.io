@@ -809,7 +809,7 @@ aggappatto pamodatī”ti.
 | confident / faithful in the best teaching                                      |
 | \fillin{12cm}{agge dhamme pasannānaṁ}                                          |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 ** Vocabulary                                                      :noexport:
 
@@ -1081,7 +1081,7 @@ dutiyaṁ jhānaṁ upasampajja viharati. Ayaṁ dutiyo sukhallikānuyogo.
 | For one of non-remorse, gladness (/pāmojja/) is born.                                                       |
 | \fillin{12cm}{Yaṁ avippaṭisārissa pāmojjaṁ jāyati.}                                                         |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 * Indulgence in Pleasure (2)
 ** Pāsādikasutta, cont. (DN 29)
@@ -1237,7 +1237,7 @@ phalāni, cattāro ānisaṁsā pāṭikaṅkhā’ti.
 | May you abide equanimous, mindful and happy.                                    |
 | \fillin{12cm}{Upekkhako sato sukhito viharatu.}                                 |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 * Indulgence in Pleasure (3)
 ** Jhānādisutta (SN 53.1-12)
@@ -1390,7 +1390,7 @@ anissito ca viharati, na ca kiñci loke upādiyati.
 | upādiyati.  | \fillin{1.5cm}{verb} | \fillin{2cm}{pr.3rd.sg.}   | \fillin{4cm}{grasps; clings to}     | \fillin{4cm}{upa + ādiyati}  |
 | → ādiyati   | \fillin{1.5cm}{verb} | \fillin{2cm}{pr.3rd.sg.}   | \fillin{4cm}{takes; grasps}         | \fillin{4cm}{√ādā + ya + ti} |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -1575,7 +1575,7 @@ paccavekkhitabbaṁ.
 | na            | \fillin{1.5cm}{neg}   | \fillin{2cm}{}             | \fillin{4cm}{}                                       | \fillin{4cm}{}                   |
 | upavadantī’ti | \fillin{1.5cm}{verb}  | \fillin{2cm}{}             | \fillin{4cm}{blames; criticizes; finds fault (with)} | \fillin{4cm}{}                   |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
@@ -1917,7 +1917,7 @@ na maṅku bhavissāmī’ti pabbajitena abhiṇhaṁ paccavekkhitabbaṁ.
 
 Ime kho, bhikkhave, dasa dhammā pabbajitena abhiṇhaṁ paccavekkhitabbā'ti.
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 * Ekavihāra                                                        :noexport:

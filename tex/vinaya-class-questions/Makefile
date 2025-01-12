@@ -16,8 +16,12 @@ pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
 
 pali-readings-next: export-pali-readings-next pali-readings-next.pdf
 
-pali-readings-next-upload: pali-readings-next
-	rclone copyto pali-readings-next.pdf "gambhiro.sumedharama:/Pāli Readings/pali-readings-next.pdf"
+pali-readings-next.apkg:
+	../../scripts/export-reading-vocab-to-anki.py ./pali-readings-next.org
+
+pali-readings-next-upload: pali-readings-next pali-readings-next.apkg
+	rclone copyto pali-readings-next.pdf "gambhiro.sumedharama:/Pāli Readings/pali-readings-next.pdf" && \
+	rclone copyto pali-readings-next.apkg "gambhiro.sumedharama:/Pāli Readings/pali-readings-next.apkg"
 
 pali-readings-with-sentence-analysis: export-pali-readings-with-sentence-analysis pali-readings-with-sentence-analysis.pdf
 

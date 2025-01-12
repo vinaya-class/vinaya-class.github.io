@@ -3,42 +3,19 @@
 import os
 import sys
 import re
-import json
-import urllib.request
 from pathlib import Path
-
-def anki_request(action, **params):
-    return {'action': action, 'params': params, 'version': 6}
-
-def anki_invoke(action, params={}):
-    request_json = json.dumps(anki_request(action, **params)).encode('utf-8')
-    response = json.load(urllib.request.urlopen(urllib.request.Request('http://127.0.0.1:8765', request_json)))
-
-    if len(response) != 2:
-        raise Exception('response has an unexpected number of fields')
-
-    if 'error' not in response:
-        raise Exception('response is missing required error field')
-
-    if 'result' not in response:
-        raise Exception('response is missing required result field')
-
-    if response['error'] is not None:
-        raise Exception(response['error'])
-
-    return response['result']
+from helpers import anki_invoke, get_org_vocab_sections
 
 def export_vocab(org_path: Path, apkg_path: Path, deck_name: str):
     with open(org_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
-    # remove content up to the first second-level header (**)
-    content = re.sub(r"^.*?(?=\n\*\* \w)", "\1", content, flags=re.DOTALL)
+    content = "\n".join([i['content'] for i in get_org_vocab_sections(content)])
 
-    # split at sections, filter :noexport:, re-join
-    content = "\n".join([i for i in content.split("** ") if ":noexport:" not in i])
-
-    # filter for three-column vocab table lines
+    # Filter for three-column vocab table lines.
+    # 1st col: English
+    # 2nd col: Pali
+    # 3rd col: 's' means this is a sentence
     lines = [i for i in content.split("\n") if re.match(r"\|[^\|]+\|[^\|]+\|", i)]
 
     notes = []
@@ -94,7 +71,7 @@ if __name__ == "__main__":
     usage = """
 Three arguments are expected:
 
-First argument: the path to the .org file.
+First argument: the path to the .org file, e.g. './vocabulary-lesson-1.org'.
 
 Second argument: the path to write the .apkg Anki Deck.
 

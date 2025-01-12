@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "vinaya-class"
+version = "0.1.0"
+description = ""
+authors = ["Gambhiro <gambhiro@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "~3.13"
+mako = "^1.3.8"
+requests = "^2.32.3"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

@@ -3,8 +3,8 @@
 #+LATEX_HEADER: \input{./pali-lessons-preamble.tex}
 #+LATEX_HEADER: \maxtocdepth{section}
 #+LANGUAGE: en_GB
-#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{}
-#+TITLE: Pāli Readings (Next)
+#+OPTIONS: toc:nil tasks:nil H:4 author:nil ':t ^:{} tags:nil
+#+TITLE: Pāli Readings
 #+AUTHOR: The Bhikkhu Saṅgha
 
 #+begin_export latex
@@ -156,6 +156,229 @@ Which translates to:
 "Having given food to this baby elephant, the mother encouraged it, saying, 'Now
 you must learn to eat grass by yourself.'"
 
+* 2025-01-29                                                       :noexport:
+** AN 5.37 Bhojanasutta
+
+(SC, DPR, [[http://localhost:4848/suttas/an5.37/pli/ms?window_type=Sutta+Study][SSP]])
+
+* 2025-01-22                                                       :noexport:
+** SN 46.16 Tatiyagilānasutta
+
+([[https://suttacentral.net/sn46.16/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.4.0.0.1.1.5.m][DPR]], [[http://localhost:4848/suttas/sn46.16/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+Tena kho pana samayena bhagavā ābādhiko hoti dukkhito bāḷhagilāno.
+Atha kho āyasmā mahācundo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ
+abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ mahācundaṁ
+bhagavā etadavoca:
+
+“paṭibhantu taṁ, cunda, bojjhaṅgā”ti.
+#+end_quote
+
+#+begin_quote
+“Sattime, bhante, bojjhaṅgā ...
+
+“Taggha, cunda, bojjhaṅgā; taggha, cunda, bojjhaṅgā”ti.
+
+Idamavocāyasmā cundo. Samanuñño satthā ahosi. Vuṭṭhahi ca bhagavā tamhā ābādhā.
+
+Tathāpahīno ca bhagavato so ābādho ahosī'ti.
+#+end_quote
+
+** Bojjhaṅga-paritta
+
+#+begin_quote
+Bojjhaṅgo sati-saṅkhāto \
+dhammānaṁ vicayo tathā \
+Viriyam-pīti-passaddhi \
+bojjhaṅgā ca tathā’pare \
+Samādh’upekkha-bojjhaṅgā \
+satt’ete sabba-dassinā \
+Muninā sammad-akkhātā \
+bhāvitā bahulīkatā \
+Saṁvattanti abhiññāya \
+nibbānāya ca bodhiyā \
+Etena sacca-vajjena \
+sotthi te hotu sabbadā
+#+end_quote
+
+#+begin_quote
+Ekasmiṁ samaye nātho \
+moggallānañ-ca kassapaṁ \
+Gilāne dukkhite disvā \
+bojjhaṅge satta desayi \
+Te ca taṁ abhinanditvā \
+rogā mucciṁsu taṅ-khaṇe \
+Etena sacca-vajjena \
+sotthi te hotu sabbadā \
+Ekadā dhamma-rājā pi \
+gelaññenābhipīḷito \
+Cundattherena tañ-ñeva \
+bhaṇāpetvāna sādaraṁ \
+Sammoditvā ca ābādhā \
+tamhā vuṭṭhāsi ṭhānaso \
+Etena sacca-vajjena \
+sotthi te hotu sabbadā
+#+end_quote
+
+#+begin_quote
+Pahīnā te ca ābādhā \
+tiṇṇannam-pi mahesinaṁ \
+Magg’āhata-kilesā va \
+pattānuppatti-dhammataṁ \
+Etena sacca-vajjena \
+sotthi te hotu sabbadā
+#+end_quote
+
+* 2025-01-15
+** Exercise
+
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+| word          | pos            | meaning        |
+|---------------+----------------+----------------|
+| samayaṁ      | \fillin{3cm}{} | \fillin{5cm}{} |
+| samayena      | \fillin{3cm}{} | \fillin{5cm}{} |
+| rājagahe      | \fillin{3cm}{} | \fillin{5cm}{} |
+| dukkhā        | \fillin{3cm}{} | \fillin{5cm}{} |
+| nibbānāya     | \fillin{3cm}{} | \fillin{5cm}{} |
+| viharati      | \fillin{3cm}{} | \fillin{5cm}{} |
+| upasaṅkami    | \fillin{3cm}{} | \fillin{5cm}{} |
+| upasaṅkamitvā | \fillin{3cm}{} | \fillin{5cm}{} |
+| avoca         | \fillin{3cm}{} | \fillin{5cm}{} |
+| saṁvattanti  | \fillin{3cm}{} | \fillin{5cm}{} |
+| ahosi         | \fillin{3cm}{} | \fillin{5cm}{} |
+
+#+latex: \normalArrayStretch
+
+** SN 46.14 Paṭhamagilānasutta                                         :anki:
+
+([[https://suttacentral.net/sn46.14/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.4.0.0.1.1.3.m][DPR]], [[http://localhost:4848/suttas/sn46.14/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+
+Tena kho pana samayena āyasmā mahākassapo pippaliguhāyaṁ viharati
+
+ābādhiko dukkhito bāḷhagilāno.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| veḷuvana (nt.)   | Bamboo Grove, a park outside Rājagaha [veḷu + vana]       | 70557/dpd | Ekaṁ samayaṁ bhagavā rājagahe viharati {{veḷuvane}} kalandakanivāpe.         |
+| kalandaka (m.)   | squirrel                                                  | 20574/dpd | Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane {{kalanda}}kanivāpe.         |
+| nivāpa (m.)      | bait; fodder; feeding                                     | 38408/dpd | Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandaka{{nivāpe}}.         |
+| pippaliguhā (f.) | lit. long pepper cave [pippali + guhā]                    | 46161/dpd | Tena kho pana samayena āyasmā mahākassapo {{pippaliguhāyaṁ}} viharati       |
+| ābādhika (adj.)  | sick; ill; lit. oppressed                                 | 11993/dpd | āyasmā mahākassapo pippaliguhāyaṁ viharati {{ābādhiko}} dukkhito bāḷhagilāno |
+| bāḷha (pp.)      | very strong; extreme; intense; lit. increased [√bah + ta] | 48406/dpd | āyasmā mahākassapo pippaliguhāyaṁ viharati ābādhiko dukkhito {{bāḷha}}gilāno |
+| gilāna (adj.)    | sick; ill; unwell; lit. being sick                        | 24950/dpd | āyasmā mahākassapo pippaliguhāyaṁ viharati ābādhiko dukkhito bāḷha{{gilāno}} |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Atha kho bhagavā sāyanhasamayaṁ paṭisallānā vuṭṭhito
+
+yenāyasmā mahākassapo tenupasaṅkami; upasaṅkamitvā paññatte āsane nisīdi.
+
+Nisajja kho bhagavā āyasmantaṁ mahākassapaṁ etadavoca:
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| paṭisallāna (nt.)   | privacy; seclusion; solitude                   | 40862/dpd | Atha kho bhagavā sāyanhasamayaṁ {{paṭisallānā}} vuṭṭhito |
+| vuṭṭhita (pp. +abl) | risen (from); got up (from); pp. of vuṭṭhahati | 70020/dpd | Atha kho bhagavā sāyanhasamayaṁ paṭisallānā {{vuṭṭhito}} |
+|                     | [(v) + ud + √ṭhā + ita]                        |           |                                                         |
+| paññatta (pp.)      | prepared; arranged; lit. caused to know;       | 39966/dpd | upasaṅkamitvā {{paññatte}} āsane nisīdi                 |
+|                     | pp of paññāpeti, caus                          |           |                                                         |
+
+#+begin_quote
+“Kacci te, kassapa, khamanīyaṁ kacci yāpanīyaṁ?
+
+Kacci dukkhā vedanā paṭikkamanti, no abhikkamanti;
+
+paṭikkamosānaṁ paññāyati, no abhikkamo”ti?
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| kacci (ind.)           | I hope; I trust                   | 19264/dpd | {{Kacci}} te, kassapa, khamanīyaṁ kacci yāpanīyaṁ?   |
+| khamanīya (adj.)       | bearable; tolearable              | 23490/dpd | Kacci te, kassapa, {{khamanīyaṁ}} kacci yāpanīyaṁ?   |
+| yāpanīya (adj.)        | able to keep going; sustainable   | 53983/dpd | Kacci te, kassapa, khamanīyaṁ kacci {{yāpanīyaṁ}}?   |
+| paṭikkamati (pr. +abl) | returns (from); comes back (from) | 40244/dpd | Kacci dukkhā vedanā {{paṭikkamanti}}, no abhikkamanti |
+| abhikkamati (pr.)      | goes forward; proceeds            | 7563/dpd  | Kacci dukkhā vedanā paṭikkamanti, no {{abhikkamanti}} |
+
+#+begin_quote
+“Na me, bhante, khamanīyaṁ, na yāpanīyaṁ. Bāḷhā me dukkhā vedanā abhikkamanti,
+
+no paṭikkamanti; abhikkamosānaṁ paññāyati, no paṭikkamo”ti.
+
+“Sattime, kassapa, bojjhaṅgā mayā sammadakkhātā;
+
+bhāvitā bahulīkatā abhiññāya sambodhāya nibbānāya saṁvattanti. Katame satta?
+
+Satisambojjhaṅgo kho, kassapa, mayā sammadakkhāto bhāvito bahulīkato
+
+abhiññāya sambodhāya nibbānāya saṁvattati ... Ime kho, kassapa, satta bojjhaṅgā ...
+
+“Taggha, bhagavā, bojjhaṅgā; taggha, sugata, bojjhaṅgā”ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| sammadakkhāta (adj.) | well taught; well preached [sammā + (d) + akkhāta] | 60730/dpd | Sattime, kassapa, bojjhaṅgā mayā {{sammadakkhātā}}; bhāvitā bahulīkatā |
+| akkhāta (pp. +instr) | said (by); declared (by)                           | 399/dpd   | Sattime, kassapa, bojjhaṅgā mayā sammad{{akkhātā}}; bhāvitā bahulīkatā |
+| bahulīkata (pp.)     | practised often; repeated a lot; [bahula + kata]   | 48190/dpd | Sattime, kassapa, bojjhaṅgā mayā sammadakkhātā; bhāvitā {{bahulīkatā}} |
+| taggha (ind.)        | truly; definitely; lit. that indeed [tad + gha]    | 29228/dpd | {{Taggha}}, bhagavā, bojjhaṅgā                                         |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Idamavoca bhagavā. Attamano āyasmā mahākassapo bhagavato bhāsitaṁ abhinandi.
+
+Vuṭṭhahi cāyasmā mahākassapo tamhā ābādhā.
+
+Tathāpahīno cāyasmato mahākassapassa so ābādho ahosī'ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| attamana (adj.)      | pleased; satisfied; lit. own mind [atta + mana] | 2524/dpd  | {{Attamano}} āyasmā mahākassapo bhagavato bhāsitaṁ abhinandi. |
+| vuṭṭhahi (aor. +abl) | arose (from); got up (from); recovered (from)   | 69980/dpd | {{Vuṭṭhahi}} cāyasmā mahākassapo tamhā ābādhā.                 |
+| tamhā (pron.)        | from that [ta + mhā] masc & nt abl sg of ta     | 30060/dpd | Vuṭṭhahi cāyasmā mahākassapo {{tamhā}} ābādhā.                 |
+| pahīna (pp.)         | abandoned; dispelled; pp. of pajahati           | 45133/dpd | Tathā{{pahīno}} cāyasmato mahākassapassa so ābādho ahosī'ti.   |
+
+** SN 46.15 Dutiyagilānasutta
+
+([[https://suttacentral.net/sn46.15/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.4.0.0.1.1.4.m][DPR]], [[http://localhost:4848/suttas/sn46.15/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+begin_quote
+Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+Tena kho pana samayena āyasmā mahāmoggallāno gijjhakūṭe pabbate viharati
+ābādhiko dukkhito bāḷhagilāno.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| gijjhakūṭa (m.) | Vulture's Peak [gijjha + kūṭa] | 24890/dpd | āyasmā mahāmoggallāno {{gijjhakūṭe}} pabbate viharati |
+| pabbata (m.)    | rock; mountain; hill           | 42495/dpd | āyasmā mahāmoggallāno gijjhakūṭe {{pabbate}} viharati |
+
+*Bojjhaṅga-paritta:*
+
+#+begin_quote
+Ekasmiṁ samaye nātho
+
+moggallānañ-ca kassapaṁ
+
+Gilāne dukkhite disvā
+
+bojjhaṅge satta desayi
+
+Te ca taṁ abhinanditvā
+
+rogā mucciṁsu taṅkhaṇe
+
+Etena sacca-vajjena
+
+sotthi te hotu sabbadā
+#+end_quote
+
 * 2025-01-08
 ** Declension Cases Overview
 
@@ -243,11 +466,14 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | mahanto         | \fillin{5cm}{adj. great, large}     | \fillin{3cm}{nom.}    |
 | ahosi           | \fillin{5cm}{was, became (→ hoti)}  | \fillin{3cm}{aor.}    |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
-** AN 10.81 Vāhanasutta, The lotus simile to Vāhana
+** AN 10.81 Vāhanasutta, The lotus simile to Vāhana                    :anki:
+:PROPERTIES:
+:DECK_NAME: AN 10.81 Vāhanasutta
+:END:
 
 \casesLegendHeaderBGHere
 
@@ -255,43 +481,49 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 
 #+begin_quote
 Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā tīre.
+
 Atha kho āyasmā vāhano yena bhagavā tenupasaṅkami;
+
 upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.
+
 Ekamantaṁ nisinno kho āyasmā vāhano bhagavantaṁ etadavoca:
 #+end_quote
 
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| tīra (nt.)                        | shore, riverbank                       |
-| pokkhara (nt.)                    | blue lotus flower                      |
-| yena ... ten'upasaṅkamati (idiom) | wherever ... he approaches (him/it)    |
-| abhivādeti                        | bows down (to); pays high respect (to) |
-| anta (m.)                         | end; side; extreme                     |
-| ekamantaṁ (ind.)                 | to one side; aside [ekaṁ + anta + aṁ] |
-| nisīdati                          | sits (on); sits down                   |
-| vacati                            | speaks                                 |
-| avoca (aor. of vacati)            | said (to)                              |
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| pokkhara (nt.)                    | blue lotus flower                      | 47383/dpd | Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya {{pokkharaṇiyā}} tīre. |
+| tīra (nt.)                        | shore, riverbank                       | 30918/dpd | Ekaṁ samayaṁ bhagavā campāyaṁ viharati gaggarāya pokkharaṇiyā {{tīre}}. |
+| yena ... ten'upasaṅkamati (idiom) | wherever ... he approaches (him/it)    | 31234/dpd | Atha kho āyasmā vāhano yena bhagavā {{tenupasaṅkami}}                    |
+| abhivādeti                        | bows down (to); pays high respect (to) | 8333/dpd  | upasaṅkamitvā bhagavantaṁ {{abhivādetvā}} ekamantaṁ nisīdi.             |
+| ekamantaṁ (ind.)                 | to one side; aside [ekaṁ + anta + aṁ] | 17613/dpd | upasaṅkamitvā bhagavantaṁ abhivādetvā {{ekamantaṁ}} nisīdi.             |
+| nisīdati                          | sits (on); sits down                   | 38204/dpd | upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ {{nisīdi}}.             |
+| avoca (aor.)                      | said (to); aor. of vacati              | 10795/dpd | āyasmā vāhano bhagavantaṁ etad{{avoca}}                                 |
 
 #+begin_quote
 “Katihi nu kho, bhante, dhammehi tathāgato nissaṭo visaṁyutto vippamutto
+
 vimariyādīkatena cetasā viharatī”ti?
 #+end_quote
 
 # Detached, disengaged and released from how many things does the Tathāgata
 # dwell with an unrestricted mind?
 
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| kati (interr.)        | how many?                                      |
-| nissaṭa (pp. +abl)    | escaped (from), freed (from); pp. of nissarati |
-| visaṁyutta (pp. +abl) | detached (from)                                |
-| vippamutta (pp. +abl) | released (from)                                |
-| vimariyādīkata (adj.) | unbounded [vi + mariyādā + kata]               |
-| mariyādā (f.)         | boundary, border, limit                        |
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| kati (interr.)         | how many?                                      | 19695/dpd | {{Katihi}} nu kho, bhante, dhammehi tathāgato nissaṭo                        |
+| nissaṭa (pp. +abl)     | escaped (from), freed (from); pp. of nissarati | 38271/dpd | tathāgato {{nissaṭo}} visaṁyutto vippamutto vimariyādīkatena cetasā viharati |
+| visaṁyutta (pp. +abl) | detached (from)                                | 69208/dpd | tathāgato nissaṭo {{visaṁyutto}} vippamutto vimariyādīkatena cetasā viharati |
+| vippamutta (pp. +abl)  | released (from)                                | 68475/dpd | tathāgato nissaṭo visaṁyutto {{vippamutto}} vimariyādīkatena cetasā viharati |
+| vimariyādīkata (adj.)  | unbounded [vi + mariyādā + kata]               | 68663/dpd | tathāgato nissaṭo visaṁyutto vippamutto {{vimariyādīkatena}} cetasā viharati |
+| mariyādā (f.)          | boundary, border, limit                        | 51492/dpd | tathāgato nissaṭo visaṁyutto vippamutto vi{{mariyādī}}katena cetasā viharati |
 
 #+begin_quote
 “Dasahi kho, vāhana, dhammehi tathāgato nissaṭo visaṁyutto vippamutto vimariyādīkatena
+
 cetasā viharati. Katamehi dasahi? Rūpena kho, vāhana, tathāgato nissaṭo visaṁyutto
+
 vippamutto vimariyādīkatena cetasā viharati, vedanāya ... saññāya ... saṅkhārehi ... viññāṇena
+
 ... jātiyā ... jarāya ... maraṇena ... dukkhehi ... kilesehi kho, vāhana, tathāgato nissaṭo
+
 visaṁyutto vippamutto vimariyādīkatena cetasā viharati.
 #+end_quote
 
@@ -300,18 +532,21 @@ visaṁyutto vippamutto vimariyādīkatena cetasā viharati.
 
 #+begin_quote
 Seyyathāpi, vāhana, uppalaṁ vā padumaṁ vā puṇḍarīkaṁ vā
+
 udake jātaṁ udake saṁvaḍḍhaṁ udakā paccuggamma ṭhitaṁ anupalittaṁ udakena;
+
 evamevaṁ kho, vāhana, imehi dasahi dhammehi tathāgato nissaṭo visaṁyutto
+
 vippamutto vimariyādīkatena cetasā viharatī”ti.
 #+end_quote
 
-#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo}
-| uppala, paduma, puṇḍarīka (nt.) | types of lotus                                           |
-| udaka (nt.)                     | water                                                    |
-| vaḍḍhati                        | increases (in); grows (in)                               |
-| paccuggamma (ger. +abl)         | going out (from), emerging (from); ger of paccuggacchati |
-| tiṭṭhati                        | stands                                                   |
-| anupalitta (pp. +instr)         | not smeared (by), untainted (by); [na + upalitta]                      |
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| uppala, paduma, puṇḍarīka (nt.) | types of lotus                                           | 16618/dpd | Seyyathāpi, vāhana, {{uppalaṁ}} vā padumaṁ vā puṇḍarīkaṁ vā                               |
+| udaka (nt.)                     | water                                                    | 14832/dpd | {{udake}} jātaṁ {{udake}} saṁvaḍḍhaṁ {{udakā}} paccuggamma ṭhitaṁ anupalittaṁ {{udakena}} |
+| saṁvaḍḍha (pp.)                | grown up (in); fully grown (in) [saṁ + √vaḍḍh + ta]     | 61844/dpd | udake jātaṁ udake {{saṁvaḍḍhaṁ}} udakā paccuggamma ṭhitaṁ anupalittaṁ udakena             |
+| paccuggamma (ger. +abl)         | going out (from), emerging (from); ger of paccuggacchati | 39489/dpd | udake jātaṁ udake saṁvaḍḍhaṁ udakā {{paccuggamma}} ṭhitaṁ anupalittaṁ udakena             |
+| tiṭṭhati                        | stands                                                   | 30486/dpd | udake jātaṁ udake saṁvaḍḍhaṁ udakā paccuggamma {{ṭhitaṁ}} anupalittaṁ udakena             |
+| anupalitta (pp. +instr)         | not smeared (by), untainted (by); [na + upalitta]        | 4747/dpd  | udake jātaṁ udake saṁvaḍḍhaṁ udakā paccuggamma ṭhitaṁ {{anupalittaṁ}} udakena             |
 
 ** MN 112, The bhikkhu with defilements ended
 
@@ -319,8 +554,10 @@ vippamutto vimariyādīkatena cetasā viharatī”ti.
 
 #+begin_quote
 Khīṇāsavassa, bhikkhave, bhikkhuno ... veyyākaraṇāya:
+
 "Diṭṭhe kho ahaṁ, āvuso, anupāyo anapāyo anissito appaṭibaddho vippamutto
 visaṁyutto vimariyādīkatena cetasā viharāmi."
+
 "Sute ... mute ... viññāte ..."
 #+end_quote
 
@@ -900,7 +1137,7 @@ Imassa hatthipotakassa tiṇena kucchi mahanto ahosi.
 | mahanto          | \fillin{5cm}{adj. great, large}     | \fillin{3cm}{nom.}    |
 | ahosi            | \fillin{5cm}{was, became (→ hoti)}  | \fillin{3cm}{aor.}    |
 
-#+latex: \normalArrayStrech
+#+latex: \normalArrayStretch
 
 \clearpage
 
