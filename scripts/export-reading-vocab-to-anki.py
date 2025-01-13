@@ -44,6 +44,9 @@ def export_vocab(org_path: Path):
         # DPD ID to data
         vocab: Dict[str, NoteData] = {}
 
+        anki_basic_notes = []
+        anki_cloze_notes = []
+
         for line in sec['content'].split("\n"):
             m = re.search(r"\| *([0-9]+)/dpd *\|([^\|]+)\|", line)
             if m is None:
@@ -63,9 +66,6 @@ def export_vocab(org_path: Path):
                     )
                 else:
                     raise Exception(f"Duplicate: {dpd_id}")
-
-        anki_basic_notes = []
-        anki_cloze_notes = []
 
         for d in vocab.values():
             basic_front = front_tmpl.render(
@@ -119,7 +119,7 @@ def export_vocab(org_path: Path):
         apkg_path = org_path.parent.joinpath(f"{reading_source}.apkg")
 
         anki_invoke("exportPackage", params={
-            "deck": deck_main,
+            "deck": deck_name,
             "path": os.path.abspath(str(apkg_path)),
             "includeSched": False,
         })
@@ -127,6 +127,8 @@ def export_vocab(org_path: Path):
         deck_files.append(apkg_path)
 
     zip_path = org_path.parent.joinpath("pali-readings-anki.zip")
+    if zip_path.exists():
+        zip_path.unlink()
 
     with zipfile.ZipFile(zip_path, 'w', compression=zipfile.ZIP_DEFLATED) as zip_file:
         for file in deck_files:
