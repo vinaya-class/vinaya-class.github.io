@@ -14,19 +14,19 @@ pali-lessons: export-pali-lessons pali-lessons.pdf
 
 pali-cheatsheet: export-pali-cheatsheet pali-cheatsheet.pdf
 
-pali-readings-next: export-pali-readings-next pali-readings-next.pdf
+pali-readings: export-pali-readings pali-readings.pdf
 
-pali-readings-next.apkg:
-	../../scripts/export-reading-vocab-to-anki.py ./pali-readings-next.org
+pali-readings-anki.zip:
+	../../scripts/export-reading-vocab-to-anki.py ./pali-readings.org
 
-pali-readings-next-upload: pali-readings-next pali-readings-next.apkg
-	rclone copyto pali-readings-next.pdf "gambhiro.sumedharama:/Pāli Readings/pali-readings-next.pdf" && \
-	rclone copyto pali-readings-next.apkg "gambhiro.sumedharama:/Pāli Readings/pali-readings-next.apkg"
+pali-readings-upload: pali-readings pali-readings-anki.zip
+	rclone copyto pali-readings.pdf "gambhiro.sumedharama:/Pāli Readings/pali-readings.pdf" && \
+	rclone copyto pali-readings-anki.zip "gambhiro.sumedharama:/Pāli Readings/pali-readings-anki.zip"
 
 pali-readings-with-sentence-analysis: export-pali-readings-with-sentence-analysis pali-readings-with-sentence-analysis.pdf
 
-pali-readings-next-answerkey: export-pali-readings-next
-	ANSWERKEY=TRUE make pali-readings-next-answerkey.pdf
+pali-readings-answerkey: export-pali-readings
+	ANSWERKEY=TRUE make pali-readings-answerkey.pdf
 
 pali-readings-with-sentence-analysis-answerkey: export-pali-readings-with-sentence-analysis
 	ANSWERKEY=TRUE make pali-readings-with-sentence-analysis-answerkey.pdf
@@ -61,8 +61,8 @@ export-vocabulary-sentences:
 export-pali-cheatsheet:
 	emacs --batch -L -l 'pali-cheatsheet.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 
-export-pali-readings-next:
-	emacs --batch -L -l 'pali-readings-next.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
+export-pali-readings:
+	emacs --batch -L -l 'pali-readings.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'
 
 export-pali-readings-with-sentence-analysis:
 	emacs --batch -L -l 'pali-readings-with-sentence-analysis.org' -l 'export-init.el' --eval '(progn (org-latex-export-to-latex))'

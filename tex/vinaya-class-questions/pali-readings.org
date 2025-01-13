@@ -345,7 +345,7 @@ Tathāpahīno cāyasmato mahākassapassa so ābādho ahosī'ti.
 | tamhā (pron.)        | from that [ta + mhā] masc & nt abl sg of ta     | 30060/dpd | Vuṭṭhahi cāyasmā mahākassapo {{tamhā}} ābādhā.                 |
 | pahīna (pp.)         | abandoned; dispelled; pp. of pajahati           | 45133/dpd | Tathā{{pahīno}} cāyasmato mahākassapassa so ābādho ahosī'ti.   |
 
-** SN 46.15 Dutiyagilānasutta
+** SN 46.15 Dutiyagilānasutta                                          :anki:
 
 ([[https://suttacentral.net/sn46.15/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.4.0.0.1.1.4.m][DPR]], [[http://localhost:4848/suttas/sn46.15/pli/ms?window_type=Sutta+Study][SSP]])
 

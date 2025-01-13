@@ -14,26 +14,26 @@ Whiteboard: [Pāli Readings (tldraw.com)][tldraw-readings]
 
 The PDF is updated the day before the meeting to allow printing.
 
-<div style="display: flex; gap: 0.5em;">
+<div style="display: flex; gap: 0.5em; text-align: center;">
 <div style="width: 50%;">
 
-[pali-readings-next.pdf][next-pdf]
+[pali-readings.pdf][readings-pdf]
 
-[![Readings PDF Download](./includes/docs/pdf-example.png)][next-pdf]
+[![Readings PDF Download](./includes/docs/pdf-example.png)][readings-pdf]
 
 </div>
 <div style="width: 50%;">
 
-[pali-readings-next.apkg][next-anki]
+[pali-readings-anki.zip][readings-anki]
 
-[![Anki Deck Download](./includes/docs/anki-example.png)][next-anki]
+[![Anki Decks Download](./includes/docs/anki-example.png)][readings-anki]
 
 </div>
 </div>
 
-[next-pdf]: https://drive.google.com/file/d/13PMtUN7PHcLJy1lMJY4_d3O-EgbuZbX_/view?usp=sharing
+[readings-pdf]: https://drive.google.com/file/d/13PMtUN7PHcLJy1lMJY4_d3O-EgbuZbX_/view?usp=sharing
 
-[next-anki]: https://drive.google.com/file/d/1hpKQ3rrDMi7ErH22kUUlvDKATZZ7yTO5/view?usp=sharing
+[readings-anki]: https://drive.google.com/file/d/1DiJO_TzYCjLzK13E5JKSoOCMVMwcdz-K/view?usp=sharing
 
 The [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf) may also be useful.
 

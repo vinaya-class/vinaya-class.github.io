@@ -1,10 +1,11 @@
 #!/usr/bin/env python3
 
 import os
+import zipfile
 import sys
 import re
 from pathlib import Path
-from typing import TypedDict, Dict
+from typing import TypedDict, Dict, List
 from mako.template import Template
 
 from helpers import anki_invoke, get_word_by_dpd_id, get_org_vocab_sections, normalize_sutta_ref
@@ -15,7 +16,7 @@ class NoteData(TypedDict):
     reading_example: str
     reading_source: str
 
-def export_vocab(org_path: Path, apkg_path: Path):
+def export_vocab(org_path: Path):
     with open(org_path, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -27,6 +28,7 @@ def export_vocab(org_path: Path, apkg_path: Path):
         html_content = f.read()
 
     front_tmpl = Template(html_content)
+    deck_files: List[Path] = []
 
     for sec in sections:
         if sec["deck_name"]:
@@ -89,19 +91,23 @@ def export_vocab(org_path: Path, apkg_path: Path):
                     .replace("<b>", "<b>{{c1::") \
                     .replace("</b>", "}}</b>")
 
+                cloze_card = f""" <div style="line-height: 1.6; text-align: left; max-width: 52ex; padding: 1em; margin: 0 auto;">{cloze_text}</div> """
+
                 anki_cloze_notes.append({
                     "deckName": deck_name,
                     "modelName": "Cloze",
-                    "fields": {"Text": cloze_text},
+                    "fields": {"Text": cloze_card},
                 })
 
         # If the deck exists, delete it. Ask the user for confirmation.
 
         if deck_name in anki_invoke('deckNames'):
-            answer = input("The Anki deck exists. Delete it? [y/n] ")
+            answer = input(f"The Anki deck already exists: {deck_name}\nDelete it? [y/n]")
             if answer.lower() not in ["y", "yes"]:
                 print("OK, not deleting the deck. Exiting.")
                 sys.exit(2)
+            else:
+                print("Deleting deck.")
 
             anki_invoke("deleteDecks", params={"decks": [deck_name], "cardsToo": True})
 
@@ -110,27 +116,37 @@ def export_vocab(org_path: Path, apkg_path: Path):
         anki_invoke("addNotes", params={"notes": anki_basic_notes})
         anki_invoke("addNotes", params={"notes": anki_cloze_notes})
 
-    anki_invoke("exportPackage", params={
-        "deck": deck_main,
-        "path": os.path.abspath(str(apkg_path)),
-        "includeSched": False,
-    })
+        apkg_path = org_path.parent.joinpath(f"{reading_source}.apkg")
+
+        anki_invoke("exportPackage", params={
+            "deck": deck_main,
+            "path": os.path.abspath(str(apkg_path)),
+            "includeSched": False,
+        })
+
+        deck_files.append(apkg_path)
+
+    zip_path = org_path.parent.joinpath("pali-readings-anki.zip")
+
+    with zipfile.ZipFile(zip_path, 'w', compression=zipfile.ZIP_DEFLATED) as zip_file:
+        for file in deck_files:
+            file_path = os.path.abspath(file)
+            zip_file.write(file_path, arcname=os.path.basename(file))
+
+    for i in deck_files:
+        i.unlink()
 
 if __name__ == "__main__":
-    usage = f"""Usage:\n{Path(__file__).name} <pali-readings-next.org> [pali-readings-next.apkg]"""
+    usage = f"""Usage:\n{Path(__file__).name} <pali-readings-next.org>"""
 
     if len(sys.argv) < 2:
         print(usage)
         sys.exit(2)
 
     org_path = Path(sys.argv[1])
-    if len(sys.argv) > 2:
-        apkg_path = Path(sys.argv[2])
-    else:
-        apkg_path = org_path.with_suffix(".apkg")
 
     if org_path.exists():
-        export_vocab(org_path, apkg_path)
+        export_vocab(org_path)
 
     else:
         print(f"File doesn't exist: {org_path}")
