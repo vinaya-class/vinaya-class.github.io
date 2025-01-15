@@ -8,7 +8,7 @@ Zoom Meeting: [Invite Link][zoom-link], Meeting ID: `871 8546 9048`, Passcode: `
 
 Whiteboard: [Pāli Readings (tldraw.com)][tldraw-readings]
 
-[tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL?d=v0.0.1879.981.uD8B2rmiVHR_6viSS8AOn
+[tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
 
 [zoom-link]: https://us02web.zoom.us/j/87185469048?pwd=b9RVHZm6Tfrm1AIMIQ5st657X8twdq.1
 
