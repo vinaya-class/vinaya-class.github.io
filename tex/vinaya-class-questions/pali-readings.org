@@ -58,123 +58,36 @@
 
 [[https://www.tldraw.com/ro/PhYEAoE4a35dCVhtF-hEB?d=v-205.-141.1879.1015.page][tldraw 2024 (class) view]]
 
-[[https://www.tldraw.com/r/NBh0Ae8CWE1As8DiFaGI9?d=v-190.-177.1879.981.page][tldraw 2024 (solved)]]
+[[https://www.tldraw.com/r/NBh0Ae8CWE1As8DiFaGI9][tldraw 2024 (solved)]]
 
 * Notes                                                            :noexport:
-
-pali execrise: sentences from satipatthana? dasadhamma? anumodana?
-
-"Jetavane hatthinī soṇḍāya vā dīghahatthena vā attano hatthipotakassa tiṇaṁ datvā,
-tato vīriyārambhāya soṇḍato mahāsaddaṁ pahiṇi."
-
-Continue the above Pali sentence with another sentence like "Imassa hatthipotakassa ... hoti."
-
------
-
-Translate: The belly of this baby elephant grew large with grass.
-
-"Imassa hatthipotakassa tiṇena kucchi mahanto ahosi."
-
-In this Pali sentence:
-
-- "Imassa" means "of this"
-- "Hatthipotakassa" means "of the baby elephant"
-- "Tiṇena" means "with grass" (tiṇa means "grass", and -ena is the instrumental case ending)
-- "Kucchi" means "belly" or "stomach"
-- "Mahanto" means "large" or "big"
-- "Ahosi" is the past tense of "hoti" meaning "became" or "grew"
-
-1. Imassa:
-- Genitive singular form of "ayaṁ" (this)
-- Means "of this"
-
-2. Hatthipotakassa:
-- Genitive singular form of "hatthipotaka" (baby elephant)
-- "Hatthi" means elephant, "potaka" means young animal or baby
-- Means "of the baby elephant"
-
-3. Tiṇena:
-- Instrumental singular form of "tiṇa" (grass)
-- Means "with grass" or "by means of grass"
-
-4. Kucchi:
-- Nominative singular form
-- Means "belly" or "stomach"
-
-5. Mahanto:
-- Nominative singular masculine form of "mahant" (great, large)
-- Means "large" or "big"
-
-6. Ahosi:
-- Third person singular past tense of the verb "hoti" (to be, to become)
-- Means "became" or "was"
-
------
-
-Panassa hatthipotakassa domanassaṁ uppajjati, so kadaliphalaṁ khādituṁ icchati" translates to:
-
-"This baby elephant became unhappy, he wants to eat banana."
-
-In this Pali translation:
-- "Panassa" means "for this"
-- "Hatthipotakassa" means "for the baby elephant"
-- "Domanassaṁ" means "unhappiness" or "displeasure"
-- "Uppajjati" means "arises" or "is born" (which we can interpret as "became" in this context)
-- "So" means "he"
-- "Kadaliphalaṁ" means "banana" (literally "fruit of the plantain")
-- "Khādituṁ" means "to eat"
-- "Icchati" means "wants" or "desires"
-
------
-
-The added part "Panassa hatthipotakassa tiṇaṁ khādituṁ na ruccati" can be translated as:
-
-"However, the baby elephant does not like to eat grass."
-
-In this continuation:
-- "Pana" means "however" or "but"
-- "Assa" is a genitive pronoun meaning "his" or "its"
-- "Hatthipotakassa" is "of the baby elephant" (genitive)
-- "Tiṇaṁ khādituṁ" means "to eat grass"
-- "Na ruccati" means "does not like" or "is not pleased"
-
------
-
-"Imassa hatthipotakassa sikkhāpanatthāya mātā punappunaṁ tiṇaṁ adāsi."
-
-The added part translates to:
-
-"For the purpose of training this baby elephant, the mother repeatedly gave grass."
-
-------
-
-"Imassa hatthipotakassa bhojanaṁ datvā, mātā taṁ uyyojesi, 'Idāni tvaṁ sayameva
-tiṇaṁ khādituṁ sikkhāhī'ti."
-
-Which translates to:
-
-"Having given food to this baby elephant, the mother encouraged it, saying, 'Now
-you must learn to eat grass by yourself.'"
-
 * 2025-01-29                                                       :noexport:
 ** AN 5.37 Bhojanasutta
 
 (SC, DPR, [[http://localhost:4848/suttas/an5.37/pli/ms?window_type=Sutta+Study][SSP]])
 
-* 2025-01-22                                                       :noexport:
-** SN 46.16 Tatiyagilānasutta
+* 2025-01-22
+** SN 46.16 Tatiyagilānasutta                                          :anki:
 
 ([[https://suttacentral.net/sn46.16/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.4.0.0.1.1.5.m][DPR]], [[http://localhost:4848/suttas/sn46.16/pli/ms?window_type=Sutta+Study][SSP]])
 
 #+begin_quote
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
+
 Tena kho pana samayena bhagavā ābādhiko hoti dukkhito bāḷhagilāno.
-Atha kho āyasmā mahācundo yena bhagavā tenupasaṅkami; upasaṅkamitvā bhagavantaṁ
-abhivādetvā ekamantaṁ nisīdi. Ekamantaṁ nisinnaṁ kho āyasmantaṁ mahācundaṁ
-bhagavā etadavoca:
+
+Atha kho āyasmā mahācundo yena bhagavā tenupasaṅkami;
+
+upasaṅkamitvā bhagavantaṁ abhivādetvā ekamantaṁ nisīdi.
+
+Ekamantaṁ nisinnaṁ kho āyasmantaṁ mahācundaṁ bhagavā etadavoca:
 
 “paṭibhantu taṁ, cunda, bojjhaṅgā”ti.
 #+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| paṭibhāti | comes to mind; occurs (to); lit. speaks back | 40689/dpd | {{paṭibhantu}} taṁ, cunda, bojjhaṅgā. |
+| √bhā      | shine, speak                                 |           |                                       |
 
 #+begin_quote
 “Sattime, bhante, bojjhaṅgā ...
@@ -186,50 +99,330 @@ Idamavocāyasmā cundo. Samanuñño satthā ahosi. Vuṭṭhahi ca bhagavā tamh
 Tathāpahīno ca bhagavato so ābādho ahosī'ti.
 #+end_quote
 
-** Bojjhaṅga-paritta
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| samanuñña (adj.) | approving (of); consenting (to) | 59342/dpd | {{Samanuñño}} satthā ahosi. |
+| satthā (m.)      | teacher; master; the Buddha     | 57894/dpd | Samanuñño {{satthā}} ahosi. |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+** Bojjhaṅga-paritta                                                   :anki:
 
 #+begin_quote
-Bojjhaṅgo sati-saṅkhāto \
-dhammānaṁ vicayo tathā \
-Viriyam-pīti-passaddhi \
-bojjhaṅgā ca tathā’pare \
-Samādh’upekkha-bojjhaṅgā \
-satt’ete sabba-dassinā \
-Muninā sammad-akkhātā \
-bhāvitā bahulīkatā \
-Saṁvattanti abhiññāya \
-nibbānāya ca bodhiyā \
-Etena sacca-vajjena \
-sotthi te hotu sabbadā
+Bojjhaṅgo sati-saṅkhāto / dhammānaṁ vicayo tathā
+
+Viriyam-pīti-passaddhi / bojjhaṅgā ca tathā'pare
+
+Samādh'upekkha-bojjhaṅgā / satt'ete sabba-dassinā
+
+Muninā sammad-akkhātā / bhāvitā bahulīkatā
+
+Saṁvattanti abhiññāya / nibbānāya ca bodhiyā
+
+Etena sacca-vajjena / sotthi te hotu sabbadā
 #+end_quote
 
-#+begin_quote
-Ekasmiṁ samaye nātho \
-moggallānañ-ca kassapaṁ \
-Gilāne dukkhite disvā \
-bojjhaṅge satta desayi \
-Te ca taṁ abhinanditvā \
-rogā mucciṁsu taṅ-khaṇe \
-Etena sacca-vajjena \
-sotthi te hotu sabbadā \
-Ekadā dhamma-rājā pi \
-gelaññenābhipīḷito \
-Cundattherena tañ-ñeva \
-bhaṇāpetvāna sādaraṁ \
-Sammoditvā ca ābādhā \
-tamhā vuṭṭhāsi ṭhānaso \
-Etena sacca-vajjena \
-sotthi te hotu sabbadā
-#+end_quote
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| saṅkhāta (pp.) | reckoned; so called; pp of saṅkhāyati | 56755/dpd | bojjhaṅgo sati-{{saṅkhāto}}                    |
+| vicaya (m.)    | investigation; examination            | 67414/dpd | dhammānaṁ {{vicayo}} tathā                    |
+| para (pron.)   | other; another                        | 42854/dpd | bojjhaṅgā ca tathā'{{pare}}                    |
+| dassī (adj.)   | seeing; perceiving; knowing           | 32148/dpd | sabba-{{dassinā}}                              |
+| muni (m.)      | monk; sage; seer                      | 53022/dpd | {{muninā}} sammad-akkhātā                      |
+| vajja (ptp.)   | speaking; saying; ptp of vadati       | 65708/dpd | Etena sacca-{{vajjena}} sotthi te hotu sabbadā |
 
 #+begin_quote
-Pahīnā te ca ābādhā \
-tiṇṇannam-pi mahesinaṁ \
-Magg’āhata-kilesā va \
-pattānuppatti-dhammataṁ \
-Etena sacca-vajjena \
-sotthi te hotu sabbadā
+Ekasmiṁ samaye nātho / moggallānañ-ca kassapaṁ
+
+Gilāne dukkhite disvā / bojjhaṅge satta desayi
+
+Te ca taṁ abhinanditvā / rogā mucciṁsu taṅ-khaṇe
+
+Etena sacca-vajjena / sotthi te hotu sabbadā
 #+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| nātha (m.)                | protector; lord; (The Buddha)                | 36192/dpd | Ekasmiṁ samaye {{nātho}}   |
+| desayi (aor. +acc & +dat) | taught (to); explained (to); aor of desayati | 33981/dpd | bojjhaṅge satta {{desayi}}  |
+| mucciṁsu (aor.3rd. +abl) | was released (from); aor of muccati          | 52830/dpd | rogā {{mucciṁsu}} taṅ-khaṇe |
+| khaṇa (m.)                | moment; instant                              | 23317/dpd | rogā mucciṁsu taṅ-{{khaṇe}} |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+Ekadā dhamma-rājā pi / gelaññenābhipīḷito
+
+Cundattherena tañ-ñeva / bhaṇāpetvāna sādaraṁ
+
+Sammoditvā ca ābādhā / tamhā vuṭṭhāsi ṭhānaso
+
+Etena sacca-vajjena / sotthi te hotu sabbadā
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| divasa (m./nt.)       | day; from diva; √div (shine)                                    | 32680/dpd |                                                |
+| gelañña (nt.)         | sickness; ill health; [√gilā + na + *ya]                        | 25212/dpd | {{gelaññenā}}bhipīḷito                         |
+| abhipīḷita (pp.)      | affected; oppressed                                             | 7965/dpd  | gelaññen{{ābhipīḷito}}                         |
+| taññeva (sandhi)      | that very; the self same [taṁ + eva]                           | 29303/dpd | Cundattherena {{taññeva}}                      |
+| bhaṇāpeti (pr. caus.) | causes to speak; makes say; caus of bhaṇati                     | 49233/dpd | Cundattherena taññeva {{bhaṇāpetvāna}} sādaraṁ |
+| sādaraṁ (ind.)       | with consideration; respectfully                                | 62172/dpd | bhaṇāpetvāna {{sādaraṁ}}                       |
+| sammoditvā (abs.)     | having delighted together (with) [saṁ + √mud + *a + itvā]      | 60932/dpd | {{sammoditvā}} ca ābādhā                       |
+| ṭhānaso (ind.)        | on the spot; right there; lit. from the place [√ṭhā + ana + so] | 29059/dpd | tamhā vuṭṭhāsi {{ṭhānaso}}                     |
+
+#+begin_quote
+Pahīnā te ca ābādhā / tiṇṇannam-pi mahesinaṁ
+
+Magg'āhata-kilesā va / pattānuppatti-dhammataṁ
+
+Etena sacca-vajjena / sotthi te hotu sabbadā
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| tiṇṇaṁ / tiṇṇannaṁ (card.) | dat. or gen. of /ti/                                       | 30430/dpd | {{tiṇṇannam}}-pi mahesinaṁ  |
+| mahesi (m.)                 | great sage; mighty seer; [mahā + isi]                      | 52091/dpd | tiṇṇannam-pi {{mahesinaṁ}}  |
+| āhata (pp.)                 | struck; beaten; destroyed; [ā + √han + ta]                 | 13179/dpd | Magg'{{āhata}}-kilesā va     |
+| patta (pp.)                 | reached; attained; accomplished; pp of pāpuṇāti            | 41851/dpd | {{pattā}}nuppatti-dhammataṁ |
+| anuppatti (f.)              | non-arising; non-appearance; lit. not going up [ud + √pad] | 4906/dpd  | patt{{ānuppatti}}-dhammataṁ |
+| dhammatā (f.)               | nature; characteristic; attribute                          | 34714/dpd | pattānuppatti-{{dhammataṁ}} |
+
+*** Analysis                                                       :noexport:
+**** Meter
+
+Siloka (Śloka) meter
+
+Boj/jhaṅ/go/ sa/ti/-saṅ/khā/to (8 syllables)
+dham/mā/naṁ/ vi/ca/yo/ ta/thā (8 syllables)
+
+**** Bojjhaṅgo sati-saṅkhāto
+
+Line 1:
+- Bojjhaṅgo: (nom. sing.) factor of enlightenment (bojjha + aṅga)
+- sati-saṅkhāto: (nom. sing.) known as mindfulness (sati + saṅkhāta)
+- dhammānaṁ: (gen. plural) of phenomena/states
+- vicayo: (nom. sing.) investigation
+- tathā: (adv.) likewise, thus
+
+Line 2:
+- viriyam: (nom. sing.) energy
+- pīti: (nom. sing.) joy/rapture
+- passaddhi: (nom. sing.) tranquility
+- bojjhaṅgā: (nom. plural) factors of enlightenment
+- ca: (conj.) and
+- tathā: (adv.) likewise
+- pare: (nom. plural) others
+
+Line 3:
+- samādhi: (nom. sing.) concentration
+- upekkhā: (nom. sing.) equanimity
+- bojjhaṅgā: (nom. plural) factors of enlightenment
+- satta: (num.) seven
+- ete: (dem. pron.) these
+- sabba-dassinā: (inst. sing.) by the All-Seeing One
+
+Line 4:
+- muninā: (inst. sing.) by the sage
+- sammad-akkhātā: (nom. plural) properly declared
+- bhāvitā: (nom. plural) developed
+- bahulīkatā: (nom. plural) practiced frequently
+
+Line 5:
+- saṁvattanti: (pres. 3rd plural) lead to
+- abhiññāya: (dat. sing.) for direct knowledge
+- nibbānāya: (dat. sing.) for Nibbāna
+- ca: (conj.) and
+- bodhiyā: (dat. sing.) for enlightenment
+
+Line 6:
+- etena: (inst. sing.) by this
+- sacca-vajjena: (inst. sing.) truth utterance
+- sotthi: (nom. sing.) well-being
+- te: (dat. sing.) to you
+- hotu: (imp. 3rd sing.) may there be
+- sabbadā: (adv.) always
+
+------
+
+Ekasmiṁ samaye nātho
+moggallānañ-ca kassapaṁ
+Gilāne dukkhite disvā
+bojjhaṅge satta desayi
+
+1. Ekasmiṁ
+- eka: "one" (numeral)
+- smiṁ: locative case singular suffix
+- Combined meaning: "at one, in one"
+
+2. samaye
+- samaya: "time, occasion"
+- e: locative case singular suffix
+- Meaning: "at time, on occasion"
+
+3. nātho
+- nātha: "protector, lord, refuge" (epithet of the Buddha)
+- o: nominative case singular suffix
+- Meaning: "the Lord"
+
+4. moggallānañ-ca
+- moggallāna: proper name (Moggallāna)
+- ñ: accusative case marker
+- ca: "and" (conjunction)
+- Meaning: "Moggallāna and"
+
+5. kassapaṁ
+- kassapa: proper name (Kassapa)
+- ṁ: accusative case singular suffix
+- Meaning: "Kassapa" (as object)
+
+6. Gilāne
+- gilāna: "sick, ill"
+- e: accusative case plural suffix
+- Meaning: "the sick ones"
+
+7. dukkhite
+- dukkhita: "suffering, afflicted"
+- e: accusative case plural suffix
+- Meaning: "the afflicted ones"
+
+8. disvā
+- √dis: "to see"
+- tvā: absolutive suffix
+- Meaning: "having seen"
+
+9. bojjhaṅge
+- bojjhaṅga: "factor of enlightenment"
+- e: accusative case plural suffix
+- Meaning: "the factors of enlightenment"
+
+10. satta
+- "seven" (numeral)
+- Meaning: "seven"
+
+11. desayi
+- √dis: "to teach, to preach"
+- ayi: third person singular past tense suffix
+- Meaning: "taught, preached"
+
+Te ca taṁ abhinanditvā
+rogā mucciṁsu taṅ-khaṇe
+
+1. Te
+- ta: demonstrative pronoun "they, those"
+- e: nominative case plural suffix
+- Meaning: "they"
+
+2. ca
+- conjunction "and"
+- Meaning: "and"
+
+3. taṁ
+- ta: demonstrative pronoun "that"
+- ṁ: accusative case singular suffix
+- Meaning: "that" (referring to the teaching)
+
+4. abhinanditvā
+- abhi: prefix meaning "towards, thoroughly"
+- √nand: "to rejoice, delight in"
+- itvā: absolutive suffix
+- Meaning: "having rejoiced in, having delighted in"
+
+5. rogā
+- roga: "disease, illness"
+- ā: ablative case singular suffix
+- Meaning: "from illness"
+
+6. mucciṁsu
+- √muc: "to release, to free"
+- iṁsu: third person plural aorist suffix
+- Meaning: "were freed, were released"
+
+7. taṅ-khaṇe
+- taṁ: "that"
+- khaṇa: "moment, instant"
+- e: locative case singular suffix
+- Combined as compound: "at that moment"
+
+**** Ekasmiṁ samaye nātho
+
+Ekasmiṁ = in one (locative singular of eka)
+samaye = time, occasion (locative singular)
+nātho = protector, lord (nominative singular, referring to the Buddha)
+
+moggallānañ-ca = and Moggallāna (accusative singular with conjunction -ca)
+kassapaṁ = Kassapa (accusative singular)
+
+gilāne = sick, ill (accusative plural)
+dukkhite = suffering (accusative plural)
+disvā = having seen (absolutive/gerund of √dis)
+bojjhaṅge = factors of enlightenment (accusative plural)
+satta = seven (numeral)
+desayi = taught (aorist, 3rd person singular of √dis)
+
+te = they (nominative plural)
+ca = and
+taṁ = that (accusative singular)
+abhinanditvā = having rejoiced in (absolutive/gerund of abhi + √nand)
+rogā = from disease (ablative singular)
+mucciṁsu = were freed (aorist, 3rd person plural of √muc)
+taṅ-khaṇe = at that moment (locative singular)
+
+**** Ekadā dhamma-rājā pi
+
+Ekadā = once, at one time (indeclinable)
+dhamma-rājā = king of Dhamma (nominative singular compound)
+pi = also, even (indeclinable particle)
+
+gelaññena = by illness (instrumental singular)
+abhipīḷito = oppressed, afflicted (past participle, nominative singular)
+
+Cundattherena = by Elder Cunda (instrumental singular)
+tañ-ñeva = that very same (accusative singular + emphatic particle eva)
+bhaṇāpetvāna = having caused to recite (causative absolutive/gerund of √bhaṇ)
+sādaraṁ = respectfully (adverb)
+
+sammoditvā = having rejoiced (absolutive/gerund of sam + √mud)
+ca = and
+ābādhā = from illness (ablative singular)
+tamhā = from that (ablative singular)
+vuṭṭhāsi = arose, recovered (aorist, 3rd person singular of vuṭṭhāti)
+ṭhānaso = immediately (indeclinable)
+
+**** Pahīnā te ca ābādhā
+
+Pahīnā = abandoned, eliminated (past participle, nominative plural)
+te = those (nominative plural)
+ca = and
+ābādhā = illnesses (nominative plural)
+tiṇṇannam-pi = of the three (genitive plural + emphatic particle pi)
+mahesinaṁ = of the great sages (genitive plural)
+
+magga = path (compound element)
+āhata = struck, destroyed (past participle in compound)
+kilesā = defilements (nominative plural)
+va = like, just as, from iva (indeclinable particle)
+pattā = attained (past participle, nominative plural)
+anuppatti = non-arising (in compound)
+dhammataṁ = state, nature (accusative singular)
+
+**** Magg'āhata-kilesā va
+
+The compound magg'āhata (where apostrophe indicates elision) means "struck/destroyed by the Path"
+
+So the full phrase "Magg'āhata-kilesā va" means "like the defilements destroyed by the Path"
+
+This is a powerful metaphorical comparison in the Bojjhanga Paritta. The line draws a parallel between:
+- The way physical illnesses (ābādhā) were eliminated in the case of the three great sages
+- How the Noble Path destroys mental defilements (kilesā)
+
+**** pattānuppatti-dhammataṁ
+
+1. patta = attained, reached (past participle of pāpuṇāti)
+2. anuppatti = non-arising, non-occurrence (negative compound: an + uppatti)
+- an = negative prefix
+- uppatti = arising, rebirth, occurrence
+3. dhammataṁ = state, nature, condition (accusative singular)
+
+When combined, "pattānuppatti-dhammataṁ" means "reached/attained the state of
+non-arising" or "attained the condition of non-recurrence."
 
 * 2025-01-15
 ** Exercise
@@ -344,6 +537,24 @@ Tathāpahīno cāyasmato mahākassapassa so ābādho ahosī'ti.
 | vuṭṭhahi (aor. +abl) | arose (from); got up (from); recovered (from)   | 69980/dpd | {{Vuṭṭhahi}} cāyasmā mahākassapo tamhā ābādhā.                 |
 | tamhā (pron.)        | from that [ta + mhā] masc & nt abl sg of ta     | 30060/dpd | Vuṭṭhahi cāyasmā mahākassapo {{tamhā}} ābādhā.                 |
 | pahīna (pp.)         | abandoned; dispelled; pp. of pajahati           | 45133/dpd | Tathā{{pahīno}} cāyasmato mahākassapassa so ābādho ahosī'ti.   |
+
+*** Related                                                        :noexport:
+
+mahā-kassapa-thera/dppn
+
+One of the Buddha's most eminent disciples, chief among those who upheld minute
+observances of form (dhutavādānam) (A.i.23). He was born in the brahmin village
+of Mahātittha in Magadha, and was the son of the brahmin Kapila, his mother
+being Sumanādevī; he himself was called Pippali. At Ap.ii.583, vs. 56; but there
+his father is called Kosiyagotta.
+
+pippaliguhāya-1/comm
+
+: pippaliguhāyanti tassā kira guhāya dvārasamīpe eko pippalirukkho ahosi,
+: tena sā pippaliguhā'ti paññāyittha.
+
+'Pipphali Cave' - near the entrance of that cave there was, they say, a long
+pepper (pippali) tree. Because of that, it was known as 'Pipphali Cave'.
 
 ** SN 46.15 Dutiyagilānasutta                                          :anki:
 

@@ -38,9 +38,11 @@ def get_org_vocab_sections(content: str, keep_only_tag: Optional[str] = None) ->
     content = re.sub(r"^.*?(?=\n\*\* \w)", "\1", content, flags=re.DOTALL)
 
     def keep_section(s: str) -> bool:
-        if ":noexport:" in s:
+        lines = s.split("\n")
+        title = lines[0].strip()
+        if ":noexport:" in title:
             return False
-        if keep_only_tag and keep_only_tag in s:
+        if keep_only_tag and keep_only_tag in title:
             return True
         return False
 
