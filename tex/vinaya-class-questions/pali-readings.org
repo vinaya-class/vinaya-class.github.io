@@ -67,9 +67,26 @@
 (SC, DPR, [[http://localhost:4848/suttas/an5.37/pli/ms?window_type=Sutta+Study][SSP]])
 
 * 2025-01-22
+** Exercise
+
+#+latex: \renewcommand{\arraystretch}{1.6}
+
+| of the phenomenas (gen.pl. of dhamma)        | \fillin{5cm}{dhammānaṁ}   |
+| by the sage (instr.sg. of muni)              | \fillin{5cm}{muninā}       |
+| having seen (abs of √dis)                    | \fillin{5cm}{disvā}        |
+| he taught (aor.sg. of desayati)              | \fillin{5cm}{desayi}       |
+| having been delighted (by)                   | \fillin{5cm}{abhinanditvā} |
+| he was released from (aor.sg. of muccati)    | \fillin{5cm}{mucci}        |
+| they were released from (aor.pl. of muccati) | \fillin{5cm}{mucciṁsu}    |
+| by the sickness (instr. of gelañña)          | \fillin{5cm}{gelaññena}    |
+
+#+latex: \normalArrayStretch
+
 ** SN 46.16 Tatiyagilānasutta                                          :anki:
 
 ([[https://suttacentral.net/sn46.16/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.4.0.0.1.1.5.m][DPR]], [[http://localhost:4848/suttas/sn46.16/pli/ms?window_type=Sutta+Study][SSP]])
+
+#+latex: \vspace*{-\baselineskip}
 
 #+begin_quote
 Ekaṁ samayaṁ bhagavā rājagahe viharati veḷuvane kalandakanivāpe.
@@ -88,6 +105,9 @@ Ekamantaṁ nisinnaṁ kho āyasmantaṁ mahācundaṁ bhagavā etadavoca:
 #+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
 | paṭibhāti | comes to mind; occurs (to); lit. speaks back | 40689/dpd | {{paṭibhantu}} taṁ, cunda, bojjhaṅgā. |
 | √bhā      | shine, speak                                 |           |                                       |
+
+#+latex: \vspace*{-\baselineskip}
+#+latex: \enlargethispage{\baselineskip}
 
 #+begin_quote
 “Sattime, bhante, bojjhaṅgā ...
