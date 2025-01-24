@@ -8,9 +8,13 @@ Zoom Meeting: [Invite Link][zoom-link], Meeting ID: `871 8546 9048`, Passcode: `
 
 Whiteboard: [Pāli Readings (tldraw.com)][tldraw-readings]
 
-[tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
+Video recordings (unlisted playlist): [Pāli Readings (youtube.com)][youtube-readings]
 
 [zoom-link]: https://us02web.zoom.us/j/87185469048?pwd=b9RVHZm6Tfrm1AIMIQ5st657X8twdq.1
+
+[tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
+
+[youtube-readings]: https://www.youtube.com/playlist?list=PLxSN2DAE3W85GMLVm8uFV4c9U50q025tx
 
 The PDF is updated the day before the meeting to allow printing.
 
