@@ -8,11 +8,13 @@ Zoom Meeting: [Invite Link][zoom-link], Meeting ID: `871 8546 9048`, Passcode: `
 
 Whiteboard: [Pāli Readings (tldraw.com)][tldraw-readings]
 
-Video recordings (unlisted playlist): [Pāli Readings (youtube.com)][youtube-readings]
+Video recordings: [Pāli Readings (Google Drive)][gdrive-readings], [Pāli Readings (youtube.com)][youtube-readings]
 
 [zoom-link]: https://us02web.zoom.us/j/87185469048?pwd=b9RVHZm6Tfrm1AIMIQ5st657X8twdq.1
 
 [tldraw-readings]: https://www.tldraw.com/ro/aSW2KQXda1AqygF8EOaGL
+
+[gdrive-readings]: https://drive.google.com/drive/folders/1_nhb4gwvgzuWAegSboS4zI3MJY8OLnt8?usp=sharing
 
 [youtube-readings]: https://www.youtube.com/playlist?list=PLxSN2DAE3W85GMLVm8uFV4c9U50q025tx
 
@@ -35,9 +37,9 @@ The PDF is updated the day before the meeting to allow printing.
 </div>
 </div>
 
-[readings-pdf]: https://drive.google.com/file/d/13PMtUN7PHcLJy1lMJY4_d3O-EgbuZbX_/view?usp=sharing
+[readings-pdf]: https://drive.google.com/file/d/1oxgcw1j_hSYYvOCj2TNNwrYMhupj3ulP/view?usp=sharing
 
-[readings-anki]: https://drive.google.com/file/d/1DiJO_TzYCjLzK13E5JKSoOCMVMwcdz-K/view?usp=sharing
+[readings-anki]: https://drive.google.com/file/d/1jvZ6s2zsnGZJHLNWSz8cPhvE44wGXDId/view?usp=sharing
 
 The [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf) may also be useful.
 
