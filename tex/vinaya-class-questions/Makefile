@@ -20,8 +20,8 @@ pali-readings-anki.zip:
 	../../scripts/export-reading-vocab-to-anki.py ./pali-readings.org
 
 pali-readings-upload: pali-readings pali-readings-anki.zip
-	rclone copyto pali-readings.pdf "gambhiro.sumedharama:/Pāli Readings/pali-readings.pdf" && \
-	rclone copyto pali-readings-anki.zip "gambhiro.sumedharama:/Pāli Readings/pali-readings-anki.zip"
+	rclone copyto pali-readings.pdf "gambhiro.sumedharama:/Pāli Readings/pali-readings.pdf" --drive-shared-with-me && \
+	rclone copyto pali-readings-anki.zip "gambhiro.sumedharama:/Pāli Readings/pali-readings-anki.zip" --drive-shared-with-me
 
 pali-readings-with-sentence-analysis: export-pali-readings-with-sentence-analysis pali-readings-with-sentence-analysis.pdf
 

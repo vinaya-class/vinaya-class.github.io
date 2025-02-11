@@ -64,25 +64,46 @@ Slides for the reading? with refs and links
 anki words: collect to sutta decks
 Anki check dupl, single apkg
 
-email MhB after
+Johansson book quotes
 
-reading yt upload: generate thumbnail with title
+tathatā in each case
+or its relative development
 
-Mahābodhi
-Feb: video link to Anejo, Kataññuto, Dhirabodhi
+manopubbangama -- why not vinnana / citta
+cittam padahati
+vedeti sañjānāti vitakketi
+vinnanam vijanati
+sannam sanjanati
+qualia grades
+mind / psyche / consciousness / cognition
+vinnana sth conditioned by nama-rupa: experience blindness
+mano-samphasso vinnanam dhamma
+citta raga-dosa sankhitta
+dhamma cittam ārabhati
+adhicitte ca āyogo
 
 * Recording setup with Zoom and OBS                                :noexport:
 
-hide top bar
-fullscreen Brave with tldraw, but windowed in qtile
-emacs buffer with notes, narrowed, no modeline, white theme
+Mac: muted, no speaker sound.
+
+Plug in camera to laptop, so people get video and audio from the same account.
+Otherwise the current speaker thumbnail jumps back-and-forth.
+
+? Jabra Mic input level
+? Jabra Speaker output level
+
+OBS: Add audio input AND output capture
+
+Hide top Qtile bar.
+Fullscreen Brave with tldraw, but windowed in Qtile.
+Toggle emacs dropdown with notes, no modeline.
 
 : (hide-mode-line-mode 1)
 : (hide-mode-line-mode 0)
 
 Laptop:
 - Connect the JABRA mic/speaker, place it on the table
-- Record at 60fps with OBS
+- Record at 30fps with OBS
 
 Record separately on the Mac
 - camera feed, in case of showing sth to the camera
@@ -164,8 +185,30 @@ ko attho supitena vo;
 Āturānañhi kā niddā,
 sallaviddhāna ruppataṁ.
 
-* 2025-02-13                                                       :noexport:
-** MN 1 maññati
+* 2025-02-19 :noexport:
+** Notes :noexport:
+
+Nature Of Citta, Mano And Viññāṅa – Ven.Dr. Thich Nhat Tu (Deputy Rector, Vietnam Buddhist University)
+https://www.undv.org/vesak2012/iabudoc/10ThichNhatTuFINAL.pdf
+
+Pali quotes for Wed
+- viññāṇa construction
+- Khantī paramaṁ...
+
+*** qualia
+
+What's it like to be a bat?
+
+https://plato.stanford.edu/entries/qualia/
+(3): Qualia as intrinsic non-representational properties, whether regarded as physical or non-physical
+- not the content, "a dalmatian"
+- brain can function w/o producing experience of it
+(4): Qualia as intrinsic, nonphysical, ineffable properties
+
+a living being is sentient (feels, sees, hears, etc), but not cognizant of a certain thing
+not "a mind", "the consciousness" in my head
+
+*** MN 1 maññati
 
 seeing earth in the earth
 doesn't see earth in earth
@@ -210,7 +253,7 @@ pathaviṁ mābhinandi.
 Taṁ kissa hetu? ‘Pariññeyyaṁ tassā’ti vadāmi.
 #+end_quote
 
-** Definition of Contact
+*** Definition of Contact
 
 Sermon 4
 
@@ -224,6 +267,373 @@ Sermon 4
 
 http://localhost:4848/suttas/sn35.106/pli/ms?window_type=Sutta+Study
 
+** Viññāṇa, citta, mano
+
+: evaṁ cetaso parivitakko udapādi ...
+
+: Cakkhuñca paṭicca rūpe ca uppajjati cakkhuviññāṇaṁ, tiṇṇaṁ saṅgati phasso
+: manoviññāṇa
+
+viññāṇa: discriminates, cognizes, diff b/w two things
+vi-ñāṇa: separating knowing, distinguishing
+
+vi-jānāti: tells apart the sweet, etc.
+distinguishing one taste from another
+not the recognition / perception of a taste
+connected with naming, 'this is *sweet*'
+
+pa-jānāti 'knows it', mindful of it, stays with it
+
+sam-pa-jā-ña - with it, knowing
+
+: nāma-rūpa <--> viññāṇa
+
+: beings are conscious of what can be named
+
+: yoniso manasikāra
+
+a-yoniso -> papañca, grasping of signs, āsava
+
+: vedeti sañjānāti papañceti
+
+: viññāṇaṁ anidassanaṁ
+
+: cittaṁ ārabhati
+
+DN 22 / MN 10: types of 'citta', has dosa, lobha, moha
+
+right effort
+
+: cittaṁ pajahati
+
+abandons or cultivates
+
+: Santi, bhikkhave, manoviññeyyā dhammā, iṭṭhā kantā manāpā piyarūpā kāmūpasaṁhitā rajanīyā.
+
+There are ideas known by the mind that are likable, desirable, agreeable, pleasant, sensual, and arousing.
+
+: “Ye te manoviññeyyā dhammā aviññātā aviññātapubbā, na ca vijānāsi, na ca te hoti vijāneyyanti? Atthi te tattha chando vā rāgo vā pemaṁ vā”ti?
+
+ideas known by the mind that you haven’t known, you’ve never known before, you don’t know, and you don’t think would be known?”
+
+: santi, bhikkhave, manoviññeyyā dhammā manoramāpi amanoramāpi.
+
+There are ideas known by the mind that are pleasant and also those that are unpleasant.
+Tyāssa phussa phussa cittaṁ na pariyādāya tiṭṭhanti.
+Though experiencing them again and again they don’t occupy the mind.
+Cetaso apariyādānā āraddhaṁ hoti vīriyaṁ asallīnaṁ, upaṭṭhitā sati asammuṭṭhā, passaddho kāyo asāraddho, samāhitaṁ cittaṁ ekaggaṁ.
+Their energy is roused up and unflagging, their mindfulness is established and lucid, their body is tranquil and undisturbed, and their mind is immersed in samādhi.
+
+: manopubbangama...
+
+manasā -- defiled mind / pure mind
+- defiled of kilesa, like citta
+
+: kammaṁ khettaṁ, viññāṇaṁ bījaṁ, taṇhā sneho
+viññāṇaṁ patiṭṭhitaṁ
+alt: cetanā patiṭṭhitā
+
+taṇhā is a type of kiles -- mano -- citta
+
+: adhicitte ca āyogo
+- higher: not living in perception as real, MN 1
+- no inflows āsava, which are grasped signs
+- but here is cognition, viññāṇa
+
+cognition, distinction of a thing: dependent on two things, consciousness arises
+
+unconscious: na saññī
+
+* 2025-02-13
+** MN 74 Commentary, a spontaneous gathering of 1250 arahants :anki:
+:PROPERTIES:
+:DECK_NAME: MN 74 Commentary
+:END:
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=m.1.2.0.0.3.0.a&para=23][DPR]], [[http://localhost:4848/suttas/s0202a.att/pli/cst4?quote=ve%25E1%25B8%25B7uvana%25E1%25B9%2581%2520gantv%25C4%2581%2520s%25C4%2581vakasannip%25C4%2581tamak%25C4%2581si&window_type=Sutta+Study][SSP]]) Dīghanakhasutta-vaṇṇanā
+
+#+latex: \vspace*{-\baselineskip}
+
+#+begin_quote
+Bhagavā pana imaṁ desanaṁ sūriye dharamāne'yeva niṭṭhāpetvā
+
+gijjhakūṭā oruyha veḷuvanaṁ gantvā sāvakasannipātam'akāsi,
+
+catur'aṅga'samannāgato sannipāto ahosi. Tatrimāni aṅgāni –
+
+(1) māgha'nakkhattena yutto puṇṇama-uposathadivaso,
+
+(2) kenaci anāmantitāni hutvā attano'yeva dhammatāya sannipatitāni aḍḍhatelasāni
+
+bhikkhusatāni, (3) tesu ekopi puthujjano vā sotāpanna-sakadāgāmi-anāgāmi-
+
+sukkhavipassaka-arahantesu vā aññataro natthi, sabbe chaḷabhiññāva,
+
+(4) eko'pi cettha satthakena kese chinditvā pabbajito nāma natthi, sabbe ehi'bhikkhuno'yevā'ti.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| dharamāna (prp.) | lasting; continuing; living; prp. of /dharati/    | 35012/dpd | Bhagavā pana imaṁ desanaṁ sūriye {{dharamāne}}'yeva niṭṭhāpetvā |
+| niṭṭhāpeti       | (causes to) conclude, finish                      | 37110/dpd | Bhagavā pana imaṁ desanaṁ sūriye dharamāneyeva {{niṭṭhāpetvā}}  |
+| oruyha (ger.)    | descending; going down                            | 18866/dpd | gijjhakūṭā {{oruyha}} veḷuvanaṁ gantvā                          |
+| sannipāta (m.)   | assembly; congregation; gathering                 | 58547/dpd | catur'aṅga'samannāgato {{sannipāto}} ahosi                      |
+| kenaci (pron.)   | by anyone; with anyone                            | 22834/dpd |                                                                 |
+| anāmanta (ger.)  | without asking for permission; without consulting | 4004/dpd  |                                                                 |
+| sattha (nt.)     | weapon; knife; razor                              |           |                                                                 |
+| chindati         | cuts off; severs                                  | 27646/dpd |                                                                 |
+
+*** Notes :noexport:
+
+MN 74 Commentary: a spontaneous gathering of arahants, no mention of Ovādapātimokkha
+
+[[http://localhost:4848/suttas/s0202a.att/pli/cst4?quote=bhagav%25C4%2581%2520pana%2520ima%25E1%25B9%2581%2520desana%25E1%25B9%2581%2520s%25C5%25ABriye&window_type=Sutta+Search][bhagavā pana imaṁ desanaṁ sūriye]]
+
+https://discourse.suttacentral.net/t/magha-puja-origin-story/32716/15
+
+#+begin_quote
+    Bhagavā pana imaṃ desanaṃ sūriye dharamāneyeva niṭṭhāpetvā gijjhakūṭā oruyha veḷuvanaṃ gantvā sāvakasannipātamakāsi, caturaṅgasamannāgato sannipāto ahosi.
+    The Blessed One, having finished this teaching while the sun was still shining, went down from Vultures’ Peak to the Bamboo Grove and held a meeting of disciples – a meeting wherein there was a concatenation of four factors.
+
+    Tatrimāni aṅgāni:
+    Herein, these are the said factors:
+
+        māghanakkhattena yutto puṇṇamauposathadivaso,
+        It was the full-moon observance day in the month of Māgha.
+
+        kenaci anāmantitāni hutvā attanoyeva dhammatāya sannipatitāni aḍḍhatelasāni bhikkhusatāni,
+        1,250 bhikkhus assembled, without having been summoned by anyone and merely because their own dispositions prompted them to.
+
+        tesu ekopi puthujjano vā sotāpanna-sakadāgāmi-anāgāmisukkhavipassaka-arahantesu vā aññataro natthi, sabbe chaḷabhiññāva,
+        Not a single one of them was a worldling, a stream-attainer, a once-returner, a non-returner or a dry-insight arahant. All were arahants possessed of the six higher knowledges.
+
+        ekopi cettha satthakena kese chinditvā pabbajito nāma natthi, sabbe ehibhikkhunoyevāti.
+        Not a single one of them had gone forth after having his head shaved [by the sangha]. All had [been ordained by the Blessed One with the words] “Come, bhikkhu!”
+#+end_quote
+
+** Dhp 183-185 Commentary, the uposathas of past Buddhas :anki:
+:PROPERTIES:
+:DECK_NAME: Dhp 183-185 Commentary
+:END:
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.1.5.3.0.a][DPR]], [[http://localhost:4848/suttas/s0502a.att/pli/cst4?quote=m%25C4%2581t%25C4%2581pitaro%2520%25C4%2581yuparicchedo%2520bodhi%2520s%25C4%2581vakasannip%25C4%2581to&window_type=Sutta+Study][SSP]]) Dhammapada-aṭṭhakathā, Ānandattherapañhavatthu
+
+#+latex: \vspace*{-\baselineskip}
+#+latex: \enlargethispage*{2\baselineskip}
+
+#+begin_quote
+Sabbapāpassa akaraṇan'ti imaṁ dhammadesanaṁ satthā jetavane viharanto
+
+ānandattherassa pañhaṁ ārabbha kathesi. Thero kira divāṭṭhāne nisinno cintesi:
+
+"... uposatho pana akathito, kiṁ nu kho tesampi ayameva uposatho, añño"ti?
+#+end_quote
+
+#+latex: \vspace*{-0.5\baselineskip}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| pañha (nt.)      | question; enquiry                                 | 40130/dpd | ānandattherassa {{pañhaṁ}} ārabbha kathesi |
+| ārabbha (ind.)   | concerning; referring (to)                        | 12386/dpd | ānandattherassa pañhaṁ {{ārabbha}} kathesi |
+| kathesi (aor.)   | spoke; told; related; aor of /katheti/            | 19903/dpd | ānandattherassa pañhaṁ ārabbha {{kathesi}} |
+| divāṭṭhāna (nt.) | meditation place for the day                      | 32699/dpd |                                             |
+| cintesi (aor.)   | thought (about); reflected (on); aor of /cinteti/ | 26754/dpd |                                             |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+So satthāraṁ upasaṅkamitvā tam'atthaṁ pucchi.
+
+"Yasmā pana tesaṁ buddhānaṁ kālabhedova ahosi, na kathābhedo.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| attha (m.)             | meaning; sense; significance                         | 2597/dpd  |   |
+| pucchati (+acc & +acc) | asks; enquires; questions (somebody about something) | 46484/dpd |   |
+| bheda (m.)             | schism; split; breakup                               | 50271/dpd |   |
+| kālabheda (m.)         | division of time; distinction of time [kāla + bheda] | 21438/dpd |   |
+| kathā (f.)             | talk; speech; conversation; discussion               | 19850/dpd |   |
+
+#+begin_quote
+Vipassī sammāsambuddho hi sattame sattame saṁvacchare uposathaṁ akāsi.
+
+Ekadivasaṁ dinnovādoyeva hissa sattannaṁ saṁvaccharānaṁ alaṁ hoti.
+
+[... Sikhī, Vessabhū, Kakusandho, Koṇāgamano, Kassapadasabalo ...]
+
+Tasmā satthā tesaṁ imaṁ kālabhedaṁ ārocetvā "ovādagāthā pana nesaṁ imāyevā"ti vatvā
+
+Sabbesaṁ ekameva uposathaṁ āvi karonto imā gāthā abhāsi –
+
+(183.) sabbapāpassa akaraṇaṁ, kusalassa upasampadā ..."
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| sabbesaṁ (pron.) | of all; for all [sabba + esānaṁ]                                   |           |   |
+| āvikaronta (prp.) | explaining; disclosing; revealing; lit. making open [āvi + karonta] | 13078/dpd |   |
+
+*** Notes :noexport:
+
+Dhp 183-185 Commentary: Ānanda asks how the uposatha had been held, the Ovādapātimokkha was recited
+
+Ānandattherapañhavatthu
+
+([[https://www.digitalpalireader.online/_dprhtml/index.html?loc=k.1.0.0.13.0.0.m|dpr://k.1.0.1.5.3.0.a][DPR]]) SSP: [[http://localhost:4848/suttas/dhp179-196/pli/ms?quote=Sabbap%25C4%2581passa%2520akara%25E1%25B9%2587a%25E1%25B9%2581&window_type=Sutta+Search][Sabbapāpassa akaraṇaṁ]]
+
+Ven. Ānanda asks whether the Buddhas in the past held the uposatha in a different way.
+The timing was different, but the teaching was the same.
+No story of gathering of arahants.
+
+#+begin_quote
+Among these Buddhas, there was only a difference in timing, not in the teaching.
+The Perfectly Enlightened Buddha Vipassī held the Uposatha every seventh year.
+For him, one day's instruction was sufficient for seven years. Sikhī and
+Vessabhū held the Uposatha every sixth year. Kakusandha and Koṇāgamana held it
+every year. The Buddha Kassapa held the Uposatha every sixth month. For him, one
+day's instruction was sufficient for six months.
+#+end_quote
+
+** DN 14, the Buddha Vipassī teaches the ovāda-pāṭimokkha :anki:
+:PROPERTIES:
+:DECK_NAME: DN 14 Mahāpadānasutta
+:END:
+
+([[https://suttacentral.net/dn14/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=d.1.0.0.0.0.15.m&para=3][DPR]], [[http://localhost:4848/suttas/dn14/pli/ms?quote=pa%25E1%25B9%25ADisall%25C4%2581n%25C4%2581%2520vu%25E1%25B9%25AD%25E1%25B9%25ADhito%2520bhikkh%25C5%25AB%2520%25C4%2581mantesi&window_type=Sutta+Study][SSP]]) DN 14 Mahāpadānasutta 16. Cārikāanujānana
+
+#+latex: \vspace*{-0.5\baselineskip}
+#+latex: \enlargethispage*{1.5\baselineskip}
+
+#+begin_quote
+Atha kho, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho sāyanhasamayaṁ
+
+paṭisallānā vuṭṭhito bhikkhū āmantesi: 'idha mayhaṁ, bhikkhave, rahogatassa paṭisallīnassa
+
+evaṁ cetaso parivitakko udapādi: "mahā kho etarahi bhikkhusaṅgho [...]"'
+
+‘Anujānāmi, bhikkhave, caratha cārikaṁ bahujana'hitāya bahujana'sukhāya lok'ānukampāya
+
+atthāya hitāya sukhāya devamanussānaṁ; mā ekena dve agamittha;
+
+desetha, bhikkhave, dhammaṁ ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ
+#+end_quote
+
+#+latex: \vspace*{-1pt}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| anujānāti               | allows (to); permits (to); grants permission (to) | 4473/dpd  | {{Anujānāmi}}, bhikkhave, caratha cārikaṁ bahujana'hitāya bahujana'sukhāya lok'ānukampāya     |
+| cārikaṁ carati (idiom) | walks about (among); is on walking tour (in)      | 26465/dpd |                                                                                                |
+| bahujana (m.)           | multitude; many people [bahu + jana]              | 48113/dpd | Anujānāmi, bhikkhave, caratha cārikaṁ {{bahujana}}'hitāya {{bahujana}}'sukhāya lok'ānukampāya |
+| anukampā (f. +loc)      | compassion (for); pity (for); concern (for)       | 4334/dpd  | Anujānāmi, bhikkhave, caratha cārikaṁ bahujana'hitāya bahujana'sukhāya lok'{{ānukampāya}}     |
+| deseti  (+acc & +dat)   | preach (to); teaches (to); explains (to)          | 34001/dpd | {{desetha}}, bhikkhave, dhammaṁ ādikalyāṇaṁ majjhekalyāṇaṁ pariyosānakalyāṇaṁ                 |
+
+\clearpage
+\casesLegendHeaderBGHere
+
+#+begin_quote
+sātthaṁ sabyañjanaṁ kevalaparipuṇṇaṁ parisuddhaṁ brahmacariyaṁ pakāsetha.
+
+Santi sattā apparajakkhajātikā, assavanatā dhammassa parihāyanti,
+
+bhavissanti dhammassa aññātāro.
+#+end_quote
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| apparajakkha (adj.) | having little dirt in the eye [appa + rajas + akkha] | 7015/dpd  | Santi sattā {{apparajakkha}}jātikā, assavanatā dhammassa parihāyanti |
+| parihāyati          | dwindles; decreases; deteriorates; wastes away       | 44360/dpd | Santi sattā apparajakkhajātikā, assavanatā dhammassa {{parihāyanti}} |
+
+#+latex: \vspace*{-1.5\baselineskip}
+#+latex: \enlargethispage*{2\baselineskip}
+
+#+begin_quote
+Api ca, bhikkhave, channaṁ channaṁ vassānaṁ accayena bandhumatī rājadhānī
+upasaṅkamitabbā pātimokkhuddesāyā’ti. [...] Chasu vassesu nikkhantesu devatā
+saddamanussāvesuṁ: ‘nikkhantāni kho, mārisā, chabbassāni, samayo dāni [...]
+
+Tatra sudaṁ, bhikkhave, vipassī bhagavā arahaṁ sammāsambuddho
+
+bhikkhusaṅghe evaṁ pātimokkhaṁ uddisati:
+
+‘Khantī paramaṁ tapo titikkhā, / Nibbānaṁ paramaṁ vadanti buddhā;
+
+Na hi pabbajito parūpaghātī, / Na samaṇo hoti paraṁ viheṭhayanto.
+
+Sabbapāpassa akaraṇaṁ, / kusalassa upasampadā;
+
+Sacittapariyodapanaṁ, / etaṁ buddhānasāsanaṁ.
+
+Anūpavādo anūpaghāto, / Pātimokkhe ca saṁvaro;
+
+Mattaññutā ca bhattasmiṁ, / Panta'ñca sayan'āsanaṁ;
+
+Adhicitte ca āyogo, / Etaṁ buddhānasāsanan’ti.
+#+end_quote
+
+#+latex: \vspace*{-1pt}
+
+#+ATTR_LATEX: :environment longtable :align L{\colOne} L{\colTwo} H H
+| tapas (m.)           | spiritual practice; religious practice                   | 29925/dpd | Khantī paramaṁ {{tapo}} titikkhā                |
+| titikkhā (f.)        | endurance; patience; forgiveness                         | 30576/dpd | Khantī paramaṁ tapo {{titikkhā}}                |
+| parūpaghātī (adj.)   | who harms others; who injures others [para + upaghātī]   | 44395/dpd | Na hi pabbajito {{parūpaghātī}}                  |
+| viheṭhayanta (prp.)  | harming; vexing; annoying; troubling                     | 69748/dpd | Na samaṇo hoti paraṁ {{viheṭhayanto}}            |
+| upasampadā (f. +gen) | undertaking (of); taking up (of)                         | 16129/dpd | kusalassa {{upasampadā}}                         |
+| pariyodapana (nt.)   | purifying; refining; cleansing                           | 44039/dpd | Sacitta{{pariyodapanaṁ}}, etaṁ buddhānasāsanaṁ  |
+| anūpavāda (m.)       | not blaming; without insulting; not abusing              | 5489/dpd  | {{Anūpavādo}} anūpaghāto, Pātimokkhe ca saṁvaro |
+| anūpaghāta (m.)      | not harming; not hurting; non-violence                   | 5480/dpd  | Anūpavādo {{anūpaghāto}}, Pātimokkhe ca saṁvaro |
+| mattaññutā (f. +loc) | moderation (in); knowing the correct amount (of)         | 50950/dpd | {{Mattaññutā}} ca bhattasmiṁ                    |
+| bhatta (nt.)         | food; boiled rice                                        | 49284/dpd | Mattaññutā ca {{bhattasmiṁ}}                    |
+| panta (adj.)         | secluded; solitary; lit. towards the end [pa + anta]     | 42342/dpd | {{Panta}}'ñca sayan'āsanaṁ                      |
+| sayanāsana (nt.)     | living place; lit. sleeping and sitting [sayana + āsana] | 60953/dpd | Panta'ñca {{sayan'āsanaṁ}}                      |
+| āyoga (m. +loc)      | devotion (to); practice (of); pursuit (of)               | 12332/dpd | Adhicitte ca {{āyogo}}, etaṁ buddhānasāsanan'ti |
+
+*** Notes :noexport:
+**** DN 14: The Buddha Vipassī recites the Ovādapātimokkha, 6-year arranged meeting of arahants
+
+https://suttafriends.org/sutta/dn14/#pt16
+
+https://ancient-buddhist-texts.net/Texts-and-Translations/Episodes/Ovada-Patimokkha.pdf
+
+**** Ajaan Lee Dhammadharo: Dhamma for Everyone
+
+[[https://www.accesstoinsight.org/lib/thai/lee/everyone.html][Dhamma for Everyone: October 5, 1960]]
+
+**** Māgha Pūjā origin
+
+Māgha Pūjā (มาฆบูชา) became a widely-known festival day after King Mongkut in
+Thailand instituted it as a ceremony in 1851.
+
+https://www.learnreligions.com/magha-puja-449909
+
+[[https://en.wikipedia.org/wiki/M%C4%81gha_P%C5%ABj%C4%81][Māgha Pūjā - Wikipedia]]
+
+https://en.wikipedia.org/wiki/Mongkut
+
+[[https://discourse.suttacentral.net/t/magha-puja-origin-story/32716][Māgha Pūjā origin story - Q & A - Discuss & Discover]]
+
+**** Meaning of the term Pāṭimokkha
+
+https://www.britannica.com/topic/patimokkha
+
+Pāli: “that which is binding”,
+
+https://www.dhammawiki.com/index.php/Patimokkha
+
+The meaning of the word pàtimokkha is unclear but it may mean something like
+‘obligation’ or ‘binding promise.’
+
+https://www.palikanon.com/english/pali_names/pa/patimokkha.htm
+
+#+begin_quote
+The word pātimokkha is variously explained, the oldest explanation being that
+the observance of the rules is the face (mukham), the chief (pamukham) of good
+qualities. The Sanskritised form of the word being prātimoksa, this led to a
+change in its significance, the completion of the recital being evidence that
+all those who have taken part are pure in respect of the specified offences -
+pātimokkha thus meaning acquittal, deliverance or discharge. But in most
+contexts the word simply means code - i.e., code of verses for the members of
+the Order.
+#+end_quote
+
+[[https://discourse.suttacentral.net/t/literal-meaning-of-patimokkha/18512][Literal meaning of Pātimokkha - Q & A - Discuss & Discover]]
+
 * 2025-02-05
 ** Exercise
 
@@ -231,7 +641,7 @@ http://localhost:4848/suttas/sn35.106/pli/ms?window_type=Sutta+Study
 
 #+ATTR_LATEX: :center nil
 | These two ends should not be pursued (/sevati/) by one who has gone forth. |
-| \fillin{11cm}{Dveme, bhikkhave, antā pabbajitena na sevitabbā.}            |
+| \fillin{11cm}{Dveme, antā pabbajitena na sevitabbā.}                       |
 | He makes an end of suffering.                                              |
 | \fillin{11cm}{So dukkhass'antaṁ karoti.}                                  |
 | The man eats edibles (/bhojanīya/) and chewables (/khādanīya/).            |
@@ -247,7 +657,7 @@ http://localhost:4848/suttas/sn35.106/pli/ms?window_type=Sutta+Study
 
 #+latex: \normalArrayStretch
 
-** MN 9 Sammādiṭṭhisutta, Definition of Name-and-Form                        :anki:
+** MN 9 Sammādiṭṭhisutta, definition of name-and-form :anki:
 :PROPERTIES:
 :DECK_NAME: MN 9 Sammādiṭṭhisutta
 :END:
@@ -352,7 +762,10 @@ list of ñānas, objectification, will experience the word
 
 hypnotic suggestion
 
-** SN 22.79 Khajjanīyasutta                                            :anki:
+** SN 22.79 Khajjanīyasutta, rūpa, form :anki:
+:PROPERTIES:
+:DECK_NAME: SN 22.79 Khajjanīyasutta
+:END:
 
 ([[https://suttacentral.net/sn22.79/pli/ms][SC]], [[https://www.digitalpalireader.online/_dprhtml/index.html?loc=s.2.0.0.0.7.6.m][DPR]], [[http://localhost:4848/suttas/sn22.79/pli/ms?quote=Ki%25C3%25B1ca%252C%2520bhikkhave%252C%2520r%25C5%25ABpa%25E1%25B9%2581%2520vadetha%253F&window_type=Sutta+Study][SSP]], Sermon 10)
 
@@ -408,6 +821,34 @@ paccuppannassa rūpassa nibbidāya virāgāya nirodhāya paṭipanno hoti.
 
 *** Notes :noexport:
 
+The Buddha’s Teaching - Its Essential Meaning by R.G. de S. Wettimuny
+https://its-essential-meaning.github.io/
+
+~dhātu~ as 'modes of behaviour' ([[/home/gambhiro/prods/books/released/its-essential-meaning-project/finals/its-essential-meaning-desktop-2023-04-02.pdf::2][PDF p.2]])
+
+#+begin_quote
+But the Four Primary Modes do not refer to four elements or ingredients which
+constitute this ‘matter’. They refer to four distinguishable general modes of
+behaviour, according to which ‘matter’ makes itself known. The most important
+group of behaviours to me is that which I refer to as ‘my body’ – ‘this material
+body made up of the Four Primary Modes’ (kāyo rūpī catummahābhūtiko, MN 74).
+#+end_quote
+
+~nāma-rūpa~: Chapter 3: Name-and-Form and Consciousness ([[/home/gambhiro/prods/books/released/its-essential-meaning-project/finals/its-essential-meaning-desktop-2023-04-02.pdf::13][PDF p.13]])
+
+~khajjati~: chewed on:
+resistance-impression, ~paṭighasamphassa~
+
+Sermon 11:
+
+#+begin_quote
+*Nāma* and *rūpa*, as well as *paṭigha-* and *rūpasaññā*, are highly significant
+terms. *Paṭigha-* and *rūpasaññā* are equivalent to *paṭighasamphassa* and
+*adhivacanasamphassa* respectively. Now as to this perception of form, it is
+basically conditioned by contact. That is why the *Kalahavivādasutta* states
+that contact is the cause of the two views of existence and non-existence.
+#+end_quote
+
 : (NP 14) Navaṁ pana bhikkhunā santhataṁ kārāpetvā chabbassāni dhāretabbaṁ. [...]
 
 We only make blankets for ourselves every five or six years, even though our
@@ -417,15 +858,6 @@ children defecate and urinate on them and they are eaten by rats.”
 Amhākaṁ pana sakiṁ katāni santhatāni pañcapi chapi vassāni honti,
 yesaṁ no dārakā uhadantipi ummihantipi undūrehipi khajjanti.
 #+end_quote
-
-~khajjati~: chewed on:
-resistance-impression, ~paṭighasamphassa~
-
-*Nāma* and *rūpa*, as well as *paṭigha-* and *rūpasaññā*, are highly significant
-terms. *Paṭigha-* and *rūpasaññā* are equivalent to *paṭighasamphassa* and
-*adhivacanasamphassa* respectively. Now as to this perception of form, it is
-basically conditioned by contact. That is why the *Kalahavivādasutta* states
-that contact is the cause of the two views of existence and non-existence.
 
 * 2025-01-22
 ** Exercise
