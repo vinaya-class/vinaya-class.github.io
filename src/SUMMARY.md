@@ -2,6 +2,8 @@
 
 [Vinaya Class](vinaya-class.md)
 
+[Pāli Sutta Readings](pali-sutta-readings.md)
+
 [Pāli Lessons](pali-lessons.md)
 
 [Introduction](00-introduction.md)

@@ -81,9 +81,13 @@ class, discussing the possible solutions.
 
 [vinaya-class-questions-B-answerkey.pdf](./includes/docs/vinaya-class-questions-B-answerkey.pdf)
 
+## Pāli Sutta Readings on Zoom
+
+Zoom Meeting links, readings PDF and recordings: [Pāli Sutta Readings](/pali-sutta-readings.html)
+
 ## Pāli Lessons
 
-[Pāli readings](/pali-lessons.html) and lesson materials.
+[Pāli Lessons](/pali-lessons.html) for studying declensions and grammar.
 
 [![Pali Lessons](./includes/docs/pali-lessons-thumb.png)](/pali-lessons.html)
 
