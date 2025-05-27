@@ -1,5 +1,5 @@
 <!DOCTYPE HTML>
-<html lang="en" class="light" dir="ltr">
+<html lang="en" class="light sidebar-visible" dir="ltr">
     <head>
         <!-- Book generated using mdBook -->
         <meta charset="UTF-8">
@@ -7,7 +7,7 @@
 
 
         <!-- Custom HTML head -->
-        
+
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <meta name="theme-color" content="#ffffff">
@@ -24,27 +24,30 @@
         <link rel="stylesheet" href="fonts/fonts.css">
 
         <!-- Highlight.js Stylesheets -->
-        <link rel="stylesheet" href="highlight.css">
-        <link rel="stylesheet" href="tomorrow-night.css">
-        <link rel="stylesheet" href="ayu-highlight.css">
+        <link rel="stylesheet" id="highlight-css" href="highlight.css">
+        <link rel="stylesheet" id="tomorrow-night-css" href="tomorrow-night.css">
+        <link rel="stylesheet" id="ayu-highlight-css" href="ayu-highlight.css">
 
         <!-- Custom theme stylesheets -->
         <link rel="stylesheet" href="theme/custom.css">
 
-    </head>
-    <body class="sidebar-visible no-js">
-    <div id="body-container">
-        <!-- Provide site root to javascript -->
-        <script>
-            var path_to_root = "";
-            var default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? "navy" : "light";
-        </script>
 
+        <!-- Provide site root and default themes to javascript -->
+        <script>
+            const path_to_root = "";
+            const default_light_theme = "light";
+            const default_dark_theme = "navy";
+        </script>
+        <!-- Start loading toc.js asap -->
+        <script src="toc.js"></script>
+    </head>
+    <body>
+    <div id="body-container">
         <!-- Work around some values being stored in localStorage wrapped in quotes -->
         <script>
             try {
-                var theme = localStorage.getItem('mdbook-theme');
-                var sidebar = localStorage.getItem('mdbook-sidebar');
+                let theme = localStorage.getItem('mdbook-theme');
+                let sidebar = localStorage.getItem('mdbook-sidebar');
 
                 if (theme.startsWith('"') && theme.endsWith('"')) {
                     localStorage.setItem('mdbook-theme', theme.slice(1, theme.length - 1));
@@ -58,24 +61,22 @@
 
         <!-- Set the theme before any content is loaded, prevents flash -->
         <script>
-            var theme;
+            const default_theme = window.matchMedia("(prefers-color-scheme: dark)").matches ? default_dark_theme : default_light_theme;
+            let theme;
             try { theme = localStorage.getItem('mdbook-theme'); } catch(e) { }
             if (theme === null || theme === undefined) { theme = default_theme; }
-            var html = document.querySelector('html');
+            const html = document.documentElement;
             html.classList.remove('light')
             html.classList.add(theme);
-            var body = document.querySelector('body');
-            body.classList.remove('no-js')
-            body.classList.add('js');
+            html.classList.add("js");
         </script>
 
         <input type="checkbox" id="sidebar-toggle-anchor" class="hidden">
 
         <!-- Hide / unhide sidebar before it is displayed -->
         <script>
-            var body = document.querySelector('body');
-            var sidebar = null;
-            var sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
+            let sidebar = null;
+            const sidebar_toggle = document.getElementById("sidebar-toggle-anchor");
             if (document.body.clientWidth >= 1080) {
                 try { sidebar = localStorage.getItem('mdbook-sidebar'); } catch(e) { }
                 sidebar = sidebar || 'visible';
@@ -83,45 +84,25 @@
                 sidebar = 'hidden';
             }
             sidebar_toggle.checked = sidebar === 'visible';
-            body.classList.remove('sidebar-visible');
-            body.classList.add("sidebar-" + sidebar);
+            html.classList.remove('sidebar-visible');
+            html.classList.add("sidebar-" + sidebar);
         </script>
 
         <nav id="sidebar" class="sidebar" aria-label="Table of contents">
-            <div class="sidebar-scrollbox">
-                <ol class="chapter"><li class="chapter-item expanded affix "><a href="vinaya-class.html">Vinaya Class</a></li><li class="chapter-item expanded affix "><a href="pali-sutta-readings.html">Pāli Sutta Readings</a></li><li class="chapter-item expanded affix "><a href="pali-lessons.html">Pāli Lessons</a></li><li class="chapter-item expanded affix "><a href="00-introduction.html">Introduction</a></li><li class="chapter-item expanded "><a href="01-killing-and-harming.html"><strong aria-hidden="true">1.</strong> Killing and Harming</a></li><li class="chapter-item expanded "><a href="02-stealing.html"><strong aria-hidden="true">2.</strong> Stealing</a></li><li class="chapter-item expanded "><a href="03-sexual-conduct.html"><strong aria-hidden="true">3.</strong> Sexual Conduct</a></li><li class="chapter-item expanded "><a href="04-lustful-conduct.html"><strong aria-hidden="true">4.</strong> Lustful Conduct</a></li><li class="chapter-item expanded "><a href="05-women-1.html"><strong aria-hidden="true">5.</strong> Women 1</a></li><li class="chapter-item expanded "><a href="06-attainments.html"><strong aria-hidden="true">6.</strong> Attainments</a></li><li class="chapter-item expanded "><a href="07-false-speech.html"><strong aria-hidden="true">7.</strong> False Speech</a></li><li class="chapter-item expanded "><a href="08-robes-1.html"><strong aria-hidden="true">8.</strong> Robes 1</a></li><li class="chapter-item expanded "><a href="09-kiccavatta.html" class="active"><strong aria-hidden="true">9.</strong> Kiccavatta</a></li><li class="chapter-item expanded "><a href="10-misc-1.html"><strong aria-hidden="true">10.</strong> Misc 1</a></li><li class="chapter-item expanded "><a href="11-food-1.html"><strong aria-hidden="true">11.</strong> Food 1</a></li><li class="chapter-item expanded "><a href="12-food-2.html"><strong aria-hidden="true">12.</strong> Food 2</a></li><li class="chapter-item expanded "><a href="13-money.html"><strong aria-hidden="true">13.</strong> Money</a></li><li class="chapter-item expanded "><a href="14-arguments-1.html"><strong aria-hidden="true">14.</strong> Arguments 1</a></li><li class="chapter-item expanded "><a href="15-arguments-2.html"><strong aria-hidden="true">15.</strong> Arguments 2</a></li><li class="chapter-item expanded "><a href="16-arguments-3.html"><strong aria-hidden="true">16.</strong> Arguments 3</a></li><li class="chapter-item expanded "><a href="17-dwellings.html"><strong aria-hidden="true">17.</strong> Dwellings</a></li><li class="chapter-item expanded "><a href="18-bowls.html"><strong aria-hidden="true">18.</strong> Bowls</a></li><li class="chapter-item expanded "><a href="19-women-2.html"><strong aria-hidden="true">19.</strong> Women 2</a></li><li class="chapter-item expanded "><a href="20-misc-2.html"><strong aria-hidden="true">20.</strong> Misc 2</a></li><li class="chapter-item expanded "><a href="21-sekhiyas-1.html"><strong aria-hidden="true">21.</strong> Sekhiyas 1</a></li><li class="chapter-item expanded "><a href="22-excuses.html"><strong aria-hidden="true">22.</strong> Excuses</a></li><li class="chapter-item expanded "><a href="23-sekhiyas-2.html"><strong aria-hidden="true">23.</strong> Sekhiyas 2</a></li><li class="chapter-item expanded "><a href="24-robes-2.html"><strong aria-hidden="true">24.</strong> Robes 2</a></li><li class="chapter-item expanded "><a href="25-misc-3.html"><strong aria-hidden="true">25.</strong> Misc 3</a></li><li class="chapter-item expanded affix "><a href="99-closing.html">Closing</a></li><li class="chapter-item expanded affix "><a href="99-further-reading.html">Further Reading</a></li></ol>
-            </div>
+            <!-- populated by js -->
+            <mdbook-sidebar-scrollbox class="sidebar-scrollbox"></mdbook-sidebar-scrollbox>
+            <noscript>
+                <iframe class="sidebar-iframe-outer" src="toc.html"></iframe>
+            </noscript>
             <div id="sidebar-resize-handle" class="sidebar-resize-handle">
                 <div class="sidebar-resize-indicator"></div>
             </div>
         </nav>
 
-        <!-- Track and set sidebar scroll position -->
-        <script>
-            var sidebarScrollbox = document.querySelector('#sidebar .sidebar-scrollbox');
-            sidebarScrollbox.addEventListener('click', function(e) {
-                if (e.target.tagName === 'A') {
-                    sessionStorage.setItem('sidebar-scroll', sidebarScrollbox.scrollTop);
-                }
-            }, { passive: true });
-            var sidebarScrollTop = sessionStorage.getItem('sidebar-scroll');
-            sessionStorage.removeItem('sidebar-scroll');
-            if (sidebarScrollTop) {
-                // preserve sidebar scroll position when navigating via links within sidebar
-                sidebarScrollbox.scrollTop = sidebarScrollTop;
-            } else {
-                // scroll sidebar to current active section when navigating via "next/previous chapter" buttons
-                var activeSection = document.querySelector('#sidebar .active');
-                if (activeSection) {
-                    activeSection.scrollIntoView({ block: 'center' });
-                }
-            }
-        </script>
-
         <div id="page-wrapper" class="page-wrapper">
 
             <div class="page">
-                                <div id="menu-bar-hover-placeholder"></div>
+                <div id="menu-bar-hover-placeholder"></div>
                 <div id="menu-bar" class="menu-bar sticky">
                     <div class="left-buttons">
                         <label id="sidebar-toggle" class="icon-button" for="sidebar-toggle-anchor" title="Toggle Table of Contents" aria-label="Toggle Table of Contents" aria-controls="sidebar">
@@ -131,6 +112,7 @@
                             <i class="fa fa-paint-brush"></i>
                         </button>
                         <ul id="theme-list" class="theme-popup" aria-label="Themes" role="menu">
+                            <li role="none"><button role="menuitem" class="theme" id="default_theme">Auto</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="light">Light</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="rust">Rust</button></li>
                             <li role="none"><button role="menuitem" class="theme" id="coal">Coal</button></li>
@@ -359,7 +341,7 @@ shouldn't go to a cemetery, shouldn't leave the district."</p>
 
         <!-- Google Analytics Tag -->
         <script>
-            var localAddrs = ["localhost", "127.0.0.1", ""];
+            const localAddrs = ["localhost", "127.0.0.1", ""];
 
             // make sure we don't activate google analytics if the developer is
             // inspecting the book locally...
