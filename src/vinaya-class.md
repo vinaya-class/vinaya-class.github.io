@@ -21,16 +21,9 @@ Individual files:
 - [vinaya-class-questions-A-answerkey.pdf](./includes/docs/vinaya-class-questions-A-answerkey.pdf)
 - [vinaya-class-questions-B.pdf](./includes/docs/vinaya-class-questions-B.pdf)
 - [vinaya-class-questions-B-answerkey.pdf](./includes/docs/vinaya-class-questions-B-answerkey.pdf)
-- [pali-lessons.pdf](./includes/docs/pali-lessons.pdf)
-- [pali-lessons-answerkey.pdf](./includes/docs/pali-lessons-answerkey.pdf)
-- [pali-cheatsheet.pdf](./includes/docs/pali-cheatsheet.pdf)
-- [pali-lessons.apkg](./includes/docs/pali-lessons.apkg)
 - [chanting-refcard.pdf](./includes/docs/chanting-refcard.pdf)
 - [chanting-refcard-4on1.pdf](./includes/docs/chanting-refcard-4on1.pdf)
 - [vinayakamma-chart.pdf](./includes/docs/vinayakamma-chart.pdf)
-- [pali-readings-2023.pdf](./includes/docs/pali-readings-2023.pdf)
-- [pali-readings-2023.apkg](./includes/docs/pali-readings-2023.apkg)
-- [pali-readings-2023-answerkey.pdf](./includes/docs/pali-readings-2023-answerkey.pdf)
 
 ## Schedule
 
@@ -81,15 +74,15 @@ class, discussing the possible solutions.
 
 [vinaya-class-questions-B-answerkey.pdf](./includes/docs/vinaya-class-questions-B-answerkey.pdf)
 
-## Pāli Sutta Readings on Zoom
+## Online Pāli Sutta Readings
 
-Zoom Meeting links, readings PDF and recordings: [Pāli Sutta Readings](/pali-sutta-readings.html)
+Moved to: <https://pali-sutta-readings.github.io/>
 
 ## Pāli Lessons
 
-[Pāli Lessons](/pali-lessons.html) for studying declensions and grammar.
+Moved to: <https://pali-sutta-readings.github.io/pali-lessons/>
 
-[![Pali Lessons](./includes/docs/pali-lessons-thumb.png)](/pali-lessons.html)
+[![Pali Lessons](https://pali-sutta-readings.github.io/assets/docs/pali-lessons-thumb.png)](https://pali-sutta-readings.github.io/pali-lessons/)
 
 ## Chanting Refcard
 
